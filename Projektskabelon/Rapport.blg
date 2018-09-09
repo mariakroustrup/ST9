@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Rapport.aux
+The style file: bibtex/harvard.bst
+A level-1 auxiliary file: formalia/forside.aux
+A level-1 auxiliary file: formalia/titelblad.aux
+A level-1 auxiliary file: formalia/abstract.aux
+A level-1 auxiliary file: formalia/forord.aux
+A level-1 auxiliary file: formalia/laesevejledning.aux
+A level-1 auxiliary file: intro/indledning.aux
+A level-1 auxiliary file: intro/problemanalyse.aux
+A level-1 auxiliary file: kontekst/metode.aux
+A level-1 auxiliary file: formalia/Diskussion.aux
+A level-1 auxiliary file: formalia/konklusion.aux
+A level-1 auxiliary file: appendiks/appendiks1.aux
+url: is an unknown function---line 320 of file bibtex/harvard.bst
+Database file #1: bibtex/Maria.bib
+Warning--empty journal in Nielsen2014
+1 is an integer literal, not a string, for entry Nielsen2014
+while executing---line 1485 of file bibtex/harvard.bst
+You've used 1 entry,
+            2921 wiz_defined-function locations,
+            627 strings with 5280 characters,
+and the built_in function-call counts, 374 in all, are:
+= -- 29
+> -- 11
+< -- 2
++ -- 4
+- -- 3
+* -- 23
+:= -- 64
+add.period$ -- 4
+call.type$ -- 1
+change.case$ -- 2
+chr.to.int$ -- 1
+cite$ -- 3
+duplicate$ -- 23
+empty$ -- 36
+format.name$ -- 5
+if$ -- 72
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 1
+newline$ -- 14
+num.names$ -- 5
+pop$ -- 10
+preamble$ -- 1
+purify$ -- 2
+quote$ -- 0
+skip$ -- 15
+stack$ -- 0
+substring$ -- 2
+swap$ -- 3
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 11
+warning$ -- 1
+while$ -- 3
+width$ -- 0
+write$ -- 21
+(There were 2 error messages)
