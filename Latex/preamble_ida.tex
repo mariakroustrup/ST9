@@ -32,9 +32,10 @@
 
 % ¤¤ Referencer og kilder ¤¤ %
 \usepackage[danish]{varioref}				% Muliggoer bl.a. krydshenvisninger med sidetal (\vref)
-\usepackage{natbib}							% Udvidelse med naturvidenskabelige citationsmodeller, herunder Harvard-modellen
+%\usepackage{natbib}				% Udvidelse med naturvidenskabelige citationsmodeller, herunder Harvard-modellen
 %\usepackage{xr}							% Referencer til eksternt dokument med \externaldocument{<NAVN>}
 %\usepackage{glossaries}					% Terminologi- eller symbolliste (se mere i Lars Madsens Latex-bog)
+\usepackage[numbers]{natbib}
 
 % ¤¤ Misc. ¤¤ %
 \usepackage{listings}						% Placer kildekode i dokumentet med \begin{lstlisting}...\end{lstlisting}
@@ -61,9 +62,9 @@
 \linespread{1,1}							% Linjeafstand
 
 % ¤¤ Litteraturlisten ¤¤ %
-\bibpunct[,]{[}{]}{;}{a}{,}{,} 				% Definerer parametre ved Harvard-henvisning (bl.a. parantestype og seperatortegn)
-%\bibliographystyle{bibtex/vancouver}	
-\bibliographystyle{bibtex/harvard}		% Udseende af litteraturlisten (Harvard-metoden - skift til fx 'plain' for tal)
+%\bibpunct[,]{[}{]}{;}{a}{,}{,} 				% Definerer parametre ved Harvard-henvisning (bl.a. parantestype og seperatortegn)	
+%\bibliographystyle{bibtex/harvard}		% Udseende af litteraturlisten (Harvard-metoden - skift til fx 'plain' for tal)
+\bibliographystyle{bibtex/unsrt}
 
 % ¤¤ Dybde af overskrifter ¤¤ %
 \setsecnumdepth{subsection}		 			% Dybden af nummerede overkrifter (part/chapter/section/subsection)
@@ -149,7 +150,7 @@
   }
 }											% ... her
 
-\chapterstyle{jenor}						% Valg af kapiteludseende - Google 'memoir chapter styles' for alternativer
+\chapterstyle{jenor}						% Valg af kapiteludseende - Google 'memoir chapter styles' for alteriver
 
 % ¤¤ Sidehoved/sidefod ¤¤ %
 
