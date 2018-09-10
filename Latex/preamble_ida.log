@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.9)  7 SEP 2018 14:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.9)  10 SEP 2018 15:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1484,7 +1484,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip220
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 83.
+Package hyperref Info: Option `colorlinks' set `true' on input line 86.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2014/09/06 1.5e listings language file
@@ -1498,7 +1498,7 @@ File: lstlang1.sty 2014/09/06 1.5e listings language file
 Here is how much of TeX's memory you used:
  22659 strings out of 493089
  400738 string characters out of 6134843
- 634563 words of memory out of 5000000
+ 634562 words of memory out of 5000000
  25930 multiletter control sequences out of 15000+600000
  5008 words of font info for 17 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191

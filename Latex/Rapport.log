@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.9)  10 SEP 2018 15:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.9)  10 SEP 2018 16:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1600,14 +1600,14 @@ LaTeX Font Info:    Try loading font information for U+stmry on input line 6.
 
 
 (./formalia/forside.tex
-<billeder/aau_logo_da.pdf, id=68, 121.45375pt x 77.28876pt>
+<billeder/aau_logo_da.pdf, id=80, 121.45375pt x 77.28876pt>
 File: billeder/aau_logo_da.pdf Graphic file (type pdf)
 
 <use billeder/aau_logo_da.pdf>
 Package pdftex.def Info: billeder/aau_logo_da.pdf used on input line 6.
 (pdftex.def)             Requested size: 85.1987pt x 54.21732pt.
 
-<billeder/forside.png, id=69, 698.61pt x 374.39874pt>
+<billeder/forside.png, id=81, 698.61pt x 374.39874pt>
 File: billeder/forside.png Graphic file (type png)
 
 <use billeder/forside.png>
@@ -1650,7 +1650,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 2.
 
-<billeder/AAU-logo-stud-DK-RGB.pdf, id=87, 136.51pt x 97.09073pt>
+<billeder/AAU-logo-stud-DK-RGB.pdf, id=99, 136.51pt x 97.09073pt>
 File: billeder/AAU-logo-stud-DK-RGB.pdf Graphic file (type pdf)
 
 <use billeder/AAU-logo-stud-DK-RGB.pdf>
@@ -1710,7 +1710,12 @@ Package babel Info: Redefining danish shorthand "~
 \openout2 = `formalia/forord.aux'.
 
 
-(./formalia/forord.tex)
+(./formalia/forord.tex
+
+Package natbib Warning: Citation `Studieordning2011' on page vii undefined on i
+nput line 4.
+
+)
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 15.
 Package babel Info: Redefining danish shorthand "~
@@ -1740,8 +1745,7 @@ Package babel Info: Redefining danish shorthand "~
 ]
 \openout2 = `formalia/forkortelser.aux'.
 
-
-(./formalia/forkortelser.tex
+ (./formalia/forkortelser.tex
 Overfull \hbox (24.79134pt too wide) in paragraph at lines 3--7
 [][] 
  []
@@ -1861,16 +1865,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 4.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 4.
-
-
-Package natbib Warning: Citation `Amgros2015' on page 3 undefined on input line
- 5.
-
-
-Package natbib Warning: Citation `Amgros2015' on page 3 undefined on input line
- 5.
-
 LaTeX Font Info:    Try loading font information for T1+cmss on input line 5.
+
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
@@ -1885,31 +1881,10 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 7.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 7.
-
-
-Package natbib Warning: Citation `Amgros2017' on page 3 undefined on input line
- 8.
-
-
-Package natbib Warning: Citation `Amgros2017a' on page 3 undefined on input lin
-e 8.
-
-
-Package natbib Warning: Citation `Amgros2017' on page 3 undefined on input line
- 8.
-
-
-Package natbib Warning: Citation `Amgros2017a' on page 3 undefined on input lin
-e 8.
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 13.
-
-Package natbib Warning: Citation `Amgros2017' on page 3 undefined on input line
- 14.
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 14--14
 [][] [][][]\T1/cmss/m/n/9 FiXme \T1/cmr/m/n/9 No-te: [][]$\T1/cmtt/m/n/9 https 
@@ -1929,27 +1904,6 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 17.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 17.
-
-
-Package natbib Warning: Citation `Amgros2015' on page 4 undefined on input line
- 18.
-
-
-Package natbib Warning: Citation `Amgros2015' on page 4 undefined on input line
- 18.
-
-
-Package natbib Warning: Citation `Patientombuddet2013' on page 4 undefined on i
-nput line 20.
-
-
-Package natbib Warning: Citation `Jensen2014' on page 4 undefined on input line
- 20.
-
-
-Package natbib Warning: Citation `Jensen2014' on page 4 undefined on input line
- 20.
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 22.
 Package babel Info: Redefining danish shorthand "~
@@ -1970,6 +1924,14 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 34.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 34.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 43.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 43.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 44.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 44.
 )
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 36.
@@ -2061,7 +2023,33 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 43.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 43.
- [9] (./Rapport.bbl) (./Rapport.lox
+ [9] (./Rapport.bbl
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+ [10
+
+
+]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+)
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 56.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 56.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 56.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 56.
+ [11] (./Rapport.lox
 Overfull \hbox (9.00578pt too wide) in paragraph at lines 2--2
  [][] [][]\T1/cmr/m/n/10.95 No-te: [][]$\T1/cmtt/m/n/10.95 https : / / levporta
 l . amgros . dk / SiteCollectionDocuments / 1 . %20Grundl % C3 % 
@@ -2076,9 +2064,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 63.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 63.
- [10
-
-]
+ [12]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 65.
 Package babel Info: Redefining danish shorthand "~
@@ -2104,17 +2090,17 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 86.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 86.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 86.
 Package rerunfilecheck Info: File `Rapport.out' has not changed.
-(rerunfilecheck)             Checksum: B9AD9270BFDDFE4428827C16F4EA6738;971.
+(rerunfilecheck)             Checksum: DAA37D8D4BE5DA49A6AD1F70BE3D3815;1145.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 86.
  ) 
 Here is how much of TeX's memory you used:
- 24259 strings out of 493089
- 427656 string characters out of 6134843
- 641592 words of memory out of 5000000
- 27263 multiletter control sequences out of 15000+600000
+ 24291 strings out of 493089
+ 428187 string characters out of 6134843
+ 641585 words of memory out of 5000000
+ 27284 multiletter control sequences out of 15000+600000
  29520 words of font info for 78 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 44i,12n,78p,10499b,747s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,12n,78p,10499b,770s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
 live/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texli
@@ -2137,10 +2123,10 @@ e1/public/cm-super/sfti1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1
 ublic/cm-super/sftt1095.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw
 /bookman/ubkd8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/bookman
 /ubkl8a.pfb>
-Output written on Rapport.pdf (22 pages, 588750 bytes).
+Output written on Rapport.pdf (24 pages, 595289 bytes).
 PDF statistics:
- 325 PDF objects out of 1000 (max. 8388607)
- 261 compressed objects within 3 object streams
- 51 named destinations out of 1000 (max. 500000)
- 144 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 369 PDF objects out of 1000 (max. 8388607)
+ 302 compressed objects within 4 object streams
+ 62 named destinations out of 1000 (max. 500000)
+ 168 words of extra memory for PDF output out of 10000 (max. 10000000)
 

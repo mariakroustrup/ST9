@@ -9,9 +9,12 @@
 \contentsline {section}{\numberline {2.2}Problematikker ved l\IeC {\ae }gemiddelskift}{4}{section.2.2}
 \contentsline {subsection}{\numberline {2.2.1}Kontraktskift}{4}{subsection.2.2.1}
 \contentsline {subsection}{\numberline {2.2.2}Restordre}{4}{subsection.2.2.2}
-\contentsline {section}{\numberline {2.3}L\IeC {\o }sningsstartegier ved l\IeC {\ae }gemiddelskift}{4}{section.2.3}
+\contentsline {section}{\numberline {2.3}L\IeC {\o }sningsstartegier for problematikker}{4}{section.2.3}
 \contentsline {subsection}{\numberline {2.3.1}Kontraktskift}{4}{subsection.2.3.1}
 \contentsline {subsection}{\numberline {2.3.2}Restordre}{4}{subsection.2.3.2}
+\contentsline {section}{\numberline {2.4}Opsummering}{4}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Problemformulering}{4}{subsection.2.4.1}
 \contentsline {chapter}{\chapternumberline {3}Metode}{5}{chapter.3}
 \contentsline {chapter}{\chapternumberline {4}Diskussion}{7}{chapter.4}
 \contentsline {chapter}{\chapternumberline {5}Konklusion}{9}{chapter.5}
+\contentsline {chapter}{Litteratur}{11}{section*.10}
