@@ -5,10 +5,11 @@
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Nielsen(2014)]{Nielsen2014}
-\textbf{Nielsen}, \textbf{2014}.
-\newblock Marianne~Spanggaard Nielsen.
-\newblock \textit{{Growth hormone}}.
-\newblock 2014.
+\bibitem[Amgros(2017)]{Amgros2017a}
+\textbf{Amgros}, \textbf{2017}.
+\newblock Amgros.
+\newblock \textit{{Om processen}}, 2017.
+\newblock URL
+  \url{http://www.amgros.dk/da/sundhedsoekonomi/nye-laegemidler/om-processen/}.
 
 \end{thebibliography}
