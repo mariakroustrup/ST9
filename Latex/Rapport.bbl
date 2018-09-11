@@ -1,5 +1,10 @@
 \begin{thebibliography}{1}
 
+\bibitem{Studieordning2011}
+{Aalborg Universitet}.
+\newblock {Studieordning for Civilingeni{\o}r, cand.polyt. i
+  sundhedsteknologi}, 2011.
+
 \bibitem{Amgros2015}
 Amgros.
 \newblock {Amgros status og perspektiver 2014-2015}.
@@ -24,5 +29,12 @@ Patientombuddet.
 Jens~Winther Jensen.
 \newblock {{\AA}rsrapport 2014 patientsikkerhed}.
 \newblock {\em Region Nordjylland}, 2014.
+
+\bibitem{Hakonsen2010}
+Helle H{\aa}konsen, Heidi~Skj{\o}nhaug Hopen, Linda Abelsen, Bj{\o}rg Ek, and
+  Else~Lydia Toverud.
+\newblock {Generic substitution: A potential risk factor for medication errors
+  in hospitals}.
+\newblock {\em Advances in Therapy}, 27(2):118--126, 2010.
 
 \end{thebibliography}

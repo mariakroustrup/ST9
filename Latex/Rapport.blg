@@ -18,45 +18,45 @@ Database file #1: bibtex/Maria.bib
 Warning--I didn't find a database entry for "Nielsen2014"
 Warning--empty journal in Amgros2017
 Warning--empty journal in Patientombuddet2013
-You've used 5 entries,
+You've used 7 entries,
             1791 wiz_defined-function locations,
-            485 strings with 4311 characters,
-and the built_in function-call counts, 834 in all, are:
-= -- 72
-> -- 20
+            498 strings with 4687 characters,
+and the built_in function-call counts, 1231 in all, are:
+= -- 104
+> -- 41
 < -- 2
-+ -- 10
-- -- 5
-* -- 26
-:= -- 136
-add.period$ -- 14
-call.type$ -- 5
-change.case$ -- 5
++ -- 18
+- -- 11
+* -- 53
+:= -- 199
+add.period$ -- 19
+call.type$ -- 7
+change.case$ -- 7
 chr.to.int$ -- 0
-cite$ -- 7
-duplicate$ -- 49
-empty$ -- 90
-format.name$ -- 5
-if$ -- 190
+cite$ -- 9
+duplicate$ -- 63
+empty$ -- 132
+format.name$ -- 11
+if$ -- 276
 int.to.chr$ -- 0
-int.to.str$ -- 5
-missing$ -- 4
-newline$ -- 27
-num.names$ -- 5
-pop$ -- 24
+int.to.str$ -- 7
+missing$ -- 5
+newline$ -- 36
+num.names$ -- 7
+pop$ -- 32
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 27
+skip$ -- 34
 stack$ -- 0
-substring$ -- 23
-swap$ -- 13
+substring$ -- 48
+swap$ -- 15
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 2
-while$ -- 9
-width$ -- 6
-write$ -- 50
+while$ -- 13
+width$ -- 8
+write$ -- 69
 (There were 3 warnings)
