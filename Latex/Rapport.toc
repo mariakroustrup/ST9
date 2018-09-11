@@ -2,19 +2,18 @@
 \select@language {danish}
 \contentsline {chapter}{\chapternumberline {1}Initierende problem}{1}{chapter.1}
 \contentsline {chapter}{\chapternumberline {2}Problemanalyse}{3}{chapter.2}
-\contentsline {section}{\numberline {2.1}Typer af l\IeC {\ae }gemiddelskift}{3}{section.2.1}
+\contentsline {section}{\numberline {2.1}\IeC {\r A}rsager til l\IeC {\ae }gemiddelskift}{3}{section.2.1}
 \contentsline {subsection}{\numberline {2.1.1}Kontraktskift}{3}{subsection.2.1.1}
-\contentsline {subsubsection}{\numberline {2.1.1.1}Udbudsprocessen}{3}{subsubsection.2.1.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Restordre}{3}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.2}Restordre}{4}{subsection.2.1.2}
 \contentsline {section}{\numberline {2.2}Problematikker ved l\IeC {\ae }gemiddelskift}{4}{section.2.2}
 \contentsline {subsection}{\numberline {2.2.1}Kontraktskift}{4}{subsection.2.2.1}
 \contentsline {subsection}{\numberline {2.2.2}Restordre}{5}{subsection.2.2.2}
-\contentsline {section}{\numberline {2.3}L\IeC {\o }sningsstartegier for problematikker}{5}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Kontraktskift}{5}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Restordre}{5}{subsection.2.3.2}
-\contentsline {section}{\numberline {2.4}Opsummering}{5}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Problemformulering}{5}{subsection.2.4.1}
+\contentsline {section}{\numberline {2.3}L\IeC {\o }sningsstartegier for problematikker}{6}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Kontraktskift}{6}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Restordre}{6}{subsection.2.3.2}
+\contentsline {section}{\numberline {2.4}Opsummering}{6}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Problemformulering}{6}{subsection.2.4.1}
 \contentsline {chapter}{\chapternumberline {3}Metode}{7}{chapter.3}
 \contentsline {chapter}{\chapternumberline {4}Diskussion}{9}{chapter.4}
 \contentsline {chapter}{\chapternumberline {5}Konklusion}{11}{chapter.5}
-\contentsline {chapter}{Litteratur}{13}{section*.10}
+\contentsline {chapter}{Litteratur}{13}{section*.7}
