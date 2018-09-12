@@ -3,16 +3,14 @@
 \contentsline {chapter}{\chapternumberline {1}Initierende problem}{1}{chapter.1}
 \contentsline {chapter}{\chapternumberline {2}Problemanalyse}{3}{chapter.2}
 \contentsline {section}{\numberline {2.1}\IeC {\r A}rsager til l\IeC {\ae }gemiddelskift}{3}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Kontraktskift}{3}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Restordre}{4}{subsection.2.1.2}
-\contentsline {section}{\numberline {2.2}Problematikker ved l\IeC {\ae }gemiddelskift}{4}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Kontraktskift}{4}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Restordre}{5}{subsection.2.2.2}
-\contentsline {section}{\numberline {2.3}L\IeC {\o }sningsstartegier for problematikker}{6}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Kontraktskift}{6}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Restordre}{6}{subsection.2.3.2}
-\contentsline {section}{\numberline {2.4}Opsummering}{6}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Problemformulering}{6}{subsection.2.4.1}
+\contentsline {section}{\numberline {2.2}L\IeC {\ae }gemiddeludbud}{3}{section.2.2}
+\contentsline {section}{\numberline {2.3}Problematikker ved implementering af l\IeC {\ae }gemiddelskift}{4}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Utilsigtede h\IeC {\ae }ndelser}{5}{subsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.1.1}Utilsigtede h\IeC {\ae }ndelser ved kontraktskift}{5}{subsubsection.2.3.1.1}
+\contentsline {subsubsection}{\numberline {2.3.1.2}Utilsigtede h\IeC {\ae }ndelser ved restordre}{5}{subsubsection.2.3.1.2}
+\contentsline {section}{\numberline {2.4}L\IeC {\o }sninger for problematikker ved l\IeC {\ae }gemiddelskift}{6}{section.2.4}
+\contentsline {section}{\numberline {2.5}Opsummering af problemstillinger}{6}{section.2.5}
+\contentsline {section}{\numberline {2.6}Problemformulering}{6}{section.2.6}
 \contentsline {chapter}{\chapternumberline {3}Metode}{7}{chapter.3}
 \contentsline {chapter}{\chapternumberline {4}Diskussion}{9}{chapter.4}
 \contentsline {chapter}{\chapternumberline {5}Konklusion}{11}{chapter.5}

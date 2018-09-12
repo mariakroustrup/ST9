@@ -5,6 +5,15 @@
 \newblock {Studieordning for Civilingeni{\o}r, cand.polyt. i
   sundhedsteknologi}, 2011.
 
+\bibitem{Laegemiddelinformaion2017}
+Sygehusapoteket L{\ae}gemiddelinformation.
+\newblock {Et l{\ae}gemiddel g{\aa}r i restordre}.
+\newblock 2017.
+
+\bibitem{Sygehusapoteket2017}
+Sygehusapoteket.
+\newblock {Amgros Estimering}, 2017.
+
 \bibitem{Amgros2015}
 Amgros.
 \newblock {Amgros status og perspektiver 2014-2015}.
@@ -16,10 +25,21 @@ Amgros.
   indikationer i hospitalssektoren}.
 \newblock page~10, 2017.
 
-\bibitem{Laegemiddelinformaion2017}
-Sygehusapoteket L{\ae}gemiddelinformation.
-\newblock {Et l{\ae}gemiddel g{\aa}r i restordre}.
-\newblock 2017.
+\bibitem{Sygehusapoteket2017a}
+Sygehusapoteket.
+\newblock {L{\ae}gemiddelskift Instruktion}, 2017.
+
+\bibitem{Hakonsen2010}
+Helle H{\aa}konsen, Heidi~Skj{\o}nhaug Hopen, Linda Abelsen, Bj{\o}rg Ek, and
+  Else~Lydia Toverud.
+\newblock {Generic substitution: A potential risk factor for medication errors
+  in hospitals}.
+\newblock {\em Advances in Therapy}, 27(2):118--126, 2010.
+
+\bibitem{Jensen2014}
+Jens~Winther Jensen.
+\newblock {{\AA}rsrapport 2014 patientsikkerhed}.
+\newblock {\em Region Nordjylland}, 2014.
 
 \bibitem{Amgros2018}
 Amgros.
@@ -29,25 +49,22 @@ Amgros.
 Amgros.
 \newblock {Bagatelk{\o}b}, 2012.
 
+\bibitem{Amgros2018a}
+Amgros.
+\newblock {Udbudstyper og deres betydning}.
+\newblock pages 1--5, 2018.
+
 \bibitem{Amgros2017a}
 Amgros.
 \newblock {Om processen}, 2017.
+
+\bibitem{Sygehusapoteket2017b}
+Sygehusapoteket.
+\newblock {L{\ae}gemiddelskift Skabelon}, 2017.
 
 \bibitem{Patientombuddet2013}
 Patientombuddet.
 \newblock {{\AA}rsberetning 2013, Dansk Patientsikkerheds Database Del 1}.
 \newblock pages 1--15, 2013.
-
-\bibitem{Jensen2014}
-Jens~Winther Jensen.
-\newblock {{\AA}rsrapport 2014 patientsikkerhed}.
-\newblock {\em Region Nordjylland}, 2014.
-
-\bibitem{Hakonsen2010}
-Helle H{\aa}konsen, Heidi~Skj{\o}nhaug Hopen, Linda Abelsen, Bj{\o}rg Ek, and
-  Else~Lydia Toverud.
-\newblock {Generic substitution: A potential risk factor for medication errors
-  in hospitals}.
-\newblock {\em Advances in Therapy}, 27(2):118--126, 2010.
 
 \end{thebibliography}

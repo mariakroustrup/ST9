@@ -7,57 +7,55 @@ A level-1 auxiliary file: formalia/titelblad.aux
 A level-1 auxiliary file: formalia/abstract.aux
 A level-1 auxiliary file: formalia/forord.aux
 A level-1 auxiliary file: formalia/laesevejledning.aux
-A level-1 auxiliary file: formalia/forkortelser.aux
-A level-1 auxiliary file: formalia/definitioner.aux
 A level-1 auxiliary file: intro/indledning.aux
 A level-1 auxiliary file: intro/problemanalyse.aux
 A level-1 auxiliary file: kontekst/metode.aux
 A level-1 auxiliary file: formalia/Diskussion.aux
 A level-1 auxiliary file: formalia/konklusion.aux
 Database file #1: bibtex/Maria.bib
-Warning--I didn't find a database entry for "Nielsen2014"
-Warning--empty journal in Amgros2017
 Warning--empty journal in Laegemiddelinformaion2017
+Warning--empty journal in Amgros2017
+Warning--empty journal in Amgros2018a
 Warning--empty journal in Patientombuddet2013
-You've used 10 entries,
+You've used 14 entries,
             1791 wiz_defined-function locations,
-            510 strings with 4913 characters,
-and the built_in function-call counts, 1597 in all, are:
-= -- 130
-> -- 53
-< -- 2
-+ -- 24
-- -- 14
-* -- 58
-:= -- 258
-add.period$ -- 26
-call.type$ -- 10
-change.case$ -- 10
+            520 strings with 5114 characters,
+and the built_in function-call counts, 2187 in all, are:
+= -- 178
+> -- 69
+< -- 3
++ -- 32
+- -- 18
+* -- 71
+:= -- 342
+add.period$ -- 35
+call.type$ -- 14
+change.case$ -- 14
 chr.to.int$ -- 0
-cite$ -- 13
-duplicate$ -- 81
-empty$ -- 182
-format.name$ -- 14
-if$ -- 359
+cite$ -- 18
+duplicate$ -- 110
+empty$ -- 259
+format.name$ -- 18
+if$ -- 499
 int.to.chr$ -- 0
-int.to.str$ -- 10
-missing$ -- 6
-newline$ -- 49
-num.names$ -- 10
-pop$ -- 51
+int.to.str$ -- 14
+missing$ -- 7
+newline$ -- 66
+num.names$ -- 14
+pop$ -- 77
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 44
+skip$ -- 65
 stack$ -- 0
-substring$ -- 48
-swap$ -- 17
-text.length$ -- 2
+substring$ -- 64
+swap$ -- 25
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 3
-while$ -- 16
-width$ -- 12
-write$ -- 94
+warning$ -- 4
+while$ -- 23
+width$ -- 16
+write$ -- 128
 (There were 4 warnings)
