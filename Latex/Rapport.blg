@@ -4,7 +4,6 @@ The top-level auxiliary file: Rapport.aux
 The style file: unsrt.bst
 A level-1 auxiliary file: formalia/forside.aux
 A level-1 auxiliary file: formalia/titelblad.aux
-A level-1 auxiliary file: formalia/abstract.aux
 A level-1 auxiliary file: formalia/forord.aux
 A level-1 auxiliary file: formalia/laesevejledning.aux
 A level-1 auxiliary file: intro/indledning.aux
@@ -16,46 +15,49 @@ Database file #1: bibtex/Maria.bib
 Warning--empty journal in Laegemiddelinformaion2017
 Warning--empty journal in Amgros2017
 Warning--empty journal in Amgros2018a
+Warning--empty journal in SygehusapoteketRegionNordjylland2013
+Warning--there's a number but no volume in SygehusapoteketRegionNordjylland2013
 Warning--empty journal in Patientombuddet2013
-You've used 14 entries,
+Warning--empty publisher in Sundhedsstyrelsen2005
+You've used 20 entries,
             1791 wiz_defined-function locations,
-            520 strings with 5114 characters,
-and the built_in function-call counts, 2187 in all, are:
-= -- 178
-> -- 69
-< -- 3
-+ -- 32
-- -- 18
-* -- 71
-:= -- 342
-add.period$ -- 35
-call.type$ -- 14
-change.case$ -- 14
+            561 strings with 6131 characters,
+and the built_in function-call counts, 3525 in all, are:
+= -- 304
+> -- 117
+< -- 4
++ -- 51
+- -- 31
+* -- 164
+:= -- 550
+add.period$ -- 53
+call.type$ -- 20
+change.case$ -- 19
 chr.to.int$ -- 0
-cite$ -- 18
-duplicate$ -- 110
-empty$ -- 259
-format.name$ -- 18
-if$ -- 499
+cite$ -- 27
+duplicate$ -- 170
+empty$ -- 392
+format.name$ -- 31
+if$ -- 792
 int.to.chr$ -- 0
-int.to.str$ -- 14
-missing$ -- 7
-newline$ -- 66
-num.names$ -- 14
-pop$ -- 77
+int.to.str$ -- 20
+missing$ -- 14
+newline$ -- 96
+num.names$ -- 20
+pop$ -- 95
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 65
+skip$ -- 87
 stack$ -- 0
-substring$ -- 64
-swap$ -- 25
-text.length$ -- 3
+substring$ -- 168
+swap$ -- 35
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 4
-while$ -- 23
-width$ -- 16
-write$ -- 128
-(There were 4 warnings)
+warning$ -- 7
+while$ -- 40
+width$ -- 22
+write$ -- 191
+(There were 7 warnings)

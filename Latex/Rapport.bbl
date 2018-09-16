@@ -10,6 +10,12 @@ Sygehusapoteket L{\ae}gemiddelinformation.
 \newblock {Et l{\ae}gemiddel g{\aa}r i restordre}.
 \newblock 2017.
 
+\bibitem{Sundhed2016}
+{Sundheds- og {\AE}ldreministeriet}.
+\newblock {Sammenfattende rapport over sygehusmedicin og styregruppens
+  anbefalinger}.
+\newblock {\em 23. Maj 2016}, pages 0--8, 2016.
+
 \bibitem{Sygehusapoteket2017}
 Sygehusapoteket.
 \newblock {Amgros Estimering}, 2017.
@@ -58,6 +64,11 @@ Amgros.
 Amgros.
 \newblock {Om processen}, 2017.
 
+\bibitem{SygehusapoteketRegionNordjylland2013}
+{Sygehusapoteket Region Nordjylland}.
+\newblock {Statusnotat - Sygehusapoteket Region Nordjylland}.
+\newblock (november):1--8, 2013.
+
 \bibitem{Sygehusapoteket2017b}
 Sygehusapoteket.
 \newblock {L{\ae}gemiddelskift Skabelon}, 2017.
@@ -66,5 +77,29 @@ Sygehusapoteket.
 Patientombuddet.
 \newblock {{\AA}rsberetning 2013, Dansk Patientsikkerheds Database Del 1}.
 \newblock pages 1--15, 2013.
+
+\bibitem{Sundhedsstyrelsen2005}
+Sundhedsstyrelsen.
+\newblock {\em {Temarapport 2005: Medicinering}}.
+\newblock 2005.
+
+\bibitem{Lisby2005}
+Marianne Lisby, Lars~Peter Nielsen, and Jan Mainz.
+\newblock {Errors in the medication process: Frequency, type, and potential
+  clinical consequences}.
+\newblock {\em International Journal for Quality in Health Care}, 17(1):15--22,
+  2005.
+
+\bibitem{Tully2009}
+Mary~P. Tully and Iain~E. Buchan.
+\newblock {Prescribing errors during hospital inpatient care: Factors
+  influencing identification by pharmacists}.
+\newblock {\em Pharmacy World and Science}, 31(6):682--688, 2009.
+
+\bibitem{Barker2002}
+Kenneth N.Barker, Elizabeth~A Flynn, Ginette A.Pepper, David W.Bates, and
+  Robert~L Mikeal.
+\newblock {Medication Errors Observed in 36 Healthcare Facilities}.
+\newblock {\em Arch Intern Med.}, 162:1897--1903, 2002.
 
 \end{thebibliography}
