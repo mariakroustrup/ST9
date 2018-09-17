@@ -7,11 +7,15 @@
 \contentsline {section}{\numberline {2.3}Indk\IeC {\o }b af l\IeC {\ae }gemidler}{4}{section.2.3}
 \contentsline {section}{\numberline {2.4}Implementering af l\IeC {\ae }gemiddelskift}{5}{section.2.4}
 \contentsline {section}{\numberline {2.5}Problemstillinger ved l\IeC {\ae }gemiddelskift}{6}{section.2.5}
-\contentsline {section}{\numberline {2.6}L\IeC {\o }sninger for problemstillinger ved l\IeC {\ae }gemiddelskift}{7}{section.2.6}
-\contentsline {subsection}{\numberline {2.6.1}Forebyggelse af utilsigtede h\IeC {\ae }ndelser}{7}{subsection.2.6.1}
-\contentsline {section}{\numberline {2.7}Opsummering af problemstillinger}{7}{section.2.7}
-\contentsline {section}{\numberline {2.8}Problemformulering}{7}{section.2.8}
-\contentsline {chapter}{\chapternumberline {3}Metode}{9}{chapter.3}
-\contentsline {chapter}{\chapternumberline {4}Diskussion}{11}{chapter.4}
-\contentsline {chapter}{\chapternumberline {5}Konklusion}{13}{chapter.5}
-\contentsline {chapter}{Litteratur}{15}{section*.6}
+\contentsline {subsection}{\numberline {2.5.1}Utilsigtede h\IeC {\ae }ndelser ved kontraktskift}{7}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Utilsigtede h\IeC {\ae }ndelser ved restordre}{8}{subsection.2.5.2}
+\contentsline {section}{\numberline {2.6}Forebyggelse af utilsigtede h\IeC {\ae }ndelser}{9}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Simplificering af medicineringsprocessen}{9}{subsection.2.6.1}
+\contentsline {subsubsection}{\numberline {2.6.1.1}Stregkode scanning}{10}{subsubsection.2.6.1.1}
+\contentsline {subsection}{\numberline {2.6.2}Forebyggelse af utilsigtede h\IeC {\ae }ndelser}{10}{subsection.2.6.2}
+\contentsline {section}{\numberline {2.7}Opsummering af problemstillinger}{11}{section.2.7}
+\contentsline {section}{\numberline {2.8}Problemformulering}{11}{section.2.8}
+\contentsline {chapter}{\chapternumberline {3}Metode}{13}{chapter.3}
+\contentsline {chapter}{\chapternumberline {4}Diskussion}{15}{chapter.4}
+\contentsline {chapter}{\chapternumberline {5}Konklusion}{17}{chapter.5}
+\contentsline {chapter}{Litteratur}{19}{section*.6}

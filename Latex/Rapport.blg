@@ -19,45 +19,46 @@ Warning--empty journal in SygehusapoteketRegionNordjylland2013
 Warning--there's a number but no volume in SygehusapoteketRegionNordjylland2013
 Warning--empty journal in Patientombuddet2013
 Warning--empty publisher in Sundhedsstyrelsen2005
-You've used 20 entries,
+Warning--empty institution in Raboel2005
+You've used 27 entries,
             1791 wiz_defined-function locations,
-            561 strings with 6131 characters,
-and the built_in function-call counts, 3525 in all, are:
-= -- 304
-> -- 117
-< -- 4
-+ -- 51
-- -- 31
-* -- 164
-:= -- 550
-add.period$ -- 53
-call.type$ -- 20
-change.case$ -- 19
+            614 strings with 7881 characters,
+and the built_in function-call counts, 5483 in all, are:
+= -- 455
+> -- 262
+< -- 5
++ -- 102
+- -- 75
+* -- 351
+:= -- 888
+add.period$ -- 74
+call.type$ -- 27
+change.case$ -- 26
 chr.to.int$ -- 0
-cite$ -- 27
-duplicate$ -- 170
-empty$ -- 392
-format.name$ -- 31
-if$ -- 792
+cite$ -- 35
+duplicate$ -- 231
+empty$ -- 548
+format.name$ -- 75
+if$ -- 1190
 int.to.chr$ -- 0
-int.to.str$ -- 20
-missing$ -- 14
-newline$ -- 96
-num.names$ -- 20
-pop$ -- 95
+int.to.str$ -- 27
+missing$ -- 20
+newline$ -- 131
+num.names$ -- 27
+pop$ -- 104
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 87
+skip$ -- 106
 stack$ -- 0
-substring$ -- 168
-swap$ -- 35
-text.length$ -- 4
+substring$ -- 314
+swap$ -- 42
+text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 7
-while$ -- 40
-width$ -- 22
-write$ -- 191
-(There were 7 warnings)
+warning$ -- 8
+while$ -- 58
+width$ -- 29
+write$ -- 267
+(There were 8 warnings)
