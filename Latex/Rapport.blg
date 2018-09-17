@@ -13,52 +13,56 @@ A level-1 auxiliary file: formalia/Diskussion.aux
 A level-1 auxiliary file: formalia/konklusion.aux
 Database file #1: bibtex/Maria.bib
 Warning--empty journal in Laegemiddelinformaion2017
+Warning--empty journal in EU2017
 Warning--empty journal in Amgros2017
+Warning--empty journal in Patientombuddet2013
 Warning--empty journal in Amgros2018a
 Warning--empty journal in SygehusapoteketRegionNordjylland2013
 Warning--there's a number but no volume in SygehusapoteketRegionNordjylland2013
-Warning--empty journal in Patientombuddet2013
 Warning--empty publisher in Sundhedsstyrelsen2005
 Warning--empty institution in Raboel2005
-You've used 27 entries,
+Warning--empty journal in Syddanmark2008
+Warning--empty journal in DPSD2008
+Warning--empty journal in Amgros2013
+You've used 38 entries,
             1791 wiz_defined-function locations,
-            614 strings with 7881 characters,
-and the built_in function-call counts, 5483 in all, are:
-= -- 455
-> -- 262
-< -- 5
-+ -- 102
-- -- 75
-* -- 351
-:= -- 888
-add.period$ -- 74
-call.type$ -- 27
-change.case$ -- 26
+            683 strings with 9669 characters,
+and the built_in function-call counts, 7863 in all, are:
+= -- 659
+> -- 381
+< -- 6
++ -- 147
+- -- 109
+* -- 521
+:= -- 1284
+add.period$ -- 107
+call.type$ -- 38
+change.case$ -- 37
 chr.to.int$ -- 0
-cite$ -- 35
-duplicate$ -- 231
-empty$ -- 548
-format.name$ -- 75
-if$ -- 1190
+cite$ -- 50
+duplicate$ -- 331
+empty$ -- 768
+format.name$ -- 109
+if$ -- 1695
 int.to.chr$ -- 0
-int.to.str$ -- 27
-missing$ -- 20
-newline$ -- 131
-num.names$ -- 27
-pop$ -- 104
+int.to.str$ -- 38
+missing$ -- 31
+newline$ -- 186
+num.names$ -- 38
+pop$ -- 134
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 106
+skip$ -- 145
 stack$ -- 0
-substring$ -- 314
-swap$ -- 42
-text.length$ -- 5
+substring$ -- 474
+swap$ -- 54
+text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 8
-while$ -- 58
-width$ -- 29
-write$ -- 267
-(There were 8 warnings)
+warning$ -- 12
+while$ -- 82
+width$ -- 40
+write$ -- 380
+(There were 12 warnings)

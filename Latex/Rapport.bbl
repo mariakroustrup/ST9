@@ -10,6 +10,16 @@ Sygehusapoteket L{\ae}gemiddelinformation.
 \newblock {Et l{\ae}gemiddel g{\aa}r i restordre}.
 \newblock 2017.
 
+\bibitem{Ess2003}
+Silvia~M Ess, Sebastian Schneeweiss, and Thomas~D Szucs.
+\newblock {European Health Care Policies for Controlling Drug Expenditures}.
+\newblock {\em Pharmacoeconomics}, 21(2):89--103, 2003.
+
+\bibitem{EU2017}
+State of~Health in~the EU and Danmark.
+\newblock {Danmark}.
+\newblock 2017.
+
 \bibitem{Sundhed2016}
 {Sundheds- og {\AE}ldreministeriet}.
 \newblock {Sammenfattende rapport over sygehusmedicin og styregruppens
@@ -35,12 +45,10 @@ Amgros.
 Sygehusapoteket.
 \newblock {L{\ae}gemiddelskift Instruktion}, 2017.
 
-\bibitem{Hakonsen2010}
-Helle H{\aa}konsen, Heidi~Skj{\o}nhaug Hopen, Linda Abelsen, Bj{\o}rg Ek, and
-  Else~Lydia Toverud.
-\newblock {Generic substitution: A potential risk factor for medication errors
-  in hospitals}.
-\newblock {\em Advances in Therapy}, 27(2):118--126, 2010.
+\bibitem{Patientombuddet2013}
+Patientombuddet.
+\newblock {{\AA}rsberetning 2013, Dansk Patientsikkerheds Database Del 1}.
+\newblock pages 1--15, 2013.
 
 \bibitem{Jensen2014}
 Jens~Winther Jensen.
@@ -73,11 +81,6 @@ Amgros.
 Sygehusapoteket.
 \newblock {L{\ae}gemiddelskift Skabelon}, 2017.
 
-\bibitem{Patientombuddet2013}
-Patientombuddet.
-\newblock {{\AA}rsberetning 2013, Dansk Patientsikkerheds Database Del 1}.
-\newblock pages 1--15, 2013.
-
 \bibitem{Sundhedsstyrelsen2005}
 Sundhedsstyrelsen.
 \newblock {\em {Temarapport 2005: Medicinering}}.
@@ -101,6 +104,13 @@ Kenneth N.Barker, Elizabeth~A Flynn, Ginette A.Pepper, David W.Bates, and
   Robert~L Mikeal.
 \newblock {Medication Errors Observed in 36 Healthcare Facilities}.
 \newblock {\em Arch Intern Med.}, 162:1897--1903, 2002.
+
+\bibitem{Hakonsen2010}
+Helle H{\aa}konsen, Heidi~Skj{\o}nhaug Hopen, Linda Abelsen, Bj{\o}rg Ek, and
+  Else~Lydia Toverud.
+\newblock {Generic substitution: A potential risk factor for medication errors
+  in hospitals}.
+\newblock {\em Advances in Therapy}, 27(2):118--126, 2010.
 
 \bibitem{Baumer2004}
 A~M Baumer, A~M Clark, D~R Witmer, S~B Geize, L~C Vermeulen, and J~H
@@ -148,5 +158,57 @@ Louise~Isager Rab{\o}l, Annemarie Hellebek, Beth~Lilja Pedersen, Anette
   Petersen, and Jesper~Lund Bredesen.
 \newblock {Beslutningsst{\o}tte til elektronisk medicinordination}.
 \newblock Technical Report April, 2005.
+
+\bibitem{Syddanmark2008}
+Region Syddanmark.
+\newblock {Patientsikkerhed og Elektronisk Patient Medicinering}.
+\newblock page~54, 2008.
+
+\bibitem{Poon2006}
+Eric~G. Poon, Jennifer~L. Cina, William Churchill, Nirali Patel, Erica
+  Featherstone, Jeffrey~M. Rothschild, Carol~A. Keohane, Anthony~D. Whittemore,
+  David~W. Bates, and Tejal~K. Gandhi.
+\newblock {Medication dispensing errors and potential adverse drug events
+  before and after implementing bar code technology in the pharmacy}.
+\newblock {\em Annals of Internal Medicine}, 145(6):426--434, 2006.
+
+\bibitem{Bates2000}
+David~W Bates, Source Bmj, British Medical, No~Mar, and David~W Bates.
+\newblock {Using Information Technology to Reduce Rates of Medication Errors in
+  Hospitals}.
+\newblock {\em British Medical Journal}, 320(7237):788--791, 2000.
+
+\bibitem{Levtzion-korach2010}
+Osnat Levtzion-korach, Thomas Moniz, D~Pharm, Anthony~D Whittemore, David~W
+  Bates, and Tejal~K Gandhi.
+\newblock {Effect of Bar-Code Technology on the Safety of Medication
+  Administration}.
+\newblock {\em N Engl J Med}, 362(18):1698--707, 2010.
+
+\bibitem{Dzik2007}
+Walter~H. Dzik.
+\newblock {New technology for transfusion safety}.
+\newblock {\em British Journal of Haematology}, 136(2):181--190, 2007.
+
+\bibitem{DPSD2008}
+{Dansk Patientsikkerhedsdatabase}.
+\newblock {Patientidentifikation ved brug af identifikationsb{\aa}nd}.
+\newblock 2008.
+
+\bibitem{Amgros2013}
+Amgros.
+\newblock {Status og perspektiver 2012-2013}.
+\newblock 2013.
+
+\bibitem{Oren2003}
+E~Oren, E~Shaffer, and B~Guglielmo.
+\newblock {Impact of emerging technologies on medication errors and adverse
+  drug events}.
+\newblock {\em Am J Health Syst Pharm}, 60:1447--1459, 2003.
+
+\bibitem{Sygehusapotekerne2012}
+Amgros.
+\newblock {Automatiserede medicinl{\ae}sninger har stort potentiale}.
+\newblock {\em Sygehusapotekerne i Danmark}, 2012.
 
 \end{thebibliography}
