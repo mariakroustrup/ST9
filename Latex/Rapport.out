@@ -2,20 +2,29 @@
 \BOOKMARK [0][-]{indhold.0}{Indholdsfortegnelse}{}% 2
 \BOOKMARK [0][-]{chapter.1}{Initierende problem}{}% 3
 \BOOKMARK [0][-]{chapter.2}{Problemanalyse}{}% 4
-\BOOKMARK [1][-]{section.2.1}{\305rsager til l\346gemiddelskift}{chapter.2}% 5
-\BOOKMARK [1][-]{section.2.2}{L\346gemiddeludbud}{chapter.2}% 6
-\BOOKMARK [1][-]{section.2.3}{Indk\370b af l\346gemidler}{chapter.2}% 7
-\BOOKMARK [1][-]{section.2.4}{Implementering af l\346gemiddelskift}{chapter.2}% 8
-\BOOKMARK [1][-]{section.2.5}{Problemstillinger ved l\346gemiddelskift}{chapter.2}% 9
-\BOOKMARK [2][-]{subsection.2.5.1}{Utilsigtede h\346ndelser ved kontraktskift}{section.2.5}% 10
-\BOOKMARK [2][-]{subsection.2.5.2}{Utilsigtede h\346ndelser ved restordre}{section.2.5}% 11
-\BOOKMARK [1][-]{section.2.6}{Forebyggelse af utilsigtede h\346ndelser}{chapter.2}% 12
-\BOOKMARK [2][-]{subsection.2.6.1}{Elektronisk patientmedicinering}{section.2.6}% 13
-\BOOKMARK [2][-]{subsection.2.6.2}{Stregkode scanning}{section.2.6}% 14
-\BOOKMARK [2][-]{subsection.2.6.3}{Klar-til-brug l\346gemidler}{section.2.6}% 15
-\BOOKMARK [1][-]{section.2.7}{Opsummering af problemstillinger}{chapter.2}% 16
-\BOOKMARK [1][-]{section.2.8}{Problemformulering}{chapter.2}% 17
-\BOOKMARK [0][-]{chapter.3}{Metode}{}% 18
-\BOOKMARK [0][-]{chapter.4}{Diskussion}{}% 19
-\BOOKMARK [0][-]{chapter.5}{Konklusion}{}% 20
-\BOOKMARK [0][-]{section*.6}{Litteratur}{}% 21
+\BOOKMARK [1][-]{section.2.1}{Udbud af l\346gemidler}{chapter.2}% 5
+\BOOKMARK [2][-]{subsection.2.1.1}{\305rligt udbud via Amgrosudbud}{section.2.1}% 6
+\BOOKMARK [2][-]{subsection.2.1.2}{L\370bende udbud via Medicinr\345det}{section.2.1}% 7
+\BOOKMARK [1][-]{section.2.2}{Skift af l\346gemiddel}{chapter.2}% 8
+\BOOKMARK [1][-]{section.2.3}{Implementering af l\346gemiddelskift}{chapter.2}% 9
+\BOOKMARK [0][-]{chapter.3}{Problemanalyse}{}% 10
+\BOOKMARK [1][-]{section.3.1}{\305rsager til l\346gemiddelskift}{chapter.3}% 11
+\BOOKMARK [1][-]{section.3.2}{L\346gemiddeludbud}{chapter.3}% 12
+\BOOKMARK [1][-]{section.3.3}{Indk\370b af l\346gemidler}{chapter.3}% 13
+\BOOKMARK [1][-]{section.3.4}{Implementering af l\346gemiddelskift}{chapter.3}% 14
+\BOOKMARK [1][-]{section.3.5}{Problemstillinger ved l\346gemiddelskift}{chapter.3}% 15
+\BOOKMARK [2][-]{subsection.3.5.1}{Utilsigtede h\346ndelser ved kontraktskift}{section.3.5}% 16
+\BOOKMARK [2][-]{subsection.3.5.2}{Utilsigtede h\346ndelser ved restordre}{section.3.5}% 17
+\BOOKMARK [1][-]{section.3.6}{Forebyggelse af utilsigtede h\346ndelser}{chapter.3}% 18
+\BOOKMARK [2][-]{subsection.3.6.1}{Elektronisk patientmedicinering}{section.3.6}% 19
+\BOOKMARK [2][-]{subsection.3.6.2}{Stregkode scanning}{section.3.6}% 20
+\BOOKMARK [2][-]{subsection.3.6.3}{Klar-til-brug l\346gemidler}{section.3.6}% 21
+\BOOKMARK [1][-]{section.3.7}{Opsummering af problemstillinger}{chapter.3}% 22
+\BOOKMARK [1][-]{section.3.8}{Problemformulering}{chapter.3}% 23
+\BOOKMARK [0][-]{chapter.4}{Metode}{}% 24
+\BOOKMARK [0][-]{chapter.5}{Diskussion}{}% 25
+\BOOKMARK [0][-]{chapter.6}{Konklusion}{}% 26
+\BOOKMARK [0][-]{section*.6}{Litteratur}{}% 27
+\BOOKMARK [0][-]{appendix.A}{Appendiks}{}% 28
+\BOOKMARK [1][-]{subsection.A.0.1}{Udbudstyper ved Amgrosudbud}{appendix.A}% 29
+\BOOKMARK [1][-]{section.A.1}{Typer af l\346gemiddelskift}{appendix.A}% 30

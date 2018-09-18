@@ -7,6 +7,7 @@ A level-1 auxiliary file: formalia/titelblad.aux
 A level-1 auxiliary file: formalia/forord.aux
 A level-1 auxiliary file: formalia/laesevejledning.aux
 A level-1 auxiliary file: intro/indledning.aux
+A level-1 auxiliary file: intro/problemanalyseNEW.aux
 A level-1 auxiliary file: intro/problemanalyse.aux
 A level-1 auxiliary file: kontekst/metode.aux
 A level-1 auxiliary file: formalia/Diskussion.aux
@@ -24,45 +25,45 @@ Warning--empty institution in Raboel2005
 Warning--empty journal in Syddanmark2008
 Warning--empty journal in DPSD2008
 Warning--empty journal in Amgros2013
-You've used 38 entries,
+You've used 39 entries,
             1791 wiz_defined-function locations,
-            683 strings with 9669 characters,
-and the built_in function-call counts, 7863 in all, are:
-= -- 659
-> -- 381
+            687 strings with 9740 characters,
+and the built_in function-call counts, 7981 in all, are:
+= -- 667
+> -- 385
 < -- 6
-+ -- 147
-- -- 109
-* -- 521
-:= -- 1284
-add.period$ -- 107
-call.type$ -- 38
-change.case$ -- 37
++ -- 149
+- -- 110
+* -- 522
+:= -- 1301
+add.period$ -- 109
+call.type$ -- 39
+change.case$ -- 38
 chr.to.int$ -- 0
-cite$ -- 50
-duplicate$ -- 331
-empty$ -- 768
-format.name$ -- 109
-if$ -- 1695
+cite$ -- 51
+duplicate$ -- 336
+empty$ -- 786
+format.name$ -- 110
+if$ -- 1723
 int.to.chr$ -- 0
-int.to.str$ -- 38
+int.to.str$ -- 39
 missing$ -- 31
-newline$ -- 186
-num.names$ -- 38
-pop$ -- 134
+newline$ -- 190
+num.names$ -- 39
+pop$ -- 141
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 145
+skip$ -- 149
 stack$ -- 0
 substring$ -- 474
-swap$ -- 54
+swap$ -- 55
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 12
-while$ -- 82
-width$ -- 40
-write$ -- 380
+while$ -- 83
+width$ -- 41
+write$ -- 388
 (There were 12 warnings)
