@@ -8,13 +8,14 @@ A level-1 auxiliary file: formalia/forord.aux
 A level-1 auxiliary file: formalia/laesevejledning.aux
 A level-1 auxiliary file: intro/indledning.aux
 A level-1 auxiliary file: intro/problemanalyseNEW.aux
-A level-1 auxiliary file: intro/problemanalyse.aux
 A level-1 auxiliary file: kontekst/metode.aux
 A level-1 auxiliary file: formalia/Diskussion.aux
 A level-1 auxiliary file: formalia/konklusion.aux
-A level-1 auxiliary file: appendiks/Appendiks1.aux
+A level-1 auxiliary file: appendiks/AppendiksA.aux
+A level-1 auxiliary file: appendiks/AppendiksB.aux
+A level-1 auxiliary file: appendiks/AppendiksC.aux
+A level-1 auxiliary file: appendiks/AppendiksD.aux
 Database file #1: bibtex/Maria.bib
-Warning--empty journal in Laegemiddelinformaion2017
 Warning--empty journal in EU2017
 Warning--empty journal in Amgros2017
 Warning--empty journal in Patientombuddet2013
@@ -28,45 +29,45 @@ Warning--empty institution in Raboel2005
 Warning--empty journal in Syddanmark2008
 Warning--empty journal in DPSD2008
 Warning--empty journal in Amgros2013
-You've used 40 entries,
+You've used 38 entries,
             1791 wiz_defined-function locations,
-            693 strings with 9858 characters,
-and the built_in function-call counts, 8120 in all, are:
-= -- 678
-> -- 389
+            691 strings with 9924 characters,
+and the built_in function-call counts, 7885 in all, are:
+= -- 663
+> -- 381
 < -- 6
-+ -- 151
-- -- 111
-* -- 530
-:= -- 1325
-add.period$ -- 112
-call.type$ -- 40
-change.case$ -- 39
++ -- 147
+- -- 109
+* -- 528
+:= -- 1292
+add.period$ -- 108
+call.type$ -- 38
+change.case$ -- 37
 chr.to.int$ -- 0
-cite$ -- 54
-duplicate$ -- 344
-empty$ -- 801
-format.name$ -- 111
-if$ -- 1752
+cite$ -- 51
+duplicate$ -- 334
+empty$ -- 765
+format.name$ -- 109
+if$ -- 1697
 int.to.chr$ -- 0
-int.to.str$ -- 40
+int.to.str$ -- 38
 missing$ -- 32
-newline$ -- 195
-num.names$ -- 40
-pop$ -- 145
+newline$ -- 187
+num.names$ -- 38
+pop$ -- 129
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 151
+skip$ -- 143
 stack$ -- 0
 substring$ -- 474
-swap$ -- 55
+swap$ -- 54
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 14
-while$ -- 84
-width$ -- 42
-write$ -- 398
-(There were 14 warnings)
+warning$ -- 13
+while$ -- 82
+width$ -- 40
+write$ -- 383
+(There were 13 warnings)

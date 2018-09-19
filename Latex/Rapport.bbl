@@ -6,9 +6,9 @@
   sundhedsteknologi}, 2011.
 
 \bibitem{Laegemiddelinformaion2017}
-Sygehusapoteket L{\ae}gemiddelinformation.
+Lecia~M. Nielsen.
 \newblock {Et l{\ae}gemiddel g{\aa}r i restordre}.
-\newblock 2017.
+\newblock {\em L{\ae}gemiddelinformation}, 2017.
 
 \bibitem{Ess2003}
 Silvia~M Ess, Sebastian Schneeweiss, and Thomas~D Szucs.
@@ -43,7 +43,7 @@ Amgros.
 
 \bibitem{Sygehusapoteket2017a}
 Sygehusapoteket.
-\newblock {L{\ae}gemiddelskift Instruktion}, 2017.
+\newblock {L{\ae}gemiddelskift Instruktion}, 2016.
 
 \bibitem{Patientombuddet2013}
 Patientombuddet.
@@ -54,6 +54,10 @@ Patientombuddet.
 Jens~Winther Jensen.
 \newblock {{\AA}rsrapport 2014 patientsikkerhed}.
 \newblock {\em Region Nordjylland}, 2014.
+
+\bibitem{StyrelsenforPatientsikkerhed2017}
+{Styrelsen for Patientsikkerhed}.
+\newblock {Rapporteringsordningen for utilsigtede h{\ae}ndelser}, 2017.
 
 \bibitem{Bates2013}
 David~W. Bates, Michael Cohen, Lucian~L. Leape, J.~Marc OverHage, M.~Michael
@@ -73,26 +77,10 @@ Osnat Levtzion-korach, Thomas Moniz, D~Pharm, Anthony~D Whittemore, David~W
 Amgros.
 \newblock {Bagatelk{\o}b}, 2012.
 
-\bibitem{Amgros2017b}
-Amgros.
-\newblock {L{\ae}gemiddel-udbud}, 2017.
-
 \bibitem{DanskeRegioner2016}
 {Danske Regioner}.
 \newblock {Model for vurdering af l{\ae}gemidler}.
 \newblock (16), 2016.
-
-\bibitem{Amgros2017a}
-Amgros.
-\newblock {Om processen}, 2017.
-
-\bibitem{Sygehusapoteket2017b}
-Sygehusapoteket.
-\newblock {L{\ae}gemiddelskift Skabelon}, 2017.
-
-\bibitem{Amgros2018}
-Amgros.
-\newblock {L{\ae}gemidler i bagatelk{\o}b}, 2018.
 
 \bibitem{Amgros2018a}
 Amgros.
@@ -219,5 +207,9 @@ E~Oren, E~Shaffer, and B~Guglielmo.
 Amgros.
 \newblock {Automatiserede medicinl{\ae}sninger har stort potentiale}.
 \newblock {\em Sygehusapotekerne i Danmark}, 2012.
+
+\bibitem{Sygehusapoteket2017b}
+Sygehusapoteket.
+\newblock {L{\ae}gemiddelskift Skabelon}, 2017.
 
 \end{thebibliography}
