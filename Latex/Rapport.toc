@@ -17,7 +17,7 @@
 \contentsline {chapter}{\chapternumberline {3}Metode}{11}{chapter.3}
 \contentsline {chapter}{\chapternumberline {4}Diskussion}{13}{chapter.4}
 \contentsline {chapter}{\chapternumberline {5}Konklusion}{15}{chapter.5}
-\contentsline {chapter}{Litteratur}{17}{section*.6}
+\contentsline {chapter}{Litteratur}{17}{section*.5}
 \contentsline {appendix}{\chapternumberline {A}Appendiks}{21}{appendix.A}
 \contentsline {section}{\numberline {A.1}Vurdering af l\IeC {\ae }gemiddel}{21}{section.A.1}
 \contentsline {section}{\numberline {A.2}Vurdering af ligev\IeC {\ae }rdige l\IeC {\ae }gemidler}{22}{section.A.2}
