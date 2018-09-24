@@ -1,10 +1,5 @@
 \begin{thebibliography}{10}
 
-\bibitem{Studieordning2011}
-{Aalborg Universitet}.
-\newblock {Studieordning for Civilingeni{\o}r, cand.polyt. i
-  sundhedsteknologi}, 2011.
-
 \bibitem{Laegemiddelinformaion2017}
 Lecia~M. Nielsen.
 \newblock {Et l{\ae}gemiddel g{\aa}r i restordre}.
@@ -31,90 +26,18 @@ Sygehusapoteket.
 \newblock {Amgros Estimering}, 2017.
 
 \bibitem{Amgros2015}
-Amgros.
+Flemming Sonne.
 \newblock {Amgros status og perspektiver 2014-2015}.
-\newblock {\em Regionernes l{\ae}gemiddelorganisation}, 2015.
+\newblock {\em Regionernes l{\ae}gemiddelorganisation, Amgros}, 2015.
 
-\bibitem{Amgros2017}
-Amgros.
-\newblock {Metodevejledning for omkostningsanalyser af nye l{\ae}gemidler og
-  indikationer i hospitalssektoren}.
-\newblock page~10, 2017.
+\bibitem{DanskSelskabforPatientsikkerhed2009}
+{Dansk Selskab for Patientsikkerhed}.
+\newblock {Et patientsikkerhedsperspektiv p{\aa} medicinering i Danmark}.
+\newblock 2009.
 
 \bibitem{Sygehusapoteket2017a}
 Sygehusapoteket.
 \newblock {L{\ae}gemiddelskift Instruktion}, 2016.
-
-\bibitem{Patientombuddet2013}
-Patientombuddet.
-\newblock {{\AA}rsberetning 2013, Dansk Patientsikkerheds Database Del 1}.
-\newblock pages 1--15, 2013.
-
-\bibitem{Jensen2014}
-Jens~Winther Jensen.
-\newblock {{\AA}rsrapport 2014 patientsikkerhed}.
-\newblock {\em Region Nordjylland}, 2014.
-
-\bibitem{StyrelsenforPatientsikkerhed2017}
-{Styrelsen for Patientsikkerhed}.
-\newblock {Rapporteringsordningen for utilsigtede h{\ae}ndelser}, 2017.
-
-\bibitem{Bates2013}
-David~W. Bates, Michael Cohen, Lucian~L. Leape, J.~Marc OverHage, M.~Michael
-  Shabot, and Thomas Sheridan.
-\newblock {Reducing the frequency of errors in medicine using information
-  technology}.
-\newblock {\em American Medical Informatics Association}, 78(3):A16, 2013.
-
-\bibitem{Levtzion-korach2010}
-Osnat Levtzion-korach, Thomas Moniz, D~Pharm, Anthony~D Whittemore, David~W
-  Bates, and Tejal~K Gandhi.
-\newblock {Effect of Bar-Code Technology on the Safety of Medication
-  Administration}.
-\newblock {\em N Engl J Med}, 362(18):1698--707, 2010.
-
-\bibitem{Amgros2012}
-Amgros.
-\newblock {Bagatelk{\o}b}, 2012.
-
-\bibitem{DanskeRegioner2016}
-{Danske Regioner}.
-\newblock {Model for vurdering af l{\ae}gemidler}.
-\newblock (16), 2016.
-
-\bibitem{Amgros2018a}
-Amgros.
-\newblock {Udbudstyper og deres betydning}.
-\newblock pages 1--5, 2018.
-
-\bibitem{SygehusapoteketRegionNordjylland2013}
-{Sygehusapoteket Region Nordjylland}.
-\newblock {Statusnotat - Sygehusapoteket Region Nordjylland}.
-\newblock (november):1--8, 2013.
-
-\bibitem{Sundhedsstyrelsen2005}
-Sundhedsstyrelsen.
-\newblock {\em {Temarapport 2005: Medicinering}}.
-\newblock 2005.
-
-\bibitem{Lisby2005}
-Marianne Lisby, Lars~Peter Nielsen, and Jan Mainz.
-\newblock {Errors in the medication process: Frequency, type, and potential
-  clinical consequences}.
-\newblock {\em International Journal for Quality in Health Care}, 17(1):15--22,
-  2005.
-
-\bibitem{Tully2009}
-Mary~P. Tully and Iain~E. Buchan.
-\newblock {Prescribing errors during hospital inpatient care: Factors
-  influencing identification by pharmacists}.
-\newblock {\em Pharmacy World and Science}, 31(6):682--688, 2009.
-
-\bibitem{Barker2002}
-Kenneth N.Barker, Elizabeth~A Flynn, Ginette A.Pepper, David W.Bates, and
-  Robert~L Mikeal.
-\newblock {Medication Errors Observed in 36 Healthcare Facilities}.
-\newblock {\em Arch Intern Med.}, 162:1897--1903, 2002.
 
 \bibitem{Hakonsen2010}
 Helle H{\aa}konsen, Heidi~Skj{\o}nhaug Hopen, Linda Abelsen, Bj{\o}rg Ek, and
@@ -122,6 +45,49 @@ Helle H{\aa}konsen, Heidi~Skj{\o}nhaug Hopen, Linda Abelsen, Bj{\o}rg Ek, and
 \newblock {Generic substitution: A potential risk factor for medication errors
   in hospitals}.
 \newblock {\em Advances in Therapy}, 27(2):118--126, 2010.
+
+\bibitem{Poon2006}
+Eric~G. Poon, Jennifer~L. Cina, William Churchill, Nirali Patel, Erica
+  Featherstone, Jeffrey~M. Rothschild, Carol~A. Keohane, Anthony~D. Whittemore,
+  David~W. Bates, and Tejal~K. Gandhi.
+\newblock {Medication dispensing errors and potential adverse drug events
+  before and after implementing bar code technology in the pharmacy}.
+\newblock {\em Annals of Internal Medicine}, 145(6):426--434, 2006.
+
+\bibitem{Levtzion-korach2010}
+Osnat Levtzion-korach, Thomas Moniz, D~Pharm, Anthony~D Whittemore, David~W
+  Bates, and Tejal~K Gandhi.
+\newblock {Effect of Bar-Code Technology on the Safety of Medication
+  Administration}.
+\newblock {\em N Engl J Med}, (18), 2010.
+
+\bibitem{Campmans2018}
+Zizi Campmans, Arianne {Van Rhijn}, Ren{\'{e}}~M. Dull, Jacqueline
+  Santen-Reestman, Katja Taxis, and Sander~D. Borgsteede.
+\newblock {Preventing dispensing errors by alerting for drug confusions in the
+  pharmacy information system—A survey of users}.
+\newblock {\em PLoS ONE}, 13(5):1--11, 2018.
+
+\bibitem{DanskeRegioner2016}
+Thomas~Birk Andersen and Ann VIlhelmsen.
+\newblock {Model for vurdering af l{\ae}gemidler}.
+\newblock {\em Danske Regioner}, 2016.
+
+\bibitem{Amgros2018a}
+Amgros.
+\newblock {Udbudstyper og deres betydning}.
+\newblock pages 1--5, 2018.
+
+\bibitem{Amgros2017}
+Amgros.
+\newblock {Metodevejledning for omkostningsanalyser af nye l{\ae}gemidler og
+  indikationer i hospitalssektoren}.
+\newblock {\em Amgros}, 2017.
+
+\bibitem{SygehusapoteketRegionNordjylland2013}
+{Sygehusapoteket Region Nordjylland}.
+\newblock {Statusnotat}.
+\newblock 2013.
 
 \bibitem{Baumer2004}
 A~M Baumer, A~M Clark, D~R Witmer, S~B Geize, L~C Vermeulen, and J~H
@@ -144,12 +110,24 @@ Ali McBride, Lisa~M. Holle, Colleen Westendorf, Margaret Sidebottom, Niesha
 \newblock {\em American Journal of Health-System Pharmacy}, 70(7):609--617,
   2013.
 
+\bibitem{Jensen2014}
+Jens~Winther Jensen.
+\newblock {{\AA}rsrapport 2014 patientsikkerhed}.
+\newblock {\em Region Nordjylland}, 2014.
+
 \bibitem{DW1998}
 Bates DW, Leape LL, Cullen DJ, N~Laird, Petersen LA, Teich JM, E~Burdick,
   M~Hickey, S~Kleefield, B~Shea, Vander~Vliet M, and D~Seger.
 \newblock {Effect of computerized physician order entry and a team intervention
   on prevention of serious medication errors}.
 \newblock {\em Jama}, 280(15):1311--1316, 1998.
+
+\bibitem{Bates2013}
+David~W. Bates, Michael Cohen, Lucian~L. Leape, J.~Marc OverHage, M.~Michael
+  Shabot, and Thomas Sheridan.
+\newblock {Reducing the frequency of errors in medicine using information
+  technology}.
+\newblock {\em American Medical Informatics Association}, 78(3):A16, 2013.
 
 \bibitem{Cheng2011}
 C.~M. Cheng.
@@ -168,14 +146,6 @@ Region Syddanmark.
 \newblock {Patientsikkerhed og Elektronisk Patient Medicinering}.
 \newblock page~54, 2008.
 
-\bibitem{Poon2006}
-Eric~G. Poon, Jennifer~L. Cina, William Churchill, Nirali Patel, Erica
-  Featherstone, Jeffrey~M. Rothschild, Carol~A. Keohane, Anthony~D. Whittemore,
-  David~W. Bates, and Tejal~K. Gandhi.
-\newblock {Medication dispensing errors and potential adverse drug events
-  before and after implementing bar code technology in the pharmacy}.
-\newblock {\em Annals of Internal Medicine}, 145(6):426--434, 2006.
-
 \bibitem{Bates2000}
 David~W Bates, Source Bmj, British Medical, No~Mar, and David~W Bates.
 \newblock {Using Information Technology to Reduce Rates of Medication Errors in
@@ -193,9 +163,9 @@ Walter~H. Dzik.
 \newblock 2008.
 
 \bibitem{Amgros2013}
-Amgros.
+Sonne Flemming.
 \newblock {Status og perspektiver 2012-2013}.
-\newblock 2013.
+\newblock {\em Amgros}, 2013.
 
 \bibitem{Oren2003}
 E~Oren, E~Shaffer, and B~Guglielmo.

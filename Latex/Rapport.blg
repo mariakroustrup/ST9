@@ -4,10 +4,13 @@ The top-level auxiliary file: Rapport.aux
 The style file: unsrt.bst
 A level-1 auxiliary file: formalia/forside.aux
 A level-1 auxiliary file: formalia/titelblad.aux
-A level-1 auxiliary file: formalia/forord.aux
 A level-1 auxiliary file: formalia/laesevejledning.aux
 A level-1 auxiliary file: intro/indledning.aux
-A level-1 auxiliary file: intro/problemanalyseNEW.aux
+A level-1 auxiliary file: intro/laegemiddelskift.aux
+A level-1 auxiliary file: intro/Implementering.aux
+A level-1 auxiliary file: intro/problem_ved_skift.aux
+A level-1 auxiliary file: intro/loes_ved_skift.aux
+A level-1 auxiliary file: intro/problemafgraensning.aux
 A level-1 auxiliary file: kontekst/metode.aux
 A level-1 auxiliary file: formalia/Diskussion.aux
 A level-1 auxiliary file: formalia/konklusion.aux
@@ -16,58 +19,54 @@ A level-1 auxiliary file: appendiks/AppendiksB.aux
 A level-1 auxiliary file: appendiks/AppendiksC.aux
 A level-1 auxiliary file: appendiks/AppendiksD.aux
 Database file #1: bibtex/Maria.bib
+Warning--I didn't find a database entry for "StyrelsenforPatientsikkerhed2017"
 Warning--empty journal in EU2017
-Warning--empty journal in Amgros2017
-Warning--empty journal in Patientombuddet2013
-Warning--empty journal in DanskeRegioner2016
-Warning--there's a number but no volume in DanskeRegioner2016
+Warning--empty journal in DanskSelskabforPatientsikkerhed2009
+Warning--there's a number but no volume in Levtzion-korach2010
 Warning--empty journal in Amgros2018a
 Warning--empty journal in SygehusapoteketRegionNordjylland2013
-Warning--there's a number but no volume in SygehusapoteketRegionNordjylland2013
-Warning--empty publisher in Sundhedsstyrelsen2005
 Warning--empty institution in Raboel2005
 Warning--empty journal in Syddanmark2008
 Warning--empty journal in DPSD2008
-Warning--empty journal in Amgros2013
-You've used 38 entries,
+You've used 32 entries,
             1791 wiz_defined-function locations,
-            691 strings with 9924 characters,
-and the built_in function-call counts, 7885 in all, are:
-= -- 663
-> -- 381
-< -- 6
-+ -- 147
-- -- 109
-* -- 528
-:= -- 1292
-add.period$ -- 108
-call.type$ -- 38
-change.case$ -- 37
+            663 strings with 9409 characters,
+and the built_in function-call counts, 6560 in all, are:
+= -- 538
+> -- 353
+< -- 4
++ -- 134
+- -- 102
+* -- 446
+:= -- 1115
+add.period$ -- 93
+call.type$ -- 32
+change.case$ -- 32
 chr.to.int$ -- 0
-cite$ -- 51
-duplicate$ -- 334
-empty$ -- 765
-format.name$ -- 109
-if$ -- 1697
+cite$ -- 40
+duplicate$ -- 277
+empty$ -- 610
+format.name$ -- 102
+if$ -- 1392
 int.to.chr$ -- 0
-int.to.str$ -- 38
-missing$ -- 32
-newline$ -- 187
-num.names$ -- 38
-pop$ -- 129
+int.to.str$ -- 32
+missing$ -- 28
+newline$ -- 160
+num.names$ -- 32
+pop$ -- 94
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 143
+skip$ -- 114
 stack$ -- 0
-substring$ -- 474
-swap$ -- 54
-text.length$ -- 6
+substring$ -- 351
+swap$ -- 41
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 13
-while$ -- 82
-width$ -- 40
-write$ -- 383
-(There were 13 warnings)
+warning$ -- 8
+while$ -- 64
+width$ -- 34
+write$ -- 327
+(There were 9 warnings)
