@@ -19,54 +19,54 @@ A level-1 auxiliary file: appendiks/AppendiksB.aux
 A level-1 auxiliary file: appendiks/AppendiksC.aux
 A level-1 auxiliary file: appendiks/AppendiksD.aux
 Database file #1: bibtex/Maria.bib
-Warning--I didn't find a database entry for "StyrelsenforPatientsikkerhed2017"
 Warning--empty journal in EU2017
 Warning--empty journal in DanskSelskabforPatientsikkerhed2009
 Warning--there's a number but no volume in Levtzion-korach2010
 Warning--empty journal in Amgros2018a
 Warning--empty journal in SygehusapoteketRegionNordjylland2013
+Warning--there's a number but no series in HQSC2013
+Warning--empty publisher in HQSC2013
+Warning--there's a number but no volume in ACSQ2011
 Warning--empty institution in Raboel2005
-Warning--empty journal in Syddanmark2008
-Warning--empty journal in DPSD2008
-You've used 32 entries,
+You've used 25 entries,
             1791 wiz_defined-function locations,
-            663 strings with 9409 characters,
-and the built_in function-call counts, 6560 in all, are:
-= -- 538
-> -- 353
-< -- 4
-+ -- 134
-- -- 102
-* -- 446
-:= -- 1115
-add.period$ -- 93
-call.type$ -- 32
-change.case$ -- 32
+            608 strings with 8001 characters,
+and the built_in function-call counts, 4837 in all, are:
+= -- 394
+> -- 251
+< -- 5
++ -- 97
+- -- 72
+* -- 300
+:= -- 820
+add.period$ -- 73
+call.type$ -- 25
+change.case$ -- 24
 chr.to.int$ -- 0
-cite$ -- 40
-duplicate$ -- 277
-empty$ -- 610
-format.name$ -- 102
-if$ -- 1392
+cite$ -- 34
+duplicate$ -- 221
+empty$ -- 457
+format.name$ -- 72
+if$ -- 1041
 int.to.chr$ -- 0
-int.to.str$ -- 32
-missing$ -- 28
-newline$ -- 160
-num.names$ -- 32
-pop$ -- 94
+int.to.str$ -- 25
+missing$ -- 22
+newline$ -- 125
+num.names$ -- 25
+pop$ -- 83
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 114
+skip$ -- 96
 stack$ -- 0
-substring$ -- 351
+substring$ -- 193
 swap$ -- 41
-text.length$ -- 4
+text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 8
-while$ -- 64
-width$ -- 34
-write$ -- 327
+warning$ -- 9
+while$ -- 45
+width$ -- 27
+write$ -- 254
 (There were 9 warnings)
