@@ -1,2 +1,49 @@
 \chapter{Metode}
-\textit{I dette kapitel ....}
+\textit{I dette kapitel beskrives de metoder som er anvendt til udvikling af en algoritme til kategorisering af  lægemiddelskift.}
+
+\section{Udviklingstrin}
+I udviklingsprocssen gennem gås forskellige step hvilket fremgår af Figur \ref{fig:XXX}
+
+\begin{figure}[H]\centering	\includegraphics[width=0.5\textwidth]{billeder/UTH2.png} 
+	\caption{XXXX.}
+	\label{fig:XXX}  
+\end{figure}
+
+\section{Dataindsamling}
+Indsamlet data omhandler Amgrosskift i år 2017. Disse data er enten indsamlet af Amgros eller af Sygehusapoteket Region Nordjylland (SRN) i forbindelse med lægemiddelskift. Data fra Amgros omfatter Amgrosskift fra år 2018 (Amgros2018)~\fxnote{Jeg har brug for at få data fra 2017 i stedet, da dette passer til det andet excel eller så skal jeg have et opdateret med amgrosskift i år 2018}. Data fra SRN omfatter amgrosskift fra år 2017\fxnote{OBS!} (SRN2018) og problemstillinger vedrørende amgrosskift (Problem), som omfatter dokumenteret problemstillinger fra år 2012 til 2017. Alt data er indsamlet i excelark, den opsamlede data kan ses af \ref{table:XXX}
+
+\vspace{2mm}
+\begin{longtable}{p{2.5cm}|p{1cm}|p{11cm}}
+	\caption{...}
+	\vspace{2mm}
+	\label{table:XXX} \\
+\cellcolor[HTML]{C0C0C0} {\textbf{Data}} & {\cellcolor[HTML]{C0C0C0}\textbf{Antal}} & 
+{\cellcolor[HTML]{C0C0C0}\textbf{Indhold}} \\ \hline
+Amgros & 245 & Kontrakt start, ATC-kode, Varenummer 2017, Lægemiddel 2017, Dispenseringsform 2017, Styrke 2017, Pakningsstørrelse 2017, Varenummer 2018, Lægemiddel 2018, Dispenseringsform 2018, Styrke 2018, Pakningsstørrelse 2017, Bemærkning, Rekommenderet.\\ \hline
+SRN & 5397 & ATC-koder, Matchstatus, Generisk navn, Firma, Varenummer, Forv. Varenummer, SA-Gl.Vnr (Kig Amgros estimering), Varenummerskift – 1 er skift 0 fortsætter (Kig Amgros estimering), Varenavn, Disponeringsform, Styrke, Pakning, Udbudsgruppe, Udbudsnummer (1-730), Vinder (1, 2, 3, 4, 5, 1x, 2x, BA, k), RADS-MR (0, 1) (RADS- medicin rådet måske medicinrådet??), Amg. Est., Budget pakning, Rev. Pakning, Bemærkning, SAIP/Pakning, AIP/Pakning,
+AIP/Enhed, Enh./Paking , Budget slut, Indkøb start, Indkøb slut, Leadtime, Ingen prisvisning, Modified, ID, Created.\\ \hline
+Problem & 103 & ATC-kode, Generisk navn, Firma, Varenummer, Varenavn, Udbudsgruppe, Udbudsnummer, Vinder, Debitor, Problemstilling/Bemærkning, Konsekvens, Simpel SAID-sag oprettet, Udfyldt af, Dato. \\ \hline
+\end{longtable}
+
+
+
+
+
+
+
+\section{Data forberedelse} / Model
+- segmentation
+- farvetransformation - text/tal
+
+\section{Klassifikation}
+\subsection{Machine learning}
+\subsection{Feature for klassificering}
+\subsection{Neurale netværk som klassificering}
+
+\section{Validering}
+- klassificering performance matrics 
+
+
+dataindsamling
+data processering 
+feature extraction 

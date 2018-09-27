@@ -22,14 +22,23 @@
 \BOOKMARK [1][-]{section.3.7}{Opsummering af problemstillinger}{chapter.3}% 22
 \BOOKMARK [1][-]{section.3.8}{Problemformulering}{chapter.3}% 23
 \BOOKMARK [0][-]{chapter.4}{Metode}{}% 24
-\BOOKMARK [0][-]{chapter.5}{Diskussion}{}% 25
-\BOOKMARK [0][-]{chapter.6}{Konklusion}{}% 26
-\BOOKMARK [0][-]{section*.5}{Litteratur}{}% 27
-\BOOKMARK [0][-]{appendix.A}{Appendiks}{}% 28
-\BOOKMARK [1][-]{section.A.1}{Vurdering af l\346gemiddel}{appendix.A}% 29
-\BOOKMARK [1][-]{section.A.2}{Vurdering af ligev\346rdige l\346gemidler}{appendix.A}% 30
-\BOOKMARK [0][-]{appendix.B}{Appendiks}{}% 31
-\BOOKMARK [1][-]{section.B.1}{Udbudstyper ved Amgrosudbud}{appendix.B}% 32
-\BOOKMARK [0][-]{appendix.C}{Appendiks}{}% 33
-\BOOKMARK [1][-]{section.C.1}{Indk\370b af l\346gemidler}{appendix.C}% 34
-\BOOKMARK [0][-]{appendix.D}{Appendiks}{}% 35
+\BOOKMARK [1][-]{section.4.1}{Udviklingstrin}{chapter.4}% 25
+\BOOKMARK [1][-]{section.4.2}{Dataindsamling}{chapter.4}% 26
+\BOOKMARK [1][-]{section.4.3}{Data forberedelse}{chapter.4}% 27
+\BOOKMARK [1][-]{section.4.4}{Klassifikation}{chapter.4}% 28
+\BOOKMARK [2][-]{subsection.4.4.1}{Machine learning}{section.4.4}% 29
+\BOOKMARK [2][-]{subsection.4.4.2}{Feature for klassificering}{section.4.4}% 30
+\BOOKMARK [2][-]{subsection.4.4.3}{Neurale netv\346rk som klassificering}{section.4.4}% 31
+\BOOKMARK [1][-]{section.4.5}{Validering}{chapter.4}% 32
+\BOOKMARK [0][-]{chapter.5}{Resultat}{}% 33
+\BOOKMARK [0][-]{chapter.6}{Diskussion}{}% 34
+\BOOKMARK [0][-]{chapter.7}{Konklusion}{}% 35
+\BOOKMARK [0][-]{section*.5}{Litteratur}{}% 36
+\BOOKMARK [0][-]{appendix.A}{Appendiks}{}% 37
+\BOOKMARK [1][-]{section.A.1}{Vurdering af l\346gemiddel}{appendix.A}% 38
+\BOOKMARK [1][-]{section.A.2}{Vurdering af ligev\346rdige l\346gemidler}{appendix.A}% 39
+\BOOKMARK [0][-]{appendix.B}{Appendiks}{}% 40
+\BOOKMARK [1][-]{section.B.1}{Udbudstyper ved Amgrosudbud}{appendix.B}% 41
+\BOOKMARK [0][-]{appendix.C}{Appendiks}{}% 42
+\BOOKMARK [1][-]{section.C.1}{Indk\370b af l\346gemidler}{appendix.C}% 43
+\BOOKMARK [0][-]{appendix.D}{Appendiks}{}% 44

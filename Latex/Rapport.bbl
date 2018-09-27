@@ -78,16 +78,39 @@ Amgros.
 \newblock {Udbudstyper og deres betydning}.
 \newblock pages 1--5, 2018.
 
-\bibitem{Amgros2017}
-Amgros.
-\newblock {Metodevejledning for omkostningsanalyser af nye l{\ae}gemidler og
-  indikationer i hospitalssektoren}.
-\newblock {\em Amgros}, 2017.
+\bibitem{Patientombuddet2013}
+Patientombuddet.
+\newblock {{\AA}rsberetning 2013, Dansk Patientsikkerheds Database Del 1}.
+\newblock 2014.
 
-\bibitem{SygehusapoteketRegionNordjylland2013}
-{Sygehusapoteket Region Nordjylland}.
-\newblock {Statusnotat}.
-\newblock 2013.
+\bibitem{Jensen2014}
+Jens~Winther Jensen.
+\newblock {{\AA}rsrapport 2014 patientsikkerhed}.
+\newblock {\em Region Nordjylland}, 2014.
+
+\bibitem{Barker2002}
+Kenneth N.Barker, Elizabeth~A Flynn, Ginette A.Pepper, David W.Bates, and
+  Robert~L Mikeal.
+\newblock {Medication Errors Observed in 36 Healthcare Facilities}.
+\newblock {\em Arch Intern Med.}, 162:1897--1903, 2002.
+
+\bibitem{Sundhedsstyrelsen2005}
+Sundhedsstyrelsen.
+\newblock {Temarapport 2005: Medicinering}.
+\newblock page~31, 2005.
+
+\bibitem{Lisby2005}
+Marianne Lisby, Lars~Peter Nielsen, and Jan Mainz.
+\newblock {Errors in the medication process: Frequency, type, and potential
+  clinical consequences}.
+\newblock {\em International Journal for Quality in Health Care}, 17(1):15--22,
+  2005.
+
+\bibitem{Tully2009}
+Mary~P. Tully and Iain~E. Buchan.
+\newblock {Prescribing errors during hospital inpatient care: Factors
+  influencing identification by pharmacists}.
+\newblock {\em Pharmacy World and Science}, 31(6):682--688, 2009.
 
 \bibitem{Amgros2013}
 Sonne Flemming.
@@ -136,8 +159,84 @@ Louise~Isager Rab{\o}l, Annemarie Hellebek, Beth~Lilja Pedersen, Anette
 \newblock {Beslutningsst{\o}tte til elektronisk medicinordination}.
 \newblock Technical Report April, 2005.
 
+\bibitem{Amgros2018}
+Amgros.
+\newblock {L{\ae}gemidler i bagatelk{\o}b}, 2018.
+
+\bibitem{Amgros2012}
+Amgros.
+\newblock {Bagatelk{\o}b}, 2012.
+
+\bibitem{Amgros2017}
+Amgros.
+\newblock {Metodevejledning for omkostningsanalyser af nye l{\ae}gemidler og
+  indikationer i hospitalssektoren}.
+\newblock {\em Amgros}, 2017.
+
+\bibitem{Amgros2017a}
+Amgros.
+\newblock {Om processen}, 2017.
+
+\bibitem{SygehusapoteketRegionNordjylland2013}
+{Sygehusapoteket Region Nordjylland}.
+\newblock {Statusnotat}.
+\newblock 2013.
+
 \bibitem{Sygehusapoteket2017b}
 Sygehusapoteket.
 \newblock {L{\ae}gemiddelskift Skabelon}, 2017.
+
+\bibitem{Baumer2004}
+A~M Baumer, A~M Clark, D~R Witmer, S~B Geize, L~C Vermeulen, and J~H
+  Deffenbaugh.
+\newblock {National survey of the impact of drug shortages in acute care
+  hospitals}.
+\newblock {\em Am.J Health Syst.Pharm.}, 61(19):2015--2022, 2004.
+
+\bibitem{McLaughlin2013}
+Milena McLaughlin, Despina Kotis, Kenneth Thomson, Michael Harrison, Gary
+  Fennessy, Michael Postelnick, and Marc~H. Scheetz.
+\newblock {Effects on Patient Care Caused by Drug Shortages: A Survey}.
+\newblock {\em Journal of Managed Care Pharmacy}, 19(9):783--788, 2013.
+
+\bibitem{McBride2013}
+Ali McBride, Lisa~M. Holle, Colleen Westendorf, Margaret Sidebottom, Niesha
+  Griffith, Raymond~J. Muller, and James~M. Hoffman.
+\newblock {National survey on the effect of oncology drug shortages on cancer
+  care}.
+\newblock {\em American Journal of Health-System Pharmacy}, 70(7):609--617,
+  2013.
+
+\bibitem{Syddanmark2008}
+Region Syddanmark.
+\newblock {Patientsikkerhed og Elektronisk Patient Medicinering}.
+\newblock page~54, 2008.
+
+\bibitem{Bates2000}
+David~W Bates, Source Bmj, British Medical, No~Mar, and David~W Bates.
+\newblock {Using Information Technology to Reduce Rates of Medication Errors in
+  Hospitals}.
+\newblock {\em British Medical Journal}, 320(7237):788--791, 2000.
+
+\bibitem{Dzik2007}
+Walter~H. Dzik.
+\newblock {New technology for transfusion safety}.
+\newblock {\em British Journal of Haematology}, 136(2):181--190, 2007.
+
+\bibitem{DPSD2008}
+{Dansk Patientsikkerhedsdatabase}.
+\newblock {Patientidentifikation ved brug af identifikationsb{\aa}nd}.
+\newblock 2008.
+
+\bibitem{Oren2003}
+E~Oren, E~Shaffer, and B~Guglielmo.
+\newblock {Impact of emerging technologies on medication errors and adverse
+  drug events}.
+\newblock {\em Am J Health Syst Pharm}, 60:1447--1459, 2003.
+
+\bibitem{Sygehusapotekerne2012}
+Amgros.
+\newblock {Automatiserede medicinl{\ae}sninger har stort potentiale}.
+\newblock {\em Sygehusapotekerne i Danmark}, 2012.
 
 \end{thebibliography}

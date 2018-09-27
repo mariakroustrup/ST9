@@ -5,7 +5,7 @@
 \contentsline {section}{\numberline {2.1}L\IeC {\ae }gemiddelskift}{3}{section.2.1}
 \contentsline {section}{\numberline {2.2}Problemstillinger ved l\IeC {\ae }gemiddelskift}{4}{section.2.2}
 \contentsline {section}{\numberline {2.3}Forebyggelse af problemstillinger ved l\IeC {\ae }gemiddelskift}{6}{section.2.3}
-\contentsline {section}{\numberline {2.4}Problemafgr\IeC {\ae }sning}{6}{section.2.4}
+\contentsline {section}{\numberline {2.4}Problemafgr\IeC {\ae }sning}{7}{section.2.4}
 \contentsline {section}{\numberline {2.5}Problemformulering}{7}{section.2.5}
 \contentsline {chapter}{\chapternumberline {3}TIDLIGERE - Problemanalyse}{9}{chapter.3}
 \contentsline {section}{\numberline {3.1}\IeC {\r A}rsager til l\IeC {\ae }gemiddelskift}{9}{section.3.1}
@@ -22,14 +22,23 @@
 \contentsline {section}{\numberline {3.7}Opsummering af problemstillinger}{16}{section.3.7}
 \contentsline {section}{\numberline {3.8}Problemformulering}{16}{section.3.8}
 \contentsline {chapter}{\chapternumberline {4}Metode}{17}{chapter.4}
-\contentsline {chapter}{\chapternumberline {5}Diskussion}{19}{chapter.5}
-\contentsline {chapter}{\chapternumberline {6}Konklusion}{21}{chapter.6}
-\contentsline {chapter}{Litteratur}{23}{section*.5}
-\contentsline {appendix}{\chapternumberline {A}Appendiks}{27}{appendix.A}
-\contentsline {section}{\numberline {A.1}Vurdering af l\IeC {\ae }gemiddel}{27}{section.A.1}
-\contentsline {section}{\numberline {A.2}Vurdering af ligev\IeC {\ae }rdige l\IeC {\ae }gemidler}{28}{section.A.2}
-\contentsline {appendix}{\chapternumberline {B}Appendiks}{29}{appendix.B}
-\contentsline {section}{\numberline {B.1}Udbudstyper ved Amgrosudbud}{29}{section.B.1}
-\contentsline {appendix}{\chapternumberline {C}Appendiks}{31}{appendix.C}
-\contentsline {section}{\numberline {C.1}Indk\IeC {\o }b af l\IeC {\ae }gemidler}{31}{section.C.1}
-\contentsline {appendix}{\chapternumberline {D}Appendiks}{33}{appendix.D}
+\contentsline {section}{\numberline {4.1}Udviklingstrin}{17}{section.4.1}
+\contentsline {section}{\numberline {4.2}Dataindsamling}{17}{section.4.2}
+\contentsline {section}{\numberline {4.3}Data forberedelse}{18}{section.4.3}
+\contentsline {section}{\numberline {4.4}Klassifikation}{18}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Machine learning}{18}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Feature for klassificering}{18}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Neurale netv\IeC {\ae }rk som klassificering}{18}{subsection.4.4.3}
+\contentsline {section}{\numberline {4.5}Validering}{18}{section.4.5}
+\contentsline {chapter}{\chapternumberline {5}Resultat}{19}{chapter.5}
+\contentsline {chapter}{\chapternumberline {6}Diskussion}{21}{chapter.6}
+\contentsline {chapter}{\chapternumberline {7}Konklusion}{23}{chapter.7}
+\contentsline {chapter}{Litteratur}{25}{section*.5}
+\contentsline {appendix}{\chapternumberline {A}Appendiks}{29}{appendix.A}
+\contentsline {section}{\numberline {A.1}Vurdering af l\IeC {\ae }gemiddel}{29}{section.A.1}
+\contentsline {section}{\numberline {A.2}Vurdering af ligev\IeC {\ae }rdige l\IeC {\ae }gemidler}{30}{section.A.2}
+\contentsline {appendix}{\chapternumberline {B}Appendiks}{31}{appendix.B}
+\contentsline {section}{\numberline {B.1}Udbudstyper ved Amgrosudbud}{31}{section.B.1}
+\contentsline {appendix}{\chapternumberline {C}Appendiks}{33}{appendix.C}
+\contentsline {section}{\numberline {C.1}Indk\IeC {\o }b af l\IeC {\ae }gemidler}{33}{section.C.1}
+\contentsline {appendix}{\chapternumberline {D}Appendiks}{35}{appendix.D}

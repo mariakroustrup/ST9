@@ -6,12 +6,10 @@ A level-1 auxiliary file: formalia/forside.aux
 A level-1 auxiliary file: formalia/titelblad.aux
 A level-1 auxiliary file: formalia/laesevejledning.aux
 A level-1 auxiliary file: intro/indledning.aux
-A level-1 auxiliary file: intro/laegemiddelskift.aux
-A level-1 auxiliary file: intro/Implementering.aux
-A level-1 auxiliary file: intro/problem_ved_skift.aux
-A level-1 auxiliary file: intro/loes_ved_skift.aux
-A level-1 auxiliary file: intro/problemafgraensning.aux
+A level-1 auxiliary file: intro/ProblemanalyseNEWNEW.aux
+A level-1 auxiliary file: intro/problemanalyse.aux
 A level-1 auxiliary file: kontekst/metode.aux
+A level-1 auxiliary file: kontekst/resultat.aux
 A level-1 auxiliary file: formalia/Diskussion.aux
 A level-1 auxiliary file: formalia/konklusion.aux
 A level-1 auxiliary file: appendiks/AppendiksA.aux
@@ -23,50 +21,54 @@ Warning--empty journal in EU2017
 Warning--empty journal in DanskSelskabforPatientsikkerhed2009
 Warning--there's a number but no volume in Levtzion-korach2010
 Warning--empty journal in Amgros2018a
-Warning--empty journal in SygehusapoteketRegionNordjylland2013
+Warning--empty journal in Patientombuddet2013
+Warning--empty journal in Sundhedsstyrelsen2005
 Warning--there's a number but no series in HQSC2013
 Warning--empty publisher in HQSC2013
 Warning--there's a number but no volume in ACSQ2011
 Warning--empty institution in Raboel2005
-You've used 25 entries,
+Warning--empty journal in SygehusapoteketRegionNordjylland2013
+Warning--empty journal in Syddanmark2008
+Warning--empty journal in DPSD2008
+You've used 43 entries,
             1791 wiz_defined-function locations,
-            608 strings with 8001 characters,
-and the built_in function-call counts, 4837 in all, are:
-= -- 394
-> -- 251
-< -- 5
-+ -- 97
-- -- 72
-* -- 300
-:= -- 820
-add.period$ -- 73
-call.type$ -- 25
-change.case$ -- 24
+            713 strings with 10636 characters,
+and the built_in function-call counts, 8545 in all, are:
+= -- 713
+> -- 421
+< -- 7
++ -- 163
+- -- 120
+* -- 545
+:= -- 1421
+add.period$ -- 124
+call.type$ -- 43
+change.case$ -- 42
 chr.to.int$ -- 0
-cite$ -- 34
-duplicate$ -- 221
-empty$ -- 457
-format.name$ -- 72
-if$ -- 1041
+cite$ -- 56
+duplicate$ -- 377
+empty$ -- 823
+format.name$ -- 120
+if$ -- 1843
 int.to.chr$ -- 0
-int.to.str$ -- 25
-missing$ -- 22
-newline$ -- 125
-num.names$ -- 25
-pop$ -- 83
+int.to.str$ -- 43
+missing$ -- 37
+newline$ -- 212
+num.names$ -- 43
+pop$ -- 141
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 96
+skip$ -- 164
 stack$ -- 0
-substring$ -- 193
-swap$ -- 41
-text.length$ -- 5
+substring$ -- 438
+swap$ -- 65
+text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 9
-while$ -- 45
-width$ -- 27
-write$ -- 254
-(There were 9 warnings)
+warning$ -- 13
+while$ -- 83
+width$ -- 45
+write$ -- 435
+(There were 13 warnings)
