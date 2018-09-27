@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.9)  27 SEP 2018 09:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.9)  27 SEP 2018 10:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2213,10 +2213,12 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 4.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 4.
-File: billeder/UTH2.png Graphic file (type png)
- <use billeder/UTH2.png>
-Package pdftex.def Info: billeder/UTH2.png used on input line 7.
-(pdftex.def)             Requested size: 213.0pt x 145.11546pt.
+ <billeder/Black_box.png, id=673, 642.4pt x 481.8pt>
+File: billeder/Black_box.png Graphic file (type png)
+
+<use billeder/Black_box.png>
+Package pdftex.def Info: billeder/Black_box.png used on input line 7.
+(pdftex.def)             Requested size: 213.0pt x 159.75171pt.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 12.
 Package babel Info: Redefining danish shorthand "~
@@ -2243,7 +2245,7 @@ Package babel Info: Redefining danish shorthand "~
 
 
 
-]
+ <./billeder/Black_box.png>]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 34.
 Package babel Info: Redefining danish shorthand "~
@@ -2301,7 +2303,8 @@ Package babel Info: Redefining danish shorthand "~
 ]
 \openout2 = `formalia/Diskussion.aux'.
 
- (./formalia/Diskussion.tex
+
+(./formalia/Diskussion.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
@@ -2328,8 +2331,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 51.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 51.
-
-[21]
+ [21]
 \openout2 = `formalia/konklusion.aux'.
 
  (./formalia/konklusion.tex
@@ -2359,7 +2361,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 52.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 52.
- [23] (./Rapport.bbl
+ [23]
+(./Rapport.bbl
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
@@ -2402,8 +2405,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 65.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 65.
-
-[27] (./Rapport.lox)
+ [27] (./Rapport.lox)
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 72.
 Package babel Info: Redefining danish shorthand "~
@@ -2415,7 +2417,8 @@ Package babel Info: Redefining danish shorthand "~
  [28]
 \openout2 = `appendiks/AppendiksA.aux'.
 
- (./appendiks/AppendiksA.tex
+
+(./appendiks/AppendiksA.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
@@ -2425,7 +2428,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 2.
 
-<billeder/Udbud.png, id=741, 935.495pt x 167.62625pt>
+<billeder/Udbud.png, id=743, 935.495pt x 167.62625pt>
 File: billeder/Udbud.png Graphic file (type png)
  <use billeder/Udbud.png>
 Package pdftex.def Info: billeder/Udbud.png used on input line 6.
@@ -2447,7 +2450,7 @@ Package babel Info: Redefining danish shorthand "~
 
 
  <./billeder/Udbud.png>]
-<billeder/Udbud1.png, id=762, 901.3675pt x 141.52875pt>
+<billeder/Udbud1.png, id=764, 901.3675pt x 141.52875pt>
 File: billeder/Udbud1.png Graphic file (type png)
 
 <use billeder/Udbud1.png>
@@ -2550,7 +2553,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 
-<appendiks/Skabelon.pdf, id=806, 597.51233pt x 845.0471pt>
+<appendiks/Skabelon.pdf, id=808, 597.51233pt x 845.0471pt>
 File: appendiks/Skabelon.pdf Graphic file (type pdf)
 
 <use appendiks/Skabelon.pdf>
@@ -2561,7 +2564,7 @@ File: appendiks/Skabelon.pdf Graphic file (type pdf)
 Package pdftex.def Info: appendiks/Skabelon.pdf used on input line 10.
 (pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
 
-<appendiks/Skabelon.pdf, id=809, page=1, 597.51233pt x 845.0471pt>
+<appendiks/Skabelon.pdf, id=811, page=1, 597.51233pt x 845.0471pt>
 File: appendiks/Skabelon.pdf Graphic file (type pdf)
 
 <use appendiks/Skabelon.pdf, page 1>
@@ -2607,7 +2610,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 10.
  [36 <./appendiks/Skabelon.pdf>]
-<appendiks/Estimering.pdf, id=868, 597.51233pt x 845.0471pt>
+<appendiks/Estimering.pdf, id=870, 597.51233pt x 845.0471pt>
 File: appendiks/Estimering.pdf Graphic file (type pdf)
 
 <use appendiks/Estimering.pdf>
@@ -2618,7 +2621,7 @@ File: appendiks/Estimering.pdf Graphic file (type pdf)
 Package pdftex.def Info: appendiks/Estimering.pdf used on input line 11.
 (pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
 
-<appendiks/Estimering.pdf, id=871, page=1, 597.51233pt x 845.0471pt>
+<appendiks/Estimering.pdf, id=873, page=1, 597.51233pt x 845.0471pt>
 File: appendiks/Estimering.pdf Graphic file (type pdf)
 
 <use appendiks/Estimering.pdf, page 1>
@@ -2642,7 +2645,7 @@ Package pdftex.def Info: appendiks/Estimering.pdf, page1 used on input line 11.
 
 (pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
 
-<appendiks/Estimering.pdf, id=872, page=2, 597.51233pt x 845.0471pt>
+<appendiks/Estimering.pdf, id=874, page=2, 597.51233pt x 845.0471pt>
 File: appendiks/Estimering.pdf Graphic file (type pdf)
 
 <use appendiks/Estimering.pdf, page 2>
@@ -2669,7 +2672,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 11.
  [37 <./appendiks/Estimering.pdf>]
-<appendiks/Estimering.pdf, id=939, page=3, 597.51233pt x 845.0471pt>
+<appendiks/Estimering.pdf, id=941, page=3, 597.51233pt x 845.0471pt>
 File: appendiks/Estimering.pdf Graphic file (type pdf)
 
 <use appendiks/Estimering.pdf, page 3>
@@ -2711,7 +2714,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 11.
  [39 <./appendiks/Estimering.pdf>]
-<appendiks/Instruktion.pdf, id=973, 597.51233pt x 845.0471pt>
+<appendiks/Instruktion.pdf, id=975, 597.51233pt x 845.0471pt>
 File: appendiks/Instruktion.pdf Graphic file (type pdf)
 
 <use appendiks/Instruktion.pdf>
@@ -2722,7 +2725,7 @@ File: appendiks/Instruktion.pdf Graphic file (type pdf)
 Package pdftex.def Info: appendiks/Instruktion.pdf used on input line 12.
 (pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
 
-<appendiks/Instruktion.pdf, id=976, page=1, 597.51233pt x 845.0471pt>
+<appendiks/Instruktion.pdf, id=978, page=1, 597.51233pt x 845.0471pt>
 File: appendiks/Instruktion.pdf Graphic file (type pdf)
 
 <use appendiks/Instruktion.pdf, page 1>
@@ -2748,7 +2751,7 @@ Package pdftex.def Info: appendiks/Instruktion.pdf, page1 used on input line 12
 .
 (pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
 
-<appendiks/Instruktion.pdf, id=977, page=2, 597.51233pt x 845.0471pt>
+<appendiks/Instruktion.pdf, id=979, page=2, 597.51233pt x 845.0471pt>
 File: appendiks/Instruktion.pdf Graphic file (type pdf)
 
 <use appendiks/Instruktion.pdf, page 2>
@@ -2834,10 +2837,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 100.
  ) 
 Here is how much of TeX's memory you used:
- 24734 strings out of 493089
- 435942 string characters out of 6134843
+ 24739 strings out of 493089
+ 436062 string characters out of 6134843
  657344 words of memory out of 5000000
- 27589 multiletter control sequences out of 15000+600000
+ 27593 multiletter control sequences out of 15000+600000
  30228 words of font info for 79 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  48i,18n,78p,10499b,1030s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2864,10 +2867,10 @@ ublic/cm-super/sftt0900.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pub
 lic/cm-super/sftt1095.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/b
 ookman/ubkd8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/bookman/u
 bkl8a.pfb>
-Output written on Rapport.pdf (52 pages, 1455475 bytes).
+Output written on Rapport.pdf (52 pages, 1480891 bytes).
 PDF statistics:
- 1169 PDF objects out of 1200 (max. 8388607)
+ 1171 PDF objects out of 1200 (max. 8388607)
  959 compressed objects within 10 object streams
  167 named destinations out of 1000 (max. 500000)
- 483 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 488 words of extra memory for PDF output out of 10000 (max. 10000000)
 
