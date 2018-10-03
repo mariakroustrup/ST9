@@ -7,38 +7,42 @@
 \BOOKMARK [1][-]{section.2.3}{Forebyggelse af problemstillinger ved l\346gemiddelskift}{chapter.2}% 7
 \BOOKMARK [1][-]{section.2.4}{Problemafgr\346sning}{chapter.2}% 8
 \BOOKMARK [1][-]{section.2.5}{Problemformulering}{chapter.2}% 9
-\BOOKMARK [0][-]{chapter.3}{TIDLIGERE - Problemanalyse}{}% 10
-\BOOKMARK [1][-]{section.3.1}{\305rsager til l\346gemiddelskift}{chapter.3}% 11
-\BOOKMARK [1][-]{section.3.2}{L\346gemiddeludbud}{chapter.3}% 12
-\BOOKMARK [1][-]{section.3.3}{Indk\370b af l\346gemidler}{chapter.3}% 13
-\BOOKMARK [1][-]{section.3.4}{Implementering af l\346gemiddelskift}{chapter.3}% 14
-\BOOKMARK [1][-]{section.3.5}{Problemstillinger ved l\346gemiddelskift}{chapter.3}% 15
-\BOOKMARK [2][-]{subsection.3.5.1}{Utilsigtede h\346ndelser ved kontraktskift}{section.3.5}% 16
-\BOOKMARK [2][-]{subsection.3.5.2}{Utilsigtede h\346ndelser ved restordre}{section.3.5}% 17
-\BOOKMARK [1][-]{section.3.6}{Forebyggelse af utilsigtede h\346ndelser}{chapter.3}% 18
-\BOOKMARK [2][-]{subsection.3.6.1}{Elektronisk patientmedicinering}{section.3.6}% 19
-\BOOKMARK [2][-]{subsection.3.6.2}{Stregkode scanning}{section.3.6}% 20
-\BOOKMARK [2][-]{subsection.3.6.3}{Klar-til-brug l\346gemidler}{section.3.6}% 21
-\BOOKMARK [1][-]{section.3.7}{Opsummering af problemstillinger}{chapter.3}% 22
-\BOOKMARK [1][-]{section.3.8}{Problemformulering}{chapter.3}% 23
-\BOOKMARK [0][-]{chapter.4}{Metode}{}% 24
-\BOOKMARK [1][-]{section.4.1}{Udviklingstrin}{chapter.4}% 25
-\BOOKMARK [1][-]{section.4.2}{Dataindsamling}{chapter.4}% 26
-\BOOKMARK [1][-]{section.4.3}{Data forberedelse}{chapter.4}% 27
-\BOOKMARK [1][-]{section.4.4}{Klassifikation}{chapter.4}% 28
-\BOOKMARK [2][-]{subsection.4.4.1}{Machine learning}{section.4.4}% 29
-\BOOKMARK [2][-]{subsection.4.4.2}{Feature for klassificering}{section.4.4}% 30
-\BOOKMARK [2][-]{subsection.4.4.3}{Neurale netv\346rk som klassificering}{section.4.4}% 31
-\BOOKMARK [1][-]{section.4.5}{Validering}{chapter.4}% 32
-\BOOKMARK [0][-]{chapter.5}{Resultat}{}% 33
-\BOOKMARK [0][-]{chapter.6}{Diskussion}{}% 34
-\BOOKMARK [0][-]{chapter.7}{Konklusion}{}% 35
-\BOOKMARK [0][-]{section*.5}{Litteratur}{}% 36
-\BOOKMARK [0][-]{appendix.A}{Appendiks}{}% 37
-\BOOKMARK [1][-]{section.A.1}{Vurdering af l\346gemiddel}{appendix.A}% 38
-\BOOKMARK [1][-]{section.A.2}{Vurdering af ligev\346rdige l\346gemidler}{appendix.A}% 39
-\BOOKMARK [0][-]{appendix.B}{Appendiks}{}% 40
-\BOOKMARK [1][-]{section.B.1}{Udbudstyper ved Amgrosudbud}{appendix.B}% 41
-\BOOKMARK [0][-]{appendix.C}{Appendiks}{}% 42
-\BOOKMARK [1][-]{section.C.1}{Indk\370b af l\346gemidler}{appendix.C}% 43
-\BOOKMARK [0][-]{appendix.D}{Appendiks}{}% 44
+\BOOKMARK [0][-]{chapter.3}{Teknologier}{}% 10
+\BOOKMARK [1][-]{section.3.1}{Ordination}{chapter.3}% 11
+\BOOKMARK [1][-]{section.3.2}{Dispensering}{chapter.3}% 12
+\BOOKMARK [1][-]{section.3.3}{Administration}{chapter.3}% 13
+\BOOKMARK [0][-]{chapter.4}{TIDLIGERE - Problemanalyse}{}% 14
+\BOOKMARK [1][-]{section.4.1}{\305rsager til l\346gemiddelskift}{chapter.4}% 15
+\BOOKMARK [1][-]{section.4.2}{L\346gemiddeludbud}{chapter.4}% 16
+\BOOKMARK [1][-]{section.4.3}{Indk\370b af l\346gemidler}{chapter.4}% 17
+\BOOKMARK [1][-]{section.4.4}{Implementering af l\346gemiddelskift}{chapter.4}% 18
+\BOOKMARK [1][-]{section.4.5}{Problemstillinger ved l\346gemiddelskift}{chapter.4}% 19
+\BOOKMARK [2][-]{subsection.4.5.1}{Utilsigtede h\346ndelser ved kontraktskift}{section.4.5}% 20
+\BOOKMARK [2][-]{subsection.4.5.2}{Utilsigtede h\346ndelser ved restordre}{section.4.5}% 21
+\BOOKMARK [1][-]{section.4.6}{Forebyggelse af utilsigtede h\346ndelser}{chapter.4}% 22
+\BOOKMARK [2][-]{subsection.4.6.1}{Elektronisk patientmedicinering}{section.4.6}% 23
+\BOOKMARK [2][-]{subsection.4.6.2}{Stregkode scanning}{section.4.6}% 24
+\BOOKMARK [2][-]{subsection.4.6.3}{Klar-til-brug l\346gemidler}{section.4.6}% 25
+\BOOKMARK [1][-]{section.4.7}{Opsummering af problemstillinger}{chapter.4}% 26
+\BOOKMARK [1][-]{section.4.8}{Problemformulering}{chapter.4}% 27
+\BOOKMARK [0][-]{chapter.5}{Metode}{}% 28
+\BOOKMARK [1][-]{section.5.1}{Udviklingstrin}{chapter.5}% 29
+\BOOKMARK [1][-]{section.5.2}{Dataindsamling}{chapter.5}% 30
+\BOOKMARK [1][-]{section.5.3}{Data forberedelse}{chapter.5}% 31
+\BOOKMARK [1][-]{section.5.4}{Klassifikation}{chapter.5}% 32
+\BOOKMARK [2][-]{subsection.5.4.1}{Machine learning}{section.5.4}% 33
+\BOOKMARK [2][-]{subsection.5.4.2}{Feature for klassificering}{section.5.4}% 34
+\BOOKMARK [2][-]{subsection.5.4.3}{Neurale netv\346rk som klassificering}{section.5.4}% 35
+\BOOKMARK [1][-]{section.5.5}{Validering}{chapter.5}% 36
+\BOOKMARK [0][-]{chapter.6}{Resultat}{}% 37
+\BOOKMARK [0][-]{chapter.7}{Diskussion}{}% 38
+\BOOKMARK [0][-]{chapter.8}{Konklusion}{}% 39
+\BOOKMARK [0][-]{section*.5}{Litteratur}{}% 40
+\BOOKMARK [0][-]{appendix.A}{Appendiks}{}% 41
+\BOOKMARK [1][-]{section.A.1}{Vurdering af l\346gemiddel}{appendix.A}% 42
+\BOOKMARK [1][-]{section.A.2}{Vurdering af ligev\346rdige l\346gemidler}{appendix.A}% 43
+\BOOKMARK [0][-]{appendix.B}{Appendiks}{}% 44
+\BOOKMARK [1][-]{section.B.1}{Udbudstyper ved Amgrosudbud}{appendix.B}% 45
+\BOOKMARK [0][-]{appendix.C}{Appendiks}{}% 46
+\BOOKMARK [1][-]{section.C.1}{Indk\370b af l\346gemidler}{appendix.C}% 47
+\BOOKMARK [0][-]{appendix.D}{Appendiks}{}% 48

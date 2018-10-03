@@ -7,38 +7,42 @@
 \contentsline {section}{\numberline {2.3}Forebyggelse af problemstillinger ved l\IeC {\ae }gemiddelskift}{6}{section.2.3}
 \contentsline {section}{\numberline {2.4}Problemafgr\IeC {\ae }sning}{7}{section.2.4}
 \contentsline {section}{\numberline {2.5}Problemformulering}{7}{section.2.5}
-\contentsline {chapter}{\chapternumberline {3}TIDLIGERE - Problemanalyse}{9}{chapter.3}
-\contentsline {section}{\numberline {3.1}\IeC {\r A}rsager til l\IeC {\ae }gemiddelskift}{9}{section.3.1}
-\contentsline {section}{\numberline {3.2}L\IeC {\ae }gemiddeludbud}{9}{section.3.2}
-\contentsline {section}{\numberline {3.3}Indk\IeC {\o }b af l\IeC {\ae }gemidler}{10}{section.3.3}
-\contentsline {section}{\numberline {3.4}Implementering af l\IeC {\ae }gemiddelskift}{11}{section.3.4}
-\contentsline {section}{\numberline {3.5}Problemstillinger ved l\IeC {\ae }gemiddelskift}{12}{section.3.5}
-\contentsline {subsection}{\numberline {3.5.1}Utilsigtede h\IeC {\ae }ndelser ved kontraktskift}{13}{subsection.3.5.1}
-\contentsline {subsection}{\numberline {3.5.2}Utilsigtede h\IeC {\ae }ndelser ved restordre}{14}{subsection.3.5.2}
-\contentsline {section}{\numberline {3.6}Forebyggelse af utilsigtede h\IeC {\ae }ndelser}{15}{section.3.6}
-\contentsline {subsection}{\numberline {3.6.1}Elektronisk patientmedicinering}{15}{subsection.3.6.1}
-\contentsline {subsection}{\numberline {3.6.2}Stregkode scanning}{16}{subsection.3.6.2}
-\contentsline {subsection}{\numberline {3.6.3}Klar-til-brug l\IeC {\ae }gemidler}{16}{subsection.3.6.3}
-\contentsline {section}{\numberline {3.7}Opsummering af problemstillinger}{16}{section.3.7}
-\contentsline {section}{\numberline {3.8}Problemformulering}{16}{section.3.8}
-\contentsline {chapter}{\chapternumberline {4}Metode}{17}{chapter.4}
-\contentsline {section}{\numberline {4.1}Udviklingstrin}{17}{section.4.1}
-\contentsline {section}{\numberline {4.2}Dataindsamling}{17}{section.4.2}
-\contentsline {section}{\numberline {4.3}Data forberedelse}{18}{section.4.3}
-\contentsline {section}{\numberline {4.4}Klassifikation}{18}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Machine learning}{18}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Feature for klassificering}{18}{subsection.4.4.2}
-\contentsline {subsection}{\numberline {4.4.3}Neurale netv\IeC {\ae }rk som klassificering}{18}{subsection.4.4.3}
-\contentsline {section}{\numberline {4.5}Validering}{18}{section.4.5}
-\contentsline {chapter}{\chapternumberline {5}Resultat}{19}{chapter.5}
-\contentsline {chapter}{\chapternumberline {6}Diskussion}{21}{chapter.6}
-\contentsline {chapter}{\chapternumberline {7}Konklusion}{23}{chapter.7}
-\contentsline {chapter}{Litteratur}{25}{section*.5}
-\contentsline {appendix}{\chapternumberline {A}Appendiks}{29}{appendix.A}
-\contentsline {section}{\numberline {A.1}Vurdering af l\IeC {\ae }gemiddel}{29}{section.A.1}
-\contentsline {section}{\numberline {A.2}Vurdering af ligev\IeC {\ae }rdige l\IeC {\ae }gemidler}{30}{section.A.2}
-\contentsline {appendix}{\chapternumberline {B}Appendiks}{31}{appendix.B}
-\contentsline {section}{\numberline {B.1}Udbudstyper ved Amgrosudbud}{31}{section.B.1}
-\contentsline {appendix}{\chapternumberline {C}Appendiks}{33}{appendix.C}
-\contentsline {section}{\numberline {C.1}Indk\IeC {\o }b af l\IeC {\ae }gemidler}{33}{section.C.1}
-\contentsline {appendix}{\chapternumberline {D}Appendiks}{35}{appendix.D}
+\contentsline {chapter}{\chapternumberline {3}Teknologier}{9}{chapter.3}
+\contentsline {section}{\numberline {3.1}Ordination}{9}{section.3.1}
+\contentsline {section}{\numberline {3.2}Dispensering}{9}{section.3.2}
+\contentsline {section}{\numberline {3.3}Administration}{9}{section.3.3}
+\contentsline {chapter}{\chapternumberline {4}TIDLIGERE - Problemanalyse}{11}{chapter.4}
+\contentsline {section}{\numberline {4.1}\IeC {\r A}rsager til l\IeC {\ae }gemiddelskift}{11}{section.4.1}
+\contentsline {section}{\numberline {4.2}L\IeC {\ae }gemiddeludbud}{11}{section.4.2}
+\contentsline {section}{\numberline {4.3}Indk\IeC {\o }b af l\IeC {\ae }gemidler}{12}{section.4.3}
+\contentsline {section}{\numberline {4.4}Implementering af l\IeC {\ae }gemiddelskift}{13}{section.4.4}
+\contentsline {section}{\numberline {4.5}Problemstillinger ved l\IeC {\ae }gemiddelskift}{14}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Utilsigtede h\IeC {\ae }ndelser ved kontraktskift}{15}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}Utilsigtede h\IeC {\ae }ndelser ved restordre}{16}{subsection.4.5.2}
+\contentsline {section}{\numberline {4.6}Forebyggelse af utilsigtede h\IeC {\ae }ndelser}{17}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}Elektronisk patientmedicinering}{17}{subsection.4.6.1}
+\contentsline {subsection}{\numberline {4.6.2}Stregkode scanning}{18}{subsection.4.6.2}
+\contentsline {subsection}{\numberline {4.6.3}Klar-til-brug l\IeC {\ae }gemidler}{18}{subsection.4.6.3}
+\contentsline {section}{\numberline {4.7}Opsummering af problemstillinger}{18}{section.4.7}
+\contentsline {section}{\numberline {4.8}Problemformulering}{18}{section.4.8}
+\contentsline {chapter}{\chapternumberline {5}Metode}{19}{chapter.5}
+\contentsline {section}{\numberline {5.1}Udviklingstrin}{19}{section.5.1}
+\contentsline {section}{\numberline {5.2}Dataindsamling}{19}{section.5.2}
+\contentsline {section}{\numberline {5.3}Data forberedelse}{20}{section.5.3}
+\contentsline {section}{\numberline {5.4}Klassifikation}{20}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Machine learning}{20}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Feature for klassificering}{20}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}Neurale netv\IeC {\ae }rk som klassificering}{20}{subsection.5.4.3}
+\contentsline {section}{\numberline {5.5}Validering}{20}{section.5.5}
+\contentsline {chapter}{\chapternumberline {6}Resultat}{21}{chapter.6}
+\contentsline {chapter}{\chapternumberline {7}Diskussion}{23}{chapter.7}
+\contentsline {chapter}{\chapternumberline {8}Konklusion}{25}{chapter.8}
+\contentsline {chapter}{Litteratur}{27}{section*.5}
+\contentsline {appendix}{\chapternumberline {A}Appendiks}{31}{appendix.A}
+\contentsline {section}{\numberline {A.1}Vurdering af l\IeC {\ae }gemiddel}{31}{section.A.1}
+\contentsline {section}{\numberline {A.2}Vurdering af ligev\IeC {\ae }rdige l\IeC {\ae }gemidler}{32}{section.A.2}
+\contentsline {appendix}{\chapternumberline {B}Appendiks}{33}{appendix.B}
+\contentsline {section}{\numberline {B.1}Udbudstyper ved Amgrosudbud}{33}{section.B.1}
+\contentsline {appendix}{\chapternumberline {C}Appendiks}{35}{appendix.C}
+\contentsline {section}{\numberline {C.1}Indk\IeC {\o }b af l\IeC {\ae }gemidler}{35}{section.C.1}
+\contentsline {appendix}{\chapternumberline {D}Appendiks}{37}{appendix.D}
