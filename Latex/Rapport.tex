@@ -8,12 +8,12 @@
 \frontmatter													% Forindhold - nummereres med romertal
 
 \include{formalia/forside}
-\cleardoublepage												% Indsaetter tom side, saa naeste kapitel starter paa hoejre side (hvis noedvendigt)
-\include{formalia/titelblad}
+%SKAL INDSÆTTES\cleardoublepage												% Indsaetter tom side, saa naeste kapitel starter paa hoejre side (hvis noedvendigt)
+%\include{formalia/titelblad}
 %\include{formalia/abstract}
-\cleardoublepage
+%SKAL INDSÆTTES\cleardoublepage
 %\include{formalia/forord}
-\include{formalia/laesevejledning}
+%\include{formalia/laesevejledning}
 
 
 %%%% Indholdsfortegnelse (TOC) %%%%
@@ -30,50 +30,49 @@
 %%%% Rapportindhold %%%% 										% Rapportindholdet boer IKKE indeholde broedtekst - KUN includede filer!
 
 %% Indledende %%												% Opdel evt. i passende afsnit for overblikkets skyld
-\include{intro/indledning}
 
-%% Problemanalyse %%
-\include{intro/ProblemanalyseNEWNEW}
-\include{intro/Teknologier}
-%\include{intro/laegemiddelskift}
-%\include{intro/Implementering}
-%\include{intro/problem_ved_skift}
-%\include{intro/loes_ved_skift}
-%\include{intro/problemafgraensning}
+\include{Statusseminar/statusseminar}
 
-
-\include{intro/problemanalyse}
-
-%% Kontekst %%
-\include{kontekst/metode}
-\include{kontekst/resultat}
-%% Afrunding %%
-
-\include{formalia/Diskussion}
-\include{formalia/konklusion}
-
+%\include{intro/indledning}
+%
+%%% Problemanalyse %%
+%\include{intro/ProblemanalyseNEWNEW}
+%\include{intro/Teknologier}
+%
+%
+%%\include{intro/laegemiddelskift}%\include{intro/Implementering}%\include{intro/problem_ved_skift}%\include{intro/loes_ved_skift}%\include{intro/problemafgraensning}
+%
+%
+%\include{intro/problemanalyse}
+%
+%%% Kontekst %%
+%\include{kontekst/metode}
+%\include{kontekst/resultat}
+%%% Afrunding %%
+%
+%\include{formalia/Diskussion}
+%\include{formalia 
 
 %%%% Kilder %%%%
 
 \begingroup
-	\raggedright
-	\bibliography{bibtex/Maria}							% Litteraturlisten inkluderes
+	\raggedright	\bibliography{bibtex/Maria}							% Litteraturlisten inkluderes
 \endgroup
 
 
 %%%% Fixme-listen %%%%
 
-\newpage														% Ny side til Fixme-listen
-\listoffixmes													% Fixme-listen - fjernes til sidst i projektet med "%"
+%SKAL INDSÆTTES\newpage														% Ny side til Fixme-listen
+%SKAL INDSÆTTES\listoffixmes													% Fixme-listen - fjernes til sidst i projektet med "%"
 
 
 %%%% Appendiks %%%%
 
 \appendix
-\include{appendiks/AppendiksA}
-\include{appendiks/AppendiksB}
-\include{appendiks/AppendiksC}
-\include{appendiks/AppendiksD}
+%\include{appendiks/AppendiksA}
+%\include{appendiks/AppendiksB}
+%\include{appendiks/AppendiksC}
+%\include{appendiks/AppendiksD}
 														% Appendiks/bilag start - giver chapter bogstaver i stedet for tal
 \clearforchapter												% Sikrer at pagestylen aktiveres paa den rigtige side
 \phantomsection													% Kunstigt afsnit, som hyperlinks kan 'holde fast i'

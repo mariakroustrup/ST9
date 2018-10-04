@@ -3,73 +3,49 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Rapport.aux
 The style file: unsrt.bst
 A level-1 auxiliary file: formalia/forside.aux
-A level-1 auxiliary file: formalia/titelblad.aux
-A level-1 auxiliary file: formalia/laesevejledning.aux
-A level-1 auxiliary file: intro/indledning.aux
-A level-1 auxiliary file: intro/ProblemanalyseNEWNEW.aux
-A level-1 auxiliary file: intro/Teknologier.aux
-A level-1 auxiliary file: intro/problemanalyse.aux
-A level-1 auxiliary file: kontekst/metode.aux
-A level-1 auxiliary file: kontekst/resultat.aux
-A level-1 auxiliary file: formalia/Diskussion.aux
-A level-1 auxiliary file: formalia/konklusion.aux
-A level-1 auxiliary file: appendiks/AppendiksA.aux
-A level-1 auxiliary file: appendiks/AppendiksB.aux
-A level-1 auxiliary file: appendiks/AppendiksC.aux
-A level-1 auxiliary file: appendiks/AppendiksD.aux
+A level-1 auxiliary file: Statusseminar/statusseminar.aux
 Database file #1: bibtex/Maria.bib
-Warning--empty journal in EU2017
 Warning--empty journal in DanskSelskabforPatientsikkerhed2009
-Warning--there's a number but no volume in Levtzion-korach2010
-Warning--empty journal in Amgros2018a
-Warning--empty journal in Patientombuddet2013
-Warning--empty journal in Sundhedsstyrelsen2005
-Warning--there's a number but no series in HQSC2013
-Warning--empty publisher in HQSC2013
-Warning--there's a number but no volume in ACSQ2011
-Warning--empty institution in Raboel2005
-Warning--empty journal in SygehusapoteketRegionNordjylland2013
-Warning--empty journal in Syddanmark2008
-Warning--empty journal in DPSD2008
-You've used 44 entries,
+Warning--can't use both author and editor fields in Ligeza2006
+You've used 9 entries,
             1791 wiz_defined-function locations,
-            721 strings with 10810 characters,
-and the built_in function-call counts, 8767 in all, are:
-= -- 736
-> -- 425
-< -- 7
-+ -- 165
-- -- 121
-* -- 562
-:= -- 1455
-add.period$ -- 127
-call.type$ -- 44
-change.case$ -- 43
+            511 strings with 5085 characters,
+and the built_in function-call counts, 1793 in all, are:
+= -- 157
+> -- 72
+< -- 1
++ -- 29
+- -- 20
+* -- 114
+:= -- 295
+add.period$ -- 26
+call.type$ -- 9
+change.case$ -- 8
 chr.to.int$ -- 0
-cite$ -- 57
-duplicate$ -- 386
-empty$ -- 847
-format.name$ -- 121
-if$ -- 1891
+cite$ -- 11
+duplicate$ -- 81
+empty$ -- 181
+format.name$ -- 20
+if$ -- 388
 int.to.chr$ -- 0
-int.to.str$ -- 44
-missing$ -- 38
-newline$ -- 217
-num.names$ -- 44
-pop$ -- 142
+int.to.str$ -- 9
+missing$ -- 9
+newline$ -- 47
+num.names$ -- 9
+pop$ -- 28
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 167
+skip$ -- 33
 stack$ -- 0
-substring$ -- 463
-swap$ -- 66
-text.length$ -- 7
+substring$ -- 104
+swap$ -- 14
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 13
-while$ -- 86
-width$ -- 46
-write$ -- 446
-(There were 13 warnings)
+warning$ -- 2
+while$ -- 20
+width$ -- 10
+write$ -- 94
+(There were 2 warnings)

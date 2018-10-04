@@ -27,23 +27,87 @@ Problem & 103 & ATC-kode, Generisk navn, Firma, Varenummer, Varenavn, Udbudsgrup
 
 
 
+\section{Metode baggrund}
+Der er to typer af mashine learning herunder unsupervised og supervised, da input-output relationer er kendt anvendes supervised machine learning. Inden for supervised learning anvendes kategorisering eller regression. Kategorisering identificerer en ny observation til et sæt af kategorier på baggrund af et træningssæt af data, hvor outputtet er kendt. Et eksempel på dette kan være at tildele en diagnose til en given patient baseret på patientens observerede egenskaber som f.eks. køn, blodtryk, tilstedeværelse eller fravær af visse symptomer. 
+
+De enkelte observationer er ofte analyseret i et sæt kvantificerbare egenskaber, som er kendt forskelligt som forklarende variabler. Disse variabler kan have forskellige kategorier f.eks. stor, medium eller lille. Det kan også være antallet af forekomster af et  bestem ord. Andre klassifikationer arbejder med at sammenligne observationer til tidligere observationer ved brug af lighed og afstandsfunktioner.
+
+En algoritme med disse egenskaber betegnes som en klassifikator, som henviser til den matematiske funktion, implementeret af en klassifikationsalgoritme, som kortlægger input til en kategori.
+
+I maskinlæring er observationerne ofte kendt som forekomster, de forklarende variabler betegnes funktioner (grupperet i en funktionsvektor), og de mulige kategorier, der skal forudsiges, er klasser. 
+
+\section{Regel-baseret system}
+Tænkning i fakta og regler er måske en af ​​de mest almindelige måder at nærme sig problem definition og problemløsning både i hverdagen
+liv og under mere formelle omstændigheder.
+Det ønskes at udarbejde et regel-baseret system som kan gemme og manipulere viden til at fortolke information på en nyttig måde. Er adopteret fra artificial intelligence (AI) og knowledge engineering (KE). Regel-baseret systemer er sæt af regler, der efterligner logiske konsekvenser. Regel-baserede systemet udgør et kraftfuldt værktøj til specifikation af viden inden for design og implementering af vidensbaserede systemer (KBS) inden for anvendt kunstig intelligens og vidensteknik. 
+
+Logiske regler
+er dem defineret af mennesket; de er normalt subjektive, lokale, kan ændres
+Hvis det er nødvendigt. Selvom regelbaserede systemer er et værktøj allestedsnærværende inden for videnskab, teknologi
+og hverdagen er deres kodning, analyse og design sjældent et spørgsmål om
+dybere teoretisk undersøgelse I de fleste af applikationsområderne bruges de netop (bevidst eller ubevidst) på en retfærdig måde, anvendt til at løse specifikt problem uden at være opmærksom på spørgsmål som deres egenskaber,
+sprog, optimering osv. Selvom regelbaseret indledning ikke er
+Den eneste mulighed for argumentation, logiske systemer er for det meste konstrueret som
+sammensat af aksiomer (fakta) og indledning regler.
+
+RBS til kontrol eller beslutningsstøtte
+består af et enkeltlags sæt regler og en simpel inference-motor; det virker ved
+Valg og udførelse af en enkelt regel ad gangen, forudsat at forudsætningerne
+af reglen er opfyldt i den nuværende tilstand. 
+At sikre pålidelighed, sikkerhed, kvalitet og effektivitet i regelbaserede systemer kræver både teoretisk indsigt
+og udvikling af praktiske værktøjer. De generelle kvalitative egenskaber er
+oversat til en række mere detaljerede egenskaber defineret i form af
+logiske forhold.
+
+For at opnå et rimeligt niveau af effektivitet (videnskabens kvalitet)
+regelsættet skal udformes på en passende måde. Flere teoretiske
+Egenskaber ved regelbaserede systemer synes at være værd at undersøge, begge
+at give en dybere teoretisk indsigt i forståelsen af ​​deres kapacitet
+og forsikre deres tilfredsstillende ydeevne, f.eks. pålidelighed og kvalitet. Nogle mest typiske spørgsmål om teoretisk verifikation
+inkludere tilfredshed med egenskaber som konsistens, fuldstændighed, determinisme,
+redundans, subsumption mv. (se [3, 81, 101]).
+
+Men selv om teknologien i RBS bliver
+mere og mere bredt anvendt i praksis på grund af dets forhold til første orden
+logik og undertiden komplekse regelmønstre og inferencesystemer, de er stadig ikke godt accepteret af industrielle ingeniører.Desuden er den 'korrekte' brug af dem kræver meget intuition og domæneoplevelse og vidensamfund
+udgør stadig en flaskehals for mange potentielle anvendelser.
+
+I modsætning til RBS, Relational Data Base Systems (RDBS) [23, 30, 38, 131]
+tilbyder relativt enkel, men modnet dataprofileringsteknologi, der anvender
+bredt accepteret, intuitiv vidensrepræsentation i tabelform. Det ser ud til
+fordelagtigt at gøre brug af elementer af denne teknologi til at forenkle visse
+operationer vedrørende RBS.
 
 
+%Anvendelse af regel-baseret systemer til vidensspecifikation og udvikling af praktiske applikationer er udbredt. Regel-baseret systemer anvender første orden logik, komplekse regel-mønstre og initiativer, hvilket gør at disse systemer kræver meget intuition og domæne erfaring for korrekt brug af systemet. Reglerne er baseret ud fra følgende princip:
+%\vspace{-5mm}
+%\begin{equation}
+%Regel: Foruds\text{æ}tninger \rightarrow Konklusioner 
+%\end{equation}
+%Forudsætninger indeholder en formel, som definere hvornår regelen skal anvendes. Konklusioner definere effekten af at anvende reglen, herunder logisk attribut formel. 
+%
+%\begin{figure}[H]\centering	\includegraphics[width=1\textwidth]{Statusseminar/metode.png} 
+%	\caption{XXXX.}
+%	\label{fig:metode}  
+%\end{figure}
+%
+%
+%Da input-output relationen allerede er kendt anvendes supervised machine learning. Da formålet er at identificere hvilken kategori en ny observation tilhører anvendes klassificering.  
 
-
-\section{Data forberedelse} / Model
-- segmentation
-- farvetransformation - text/tal
-
-\section{Klassifikation}
-\subsection{Machine learning}
-\subsection{Feature for klassificering}
-\subsection{Neurale netværk som klassificering}
-
-\section{Validering}
-- klassificering performance matrics 
-
-
-dataindsamling
-data processering 
-feature extraction 
+%
+%\section{Data forberedelse} / Model
+%- segmentation
+%- farvetransformation - text/tal
+%
+%\section{Klassifikation}
+%\subsection{Machine learning}
+%\subsection{Feature for klassificering}
+%\subsection{Neurale netværk som klassificering}
+%
+%\section{Validering}
+%- klassificering performance matrics 
+%
+%
+%dataindsamling
+%data processering 
+%feature extraction 

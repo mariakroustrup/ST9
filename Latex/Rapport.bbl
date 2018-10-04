@@ -1,19 +1,9 @@
-\begin{thebibliography}{10}
-
-\bibitem{Laegemiddelinformaion2017}
-Lecia~M. Nielsen.
-\newblock {Et l{\ae}gemiddel g{\aa}r i restordre}.
-\newblock {\em L{\ae}gemiddelinformation}, 2017.
+\begin{thebibliography}{1}
 
 \bibitem{Ess2003}
 Silvia~M Ess, Sebastian Schneeweiss, and Thomas~D Szucs.
 \newblock {European Health Care Policies for Controlling Drug Expenditures}.
 \newblock {\em Pharmacoeconomics}, 21(2):89--103, 2003.
-
-\bibitem{EU2017}
-State of~Health in~the EU and Danmark.
-\newblock {Danmark}.
-\newblock 2017.
 
 \bibitem{Sundhed2016}
 {Sundheds- og {\AE}ldreministeriet}.
@@ -35,10 +25,6 @@ Flemming Sonne.
 \newblock {Et patientsikkerhedsperspektiv p{\aa} medicinering i Danmark}.
 \newblock 2009.
 
-\bibitem{Sygehusapoteket2017a}
-Sygehusapoteket.
-\newblock {L{\ae}gemiddelskift Instruktion}, 2016.
-
 \bibitem{Hakonsen2010}
 Helle H{\aa}konsen, Heidi~Skj{\o}nhaug Hopen, Linda Abelsen, Bj{\o}rg Ek, and
   Else~Lydia Toverud.
@@ -46,20 +32,10 @@ Helle H{\aa}konsen, Heidi~Skj{\o}nhaug Hopen, Linda Abelsen, Bj{\o}rg Ek, and
   in hospitals}.
 \newblock {\em Advances in Therapy}, 27(2):118--126, 2010.
 
-\bibitem{Poon2006}
-Eric~G. Poon, Jennifer~L. Cina, William Churchill, Nirali Patel, Erica
-  Featherstone, Jeffrey~M. Rothschild, Carol~A. Keohane, Anthony~D. Whittemore,
-  David~W. Bates, and Tejal~K. Gandhi.
-\newblock {Medication dispensing errors and potential adverse drug events
-  before and after implementing bar code technology in the pharmacy}.
-\newblock {\em Annals of Internal Medicine}, 145(6):426--434, 2006.
-
-\bibitem{Levtzion-korach2010}
-Osnat Levtzion-korach, Thomas Moniz, D~Pharm, Anthony~D Whittemore, David~W
-  Bates, and Tejal~K Gandhi.
-\newblock {Effect of Bar-Code Technology on the Safety of Medication
-  Administration}.
-\newblock {\em N Engl J Med}, (18), 2010.
+\bibitem{Agrawal2009}
+Abha Agrawal.
+\newblock {Medication errors: Prevention using information technology systems}.
+\newblock {\em British Journal of Clinical Pharmacology}, 67(6):681--686, 2009.
 
 \bibitem{Campmans2018}
 Zizi Campmans, Arianne {Van Rhijn}, Ren{\'{e}}~M. Dull, Jacqueline
@@ -68,180 +44,9 @@ Zizi Campmans, Arianne {Van Rhijn}, Ren{\'{e}}~M. Dull, Jacqueline
   pharmacy information system—A survey of users}.
 \newblock {\em PLoS ONE}, 13(5):1--11, 2018.
 
-\bibitem{DanskeRegioner2016}
-Thomas~Birk Andersen and Ann VIlhelmsen.
-\newblock {Model for vurdering af l{\ae}gemidler}.
-\newblock {\em Danske Regioner}, 2016.
-
-\bibitem{Amgros2018a}
-Amgros.
-\newblock {Udbudstyper og deres betydning}.
-\newblock pages 1--5, 2018.
-
-\bibitem{Patientombuddet2013}
-Patientombuddet.
-\newblock {{\AA}rsberetning 2013, Dansk Patientsikkerheds Database Del 1}.
-\newblock 2014.
-
-\bibitem{Jensen2014}
-Jens~Winther Jensen.
-\newblock {{\AA}rsrapport 2014 patientsikkerhed}.
-\newblock {\em Region Nordjylland}, 2014.
-
-\bibitem{Barker2002}
-Kenneth N.Barker, Elizabeth~A Flynn, Ginette A.Pepper, David W.Bates, and
-  Robert~L Mikeal.
-\newblock {Medication Errors Observed in 36 Healthcare Facilities}.
-\newblock {\em Arch Intern Med.}, 162:1897--1903, 2002.
-
-\bibitem{Sundhedsstyrelsen2005}
-Sundhedsstyrelsen.
-\newblock {Temarapport 2005: Medicinering}.
-\newblock page~31, 2005.
-
-\bibitem{Lisby2005}
-Marianne Lisby, Lars~Peter Nielsen, and Jan Mainz.
-\newblock {Errors in the medication process: Frequency, type, and potential
-  clinical consequences}.
-\newblock {\em International Journal for Quality in Health Care}, 17(1):15--22,
-  2005.
-
-\bibitem{Tully2009}
-Mary~P. Tully and Iain~E. Buchan.
-\newblock {Prescribing errors during hospital inpatient care: Factors
-  influencing identification by pharmacists}.
-\newblock {\em Pharmacy World and Science}, 31(6):682--688, 2009.
-
-\bibitem{Amgros2013}
-Sonne Flemming.
-\newblock {Status og perspektiver 2012-2013}.
-\newblock {\em Amgros}, 2013.
-
-\bibitem{ISMP2011}
-ISMP.
-\newblock {FDA and ISMP Lists of Look-Alike Drug Names with Recommended Tall
-  Man Letters}.
-\newblock {\em Institute for Safe Medication Practices}, page 2008, 2011.
-
-\bibitem{HQSC2013}
-{Health Quality {\&} Safety Commission New Zealand (HQSC)}.
-\newblock {\em {Tall Man Lettering List. Report December 2013.}}
-\newblock Number December. 2013.
-
-\bibitem{ACSQ2011}
-{Australian Commission on Safety and Quality in Healthcare}.
-\newblock {National Tall Man Lettering List}.
-\newblock {\em Commonwealth of Australia}, (November), 2011.
-
-\bibitem{DW1998}
-Bates DW, Leape LL, Cullen DJ, N~Laird, Petersen LA, Teich JM, E~Burdick,
-  M~Hickey, S~Kleefield, B~Shea, Vander~Vliet M, and D~Seger.
-\newblock {Effect of computerized physician order entry and a team intervention
-  on prevention of serious medication errors}.
-\newblock {\em Jama}, 280(15):1311--1316, 1998.
-
-\bibitem{Bates2013}
-David~W. Bates, Michael Cohen, Lucian~L. Leape, J.~Marc OverHage, M.~Michael
-  Shabot, and Thomas Sheridan.
-\newblock {Reducing the frequency of errors in medicine using information
-  technology}.
-\newblock {\em American Medical Informatics Association}, 78(3):A16, 2013.
-
-\bibitem{Cheng2011}
-C.~M. Cheng.
-\newblock {Hospital systems for the detection and prevention of adverse Drug
-  Events}.
-\newblock {\em Clinical Pharmacology and Therapeutics}, 89(6):779--781, 2011.
-
-\bibitem{Raboel2005}
-Louise~Isager Rab{\o}l, Annemarie Hellebek, Beth~Lilja Pedersen, Anette
-  Petersen, and Jesper~Lund Bredesen.
-\newblock {Beslutningsst{\o}tte til elektronisk medicinordination}.
-\newblock Technical Report April, 2005.
-
-\bibitem{Agrawal2009}
-Abha Agrawal.
-\newblock {Medication errors: Prevention using information technology systems}.
-\newblock {\em British Journal of Clinical Pharmacology}, 67(6):681--686, 2009.
-
-\bibitem{Amgros2018}
-Amgros.
-\newblock {L{\ae}gemidler i bagatelk{\o}b}, 2018.
-
-\bibitem{Amgros2012}
-Amgros.
-\newblock {Bagatelk{\o}b}, 2012.
-
-\bibitem{Amgros2017}
-Amgros.
-\newblock {Metodevejledning for omkostningsanalyser af nye l{\ae}gemidler og
-  indikationer i hospitalssektoren}.
-\newblock {\em Amgros}, 2017.
-
-\bibitem{Amgros2017a}
-Amgros.
-\newblock {Om processen}, 2017.
-
-\bibitem{SygehusapoteketRegionNordjylland2013}
-{Sygehusapoteket Region Nordjylland}.
-\newblock {Statusnotat}.
-\newblock 2013.
-
-\bibitem{Sygehusapoteket2017b}
-Sygehusapoteket.
-\newblock {L{\ae}gemiddelskift Skabelon}, 2017.
-
-\bibitem{Baumer2004}
-A~M Baumer, A~M Clark, D~R Witmer, S~B Geize, L~C Vermeulen, and J~H
-  Deffenbaugh.
-\newblock {National survey of the impact of drug shortages in acute care
-  hospitals}.
-\newblock {\em Am.J Health Syst.Pharm.}, 61(19):2015--2022, 2004.
-
-\bibitem{McLaughlin2013}
-Milena McLaughlin, Despina Kotis, Kenneth Thomson, Michael Harrison, Gary
-  Fennessy, Michael Postelnick, and Marc~H. Scheetz.
-\newblock {Effects on Patient Care Caused by Drug Shortages: A Survey}.
-\newblock {\em Journal of Managed Care Pharmacy}, 19(9):783--788, 2013.
-
-\bibitem{McBride2013}
-Ali McBride, Lisa~M. Holle, Colleen Westendorf, Margaret Sidebottom, Niesha
-  Griffith, Raymond~J. Muller, and James~M. Hoffman.
-\newblock {National survey on the effect of oncology drug shortages on cancer
-  care}.
-\newblock {\em American Journal of Health-System Pharmacy}, 70(7):609--617,
-  2013.
-
-\bibitem{Syddanmark2008}
-Region Syddanmark.
-\newblock {Patientsikkerhed og Elektronisk Patient Medicinering}.
-\newblock page~54, 2008.
-
-\bibitem{Bates2000}
-David~W Bates, Source Bmj, British Medical, No~Mar, and David~W Bates.
-\newblock {Using Information Technology to Reduce Rates of Medication Errors in
-  Hospitals}.
-\newblock {\em British Medical Journal}, 320(7237):788--791, 2000.
-
-\bibitem{Dzik2007}
-Walter~H. Dzik.
-\newblock {New technology for transfusion safety}.
-\newblock {\em British Journal of Haematology}, 136(2):181--190, 2007.
-
-\bibitem{DPSD2008}
-{Dansk Patientsikkerhedsdatabase}.
-\newblock {Patientidentifikation ved brug af identifikationsb{\aa}nd}.
-\newblock 2008.
-
-\bibitem{Oren2003}
-E~Oren, E~Shaffer, and B~Guglielmo.
-\newblock {Impact of emerging technologies on medication errors and adverse
-  drug events}.
-\newblock {\em Am J Health Syst Pharm}, 60:1447--1459, 2003.
-
-\bibitem{Sygehusapotekerne2012}
-Amgros.
-\newblock {Automatiserede medicinl{\ae}sninger har stort potentiale}.
-\newblock {\em Sygehusapotekerne i Danmark}, 2012.
+\bibitem{Ligeza2006}
+Antoni Lig{\^{e}}za.
+\newblock {\em {Logical Foundations for Rule-Based Systems}}.
+\newblock Springer, 2006.
 
 \end{thebibliography}
