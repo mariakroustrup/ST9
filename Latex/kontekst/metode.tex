@@ -1,29 +1,43 @@
 \chapter{Metode}
-\textit{I dette kapitel beskrives de metoder som er anvendt til udvikling af en algoritme til kategorisering af  lægemiddelskift.}
-
-\section{Udviklingstrin}
-I udviklingsprocssen gennem gås forskellige step hvilket fremgår af Figur \ref{fig:XXX}
-
-\begin{figure}[H]\centering	\includegraphics[width=0.5\textwidth]{billeder/Black_box.png} 
-	\caption{XXXX.}
-	\label{fig:XXX}  
-\end{figure}
+\textit{I dette kapitel beskrives indsamling af data, metoden og udviklingstrin som gennemgås i forbindelse med udvikling af algoritme til kategorisering af  lægemiddelskift.}
 
 \section{Dataindsamling}
-Indsamlet data omhandler Amgrosskift i år 2017. Disse data er enten indsamlet af Amgros eller af Sygehusapoteket Region Nordjylland (SRN) i forbindelse med lægemiddelskift. Data fra Amgros omfatter Amgrosskift fra år 2018 (Amgros2018)~\fxnote{Jeg har brug for at få data fra 2017 i stedet, da dette passer til det andet excel eller så skal jeg have et opdateret med amgrosskift i år 2018}. Data fra SRN omfatter amgrosskift fra år 2017\fxnote{OBS!} (SRN2018) og problemstillinger vedrørende amgrosskift (Problem), som omfatter dokumenteret problemstillinger fra år 2012 til 2017. Alt data er indsamlet i excelark, den opsamlede data kan ses af \ref{table:XXX}
+Data er indsamlet af Amgros eller Sygehusapoteket Region Nordjylland (SRN) og omhandler lægemiddelskift i år 2018. Data er indsamlet af Amgros indeholder 245 rækker og 14 koloner og omhandler oplysninger om lægemidler i år 2017 og 2018. Yderligere er der indsamlet viden omkring risikolægemidler. Risikolægemidler er lægemidler som er særligt risikofyldte hvis de ender i restordre, da erstatninger er svære at finde samt risikoen for fejl øges ved erstatning. Data fra SRN indeholder 5397 og 35 koloner rækker og omhandler oplysninger om lægemiddelskift i år 2018. Yderligere er har SRN indsamlet problemstillinger vedrørende Amgrosskift. 
+
+\section{Udviklingstrin}
+Udviklingensprocessen af et regel-baseret system er baseret på fem trin herunder identificering, konceptualisering, formalisering, implementering og testning ~\citep{Ligeza2006}, som fremgår af Figur \ref{fig:metode}.  
+
+\begin{figure}[H]\centering	\includegraphics[width=0.9\textwidth]{billeder/udviklingstrin.png} 
+	\caption{De fem trin for udviklingen af et regel-baseret system.~\citep{Ligeza2006}}
+	\label{fig:metode}  
+\end{figure}
+\vspace{-0.5cm}
+Første trin omhandler identificering af problemer som systemet skal løse, herunder data som systemet skal arbejde på og tilgængelige ressourcer~\citep{Ligeza2006}. Det andet trin er omhandler identificering af nøglekoncepter samt relationer mellem disse som f.eks. typer af data, informationsstrøm og underliggende stukturer. Tredje trin involverer forståelse, beskrivelse og formalisering af problemet og hvordan løsninger findes. Denne proces bør omfatte verificering af systemet. Det fjerde trin har til formål at implementere den formaliseret viden i et program. Det sidste trin omfatter test ved validering af regler og implementeringen.~\citep{Ligeza2006}
+
+
+\section{Identificering}
+På nuværende tidspunkt vurderes kompleksiteten ved lægemiddelskift af ATC-eksperter, hvilket gør vurderingen meget personafhængig. Et hjælpemiddel til ATC-eksperterne til at vejlede i hvilke tilfælde de skal være særligt opmærksomme på et lægemiddelskift kan være essentielt i forhold til at gøre vurderingen mindre personafhængig. Denne vurderingen kan i sidste ende anvendes til at videregive informationer samt udføre tiltage i klinikken ved implementeringen af et lægemiddelskift med henblik på at forebygge medicineringsfejl. Kompleksiteten af lægemiddelskift vurderes ud fra erfaringer i forhold til flere forskellige faktorer som f.eks. ændringer i navn, styrke og dispenseringsform. 
+
+\section{Konceptualisering}
+Alt data er indsamlet i excelark, den opsamlede data kan ses af \ref{table:XXX}
 
 \vspace{2mm}
-\begin{longtable}{p{2.5cm}|p{1cm}|p{11cm}}
+\begin{longtable}{p{3cm}|p{1cm}|p{10cm}}
 	\caption{**DET HER ER KUN TIL MIG SELV**}
 	\vspace{2mm}
 	\label{table:XXX} \\
-\cellcolor[HTML]{C0C0C0} {\textbf{Data}} & {\cellcolor[HTML]{C0C0C0}\textbf{Antal}} & 
+\cellcolor[HTML]{C0C0C0} {\textbf{Features}} & {\cellcolor[HTML]{C0C0C0}\textbf{Antal}} & 
 {\cellcolor[HTML]{C0C0C0}\textbf{Indhold}} \\ \hline
-Amgros & 245 & Kontrakt start, ATC-kode, Varenummer 2017, Lægemiddel 2017, Dispenseringsform 2017, Styrke 2017, Pakningsstørrelse 2017, Varenummer 2018, Lægemiddel 2018, Dispenseringsform 2018, Styrke 2018, Pakningsstørrelse 2017, Bemærkning, Rekommenderet.\\ \hline
-SRN & 5397 & ATC-koder, Matchstatus, Generisk navn, Firma, Varenummer, Forv. Varenummer, SA-Gl.Vnr (Kig Amgros estimering), Varenummerskift – 1 er skift 0 fortsætter (Kig Amgros estimering), Varenavn, Disponeringsform, Styrke, Pakning, Udbudsgruppe, Udbudsnummer (1-730), Vinder (1, 2, 3, 4, 5, 1x, 2x, BA, k), RADS-MR (0, 1) (RADS- medicin rådet måske medicinrådet??), Amg. Est., Budget pakning, Rev. Pakning, Bemærkning, SAIP/Pakning, AIP/Pakning,
-AIP/Enhed, Enh./Paking , Budget slut, Indkøb start, Indkøb slut, Leadtime, Ingen prisvisning, Modified, ID, Created.\\ \hline
-Problem & 103 & ATC-kode, Generisk navn, Firma, Varenummer, Varenavn, Udbudsgruppe, Udbudsnummer, Vinder, Debitor, Problemstilling/Bemærkning, Konsekvens, Simpel SAID-sag oprettet, Udfyldt af, Dato. \\ \hline
+Navn &  & \\ \hline
+Styrke & & \\ \hline
+Dispenseringsform & &  \\ \hline
 \end{longtable}
+
+
+\section{Formalisering}
+
+
+\section{Implementering}
 
 
 
@@ -37,7 +51,7 @@ En algoritme med disse egenskaber betegnes som en klassifikator, som henviser ti
 I maskinlæring er observationerne ofte kendt som forekomster, de forklarende variabler betegnes funktioner (grupperet i en funktionsvektor), og de mulige kategorier, der skal forudsiges, er klasser. 
 
 \section{Regel-baseret system}
-Tænkning i fakta og regler er måske en af ​​de mest almindelige måder at nærme sig problem definition og problemløsning både i hverdagen
+%Tænkning i fakta og regler er måske en af ​​de mest almindelige måder at nærme sig problem definition og problemløsning både i hverdagen
 liv og under mere formelle omstændigheder.
 Det ønskes at udarbejde et regel-baseret system som kan gemme og manipulere viden til at fortolke information på en nyttig måde. Er adopteret fra artificial intelligence (AI) og knowledge engineering (KE). Regel-baseret systemer er sæt af regler, der efterligner logiske konsekvenser. Regel-baserede systemet udgør et kraftfuldt værktøj til specifikation af viden inden for design og implementering af vidensbaserede systemer (KBS) inden for anvendt kunstig intelligens og vidensteknik. 
 
@@ -59,13 +73,9 @@ og udvikling af praktiske værktøjer. De generelle kvalitative egenskaber er
 oversat til en række mere detaljerede egenskaber defineret i form af
 logiske forhold.
 
-For at opnå et rimeligt niveau af effektivitet (videnskabens kvalitet)
-regelsættet skal udformes på en passende måde. Flere teoretiske
-Egenskaber ved regelbaserede systemer synes at være værd at undersøge, begge
-at give en dybere teoretisk indsigt i forståelsen af ​​deres kapacitet
-og forsikre deres tilfredsstillende ydeevne, f.eks. pålidelighed og kvalitet. Nogle mest typiske spørgsmål om teoretisk verifikation
+%For at opnå et rimeligt niveau af effektivitet (videnskabens kvalitet) regelsættet skal udformes på en passende måde. Flere teoretiske. Egenskaber ved regelbaserede systemer synes at være værd at undersøge, begge at give en dybere teoretisk indsigt i forståelsen af ​​deres kapacitet og forsikre deres tilfredsstillende ydeevne, f.eks. pålidelighed og kvalitet. Nogle mest typiske spørgsmål om teoretisk verifikation
 inkludere tilfredshed med egenskaber som konsistens, fuldstændighed, determinisme,
-redundans, subsumption mv. (se [3, 81, 101]).
+redundans, subsumption mv. %(se [3, 81, 101]).
 
 Men selv om teknologien i RBS bliver
 mere og mere bredt anvendt i praksis på grund af dets forhold til første orden
@@ -111,3 +121,18 @@ operationer vedrørende RBS.
 %dataindsamling
 %data processering 
 %feature extraction 
+
+
+
+%\vspace{2mm}
+%\begin{longtable}{p{2.5cm}|p{1cm}|p{11cm}}
+%	\caption{**DET HER ER KUN TIL MIG SELV**}
+%	\vspace{2mm}
+%	\label{table:XXX} \\
+%\cellcolor[HTML]{C0C0C0} {\textbf{Data}} & {\cellcolor[HTML]{C0C0C0}\textbf{Antal}} & 
+%{\cellcolor[HTML]{C0C0C0}\textbf{Indhold}} \\ \hline
+%Amgros & 245 & Kontrakt start, ATC-kode, Varenummer 2017, Lægemiddel 2017, Dispenseringsform 2017, Styrke 2017, Pakningsstørrelse 2017, Varenummer 2018, Lægemiddel 2018, Dispenseringsform 2018, Styrke 2018, Pakningsstørrelse 2017, Bemærkning, Rekommenderet.\\ \hline
+%SRN & 5397 & ATC-koder, Matchstatus, Generisk navn, Firma, Varenummer, Forv. Varenummer, SA-Gl.Vnr (Kig Amgros estimering), Varenummerskift – 1 er skift 0 fortsætter (Kig Amgros estimering), Varenavn, Disponeringsform, Styrke, Pakning, Udbudsgruppe, Udbudsnummer (1-730), Vinder (1, 2, 3, 4, 5, 1x, 2x, BA, k), RADS-MR (0, 1) (RADS- medicin rådet måske medicinrådet??), Amg. Est., Budget pakning, Rev. Pakning, Bemærkning, SAIP/Pakning, AIP/Pakning,
+%AIP/Enhed, Enh./Paking , Budget slut, Indkøb start, Indkøb slut, Leadtime, Ingen prisvisning, Modified, ID, Created.\\ \hline
+%Problem & 103 & ATC-kode, Generisk navn, Firma, Varenummer, Varenavn, Udbudsgruppe, Udbudsnummer, Vinder, Debitor, Problemstilling/Bemærkning, Konsekvens, Simpel SAID-sag oprettet, Udfyldt af, Dato. \\ \hline
+%\end{longtable}
