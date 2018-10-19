@@ -13,23 +13,36 @@
 \contentsline {section}{\numberline {3.2}Transskribering}{10}{section.3.2}
 \contentsline {section}{\numberline {3.3}Dispensering}{10}{section.3.3}
 \contentsline {section}{\numberline {3.4}Administration}{10}{section.3.4}
-\contentsline {chapter}{\chapternumberline {4}Metode}{13}{chapter.4}
-\contentsline {section}{\numberline {4.1}Dataindsamling}{13}{section.4.1}
-\contentsline {section}{\numberline {4.2}Udviklingstrin}{13}{section.4.2}
-\contentsline {section}{\numberline {4.3}Identificering}{14}{section.4.3}
-\contentsline {section}{\numberline {4.4}Konceptualisering}{14}{section.4.4}
-\contentsline {section}{\numberline {4.5}Formalisering}{14}{section.4.5}
-\contentsline {section}{\numberline {4.6}Implementering}{14}{section.4.6}
-\contentsline {section}{\numberline {4.7}Metode baggrund}{14}{section.4.7}
-\contentsline {section}{\numberline {4.8}Regel-baseret system}{15}{section.4.8}
-\contentsline {chapter}{\chapternumberline {5}Resultat}{17}{chapter.5}
-\contentsline {chapter}{\chapternumberline {6}Diskussion}{19}{chapter.6}
-\contentsline {chapter}{Litteratur}{21}{section*.7}
-\contentsline {appendix}{\chapternumberline {A}Appendiks}{25}{appendix.A}
-\contentsline {section}{\numberline {A.1}Vurdering af l\IeC {\ae }gemiddel}{25}{section.A.1}
-\contentsline {section}{\numberline {A.2}Vurdering af ligev\IeC {\ae }rdige l\IeC {\ae }gemidler}{26}{section.A.2}
-\contentsline {appendix}{\chapternumberline {B}Appendiks}{27}{appendix.B}
-\contentsline {section}{\numberline {B.1}Udbudstyper ved Amgrosudbud}{27}{section.B.1}
-\contentsline {appendix}{\chapternumberline {C}Appendiks}{29}{appendix.C}
-\contentsline {section}{\numberline {C.1}Indk\IeC {\o }b af l\IeC {\ae }gemidler}{29}{section.C.1}
-\contentsline {appendix}{\chapternumberline {D}Appendiks}{31}{appendix.D}
+\contentsline {chapter}{\chapternumberline {4}Beslutningsst\IeC {\o }ttesystemer}{13}{chapter.4}
+\contentsline {section}{\numberline {4.1}Computers rolle i beslutningsst\IeC {\o }ttesystemer}{14}{section.4.1}
+\contentsline {section}{\numberline {4.2}Typer af biomedicinsk information}{14}{section.4.2}
+\contentsline {section}{\numberline {4.3}Beslutningsst\IeC {\o }ttesystemer}{15}{section.4.3}
+\contentsline {section}{\numberline {4.4}Motivation for beslutningsst\IeC {\o }ttesystemer}{15}{section.4.4}
+\contentsline {section}{\numberline {4.5}Forskellige systemer}{15}{section.4.5}
+\contentsline {section}{\numberline {4.6}Nyere beslutningsst\IeC {\o }ttesystemer}{16}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}Info-knapper}{16}{subsection.4.6.1}
+\contentsline {subsection}{\numberline {4.6.2}Forgreningslogik}{16}{subsection.4.6.2}
+\contentsline {subsection}{\numberline {4.6.3}Sandsynglighedssystemer}{16}{subsection.4.6.3}
+\contentsline {subsection}{\numberline {4.6.4}Regel-baseret}{17}{subsection.4.6.4}
+\contentsline {section}{\numberline {4.7}Klassificering og forudsigelse}{17}{section.4.7}
+\contentsline {chapter}{\chapternumberline {5}Metode}{19}{chapter.5}
+\contentsline {section}{\numberline {5.1}Form\IeC {\r a}l}{19}{section.5.1}
+\contentsline {section}{\numberline {5.2}Dataindsamling}{19}{section.5.2}
+\contentsline {section}{\numberline {5.3}Udviklingsproces}{19}{section.5.3}
+\contentsline {section}{\numberline {5.4}Features}{19}{section.5.4}
+\contentsline {section}{\numberline {5.5}Pr\IeC {\ae }processering}{20}{section.5.5}
+\contentsline {section}{\numberline {5.6}Formalisering}{21}{section.5.6}
+\contentsline {section}{\numberline {5.7}Implementering}{21}{section.5.7}
+\contentsline {section}{\numberline {5.8}Metode baggrund}{21}{section.5.8}
+\contentsline {section}{\numberline {5.9}Regel-baseret system}{21}{section.5.9}
+\contentsline {chapter}{\chapternumberline {6}Resultat}{23}{chapter.6}
+\contentsline {chapter}{\chapternumberline {7}Diskussion}{25}{chapter.7}
+\contentsline {chapter}{Litteratur}{27}{section*.7}
+\contentsline {appendix}{\chapternumberline {A}Appendiks}{31}{appendix.A}
+\contentsline {section}{\numberline {A.1}Vurdering af l\IeC {\ae }gemiddel}{31}{section.A.1}
+\contentsline {section}{\numberline {A.2}Vurdering af ligev\IeC {\ae }rdige l\IeC {\ae }gemidler}{32}{section.A.2}
+\contentsline {appendix}{\chapternumberline {B}Appendiks}{33}{appendix.B}
+\contentsline {section}{\numberline {B.1}Udbudstyper ved Amgrosudbud}{33}{section.B.1}
+\contentsline {appendix}{\chapternumberline {C}Appendiks}{35}{appendix.C}
+\contentsline {section}{\numberline {C.1}Indk\IeC {\o }b af l\IeC {\ae }gemidler}{35}{section.C.1}
+\contentsline {appendix}{\chapternumberline {D}Appendiks}{37}{appendix.D}

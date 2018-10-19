@@ -13,23 +13,36 @@
 \BOOKMARK [1][-]{section.3.2}{Transskribering}{chapter.3}% 13
 \BOOKMARK [1][-]{section.3.3}{Dispensering}{chapter.3}% 14
 \BOOKMARK [1][-]{section.3.4}{Administration}{chapter.3}% 15
-\BOOKMARK [0][-]{chapter.4}{Metode}{}% 16
-\BOOKMARK [1][-]{section.4.1}{Dataindsamling}{chapter.4}% 17
-\BOOKMARK [1][-]{section.4.2}{Udviklingstrin}{chapter.4}% 18
-\BOOKMARK [1][-]{section.4.3}{Identificering}{chapter.4}% 19
-\BOOKMARK [1][-]{section.4.4}{Konceptualisering}{chapter.4}% 20
-\BOOKMARK [1][-]{section.4.5}{Formalisering}{chapter.4}% 21
-\BOOKMARK [1][-]{section.4.6}{Implementering}{chapter.4}% 22
-\BOOKMARK [1][-]{section.4.7}{Metode baggrund}{chapter.4}% 23
-\BOOKMARK [1][-]{section.4.8}{Regel-baseret system}{chapter.4}% 24
-\BOOKMARK [0][-]{chapter.5}{Resultat}{}% 25
-\BOOKMARK [0][-]{chapter.6}{Diskussion}{}% 26
-\BOOKMARK [0][-]{section*.7}{Litteratur}{}% 27
-\BOOKMARK [0][-]{appendix.A}{Appendiks}{}% 28
-\BOOKMARK [1][-]{section.A.1}{Vurdering af l\346gemiddel}{appendix.A}% 29
-\BOOKMARK [1][-]{section.A.2}{Vurdering af ligev\346rdige l\346gemidler}{appendix.A}% 30
-\BOOKMARK [0][-]{appendix.B}{Appendiks}{}% 31
-\BOOKMARK [1][-]{section.B.1}{Udbudstyper ved Amgrosudbud}{appendix.B}% 32
-\BOOKMARK [0][-]{appendix.C}{Appendiks}{}% 33
-\BOOKMARK [1][-]{section.C.1}{Indk\370b af l\346gemidler}{appendix.C}% 34
-\BOOKMARK [0][-]{appendix.D}{Appendiks}{}% 35
+\BOOKMARK [0][-]{chapter.4}{Beslutningsst\370ttesystemer}{}% 16
+\BOOKMARK [1][-]{section.4.1}{Computers rolle i beslutningsst\370ttesystemer}{chapter.4}% 17
+\BOOKMARK [1][-]{section.4.2}{Typer af biomedicinsk information}{chapter.4}% 18
+\BOOKMARK [1][-]{section.4.3}{Beslutningsst\370ttesystemer}{chapter.4}% 19
+\BOOKMARK [1][-]{section.4.4}{Motivation for beslutningsst\370ttesystemer}{chapter.4}% 20
+\BOOKMARK [1][-]{section.4.5}{Forskellige systemer}{chapter.4}% 21
+\BOOKMARK [1][-]{section.4.6}{Nyere beslutningsst\370ttesystemer}{chapter.4}% 22
+\BOOKMARK [2][-]{subsection.4.6.1}{Info-knapper}{section.4.6}% 23
+\BOOKMARK [2][-]{subsection.4.6.2}{Forgreningslogik}{section.4.6}% 24
+\BOOKMARK [2][-]{subsection.4.6.3}{Sandsynglighedssystemer}{section.4.6}% 25
+\BOOKMARK [2][-]{subsection.4.6.4}{Regel-baseret}{section.4.6}% 26
+\BOOKMARK [1][-]{section.4.7}{Klassificering og forudsigelse}{chapter.4}% 27
+\BOOKMARK [0][-]{chapter.5}{Metode}{}% 28
+\BOOKMARK [1][-]{section.5.1}{Form\345l}{chapter.5}% 29
+\BOOKMARK [1][-]{section.5.2}{Dataindsamling}{chapter.5}% 30
+\BOOKMARK [1][-]{section.5.3}{Udviklingsproces}{chapter.5}% 31
+\BOOKMARK [1][-]{section.5.4}{Features}{chapter.5}% 32
+\BOOKMARK [1][-]{section.5.5}{Pr\346processering}{chapter.5}% 33
+\BOOKMARK [1][-]{section.5.6}{Formalisering}{chapter.5}% 34
+\BOOKMARK [1][-]{section.5.7}{Implementering}{chapter.5}% 35
+\BOOKMARK [1][-]{section.5.8}{Metode baggrund}{chapter.5}% 36
+\BOOKMARK [1][-]{section.5.9}{Regel-baseret system}{chapter.5}% 37
+\BOOKMARK [0][-]{chapter.6}{Resultat}{}% 38
+\BOOKMARK [0][-]{chapter.7}{Diskussion}{}% 39
+\BOOKMARK [0][-]{section*.7}{Litteratur}{}% 40
+\BOOKMARK [0][-]{appendix.A}{Appendiks}{}% 41
+\BOOKMARK [1][-]{section.A.1}{Vurdering af l\346gemiddel}{appendix.A}% 42
+\BOOKMARK [1][-]{section.A.2}{Vurdering af ligev\346rdige l\346gemidler}{appendix.A}% 43
+\BOOKMARK [0][-]{appendix.B}{Appendiks}{}% 44
+\BOOKMARK [1][-]{section.B.1}{Udbudstyper ved Amgrosudbud}{appendix.B}% 45
+\BOOKMARK [0][-]{appendix.C}{Appendiks}{}% 46
+\BOOKMARK [1][-]{section.C.1}{Indk\370b af l\346gemidler}{appendix.C}% 47
+\BOOKMARK [0][-]{appendix.D}{Appendiks}{}% 48
