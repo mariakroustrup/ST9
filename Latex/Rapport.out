@@ -2,47 +2,54 @@
 \BOOKMARK [0][-]{indhold.0}{Indholdsfortegnelse}{}% 2
 \BOOKMARK [0][-]{chapter.1}{Initierende problem}{}% 3
 \BOOKMARK [0][-]{chapter.2}{Problemanalyse}{}% 4
-\BOOKMARK [1][-]{section.2.1}{L\346gemiddelskift}{chapter.2}% 5
-\BOOKMARK [1][-]{section.2.2}{Problemstillinger ved l\346gemiddelskift}{chapter.2}% 6
-\BOOKMARK [1][-]{section.2.3}{Forebyggelse af problemstillinger ved l\346gemiddelskift}{chapter.2}% 7
-\BOOKMARK [1][-]{section.2.4}{Problemafgr\346sning}{chapter.2}% 8
-\BOOKMARK [1][-]{section.2.5}{Problemformulering}{chapter.2}% 9
-\BOOKMARK [0][-]{chapter.3}{Teknologier}{}% 10
-\BOOKMARK [1][-]{section.3.1}{Ordination}{chapter.3}% 11
-\BOOKMARK [2][-]{subsection.3.1.1}{Beslutningsst\370ttesystem}{section.3.1}% 12
-\BOOKMARK [1][-]{section.3.2}{Transskribering}{chapter.3}% 13
-\BOOKMARK [1][-]{section.3.3}{Dispensering}{chapter.3}% 14
-\BOOKMARK [1][-]{section.3.4}{Administration}{chapter.3}% 15
-\BOOKMARK [0][-]{chapter.4}{Beslutningsst\370ttesystemer}{}% 16
-\BOOKMARK [1][-]{section.4.1}{Computers rolle i beslutningsst\370ttesystemer}{chapter.4}% 17
-\BOOKMARK [1][-]{section.4.2}{Typer af biomedicinsk information}{chapter.4}% 18
-\BOOKMARK [1][-]{section.4.3}{Beslutningsst\370ttesystemer}{chapter.4}% 19
-\BOOKMARK [1][-]{section.4.4}{Motivation for beslutningsst\370ttesystemer}{chapter.4}% 20
-\BOOKMARK [1][-]{section.4.5}{Forskellige systemer}{chapter.4}% 21
-\BOOKMARK [1][-]{section.4.6}{Nyere beslutningsst\370ttesystemer}{chapter.4}% 22
-\BOOKMARK [2][-]{subsection.4.6.1}{Info-knapper}{section.4.6}% 23
-\BOOKMARK [2][-]{subsection.4.6.2}{Forgreningslogik}{section.4.6}% 24
-\BOOKMARK [2][-]{subsection.4.6.3}{Sandsynglighedssystemer}{section.4.6}% 25
-\BOOKMARK [2][-]{subsection.4.6.4}{Regel-baseret}{section.4.6}% 26
-\BOOKMARK [1][-]{section.4.7}{Klassificering og forudsigelse}{chapter.4}% 27
-\BOOKMARK [0][-]{chapter.5}{Metode}{}% 28
-\BOOKMARK [1][-]{section.5.1}{Form\345l}{chapter.5}% 29
-\BOOKMARK [1][-]{section.5.2}{Dataindsamling}{chapter.5}% 30
-\BOOKMARK [1][-]{section.5.3}{Udviklingsproces}{chapter.5}% 31
-\BOOKMARK [1][-]{section.5.4}{Features}{chapter.5}% 32
-\BOOKMARK [1][-]{section.5.5}{Pr\346processering}{chapter.5}% 33
-\BOOKMARK [1][-]{section.5.6}{Formalisering}{chapter.5}% 34
-\BOOKMARK [1][-]{section.5.7}{Implementering}{chapter.5}% 35
-\BOOKMARK [1][-]{section.5.8}{Metode baggrund}{chapter.5}% 36
-\BOOKMARK [1][-]{section.5.9}{Regel-baseret system}{chapter.5}% 37
-\BOOKMARK [0][-]{chapter.6}{Resultat}{}% 38
-\BOOKMARK [0][-]{chapter.7}{Diskussion}{}% 39
-\BOOKMARK [0][-]{section*.7}{Litteratur}{}% 40
-\BOOKMARK [0][-]{appendix.A}{Appendiks}{}% 41
-\BOOKMARK [1][-]{section.A.1}{Vurdering af l\346gemiddel}{appendix.A}% 42
-\BOOKMARK [1][-]{section.A.2}{Vurdering af ligev\346rdige l\346gemidler}{appendix.A}% 43
-\BOOKMARK [0][-]{appendix.B}{Appendiks}{}% 44
-\BOOKMARK [1][-]{section.B.1}{Udbudstyper ved Amgrosudbud}{appendix.B}% 45
-\BOOKMARK [0][-]{appendix.C}{Appendiks}{}% 46
-\BOOKMARK [1][-]{section.C.1}{Indk\370b af l\346gemidler}{appendix.C}% 47
-\BOOKMARK [0][-]{appendix.D}{Appendiks}{}% 48
+\BOOKMARK [1][-]{section.2.1}{Udbud og indk\370b af l\346gemidler}{chapter.2}% 5
+\BOOKMARK [1][-]{section.2.2}{Levering af l\346gemidler}{chapter.2}% 6
+\BOOKMARK [1][-]{section.2.3}{Substitution af l\346gemidler}{chapter.2}% 7
+\BOOKMARK [1][-]{section.2.4}{Problemstillinger ved substitution}{chapter.2}% 8
+\BOOKMARK [1][-]{section.2.5}{Beslutningsst\370ttesystemer}{chapter.2}% 9
+\BOOKMARK [2][-]{subsection.2.5.1}{Info-knapper}{section.2.5}% 10
+\BOOKMARK [2][-]{subsection.2.5.2}{Forgreningslogik}{section.2.5}% 11
+\BOOKMARK [2][-]{subsection.2.5.3}{Sandsynlighedssystemer}{section.2.5}% 12
+\BOOKMARK [0][-]{chapter.3}{OLD - Problemanalyse}{}% 13
+\BOOKMARK [1][-]{section.3.1}{L\346gemiddelskift}{chapter.3}% 14
+\BOOKMARK [1][-]{section.3.2}{Problemstillinger ved l\346gemiddelskift}{chapter.3}% 15
+\BOOKMARK [1][-]{section.3.3}{Forebyggelse af problemstillinger ved l\346gemiddelskift}{chapter.3}% 16
+\BOOKMARK [1][-]{section.3.4}{Problemafgr\346sning}{chapter.3}% 17
+\BOOKMARK [1][-]{section.3.5}{Problemformulering}{chapter.3}% 18
+\BOOKMARK [0][-]{chapter.4}{Teknologier}{}% 19
+\BOOKMARK [1][-]{section.4.1}{Ordination}{chapter.4}% 20
+\BOOKMARK [2][-]{subsection.4.1.1}{Beslutningsst\370ttesystem}{section.4.1}% 21
+\BOOKMARK [1][-]{section.4.2}{Transskribering}{chapter.4}% 22
+\BOOKMARK [1][-]{section.4.3}{Dispensering}{chapter.4}% 23
+\BOOKMARK [1][-]{section.4.4}{Administration}{chapter.4}% 24
+\BOOKMARK [0][-]{chapter.5}{Beslutningsst\370ttesystemer}{}% 25
+\BOOKMARK [1][-]{section.5.1}{Computers rolle i beslutningsst\370ttesystemer}{chapter.5}% 26
+\BOOKMARK [1][-]{section.5.2}{Typer af biomedicinsk information}{chapter.5}% 27
+\BOOKMARK [1][-]{section.5.3}{Beslutningsst\370ttesystemer}{chapter.5}% 28
+\BOOKMARK [1][-]{section.5.4}{Motivation for beslutningsst\370ttesystemer}{chapter.5}% 29
+\BOOKMARK [1][-]{section.5.5}{Forskellige systemer}{chapter.5}% 30
+\BOOKMARK [1][-]{section.5.6}{Nyere beslutningsst\370ttesystemer}{chapter.5}% 31
+\BOOKMARK [2][-]{subsection.5.6.1}{Info-knapper}{section.5.6}% 32
+\BOOKMARK [2][-]{subsection.5.6.2}{Forgreningslogik}{section.5.6}% 33
+\BOOKMARK [2][-]{subsection.5.6.3}{Sandsynglighedssystemer}{section.5.6}% 34
+\BOOKMARK [2][-]{subsection.5.6.4}{Regel-baseret}{section.5.6}% 35
+\BOOKMARK [1][-]{section.5.7}{Klassificering og forudsigelse}{chapter.5}% 36
+\BOOKMARK [0][-]{chapter.6}{Metode}{}% 37
+\BOOKMARK [1][-]{section.6.1}{Form\345l}{chapter.6}% 38
+\BOOKMARK [1][-]{section.6.2}{Dataindsamling}{chapter.6}% 39
+\BOOKMARK [1][-]{section.6.3}{Udviklingsproces}{chapter.6}% 40
+\BOOKMARK [0][-]{chapter.7}{Systemanalyse}{}% 41
+\BOOKMARK [1][-]{section.7.1}{Valg af features}{chapter.7}% 42
+\BOOKMARK [1][-]{section.7.2}{Pr\346processering}{chapter.7}% 43
+\BOOKMARK [1][-]{section.7.3}{Design}{chapter.7}% 44
+\BOOKMARK [0][-]{chapter.8}{Implementering}{}% 45
+\BOOKMARK [1][-]{section.8.1}{Test}{chapter.8}% 46
+\BOOKMARK [0][-]{chapter.9}{Resultat}{}% 47
+\BOOKMARK [0][-]{chapter.10}{Diskussion}{}% 48
+\BOOKMARK [0][-]{section*.7}{Litteratur}{}% 49
+\BOOKMARK [0][-]{appendix.A}{Appendiks}{}% 50
+\BOOKMARK [1][-]{section.A.1}{Vurdering af l\346gemiddel}{appendix.A}% 51
+\BOOKMARK [1][-]{section.A.2}{Vurdering af ligev\346rdige l\346gemidler}{appendix.A}% 52
+\BOOKMARK [0][-]{appendix.B}{Appendiks}{}% 53
+\BOOKMARK [1][-]{section.B.1}{Indk\370b af l\346gemidler}{appendix.B}% 54
+\BOOKMARK [0][-]{appendix.C}{Appendiks}{}% 55
