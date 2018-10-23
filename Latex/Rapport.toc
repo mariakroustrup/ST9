@@ -41,11 +41,16 @@
 \contentsline {chapter}{\chapternumberline {7}Systemanalyse}{27}{chapter.7}
 \contentsline {section}{\numberline {7.1}Valg af features}{27}{section.7.1}
 \contentsline {section}{\numberline {7.2}Pr\IeC {\ae }processering}{28}{section.7.2}
-\contentsline {section}{\numberline {7.3}Design}{29}{section.7.3}
+\contentsline {section}{\numberline {7.3}Design}{28}{section.7.3}
 \contentsline {chapter}{\chapternumberline {8}Implementering}{31}{chapter.8}
-\contentsline {section}{\numberline {8.1}Test}{31}{section.8.1}
-\contentsline {chapter}{\chapternumberline {9}Resultat}{33}{chapter.9}
-\contentsline {chapter}{\chapternumberline {10}Diskussion}{35}{chapter.10}
+\contentsline {section}{\numberline {8.1}Program}{31}{section.8.1}
+\contentsline {section}{\numberline {8.2}Pr\IeC {\ae }processering}{31}{section.8.2}
+\contentsline {section}{\numberline {8.3}Algoritme}{31}{section.8.3}
+\contentsline {chapter}{\chapternumberline {9}Test}{33}{chapter.9}
+\contentsline {chapter}{\chapternumberline {10}Syntese}{35}{chapter.10}
+\contentsline {section}{\numberline {10.1}Diskussion}{35}{section.10.1}
+\contentsline {section}{\numberline {10.2}Konklusion}{35}{section.10.2}
+\contentsline {section}{\numberline {10.3}Perspektivering}{35}{section.10.3}
 \contentsline {chapter}{Litteratur}{37}{section*.7}
 \contentsline {appendix}{\chapternumberline {A}Appendiks}{41}{appendix.A}
 \contentsline {section}{\numberline {A.1}Vurdering af l\IeC {\ae }gemiddel}{41}{section.A.1}
