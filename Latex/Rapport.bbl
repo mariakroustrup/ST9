@@ -40,38 +40,12 @@ Flemming Sonne.
 \newblock {Et patientsikkerhedsperspektiv p{\aa} medicinering i Danmark}.
 \newblock 2009.
 
-\bibitem{Sygehusapoteket2017a}
-Sygehusapoteket.
-\newblock {L{\ae}gemiddelskift Instruktion}, 2016.
-
 \bibitem{Hakonsen2010}
 Helle H{\aa}konsen, Heidi~Skj{\o}nhaug Hopen, Linda Abelsen, Bj{\o}rg Ek, and
   Else~Lydia Toverud.
 \newblock {Generic substitution: A potential risk factor for medication errors
   in hospitals}.
 \newblock {\em Advances in Therapy}, 27(2):118--126, 2010.
-
-\bibitem{Poon2006}
-Eric~G. Poon, Jennifer~L. Cina, William Churchill, Nirali Patel, Erica
-  Featherstone, Jeffrey~M. Rothschild, Carol~A. Keohane, Anthony~D. Whittemore,
-  David~W. Bates, and Tejal~K. Gandhi.
-\newblock {Medication dispensing errors and potential adverse drug events
-  before and after implementing bar code technology in the pharmacy}.
-\newblock {\em Annals of Internal Medicine}, 145(6):426--434, 2006.
-
-\bibitem{Levtzion-korach2010}
-Osnat Levtzion-korach, Thomas Moniz, D~Pharm, Anthony~D Whittemore, David~W
-  Bates, and Tejal~K Gandhi.
-\newblock {Effect of Bar-Code Technology on the Safety of Medication
-  Administration}.
-\newblock {\em N Engl J Med}, (18), 2010.
-
-\bibitem{Campmans2018}
-Zizi Campmans, Arianne {Van Rhijn}, Ren{\'{e}}~M. Dull, Jacqueline
-  Santen-Reestman, Katja Taxis, and Sander~D. Borgsteede.
-\newblock {Preventing dispensing errors by alerting for drug confusions in the
-  pharmacy information system—A survey of users}.
-\newblock {\em PLoS ONE}, 13(5):1--11, 2018.
 
 \bibitem{DanskeRegioner2016}
 Thomas~Birk Andersen and Ann VIlhelmsen.
@@ -82,6 +56,10 @@ Thomas~Birk Andersen and Ann VIlhelmsen.
 Amgros.
 \newblock {Udbudstyper og deres betydning}.
 \newblock pages 1--5, 2018.
+
+\bibitem{Sygehusapoteket2017a}
+Sygehusapoteket.
+\newblock {L{\ae}gemiddelskift Instruktion}, 2016.
 
 \bibitem{Patientombuddet2013}
 Patientombuddet.
@@ -117,6 +95,21 @@ Mary~P. Tully and Iain~E. Buchan.
   influencing identification by pharmacists}.
 \newblock {\em Pharmacy World and Science}, 31(6):682--688, 2009.
 
+\bibitem{Poon2006}
+Eric~G. Poon, Jennifer~L. Cina, William Churchill, Nirali Patel, Erica
+  Featherstone, Jeffrey~M. Rothschild, Carol~A. Keohane, Anthony~D. Whittemore,
+  David~W. Bates, and Tejal~K. Gandhi.
+\newblock {Medication dispensing errors and potential adverse drug events
+  before and after implementing bar code technology in the pharmacy}.
+\newblock {\em Annals of Internal Medicine}, 145(6):426--434, 2006.
+
+\bibitem{Levtzion-korach2010}
+Osnat Levtzion-korach, Thomas Moniz, D~Pharm, Anthony~D Whittemore, David~W
+  Bates, and Tejal~K Gandhi.
+\newblock {Effect of Bar-Code Technology on the Safety of Medication
+  Administration}.
+\newblock {\em N Engl J Med}, (18), 2010.
+
 \bibitem{Amgros2013}
 Sonne Flemming.
 \newblock {Status og perspektiver 2012-2013}.
@@ -137,6 +130,13 @@ ISMP.
 {Australian Commission on Safety and Quality in Healthcare}.
 \newblock {National Tall Man Lettering List}.
 \newblock {\em Commonwealth of Australia}, (November), 2011.
+
+\bibitem{Campmans2018}
+Zizi Campmans, Arianne {Van Rhijn}, Ren{\'{e}}~M. Dull, Jacqueline
+  Santen-Reestman, Katja Taxis, and Sander~D. Borgsteede.
+\newblock {Preventing dispensing errors by alerting for drug confusions in the
+  pharmacy information system—A survey of users}.
+\newblock {\em PLoS ONE}, 13(5):1--11, 2018.
 
 \bibitem{DW1998}
 Bates DW, Leape LL, Cullen DJ, N~Laird, Petersen LA, Teich JM, E~Burdick,
@@ -163,6 +163,44 @@ Louise~Isager Rab{\o}l, Annemarie Hellebek, Beth~Lilja Pedersen, Anette
   Petersen, and Jesper~Lund Bredesen.
 \newblock {Beslutningsst{\o}tte til elektronisk medicinordination}.
 \newblock Technical Report April, 2005.
+
+\bibitem{Kong2012}
+Guilan Kong, Dong~Ling Xu, Richard Body, Jian~Bo Yang, Kevin MacKway-Jones, and
+  Simon Carley.
+\newblock {A belief rule-based decision support system for clinical risk
+  assessment of cardiac chest pain}.
+\newblock {\em European Journal of Operational Research}, 219(3):564--573,
+  2012.
+
+\bibitem{Masys2006}
+Daniel Masys.
+\newblock {Clinical Decision-Support Systems}.
+\newblock {\em Jama}, 296(21):2620, 2006.
+
+\bibitem{Masys2006a}
+Daniel Masys.
+\newblock {\em {Biomedical Informatics}}, volume 296.
+\newblock 2006.
+
+\bibitem{Evans1998}
+R.~Scott Evans, Stanley~L. Pestotnik, David~C. Classen, Terry~P. Clemmer,
+  Lindell~K. Weaver, James~F. Orme, James~F. Lloyd, and John~P. Burke.
+\newblock {A Computer-Assisted Management Program for Antibiotics and Other
+  Antiinfective Agents}.
+\newblock {\em New England Journal of Medicine}, 338(4):232--238, 1998.
+
+\bibitem{Clayton1995}
+P~D Clayton and G~Hripcsak.
+\newblock {Decision-Support in Health-Care}.
+\newblock {\em International Journal of Bio-Medical Computing}, 39(1):59--66,
+  1995.
+
+\bibitem{KONG2008}
+GUILAN KONG, DONG-LING XU, and JIAN-BO YANG.
+\newblock {Clinical Decision Support Systems: a Review of Knowledge
+  Representation and Inference under Uncertainties}.
+\newblock {\em International Journal of Computational Intelligence Systems},
+  1(2):159, 2008.
 
 \bibitem{Agrawal2009}
 Abha Agrawal.
@@ -205,11 +243,6 @@ Kathleen~Rice Simpson.
 \newblock {Medication safety with heparin}.
 \newblock {\em MCN The American Journal of Maternal/Child Nursing}, 33(2):135,
   2008.
-
-\bibitem{Ligeza2006}
-Antoni Lig{\^{e}}za.
-\newblock {\em {Logical Foundations for Rule-Based Systems}}.
-\newblock Springer, 2006.
 
 \bibitem{Amgros2017}
 Amgros.

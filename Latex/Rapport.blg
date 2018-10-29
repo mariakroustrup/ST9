@@ -9,9 +9,9 @@ A level-1 auxiliary file: formalia/forord.aux
 A level-1 auxiliary file: formalia/laesevejledning.aux
 A level-1 auxiliary file: intro/indledning.aux
 A level-1 auxiliary file: intro/ProblemanalyseNEWNEW.aux
+A level-1 auxiliary file: intro/DSS.aux
 A level-1 auxiliary file: intro/Teknologier.aux
 A level-1 auxiliary file: kontekst/metode.aux
-A level-1 auxiliary file: kontekst/resultat.aux
 A level-1 auxiliary file: formalia/Diskussion.aux
 A level-1 auxiliary file: appendiks/AppendiksA.aux
 A level-1 auxiliary file: appendiks/AppendiksB.aux
@@ -21,56 +21,57 @@ Database file #1: bibtex/Maria.bib
 Warning--I didn't find a database entry for "Stephen2013"
 Warning--empty journal in EU2017
 Warning--empty journal in DanskSelskabforPatientsikkerhed2009
-Warning--there's a number but no volume in Levtzion-korach2010
 Warning--empty journal in Amgros2018a
 Warning--empty journal in Patientombuddet2013
 Warning--empty journal in Sundhedsstyrelsen2005
+Warning--there's a number but no volume in Levtzion-korach2010
 Warning--there's a number but no series in HQSC2013
 Warning--empty publisher in HQSC2013
 Warning--there's a number but no volume in ACSQ2011
 Warning--empty institution in Raboel2005
+Warning--can't use both volume and number fields in Masys2006a
+Warning--empty publisher in Masys2006a
 Warning--empty journal in Fischer2008
-Warning--can't use both author and editor fields in Ligeza2006
 Warning--empty journal in SygehusapoteketRegionNordjylland2013
-You've used 40 entries,
+You've used 45 entries,
             1791 wiz_defined-function locations,
-            705 strings with 10441 characters,
-and the built_in function-call counts, 8008 in all, are:
-= -- 682
-> -- 372
-< -- 6
-+ -- 145
-- -- 105
-* -- 525
-:= -- 1325
-add.period$ -- 117
-call.type$ -- 40
-change.case$ -- 38
+            738 strings with 11416 characters,
+and the built_in function-call counts, 9238 in all, are:
+= -- 784
+> -- 441
+< -- 7
++ -- 170
+- -- 125
+* -- 637
+:= -- 1529
+add.period$ -- 132
+call.type$ -- 45
+change.case$ -- 43
 chr.to.int$ -- 0
-cite$ -- 53
-duplicate$ -- 356
-empty$ -- 778
-format.name$ -- 105
-if$ -- 1728
+cite$ -- 59
+duplicate$ -- 401
+empty$ -- 889
+format.name$ -- 125
+if$ -- 1985
 int.to.chr$ -- 0
-int.to.str$ -- 40
-missing$ -- 37
-newline$ -- 199
-num.names$ -- 40
-pop$ -- 122
+int.to.str$ -- 45
+missing$ -- 42
+newline$ -- 224
+num.names$ -- 45
+pop$ -- 127
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 147
+skip$ -- 164
 stack$ -- 0
-substring$ -- 437
-swap$ -- 59
-text.length$ -- 6
+substring$ -- 527
+swap$ -- 65
+text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 13
-while$ -- 80
-width$ -- 42
-write$ -- 410
-(There were 14 warnings)
+warning$ -- 14
+while$ -- 93
+width$ -- 47
+write$ -- 465
+(There were 15 warnings)

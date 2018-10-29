@@ -1,17 +1,27 @@
 \chapter{Metode}
-\textit{I dette kapitel beskrives formålet med udviklingen af beslutningsstøttesystem til risikovurdering af lægemidler, hvordan data er indsamlet samt hvilken proces der er gennemgået i forhold til udvikling for algoritme til risikovurdering som beslutningsstøtte.}
+\textit{I dette kapitel beskrives formålet med udviklingen af et system til risikovurdering af lægemiddelskift, hvordan data er indsamlet samt processen der gennemgås ved udviklingen af et system til risikovurdering af lægemiddelskift.}
 
 \section{Formål}
-På nuværende tidspunkt vurderes kompleksiteten af implementering af lægemiddelskift af ATC-ansvarlige ud fra tidligere erfaringer og viden indsamlet via bl.a. pro.medicin. Flere faktorer vægtes ved vurderingen, hvilket gør denne proces meget personafhængig og stiller visse krav til den ATC-ansvarliges viden og erfaring inden for området. Vurderingen der foretages har betydning for implementeringen af lægemiddelskiftet i klinikken og det er derfor vigtigt at den rette vurdering foretages i forhold til at undgå medicineringsfejl som f.eks. forveksling af navnet på lægemidlet grundet ændringer af ved lægemiddelskift. 
-For at imødekomme disse problemstillinger ønskes det at udvikle et beslutningsstøttesystem til den ATC-ansvarlige som foretager risikovurderingen af lægemiddelskift med henblik på at synliggøre de ændringer som sker ved et eventuelt lægemiddelskift, hvormed den ATC-ansvarlige har et bedre beslutningsgrundlag.
+Den nuværende risikovurdering af kompleksiteten af implementering af lægemiddelskift varetages af ATC-ansvarlige på baggrund af tidligere erfaringer, retningslinjer, indsamlede problemstillinger vedrørende lægemiddelskift samt viden omkring lægemidler indsamlet via f.eks. pro.medicin. ATC-områderne er uddelt på de forskellige ATC-ansvarlige, så hver ATC-ansvarlig har hvert deres område. I vurderingen af lægemiddelskiftet vægtes flere faktorer, som f.eks. navn, styrke og dispenseringsform, af én ATC-ansvarlig for området, hvormed denne proces er personafhængig og stiller visse krav til den ATC-ansvarliges viden og erfaring inden for området. Vægtningen udføres i forhold til at vurdere risikoen ved implementering af lægemiddelskift på hospitalsafdelingerne. Ved lægemidler af høj risiko, hvilket vil sige at det er et kompleks skift, udarbejdes et Lægemiddel Nyt Tema omkring skift, hvilket fremgår af Appendiks \ref{cha:AppD} nummer \ref{item:Laegemiddelnyt}. Dette udarbejdes med henblik på at synliggøre i hvilke tilfælde hospitalsafdelingerne skal være særlig opmærksomme på lægemiddelskiftet i forhold til at undgå fejlmedicinering som f.eks. kan forårsages af forveksling ved ændringer i lægemiddelnavn.
+For at imødekomme disse problemstillinger ønskes det at udvikle et computerbaseret system til risikovurdering af lægemiddelskift som gør den nuværende proces mindre personafhængig og derved danner et bedre grundlag for risikovurdering af lægemiddelskiftet. 
+
+
+%På nuværende tidspunkt vurderes kompleksiteten af implementering af lægemiddelskift af ATC-ansvarlige ud fra tidligere erfaringer og viden indsamlet via bl.a. pro.medicin. Flere faktorer vægtes ved vurderingen, hvilket gør denne proces meget personafhængig og stiller visse krav til den ATC-ansvarliges viden og erfaring inden for området. Vurderingen der foretages har betydning for implementeringen af lægemiddelskiftet i klinikken og det er derfor vigtigt at den rette vurdering foretages i forhold til at undgå medicineringsfejl som f.eks. forveksling af navnet på lægemidlet grundet ændringer ved lægemiddelskift. For at imødekomme disse problemstillinger ønskes det at udvikle et beslutningsstøttesystem til den ATC-ansvarlige som foretager risikovurderingen af lægemiddelskift med henblik på at synliggøre de ændringer som sker ved et eventuelt lægemiddelskift, hvormed den ATC-ansvarlige har et bedre beslutningsgrundlag.
 
 \section{Dataindsamling}
-Data er indsamlet af Amgros og Sygehusapoteket Region Nordjylland (SRN) og omhandler lægemiddelskift i år 2018. Data fra Amgros omhandler oplysninger om lægemiddelskiftet foretaget fra år 2017 til 2018. Yderligere har Amgros udarbejdet et dokument over risikolægemidler. Risikolægemidler er lægemidler som er særligt risikofyldte hvis disse ender i restordre, da erstatninger er svære at finde samt risikoen for fejl øges ved erstatning. Data fra SRN omhandler de udbud af lægemidler Amgros foretog inden et eventuelt kontraktskift for år 2018. 
+Data er indsamlet af Amgros og omhandler de aftaler som er indgået i forbindelse med Amgrosudbud. Dette omfatter både forlængelser af allerede eksisterende kontrakter samt ændringer forårsaget af kontraktskift. Sygehusapoteket Region Nordjylland (SRN) udtrækker denne data fra sygehusapoteksportalen og sorterer i forhold til relevans. Da den data der udtrækkes fra portalen indeholder alle de aftaler som er indgået er det nødvendigt at sortere dette for relevant indhold for den pågældende udbudsperiode. Denne sortering varetages af en ansat på SRN som udarbejder skiftelister ud fra proceduren, der er beskrevet i Appendiks \ref{cha:AppD} nummer \ref{item:Skiftelister}, og herefter sendes disse til de forskellige ATC-ansvarlige.
+
+Der tages udgangspunkt i data fra disse skiftelister, som bygger på skiftelister udarbejdet for lægemiddelskift i år 2015, 2016, 2017 og 2018. Dataen indeholder oplysninger om lægemiddelnavn, dispenseringsform og styrke for det fortgående år samt året hvor skiftet er forgået. 
+Skiftelisterne kombineres med udtræk fra sygehusapoteksportalen omkring andre forhold som sygehusapotekets indkøbspris per enhed (SAIP/enhed) samt hvorvidt lægemiddelskiftet skyldes Medicinrådets behandlingsvejledning. Dette kombineres yderligere med data fra Amgros omhandlende risikolægemidler og indsamlet data fra SRN omkring kritiske ATC-koder.
+
+
+
+%Data er indsamlet af Amgros og Sygehusapoteket Region Nordjylland (SRN) og omhandler lægemiddelskift i år 2018. Data fra Amgros omhandler oplysninger om lægemiddelskiftet foretaget fra år 2017 til 2018. Yderligere har Amgros udarbejdet et dokument over risikolægemidler, som fremgår af Appendiks \ref{cha:AppD}. Risikolægemidler er lægemidler som er særligt risikofyldte hvis disse ender i restordre, da erstatninger er svære at finde samt risikoen for fejl øges ved erstatning. Data fra SRN omhandler de udbud af lægemidler Amgros foretog inden et eventuelt kontraktskift for år 2018. 
 %Udover dette har SRN ligeledes indsamlet de problemstillinger der har været vedrørende Amgrosskift siden år 2012.  
 
 
 \section{Udviklingsproces}
-Udviklingen af et beslutningsstøttesystem bygger på forskellige processer herunder valg af features, præprocessering, design, implementering og test. Udviklingstrinene fremgår af Figur \ref{fig:metode}.
+Udviklingen af system til risikovurderingen af lægemiddelskift bygger på forskellige processer herunder valg af features, præprocessering, design, implementering og test. Udviklingstrinene for denne proces fremgår af Figur \ref{fig:metode}.
 
 \begin{figure}[H]\centering	\includegraphics[width=1\textwidth]{billeder/udviklingstrin.png} 
 	\caption{Udviklingstrin for beslutningsstøttesystem}
@@ -19,23 +29,22 @@ Udviklingen af et beslutningsstøttesystem bygger på forskellige processer heru
 \end{figure}
 \vspace{-0.5cm}
 
-Af Figur \ref{fig:metode} illustreres de forskellige processer som der foretages ved udviklingen af beslutningsstøttesystemet. Udvælgelsen af features danner grundlag for de inputs som skalvægtes i forhold til beslutningen. Da data ikke er homogen ønskes det at foretage præprocessering på data for at gøre det sammenligneligt. Design bygger på design af algoritmen, denne verificeres i løbet af processen for at opnå det bedst mulige design. Efter designfasen implementeres systemet, hvorefter dette testes. I testfasen valideres hvorvidt systemet performer efter formålet, hvis dette ikke er tilfældet kan der vendes tilbage til de fortgående udviklingstrin i forhold til at omformulere i forhold til præprocessing, redesigne i designfasen eller tilpasse i implementeringsfasen. 
+Af Figur \ref{fig:metode} illustreres de forskellige processer som der gennemgås ved udviklingen af et system til risikovurdering af lægemiddelskift. Udvælgelsen af features danner grundlag for de inputs som vægtes i forhold til risikovurderingen. Da data ikke er homogen ønskes det at foretage præprocessering af data for at gøre data sammenligneligt. Designfasen bygger på design af algoritmen som danner grundlag for risikovurderingen. Designet verificeres i løbet af processen for at opnå det bedst mulige design. Herefter implementeres systemet, hvilket omfatter implementering af designet herunder kodning af algoritmen. Til sidst foretages en test af systemet i forhold til evaluere hvorvidt systemet performer efter formålet, hvis dette ikke er tilfældet vendes der tilbage til de fortgående udviklingstrin i forhold til at omformulere i  præprocessingsfasen, redesigne i algoritmen i designfasen eller tilpasse koden i implementeringensfasen. 
 
 
 
 %Første trin omhandler identificering af problemer som systemet skal løse, herunder data som systemet skal arbejde på og tilgængelige ressourcer~\citep{Ligeza2006}. Det andet trin er omhandler identificering af nøglekoncepter samt relationer mellem disse som f.eks. typer af data, informationsstrøm og underliggende stukturer. Tredje trin involverer forståelse, beskrivelse og formalisering af problemet og hvordan løsninger findes. Denne proces bør omfatte verificering af systemet. Det fjerde trin har til formål at implementere den formaliseret viden i et program. Det sidste trin omfatter test ved validering af regler og implementeringen.~\citep{Ligeza2006}
 
 
-\chapter{Systemanalyse}
+\chapter{Systemudvikling}
 \section{Valg af features}
-Features er udvalgt på baggrund af retningslinjer for den ATC-ansvarlige, som fremgår af Appendiks~\ref{cha:AppD}, og litteratur som beskriver ændringer i forskellige faktorer som har ledt til medicineringsfejl i klinikken som følge af lægemiddelskift. Derudover er information omkring risikolægemidler og komplekse ATC-koder anvendt som er indsamlet af Amgros eller er dokumenteret i forbindelse med Amgrosudbud af SRN.
-Features og begrundelse for valg af features fremgår af Tabel \ref{table:features}.
+Features er udvalgt på baggrund af retningslinjer for den ATC-ansvarlige, som fremgår af Appendiks~\ref{cha:AppD}, og litteratur som beskriver ændringer i forskellige faktorer som har ledt til medicineringsfejl i klinikken som følge af lægemiddelskift. Derudover er information omkring risikolægemidler og kritiske ATC-koder anvendt. Disse er indsamlet af Amgros eller dokumenteret af SRN i forbindelse med Amgrosudbud. Features og begrundelse for valg af features fremgår af Tabel \ref{table:features}.
 
 \begin{longtable}{p{3.5cm}| p{10.5cm}}
 	\caption{Valg af features}
 	\label{table:features} \\
-\cellcolor[HTML]{C0C0C0} {\textbf{Feature}} & \cellcolor[HTML]{C0C0C0} {\textbf{Begrundelse}}  \\ \hline
-\textbf{Navn} &  Forveksling ved ændringer i navn på lægemidler er en af de hyppigste årsager til medicineringsfejl jævnfør afsnit \ref{sec:ProblemLaeg} [X]. Forvirring over ikke at kunne finde lægemidlet fordi navnet har ændret sig \\  \hline 
+\cellcolor[HTML]{C0C0C0} {\textbf{Feature og deres vægtning}} & \cellcolor[HTML]{C0C0C0} {\textbf{Begrundelse}}  \\ \hline
+\textbf{Navn  \newline Vægtes med 1} &  Forveksling ved ændringer i navn på lægemidler er en af de hyppigste årsager til medicineringsfejl jævnfør afsnit \ref{sec:ProblemLaeg} [X]. Forvirring over ikke at kunne finde lægemidlet fordi navnet har ændret sig \\  \hline 
 \textbf{Lignende navne} &  Forveksling ved ændringer i navn på lægemidler er en af de hyppigste årsager til medicineringsfejl jævnfør afsnit \ref{sec:ProblemLaeg}. [X] Disse forekommer grundet allerede eksisterende lægemiddel jævnfør afsnit \ref{sec:ProblemLaeg}. [X]. \\  \hline 
 \textbf{Dispenseringsform} &  FIND BEGRUNDELSE FOR DETTE  \\ \hline 
 \textbf{Styrke} &  Forkert dosis er dokumenteret se kilde 18,19,20 og 21  \\ \hline
@@ -48,36 +57,32 @@ Features og begrundelse for valg af features fremgår af Tabel \ref{table:featur
 \section{Præprocessering}
 Data er manuelt indskrevet og indeholder tekst og er derfor ikke sammenligneligt, hvorfor data er præprocesseret før anvendelsen. Da det er forskelligt om data er skrevet med majuskel eller minuskel er det valgt at ændre alt data til minuskel. Noget data er skrevet med forkortelser hvorfor det er valgt at fjerne forkortelser og udskrive ordene med henblik på at gøre data generaliserbar. 
 
-Der er derudover lavet antagelser for navn og dispenseringformer for lægemidler. Det er valgt kun at kigge på præfiks for alle lægemidler, hvorfor præfiks er fjernet fra alle lægemidler. Der er dog nogle lægemidler  hvor ændring i præfiks betyder ændringer i styrke og dispenseringsform. Det er dog antaget at denne tages højde for i sammenligning af ændringer i styrke og dispenseringsform. Ligledes antages det for dispenseringsformer som tabletter at disse er ens hvis dispenseringsform er en af følgende; filmovertrukne, overtrukne eller  tabelletter. \textcolor{blue}{Om der er tale om væske og opløselig væske. Tilføj også for styrke når dette er undersøgt. Derudover bliver der også fjernet forlængelser som det første - skriv dette til}
+Der er derudover lavet antagelser for navn og dispenseringformer for lægemidler. Det er valgt kun at kigge på præfiks for alle lægemidler, hvorfor suffiks er fjernet fra alle lægemidler. Der er dog nogle lægemidler  hvor ændring i præfiks betyder ændringer i styrke og dispenseringsform. Det er dog antaget at denne tages højde for i sammenligning af ændringer i styrke og dispenseringsform. Ligledes antages det for dispenseringsformer som tabletter at disse er ens hvis dispenseringsform er en af følgende; filmovertrukne, overtrukne eller  tabelletter. \textcolor{blue}{Om der er tale om væske og opløselig væske. Tilføj også for styrke når dette er undersøgt. Derudover bliver der også fjernet forlængelser som det første - skriv dette til. Der er fjernet punktummer og komma og skråstreger...}
 
 \textcolor{red}{Ved ikke om det giver mening at gøre dette mere konkret her ved at komme med eksempler eller om jeg godt kan vente med dette til implementering og vise det der.Synes at dette vil give mere mening.}
 
 \section{Design}
-\textcolor{red}{Tænker at dette afsnit skal være et flowdiagram over algoritmen som det billede jeg har sat ind på Figur  \ref{fig:algoritme}.} 
-\begin{figure}[H]\centering	\includegraphics[width=1\textwidth]{billeder/algoritme.png} 
-	\caption{Flowchart af algoritme}
-	\label{fig:algoritme}  
-\end{figure}
-\vspace{-0.5cm}
+
+\begin{equation}
+Riskoscore = \frac{\mbox{\textit{Summen af vægten af ikke matchende features}}}{\mbox{\textit{Summen af alle vægtede features}}} * 100
+\end{equation}
 
 
-\chapter{Implementering}
+%\begin{equation} \label{eq1}
+%\begin{split}
+%Risikoscore = lægemiddelnavn + ligende lægemiddelnavn + dispenseringsform \\ 
+%+ styrke + medicnråd + risikolægemiddel + kritisk ATC-kode \\
+%+ pris
+%\end{split}
+%\end{equation}
 
-\section{Program}
+\section{Implementering}
 Det er valgt at implementere i NetBeans som er et integreret udviklingsmiljø (IDE) til Java. Der er tilføjet biblioteker som JExcelApi og Apache POI til håndtering af Microsoft dokumenter herunder excel.
 
-\section{Præprocessering}
-\textcolor{red}{Jeg tænker at dette kan repræsenteres som pseudo code eller tabel eller screendumps af kode.} 
+\section{Test}
+Evaluering af systemet foretages i forhold til at vurdere brugbarheden af systemet. Dette vurderes af brugeren for systemet, hvilket er de ATC-ansvarlige på SRN. \textcolor{red}{Tænker at disse skal kigge på outputtet og vurdere om dette kan anvendes til dem og om det lettere noget af det ansvar de sidder med}
 
-\section{Algoritme}
-\textcolor{red}{Tænker at dette afsnit skal være et pseudo code over algoritmen som det billede jeg har sat ind på Figur  \ref{fig:pseudo}. Denne figur er kun udkast og er blot få en idé af hvordan jeg har tænkt mig at implementere algoritmen. Jeg tænker at det output der skal komme ud af algoritmen er tekst som skriver hvad der er ændret. Ved ikke om der kunne  være en fordel i at dele dette op på en måde? Men tænker bare at selve koden er det samme for meget af det.}
-\begin{figure}[H]\centering	\includegraphics[width=1\textwidth]{billeder/Pseudo.png} 
-	\caption{Pseudo code}
-	\label{fig:pseudo}  
-\end{figure}
-\vspace{-0.5cm}
+\chapter{Resultat}
 
 
-\chapter{Test}
-\textcolor{red}{Tænker at teste noget i forhold til falsk/positive. Hvor mange gang gør algoritmen det den skal?}
 
