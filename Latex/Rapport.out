@@ -3,51 +3,33 @@
 \BOOKMARK [0][-]{chapter.1}{Initierende problem}{}% 3
 \BOOKMARK [0][-]{chapter.2}{Problemanalyse}{}% 4
 \BOOKMARK [1][-]{section.2.1}{L\346gemiddelskift}{chapter.2}% 5
-\BOOKMARK [1][-]{section.2.2}{Problemstillinger ved l\346gemiddelskift}{chapter.2}% 6
-\BOOKMARK [1][-]{section.2.3}{Forebyggelse af problemstillinger ved l\346gemiddelskift}{chapter.2}% 7
-\BOOKMARK [1][-]{section.2.4}{Problemafgr\346sning}{chapter.2}% 8
-\BOOKMARK [1][-]{section.2.5}{Problemformulering}{chapter.2}% 9
-\BOOKMARK [0][-]{chapter.3}{Beslutningsst\370ttesystemer}{}% 10
-\BOOKMARK [1][-]{section.3.1}{Computers rolle i beslutningsst\370ttesystemer}{chapter.3}% 11
-\BOOKMARK [1][-]{section.3.2}{Typer af biomedicinsk information}{chapter.3}% 12
-\BOOKMARK [1][-]{section.3.3}{Beslutningsst\370ttesystemer}{chapter.3}% 13
-\BOOKMARK [1][-]{section.3.4}{Motivation for beslutningsst\370ttesystemer}{chapter.3}% 14
-\BOOKMARK [1][-]{section.3.5}{Forskellige systemer}{chapter.3}% 15
-\BOOKMARK [1][-]{section.3.6}{Nyere beslutningsst\370ttesystemer}{chapter.3}% 16
-\BOOKMARK [2][-]{subsection.3.6.1}{Info-knapper}{section.3.6}% 17
-\BOOKMARK [2][-]{subsection.3.6.2}{Forgreningslogik}{section.3.6}% 18
-\BOOKMARK [2][-]{subsection.3.6.3}{Sandsynglighedssystemer}{section.3.6}% 19
-\BOOKMARK [2][-]{subsection.3.6.4}{Regel-baseret}{section.3.6}% 20
-\BOOKMARK [1][-]{section.3.7}{Klassificering og forudsigelse}{chapter.3}% 21
-\BOOKMARK [1][-]{section.3.8}{NOTER fra clayton1995}{chapter.3}% 22
-\BOOKMARK [2][-]{subsection.3.8.1}{NOTER fra king2008}{section.3.8}% 23
-\BOOKMARK [0][-]{chapter.4}{Teknologier}{}% 24
-\BOOKMARK [1][-]{section.4.1}{Ordination}{chapter.4}% 25
-\BOOKMARK [2][-]{subsection.4.1.1}{Beslutningsst\370ttesystem}{section.4.1}% 26
-\BOOKMARK [1][-]{section.4.2}{Transskribering}{chapter.4}% 27
-\BOOKMARK [1][-]{section.4.3}{Dispensering}{chapter.4}% 28
-\BOOKMARK [1][-]{section.4.4}{Administration}{chapter.4}% 29
-\BOOKMARK [0][-]{chapter.5}{Metode}{}% 30
-\BOOKMARK [1][-]{section.5.1}{Form\345l}{chapter.5}% 31
-\BOOKMARK [1][-]{section.5.2}{Dataindsamling}{chapter.5}% 32
-\BOOKMARK [1][-]{section.5.3}{Udviklingsproces}{chapter.5}% 33
-\BOOKMARK [0][-]{chapter.6}{Systemudvikling}{}% 34
-\BOOKMARK [1][-]{section.6.1}{Valg af features}{chapter.6}% 35
-\BOOKMARK [1][-]{section.6.2}{Pr\346processering}{chapter.6}% 36
-\BOOKMARK [1][-]{section.6.3}{Design}{chapter.6}% 37
-\BOOKMARK [1][-]{section.6.4}{Implementering}{chapter.6}% 38
-\BOOKMARK [1][-]{section.6.5}{Test}{chapter.6}% 39
-\BOOKMARK [0][-]{chapter.7}{Resultat}{}% 40
-\BOOKMARK [0][-]{chapter.8}{Syntese}{}% 41
-\BOOKMARK [1][-]{section.8.1}{Diskussion}{chapter.8}% 42
-\BOOKMARK [1][-]{section.8.2}{Konklusion}{chapter.8}% 43
-\BOOKMARK [1][-]{section.8.3}{Perspektivering}{chapter.8}% 44
-\BOOKMARK [0][-]{section*.7}{Litteratur}{}% 45
-\BOOKMARK [0][-]{appendix.A}{Appendiks}{}% 46
-\BOOKMARK [1][-]{section.A.1}{Vurdering af l\346gemiddel}{appendix.A}% 47
-\BOOKMARK [1][-]{section.A.2}{Vurdering af ligev\346rdige l\346gemidler}{appendix.A}% 48
-\BOOKMARK [0][-]{appendix.B}{Appendiks}{}% 49
-\BOOKMARK [1][-]{section.B.1}{Udbudstyper ved Amgrosudbud}{appendix.B}% 50
-\BOOKMARK [0][-]{appendix.C}{Appendiks}{}% 51
-\BOOKMARK [1][-]{section.C.1}{Indk\370b af l\346gemidler}{appendix.C}% 52
-\BOOKMARK [0][-]{appendix.D}{Appendiks}{}% 53
+\BOOKMARK [1][-]{section.2.2}{Substitution of l\346gemidler}{chapter.2}% 6
+\BOOKMARK [1][-]{section.2.3}{Ulemper ved substitution af l\346gemidler}{chapter.2}% 7
+\BOOKMARK [1][-]{section.2.4}{Implementering af substituerede l\346gemidler}{chapter.2}% 8
+\BOOKMARK [1][-]{section.2.5}{Patientsikkerhedsm\346ssige konsekvenser ved substituion}{chapter.2}% 9
+\BOOKMARK [1][-]{section.2.6}{Computer-baseret systemer}{chapter.2}% 10
+\BOOKMARK [1][-]{section.2.7}{Problemafgr\346sning}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.8}{Problemformulering}{chapter.2}% 12
+\BOOKMARK [0][-]{chapter.3}{Metode}{}% 13
+\BOOKMARK [1][-]{section.3.1}{Form\345l}{chapter.3}% 14
+\BOOKMARK [1][-]{section.3.2}{Dataindsamling}{chapter.3}% 15
+\BOOKMARK [1][-]{section.3.3}{Udviklingsproces}{chapter.3}% 16
+\BOOKMARK [1][-]{section.3.4}{Risiko faktorer}{chapter.3}% 17
+\BOOKMARK [1][-]{section.3.5}{Pr\346processering}{chapter.3}% 18
+\BOOKMARK [1][-]{section.3.6}{Design}{chapter.3}% 19
+\BOOKMARK [1][-]{section.3.7}{Implementering}{chapter.3}% 20
+\BOOKMARK [1][-]{section.3.8}{Test}{chapter.3}% 21
+\BOOKMARK [0][-]{chapter.4}{Resultat}{}% 22
+\BOOKMARK [0][-]{chapter.5}{Syntese}{}% 23
+\BOOKMARK [1][-]{section.5.1}{Diskussion}{chapter.5}% 24
+\BOOKMARK [1][-]{section.5.2}{Konklusion}{chapter.5}% 25
+\BOOKMARK [1][-]{section.5.3}{Perspektivering}{chapter.5}% 26
+\BOOKMARK [0][-]{section*.7}{Litteratur}{}% 27
+\BOOKMARK [0][-]{appendix.A}{Appendiks}{}% 28
+\BOOKMARK [1][-]{section.A.1}{Vurdering af l\346gemiddel}{appendix.A}% 29
+\BOOKMARK [1][-]{section.A.2}{Vurdering af ligev\346rdige l\346gemidler}{appendix.A}% 30
+\BOOKMARK [0][-]{appendix.B}{Appendiks}{}% 31
+\BOOKMARK [1][-]{section.B.1}{Udbudstyper ved Amgrosudbud}{appendix.B}% 32
+\BOOKMARK [0][-]{appendix.C}{Appendiks}{}% 33
+\BOOKMARK [1][-]{section.C.1}{Indk\370b af l\346gemidler}{appendix.C}% 34
+\BOOKMARK [0][-]{appendix.D}{Appendiks}{}% 35

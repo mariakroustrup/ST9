@@ -5,10 +5,10 @@
 \newblock {Studieordning for Civilingeni{\o}r, cand.polyt. i
   sundhedsteknologi}, 2011.
 
-\bibitem{Laegemiddelinformaion2017}
-Lecia~M. Nielsen.
-\newblock {Et l{\ae}gemiddel g{\aa}r i restordre}.
-\newblock {\em L{\ae}gemiddelinformation}, 2017.
+\bibitem{DanskSelskabforPatientsikkerhed2009}
+{Dansk Selskab for Patientsikkerhed}.
+\newblock {Et patientsikkerhedsperspektiv p{\aa} medicinering i Danmark}.
+\newblock 2009.
 
 \bibitem{Ess2003}
 Silvia~M Ess, Sebastian Schneeweiss, and Thomas~D Szucs.
@@ -26,19 +26,18 @@ State of~Health in~the EU and Danmark.
   anbefalinger}.
 \newblock {\em 23. Maj 2016}, pages 0--8, 2016.
 
-\bibitem{Sygehusapoteket2017}
-Sygehusapoteket.
-\newblock {Amgros Estimering}, 2017.
+\bibitem{Amgros2018b}
+Amgros.
+\newblock {Om Amgros}, 2018.
+
+\bibitem{Amgros2017b}
+Amgros.
+\newblock {L{\ae}gemiddel-udbud}, 2017.
 
 \bibitem{Amgros2015}
 Flemming Sonne.
 \newblock {Amgros status og perspektiver 2014-2015}.
 \newblock {\em Regionernes l{\ae}gemiddelorganisation, Amgros}, 2015.
-
-\bibitem{DanskSelskabforPatientsikkerhed2009}
-{Dansk Selskab for Patientsikkerhed}.
-\newblock {Et patientsikkerhedsperspektiv p{\aa} medicinering i Danmark}.
-\newblock 2009.
 
 \bibitem{Hakonsen2010}
 Helle H{\aa}konsen, Heidi~Skj{\o}nhaug Hopen, Linda Abelsen, Bj{\o}rg Ek, and
@@ -47,19 +46,53 @@ Helle H{\aa}konsen, Heidi~Skj{\o}nhaug Hopen, Linda Abelsen, Bj{\o}rg Ek, and
   in hospitals}.
 \newblock {\em Advances in Therapy}, 27(2):118--126, 2010.
 
+\bibitem{Agrawal2009}
+Abha Agrawal.
+\newblock {Medication errors: Prevention using information technology systems}.
+\newblock {\em British Journal of Clinical Pharmacology}, 67(6):681--686, 2009.
+
+\bibitem{Geissert2018}
+Peter Geissert, Sara Hallvik, Joshua {Van Otterloo}, Nicole O'Kane, Lindsey
+  Alley, Jody Carson, Gillian Leichtling, Christi Hildebran, Wayne Wakeland,
+  and Richard~A. Deyo.
+\newblock {High-risk prescribing and opioid overdose: Prospects for
+  prescription drug monitoring program-based proactive alerts}.
+\newblock {\em Pain}, 159(1):150--156, 2018.
+
 \bibitem{DanskeRegioner2016}
 Thomas~Birk Andersen and Ann VIlhelmsen.
 \newblock {Model for vurdering af l{\ae}gemidler}.
 \newblock {\em Danske Regioner}, 2016.
+
+\bibitem{Sygehusapoteket2017}
+Sygehusapoteket.
+\newblock {Amgros Estimering}, 2017.
 
 \bibitem{Amgros2018a}
 Amgros.
 \newblock {Udbudstyper og deres betydning}.
 \newblock pages 1--5, 2018.
 
+\bibitem{Kairi2017}
+Jayant~Kumar Kairi and Ashok~Kumar Sharma.
+\newblock {Substitutes of prescription medicines - A review of concerns
+  relevant to doctors and patients}.
+\newblock {\em Journal of Clinical and Diagnostic Research}, 11(8):FE01--FE05,
+  2017.
+
+\bibitem{Laegemiddelinformaion2017}
+Lecia~M. Nielsen.
+\newblock {Et l{\ae}gemiddel g{\aa}r i restordre}.
+\newblock {\em L{\ae}gemiddelinformation}, 2017.
+
 \bibitem{Sygehusapoteket2017a}
 Sygehusapoteket.
 \newblock {L{\ae}gemiddelskift Instruktion}, 2016.
+
+\bibitem{Wittich2014}
+Christopher~M. Wittich, Christopher~M. Burkle, and William~L. Lanier.
+\newblock {Medication errors: An overview for clinicians}.
+\newblock {\em Mayo Clinic Proceedings}, 89(8):1116--1125, 2014.
 
 \bibitem{Patientombuddet2013}
 Patientombuddet.
@@ -95,118 +128,6 @@ Mary~P. Tully and Iain~E. Buchan.
   influencing identification by pharmacists}.
 \newblock {\em Pharmacy World and Science}, 31(6):682--688, 2009.
 
-\bibitem{Poon2006}
-Eric~G. Poon, Jennifer~L. Cina, William Churchill, Nirali Patel, Erica
-  Featherstone, Jeffrey~M. Rothschild, Carol~A. Keohane, Anthony~D. Whittemore,
-  David~W. Bates, and Tejal~K. Gandhi.
-\newblock {Medication dispensing errors and potential adverse drug events
-  before and after implementing bar code technology in the pharmacy}.
-\newblock {\em Annals of Internal Medicine}, 145(6):426--434, 2006.
-
-\bibitem{Levtzion-korach2010}
-Osnat Levtzion-korach, Thomas Moniz, D~Pharm, Anthony~D Whittemore, David~W
-  Bates, and Tejal~K Gandhi.
-\newblock {Effect of Bar-Code Technology on the Safety of Medication
-  Administration}.
-\newblock {\em N Engl J Med}, (18), 2010.
-
-\bibitem{Amgros2013}
-Sonne Flemming.
-\newblock {Status og perspektiver 2012-2013}.
-\newblock {\em Amgros}, 2013.
-
-\bibitem{ISMP2011}
-ISMP.
-\newblock {FDA and ISMP Lists of Look-Alike Drug Names with Recommended Tall
-  Man Letters}.
-\newblock {\em Institute for Safe Medication Practices}, page 2008, 2011.
-
-\bibitem{HQSC2013}
-{Health Quality {\&} Safety Commission New Zealand (HQSC)}.
-\newblock {\em {Tall Man Lettering List. Report December 2013.}}
-\newblock Number December. 2013.
-
-\bibitem{ACSQ2011}
-{Australian Commission on Safety and Quality in Healthcare}.
-\newblock {National Tall Man Lettering List}.
-\newblock {\em Commonwealth of Australia}, (November), 2011.
-
-\bibitem{Campmans2018}
-Zizi Campmans, Arianne {Van Rhijn}, Ren{\'{e}}~M. Dull, Jacqueline
-  Santen-Reestman, Katja Taxis, and Sander~D. Borgsteede.
-\newblock {Preventing dispensing errors by alerting for drug confusions in the
-  pharmacy information system—A survey of users}.
-\newblock {\em PLoS ONE}, 13(5):1--11, 2018.
-
-\bibitem{DW1998}
-Bates DW, Leape LL, Cullen DJ, N~Laird, Petersen LA, Teich JM, E~Burdick,
-  M~Hickey, S~Kleefield, B~Shea, Vander~Vliet M, and D~Seger.
-\newblock {Effect of computerized physician order entry and a team intervention
-  on prevention of serious medication errors}.
-\newblock {\em Jama}, 280(15):1311--1316, 1998.
-
-\bibitem{Bates2013}
-David~W. Bates, Michael Cohen, Lucian~L. Leape, J.~Marc OverHage, M.~Michael
-  Shabot, and Thomas Sheridan.
-\newblock {Reducing the frequency of errors in medicine using information
-  technology}.
-\newblock {\em American Medical Informatics Association}, 78(3):A16, 2013.
-
-\bibitem{Cheng2011}
-C.~M. Cheng.
-\newblock {Hospital systems for the detection and prevention of adverse Drug
-  Events}.
-\newblock {\em Clinical Pharmacology and Therapeutics}, 89(6):779--781, 2011.
-
-\bibitem{Raboel2005}
-Louise~Isager Rab{\o}l, Annemarie Hellebek, Beth~Lilja Pedersen, Anette
-  Petersen, and Jesper~Lund Bredesen.
-\newblock {Beslutningsst{\o}tte til elektronisk medicinordination}.
-\newblock Technical Report April, 2005.
-
-\bibitem{Kong2012}
-Guilan Kong, Dong~Ling Xu, Richard Body, Jian~Bo Yang, Kevin MacKway-Jones, and
-  Simon Carley.
-\newblock {A belief rule-based decision support system for clinical risk
-  assessment of cardiac chest pain}.
-\newblock {\em European Journal of Operational Research}, 219(3):564--573,
-  2012.
-
-\bibitem{Masys2006}
-Daniel Masys.
-\newblock {Clinical Decision-Support Systems}.
-\newblock {\em Jama}, 296(21):2620, 2006.
-
-\bibitem{Masys2006a}
-Daniel Masys.
-\newblock {\em {Biomedical Informatics}}, volume 296.
-\newblock 2006.
-
-\bibitem{Evans1998}
-R.~Scott Evans, Stanley~L. Pestotnik, David~C. Classen, Terry~P. Clemmer,
-  Lindell~K. Weaver, James~F. Orme, James~F. Lloyd, and John~P. Burke.
-\newblock {A Computer-Assisted Management Program for Antibiotics and Other
-  Antiinfective Agents}.
-\newblock {\em New England Journal of Medicine}, 338(4):232--238, 1998.
-
-\bibitem{Clayton1995}
-P~D Clayton and G~Hripcsak.
-\newblock {Decision-Support in Health-Care}.
-\newblock {\em International Journal of Bio-Medical Computing}, 39(1):59--66,
-  1995.
-
-\bibitem{KONG2008}
-GUILAN KONG, DONG-LING XU, and JIAN-BO YANG.
-\newblock {Clinical Decision Support Systems: a Review of Knowledge
-  Representation and Inference under Uncertainties}.
-\newblock {\em International Journal of Computational Intelligence Systems},
-  1(2):159, 2008.
-
-\bibitem{Agrawal2009}
-Abha Agrawal.
-\newblock {Medication errors: Prevention using information technology systems}.
-\newblock {\em British Journal of Clinical Pharmacology}, 67(6):681--686, 2009.
-
 \bibitem{Anderson2002}
 James~G. Anderson, Stephen~J. Jay, Marilyn Anderson, and Thaddeus~J. Hunt.
 \newblock {Evaluating the capability of information technology to prevent
@@ -214,16 +135,16 @@ James~G. Anderson, Stephen~J. Jay, Marilyn Anderson, and Thaddeus~J. Hunt.
 \newblock {\em Journal of the American Medical Informatics Association},
   9(5):479--490, 2002.
 
-\bibitem{Kaushal2002}
-R~Kaushal.
-\newblock {Information technology and medication safety: what is the benefit?}
-\newblock {\em Quality and Safety in Health Care}, 11(3):261--265, 2002.
-
 \bibitem{Bates2000a}
 David~W Bates, Source Bmj, British Medical, No~Mar, and David~W Bates.
 \newblock {Using Information Technology to Reduce Rates of Medication Errors in
   Hospitals}.
 \newblock {\em British Medical Journal}, 320(7237):788--791, 2000.
+
+\bibitem{Kaushal2002}
+R~Kaushal.
+\newblock {Information technology and medication safety: what is the benefit?}
+\newblock {\em Quality and Safety in Health Care}, 11(3):261--265, 2002.
 
 \bibitem{Stenner2010}
 Shane~P. Stenner, Qingxia Chen, and Kevin~B. Johnson.
@@ -243,6 +164,11 @@ Kathleen~Rice Simpson.
 \newblock {Medication safety with heparin}.
 \newblock {\em MCN The American Journal of Maternal/Child Nursing}, 33(2):135,
   2008.
+
+\bibitem{Rapport2009}
+Rapport fra arbejdsgruppen~om sygehusmedicin.
+\newblock {Analyse af sygehusmedicin}.
+\newblock {\em Ministeriet for Sundhed og Forebyggelse}, 2009.
 
 \bibitem{Amgros2017}
 Amgros.

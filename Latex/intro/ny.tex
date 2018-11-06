@@ -1,0 +1,92 @@
+\chapter{Ekspertsystem}
+Ekspertsystemer er softwaresystemer som kan sammenlignes med en menneskelig ekspert. Deres formål er at rådgivende og give forklaringer til eksperter ud fra de opgaver de udfører. Da de er intelligente informationssystemer er de i stand til at forklare og grunde deres konklusioner. Ekspertsystemer er bredt anvendt som applikation inden for forskellige områder af medicin i forhold til at hjælpe med at stille diagnose, laboratorier analyser, behandlingsprotokol samt anvendes til oplæring af medicinske studerende. 
+
+\section{Vidensbaseret ekspertsystemer}
+Vidensbaseret ekspertsystemer anvender menneskelig viden til at løse problemer som normalt kræver ekspertviden. Denne viden er repræsenteret i ekspertsystemet som data eller regler som er indeholdt i computeren. Disse regler og data kan anvendes når det er nødvendigt for at løse problemstilling. Systemet er bygget op omkring inference mekanismer som backward chaining, forward chaining eller begge.  
+
+\chapter{Risikovurdering}
+\textit{I dette afsnit ønskes det at undersøge hvad risikovurdering indebærer samt hvordan andre studier har gjort i forhold til risikovurderingen af lignende problemstillinger}
+
+
+\section{Tanker}
+Undersøger sammenhænge mellem patient demografi variabler og ordinations mønstre med resultatet af overdoserings begivenheder ved odds ratio(OR). Hvorefter denne metrics blev evalueret for brugbarhed som forudsigelse til dette blev to logistiske regressionsmodeller anvendt. En vurderede alle kandidat risikofaktorer og den anden vurderede reducerede antallet af variable til en minimal model. Formålet med logistiske regressionsmodeller er at forudsige et binært resultat som lineær kombination ar risikofaktorer. Afhængige variable i logistisk model er et kontinuert estimat af hvor ofte man vil kunne forvente at en patient med de givne egenskaber og historie vil opleve en overdosis. 
+
+
+
+Traditionelt tilgang til data fusion er kvaliteten af data bestemt ud fra statistik som root-mean-square (standardafvigelse) og korrelation mellem data. Data fra forskellige kilder kan kombineres ved hjælp af vægtninger som er baseret på standardafvigelsen og korrelation i målefejl. Informationer fra en ekspert udføres af en ekspert som skønner og angiver estimater af kvaliteten. Med hensyn til data fusion er det nødvendigt at signalinformation og de menneskelige estimater udtrykkes i lignede former. Et regelbaseret ekspertsystem er vant til at hjælpe i denne data fusion er det nødvendigt at værdierne og vægtningen af signalinformation og de menneskelige estimater udtrykkes i en form, der kan fortolkes efter regler. Reglerne skal indeholde en procedure for vægtning modstriende eller tidsvarierende rapporter til vægtning af korrelerede data og for
+formerende tillid grænser gennem et hierarki af produktionen
+regler.
+
+Metoder til ekspert systemer til kombinere af usikkerhed oplysninger fra forskellige kilder er blev udviklet i litteraturen. Sandsynligsmodel baseret på selvstændige forudsætninger, Bayesisk tilgang, Klassficeringsmetode, Dempster-shafter theory. Mange af disse metoder behandler ikke korrelerede data.  
+ 
+string metric / fussy matching
+
+
+\section{Videns repræsentation}
+Processen med at strukturere viden omkring et problem på en måde som letter problemløsningen kaldes videns repræsentation. Mange forskellige repræsentationsskemaer er blevet udviklet og hver af dem bygger på at bestemmer hvordan viden skal repræsenteres og identificere essentielle komponenter af viden. De tre mest populære er semantic-network, frame-based og rule-based repræsentation. 
+
+
+kunstig intelligens (AI), der er dedikeret til at repræsentere information om verden i en form, som et computersystem kan udnytte til at løse komplekse opgaver som diagnosticering af en medicinsk tilstand eller dialog på et naturligt sprog. Videnrepræsentation indeholder resultater fra psykologi [1] om hvordan mennesker løser problemer og repræsenterer viden for at designe formaliteter, som gør det lettere at designe og opbygge komplekse systemer. Videnrepræsentation og ræsonnement inkorporerer også fund fra logik for at automatisere forskellige former for resonnement, såsom anvendelse af regler eller forhold mellem sæt og undergrupper. [2]
+
+
+Risikovurdering er bredt anvendt inden for sundhedssektoren til kliniske beslutninger\citep{flere}. %I de kliniske domæner hvor medicin er anvendt, fra anatomisk patologisk laboratorier til intensiv behandling, er kliniske beslutninger en kritisk aktivitet.~\citep{Croskerry2011} Beslutningstagningen er skjult for omverdenen, da denne foregår inde i klinikerens hovede og besluttes enten på baggrund af intuitiv eller analytisk fornuft.~\citep{Croskerry2011}
+
+%Intuitiv fornuft er en hurtig, impulsiv, ubesværet, refleksiv, som er karakteriseret ved  "et skud fra hoften", og kan i nogle tilfælde hjælpe i forbindelse med medicin men forårsager fejl. Analytisk fornuft er modsat langsom, eksplicit, overvejende, formålsbestemt og er generelt mere pålidelig end intuitiv.~ \citep{Croskerry2011}
+
+Processen for risikovurdering består af et sæt af logisk, systematiske og veldefinerede aktiviteter som giver beslutningstageren en velfunderet evaluering af risici associeret med et menneskeskabt aktivitet. \citep{bog}
+
+Risikovurdering er baseret på ligninger konstrueret på basis af relevant data, som f.eks. klinisk udbytte, samlet i specifik og repræsentativ kohorte af individuel opfølgelse for en given tidsperiode. \citep{bog}
+
+\subsection{Risikomodeller}
+Brugen af risiko model vurderes med hensyn til nøjagtighed og præcision. Nøjagtighed referer til hvor god modellens forudsigelse er i overensstemmelse med udfaldets prævalens i forhold til undergrupper af populationen. Præcision referer til hvor god modellens evne er til at opdele dem som har forskellige sande risici. \citep{Davison2008}
+ 
+\subsection{Evaluering af risko model}
+Den bedste måde at evaluere performance af risikomodel er ved at udføre et cohort af individuelle som er dafhænginge af dem som har udviklet modellen.\citep{Davison2008}
+
+Valget af attributter til modellen afhænger af formålet med modellen. \citep{Davison2008}
+
+\subsection{Risiko}
+Risiko er en sandsynlighed, der skyldes sårbarheder, som kan undgås gennem forebyggelse~\citep{Alam2016}. %Interaktion mellem mennesker i sundhedssystemer udgør en trussel på grund af kompleks teknologi, intense komplekse procedure, høj efterspørgsel på tjenester, tidspres, høj forventninger fra servicebrugeren samt naturens hierarkiske træning og ansvar.
+Risikovurderingen inden for sundhedssektoren kan defineres som en organiseret indsats for at identificere, vurdere og reducere, hvor risici for patienter, besøgende, personale og organisationer kan forekomme. ~\citep{Alam2016}
+
+
+Formålet med at udføre risikoanalyse er at støtte beslutnings processen. Det gør det muligt både at tage sikker og usikre kvantiteter op til overvejelse og beregne i hvilken grad specifikke begivenheder eller senarier er forventet at ske. Den typiske taksonomi for risikoanalyse bygger på et stort antal af udtryk som risko modellering, årsag og følge modeller, stokastiske modeller, system modeller og sandsynligheds modeller. Generelt er en model en simpel repræsentation af et fokuseret aspekt af den komplekse virkelighed. Modeller som er anvendt i risikoanalyse bygger på matematiske modeller og aktivere forudsigelser af fremtidige egenskaber af definerede systemer, der skal laves. ~\citep{Alam2016}
+%uncertainties = usikkerhed.
+
+
+*************
+Inden for klinisk medicin har forudsigelse sammen med diagnose, terapi og forebyggelse til formål at kvantificere risikoen for at en specifik begivenhed indtræffer. Dette estimeres ud fra risikovurderingsmodeller som forudsiger på baggrund af relevant klinisk resultater i forhold til den absolute risiko. Et alternativ til risikovurderingsmodeller er risiko beregner, som er tilgængelige for et bredere publikum. Denne type er væsentlig i klinisk medicin fordi den guider de kliniske beslutningstagerne. 
+**********
+
+
+%bog
+Risiko er defineret som en måling for sandsynligheden og alvorligheden af kritiske situationer. Tilfælde af risici er defineret som der hvor den potentielle udbytte kan beskrives som en fornuftigt kendt sandsynlighed. 
+
+Risko defineret som en tilstand, opførsel eller anden faktor som forårsager risici.
+
+
+%risikovurdering i danmark - VAS, American Society of Anestesiologists (ASA), Apgar 
+
+
+\section{Deterministisk versus probabilistisk}
+Deterministiske modeller er hvor hver variabel og parameter kan blive tildelt en fastlagt værdi eller serier af fastlagte værdier for en hver givet sæt af beslutninger. 
+Probabilistisk modeller bygger på sandsynlighed, hvor både variable og parameter anvendt til at beskrive input-output relationen og strukturen af elementerne ikke er velkendte. 
+
+
+
+%Deterministic algorithms are almost all local search algorithms, and they are quite efficient in finding local optima. However, there is a risk for the algorithms to be trapped at local optima, while the global optima are out of reach. A common practice is to introduce some stochastic component to an algorithm so that it becomes possible to jump out of such locality. In this case, algorithms become stochastic.
+
+
+% ACCURACY OF RECORD LINKAGE SOFTWARE IN MERGING DENTAL ADMINISTRATIVE DATASETS
+Der findes to strategier i forhold til at matche data som ikke har nogle specifikke identifikationer, den deterministiske metode og den probabilistiske metode. Begge bygger er baseret på en gruppe af variable. Simple deterministiske algoritmer kræver data som matcher fuldstændig, men mere komplekse algoritmer tillader forskelle ved brug af iterative fuzzy matching. 
+
+Probabilistiske metode er baseret på statistisk analyse til at beregne hvor sandsynligt det er at to datapar tilhører den samme person. 
+
+Den deterministiske metode erklærer ofte få linkede data til at blive matchet på grund af højere specificitet, men med større andel af de erklærede matches som er sande. Den probabilitiske metode har højere sensitivitet, hvilket betyder at antallet af sande matches, har en højere falsk positiv rate, hvilket vil sige at et højere andel af de erklærede matches som ikke er sande.
+
+%En lille del er fundet omkring deres nøjagtighed.
+
+
+
+
+
