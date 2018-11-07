@@ -17,53 +17,52 @@ A level-1 auxiliary file: appendiks/AppendiksC.aux
 A level-1 auxiliary file: appendiks/AppendiksD.aux
 Database file #1: bibtex/Maria.bib
 Warning--I didn't find a database entry for ""
-Warning--I didn't find a database entry for "XXX"
 Warning--empty journal in DanskSelskabforPatientsikkerhed2009
 Warning--empty journal in EU2017
+Warning--empty journal in Fischer2008
 Warning--empty journal in Amgros2018a
 Warning--empty journal in Patientombuddet2013
 Warning--empty journal in Sundhedsstyrelsen2005
-Warning--empty journal in Fischer2008
 Warning--empty journal in SygehusapoteketRegionNordjylland2013
-You've used 34 entries,
+You've used 35 entries,
             1791 wiz_defined-function locations,
-            660 strings with 8877 characters,
-and the built_in function-call counts, 6566 in all, are:
-= -- 575
-> -- 264
+            666 strings with 8952 characters,
+and the built_in function-call counts, 6748 in all, are:
+= -- 591
+> -- 268
 < -- 3
-+ -- 106
-- -- 72
-* -- 402
-:= -- 1067
-add.period$ -- 96
-call.type$ -- 34
-change.case$ -- 34
++ -- 108
+- -- 73
+* -- 415
+:= -- 1097
+add.period$ -- 99
+call.type$ -- 35
+change.case$ -- 35
 chr.to.int$ -- 0
-cite$ -- 41
-duplicate$ -- 287
-empty$ -- 674
-format.name$ -- 72
-if$ -- 1427
+cite$ -- 42
+duplicate$ -- 296
+empty$ -- 695
+format.name$ -- 73
+if$ -- 1467
 int.to.chr$ -- 0
-int.to.str$ -- 34
-missing$ -- 28
-newline$ -- 167
-num.names$ -- 34
-pop$ -- 111
+int.to.str$ -- 35
+missing$ -- 29
+newline$ -- 172
+num.names$ -- 35
+pop$ -- 112
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 128
+skip$ -- 131
 stack$ -- 0
-substring$ -- 410
-swap$ -- 42
+substring$ -- 422
+swap$ -- 43
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 7
-while$ -- 70
-width$ -- 36
-write$ -- 341
-(There were 9 warnings)
+while$ -- 72
+width$ -- 37
+write$ -- 352
+(There were 8 warnings)
