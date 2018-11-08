@@ -8,7 +8,7 @@
 \contentsline {section}{\numberline {2.4}Implementering af substituerede l\IeC {\ae }gemidler}{4}{section.2.4}
 \contentsline {section}{\numberline {2.5}Patientsikkerhedsm\IeC {\ae }ssige konsekvenser ved substituion}{5}{section.2.5}
 \contentsline {section}{\numberline {2.6}Teknologi til forebyggelse af patientsikkerhedsm\IeC {\ae }ssige konsekvenser}{7}{section.2.6}
-\contentsline {section}{\numberline {2.7}Problemafgr\IeC {\ae }sning}{8}{section.2.7}
+\contentsline {section}{\numberline {2.7}Problemafgr\IeC {\ae }nsning}{8}{section.2.7}
 \contentsline {section}{\numberline {2.8}Problemformulering}{8}{section.2.8}
 \contentsline {chapter}{\chapternumberline {3}Metode}{9}{chapter.3}
 \contentsline {section}{\numberline {3.1}Form\IeC {\r a}l}{9}{section.3.1}
