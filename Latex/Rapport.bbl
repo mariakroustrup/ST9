@@ -89,6 +89,11 @@ Kathleen~Rice Simpson.
 \newblock {\em MCN The American Journal of Maternal/Child Nursing}, 33(2):135,
   2008.
 
+\bibitem{Masys2006}
+Daniel Masys.
+\newblock {Clinical Decision-Support Systems}.
+\newblock {\em Jama}, 296(21):2620, 2006.
+
 \bibitem{Geissert2018}
 Peter Geissert, Sara Hallvik, Joshua {Van Otterloo}, Nicole O'Kane, Lindsey
   Alley, Jody Carson, Gillian Leichtling, Christi Hildebran, Wayne Wakeland,
@@ -165,15 +170,13 @@ David~W Bates, Source Bmj, British Medical, No~Mar, and David~W Bates.
   Hospitals}.
 \newblock {\em British Medical Journal}, 320(7237):788--791, 2000.
 
-\bibitem{Masys2006}
-Daniel Masys.
-\newblock {Clinical Decision-Support Systems}.
-\newblock {\em Jama}, 296(21):2620, 2006.
+\bibitem{SRN}
+{Sygehusapoteket Region Nordjylland}.
+\newblock {Intern dokument med Sygehusapoteket Region Nordjylland}.
 
-\bibitem{Rapport2009}
-Rapport fra arbejdsgruppen~om sygehusmedicin.
-\newblock {Analyse af sygehusmedicin}.
-\newblock {\em Ministeriet for Sundhed og Forebyggelse}, 2009.
+\bibitem{Medicinradet2018}
+Medicinr{\aa}det.
+\newblock {Om Os}, 2018.
 
 \bibitem{Amgros2017}
 Amgros.
