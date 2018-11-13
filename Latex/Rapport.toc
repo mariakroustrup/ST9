@@ -15,21 +15,20 @@
 \contentsline {section}{\numberline {3.2}Udviklingsproces}{9}{section.3.2}
 \contentsline {section}{\numberline {3.3}Dataindsamling}{10}{section.3.3}
 \contentsline {section}{\numberline {3.4}Risikofaktorer og v\IeC {\ae }gtning}{10}{section.3.4}
-\contentsline {section}{\numberline {3.5}Pr\IeC {\ae }processering}{11}{section.3.5}
+\contentsline {section}{\numberline {3.5}Pr\IeC {\ae }processering}{12}{section.3.5}
 \contentsline {section}{\numberline {3.6}Design}{12}{section.3.6}
-\contentsline {section}{\numberline {3.7}Implementering}{12}{section.3.7}
-\contentsline {section}{\numberline {3.8}Evaluering}{12}{section.3.8}
-\contentsline {chapter}{\chapternumberline {4}Resultat}{13}{chapter.4}
-\contentsline {chapter}{\chapternumberline {5}Syntese}{15}{chapter.5}
-\contentsline {section}{\numberline {5.1}Diskussion}{15}{section.5.1}
-\contentsline {section}{\numberline {5.2}Konklusion}{15}{section.5.2}
-\contentsline {section}{\numberline {5.3}Perspektivering}{15}{section.5.3}
-\contentsline {chapter}{Litteratur}{17}{section*.7}
-\contentsline {appendix}{\chapternumberline {A}Appendiks}{21}{appendix.A}
-\contentsline {section}{\numberline {A.1}Vurdering af l\IeC {\ae }gemiddel}{21}{section.A.1}
-\contentsline {section}{\numberline {A.2}Vurdering af ligev\IeC {\ae }rdige l\IeC {\ae }gemidler}{22}{section.A.2}
-\contentsline {appendix}{\chapternumberline {B}Appendiks}{23}{appendix.B}
-\contentsline {section}{\numberline {B.1}Udbudstyper ved Amgrosudbud}{23}{section.B.1}
-\contentsline {appendix}{\chapternumberline {C}Appendiks}{25}{appendix.C}
-\contentsline {section}{\numberline {C.1}Indk\IeC {\o }b af l\IeC {\ae }gemidler}{25}{section.C.1}
-\contentsline {appendix}{\chapternumberline {D}Appendiks}{27}{appendix.D}
+\contentsline {section}{\numberline {3.7}Implementering og test}{13}{section.3.7}
+\contentsline {section}{\numberline {3.8}Evaluering}{13}{section.3.8}
+\contentsline {chapter}{\chapternumberline {4}Resultat}{15}{chapter.4}
+\contentsline {chapter}{\chapternumberline {5}Syntese}{17}{chapter.5}
+\contentsline {section}{\numberline {5.1}Diskussion}{17}{section.5.1}
+\contentsline {section}{\numberline {5.2}Konklusion}{17}{section.5.2}
+\contentsline {chapter}{Litteratur}{19}{section*.7}
+\contentsline {appendix}{\chapternumberline {A}Appendiks}{23}{appendix.A}
+\contentsline {section}{\numberline {A.1}Vurdering af l\IeC {\ae }gemiddel}{23}{section.A.1}
+\contentsline {section}{\numberline {A.2}Vurdering af ligev\IeC {\ae }rdige l\IeC {\ae }gemidler}{24}{section.A.2}
+\contentsline {appendix}{\chapternumberline {B}Appendiks}{25}{appendix.B}
+\contentsline {section}{\numberline {B.1}Udbudstyper ved Amgrosudbud}{25}{section.B.1}
+\contentsline {appendix}{\chapternumberline {C}Appendiks}{27}{appendix.C}
+\contentsline {section}{\numberline {C.1}Indk\IeC {\o }b af l\IeC {\ae }gemidler}{27}{section.C.1}
+\contentsline {appendix}{\chapternumberline {D}Appendiks}{29}{appendix.D}
