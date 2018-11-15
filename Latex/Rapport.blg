@@ -8,14 +8,17 @@ A level-1 auxiliary file: formalia/abstract.aux
 A level-1 auxiliary file: formalia/forord.aux
 A level-1 auxiliary file: formalia/laesevejledning.aux
 A level-1 auxiliary file: intro/indledning.aux
+A level-1 auxiliary file: intro/Problemanalyse1.aux
 A level-1 auxiliary file: intro/ProblemanalyseNEWNEW.aux
 A level-1 auxiliary file: kontekst/metode.aux
+A level-1 auxiliary file: kontekst/resultat.aux
 A level-1 auxiliary file: formalia/Diskussion.aux
 A level-1 auxiliary file: appendiks/AppendiksA.aux
 A level-1 auxiliary file: appendiks/AppendiksB.aux
 A level-1 auxiliary file: appendiks/AppendiksC.aux
 A level-1 auxiliary file: appendiks/AppendiksD.aux
 Database file #1: bibtex/Maria.bib
+Warning--I didn't find a database entry for "DanskSelskabforPatientsikkerhed200"
 Warning--empty journal in DanskSelskabforPatientsikkerhed2009
 Warning--empty journal in EU2017
 Warning--empty journal in Fischer2008
@@ -23,45 +26,45 @@ Warning--empty journal in Amgros2018a
 Warning--empty journal in Patientombuddet2013
 Warning--empty journal in Sundhedsstyrelsen2005
 Warning--empty journal in SygehusapoteketRegionNordjylland2013
-You've used 37 entries,
+You've used 38 entries,
             1791 wiz_defined-function locations,
-            670 strings with 8971 characters,
-and the built_in function-call counts, 6965 in all, are:
-= -- 602
-> -- 276
+            680 strings with 9286 characters,
+and the built_in function-call counts, 7231 in all, are:
+= -- 626
+> -- 290
 < -- 3
-+ -- 112
-- -- 75
-* -- 413
-:= -- 1122
-add.period$ -- 102
-call.type$ -- 37
-change.case$ -- 37
++ -- 117
+- -- 79
+* -- 437
+:= -- 1165
+add.period$ -- 105
+call.type$ -- 38
+change.case$ -- 38
 chr.to.int$ -- 0
-cite$ -- 44
-duplicate$ -- 303
-empty$ -- 735
-format.name$ -- 75
-if$ -- 1521
+cite$ -- 45
+duplicate$ -- 312
+empty$ -- 759
+format.name$ -- 79
+if$ -- 1577
 int.to.chr$ -- 0
-int.to.str$ -- 37
-missing$ -- 28
-newline$ -- 179
-num.names$ -- 37
-pop$ -- 126
+int.to.str$ -- 38
+missing$ -- 29
+newline$ -- 184
+num.names$ -- 38
+pop$ -- 127
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 146
+skip$ -- 149
 stack$ -- 0
-substring$ -- 422
-swap$ -- 45
+substring$ -- 447
+swap$ -- 46
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 7
-while$ -- 74
-width$ -- 39
-write$ -- 364
-(There were 7 warnings)
+while$ -- 77
+width$ -- 40
+write$ -- 375
+(There were 8 warnings)

@@ -1,34 +1,39 @@
 \BOOKMARK [0][-]{titelblad.0}{Titelblad}{}% 1
 \BOOKMARK [0][-]{indhold.0}{Indholdsfortegnelse}{}% 2
-\BOOKMARK [0][-]{chapter.1}{Initierende problem}{}% 3
+\BOOKMARK [0][-]{chapter.1}{Indledning}{}% 3
 \BOOKMARK [0][-]{chapter.2}{Problemanalyse}{}% 4
 \BOOKMARK [1][-]{section.2.1}{L\346gemiddelskift}{chapter.2}% 5
-\BOOKMARK [1][-]{section.2.2}{Substitution of l\346gemidler}{chapter.2}% 6
-\BOOKMARK [1][-]{section.2.3}{Ulemper ved substitution af l\346gemidler}{chapter.2}% 7
-\BOOKMARK [1][-]{section.2.4}{Implementering af substituerede l\346gemidler}{chapter.2}% 8
-\BOOKMARK [1][-]{section.2.5}{Patientsikkerhedsm\346ssige konsekvenser ved substituion}{chapter.2}% 9
-\BOOKMARK [1][-]{section.2.6}{Teknologi til forebyggelse af patientsikkerhedsm\346ssige konsekvenser}{chapter.2}% 10
-\BOOKMARK [1][-]{section.2.7}{Problemafgr\346nsning}{chapter.2}% 11
-\BOOKMARK [1][-]{section.2.8}{Problemformulering}{chapter.2}% 12
-\BOOKMARK [0][-]{chapter.3}{Metode}{}% 13
-\BOOKMARK [1][-]{section.3.1}{Form\345l}{chapter.3}% 14
-\BOOKMARK [1][-]{section.3.2}{Udviklingsproces}{chapter.3}% 15
-\BOOKMARK [1][-]{section.3.3}{Dataindsamling}{chapter.3}% 16
-\BOOKMARK [1][-]{section.3.4}{Risikofaktorer og v\346gtning}{chapter.3}% 17
-\BOOKMARK [1][-]{section.3.5}{Pr\346processering}{chapter.3}% 18
-\BOOKMARK [1][-]{section.3.6}{Design}{chapter.3}% 19
-\BOOKMARK [1][-]{section.3.7}{Implementering og test}{chapter.3}% 20
-\BOOKMARK [1][-]{section.3.8}{Evaluering}{chapter.3}% 21
-\BOOKMARK [0][-]{chapter.4}{Resultat}{}% 22
-\BOOKMARK [0][-]{chapter.5}{Syntese}{}% 23
-\BOOKMARK [1][-]{section.5.1}{Diskussion}{chapter.5}% 24
-\BOOKMARK [1][-]{section.5.2}{Konklusion}{chapter.5}% 25
-\BOOKMARK [0][-]{section*.7}{Litteratur}{}% 26
-\BOOKMARK [0][-]{appendix.A}{Appendiks}{}% 27
-\BOOKMARK [1][-]{section.A.1}{Vurdering af l\346gemiddel}{appendix.A}% 28
-\BOOKMARK [1][-]{section.A.2}{Vurdering af ligev\346rdige l\346gemidler}{appendix.A}% 29
-\BOOKMARK [0][-]{appendix.B}{Appendiks}{}% 30
-\BOOKMARK [1][-]{section.B.1}{Udbudstyper ved Amgrosudbud}{appendix.B}% 31
-\BOOKMARK [0][-]{appendix.C}{Appendiks}{}% 32
-\BOOKMARK [1][-]{section.C.1}{Indk\370b af l\346gemidler}{appendix.C}% 33
-\BOOKMARK [0][-]{appendix.D}{Appendiks}{}% 34
+\BOOKMARK [1][-]{section.2.2}{Problemer ved l\346gemiddelskift}{chapter.2}% 6
+\BOOKMARK [1][-]{section.2.3}{Implementering af l\346gemiddelskift}{chapter.2}% 7
+\BOOKMARK [1][-]{section.2.4}{Forebyggelse af problemstillinger ved l\346gemiddelskift}{chapter.2}% 8
+\BOOKMARK [0][-]{chapter.3}{Problemanalyse}{}% 9
+\BOOKMARK [1][-]{section.3.1}{L\346gemiddelskift}{chapter.3}% 10
+\BOOKMARK [1][-]{section.3.2}{Substitution of l\346gemidler}{chapter.3}% 11
+\BOOKMARK [1][-]{section.3.3}{Ulemper ved substitution af l\346gemidler}{chapter.3}% 12
+\BOOKMARK [1][-]{section.3.4}{Implementering af substituerede l\346gemidler}{chapter.3}% 13
+\BOOKMARK [1][-]{section.3.5}{Patientsikkerhedsm\346ssige konsekvenser ved substituion}{chapter.3}% 14
+\BOOKMARK [1][-]{section.3.6}{Teknologi til forebyggelse af patientsikkerhedsm\346ssige konsekvenser}{chapter.3}% 15
+\BOOKMARK [1][-]{section.3.7}{Problemafgr\346nsning}{chapter.3}% 16
+\BOOKMARK [1][-]{section.3.8}{Problemformulering}{chapter.3}% 17
+\BOOKMARK [0][-]{chapter.4}{Metode}{}% 18
+\BOOKMARK [1][-]{section.4.1}{Form\345l}{chapter.4}% 19
+\BOOKMARK [1][-]{section.4.2}{Udviklingsproces}{chapter.4}% 20
+\BOOKMARK [1][-]{section.4.3}{Dataindsamling}{chapter.4}% 21
+\BOOKMARK [1][-]{section.4.4}{Risikofaktorer og v\346gtning}{chapter.4}% 22
+\BOOKMARK [1][-]{section.4.5}{Pr\346processering}{chapter.4}% 23
+\BOOKMARK [1][-]{section.4.6}{Design}{chapter.4}% 24
+\BOOKMARK [1][-]{section.4.7}{Implementering og test}{chapter.4}% 25
+\BOOKMARK [1][-]{section.4.8}{Evaluering}{chapter.4}% 26
+\BOOKMARK [0][-]{chapter.5}{Resultat}{}% 27
+\BOOKMARK [0][-]{chapter.6}{Syntese}{}% 28
+\BOOKMARK [1][-]{section.6.1}{Diskussion}{chapter.6}% 29
+\BOOKMARK [1][-]{section.6.2}{Konklusion}{chapter.6}% 30
+\BOOKMARK [0][-]{section*.7}{Litteratur}{}% 31
+\BOOKMARK [0][-]{appendix.A}{Appendiks}{}% 32
+\BOOKMARK [1][-]{section.A.1}{Vurdering af l\346gemiddel}{appendix.A}% 33
+\BOOKMARK [1][-]{section.A.2}{Vurdering af ligev\346rdige l\346gemidler}{appendix.A}% 34
+\BOOKMARK [0][-]{appendix.B}{Appendiks}{}% 35
+\BOOKMARK [1][-]{section.B.1}{Udbudstyper ved Amgrosudbud}{appendix.B}% 36
+\BOOKMARK [0][-]{appendix.C}{Appendiks}{}% 37
+\BOOKMARK [1][-]{section.C.1}{Indk\370b af l\346gemidler}{appendix.C}% 38
+\BOOKMARK [0][-]{appendix.D}{Appendiks}{}% 39

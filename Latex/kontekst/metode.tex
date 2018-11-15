@@ -5,15 +5,15 @@
 Formålet er at udvikle et regelbaseret system til risikovurdering af lægemiddelskift med henblik på at evaluere anvendeligheden af systemet. For at undgå at vurderingen af implementering af lægemiddelskift er personafhængig og sårbar, som den er på nuværende tidspunkt, udvikles et system, som sammenligner flere risikofaktorer fra forskellige databaser, hvilket den menneskelige evne ikke er tilstrækkelig til. Systemet foretager en risikovurdering ud fra risikofaktorer, som er vægtet af en ekspert på området, i forhold til at vurdere hvor kompleks implementering af lægemiddelskift er. Ud fra risikovurderingen skal det være muligt for ATC-ansvarlige medarbejdere at udarbejde Lægemiddel Nyt, som fremgår af Appendiks~\ref{cha:AppD}, punktnummer \ref{item:Laegemiddelnyt}. Lægemiddel Nyt sendes ud til de enkelte hospitalsafdelinger med henblik på at rådgive i forhold til hvilke lægemiddelskift der skal være særligt opmærksomme på i forbindelse med implementeringen for at forebygge medicineringsfejl og derved forbedre patientsikkerheden. 
 
 \section{Udviklingsproces}
-Udviklingen af et system risikovurderingen af lægemiddelskift gennemgår forskellige udviklingstrin, herunder indsamling af data, udvælgelse af risikofaktorer og vægtningen af disse, præprocessering af data, design, implementering og test samt evaluering af systemet. Udviklingsprocessem har forløbet som en iterativproces, men har fulgt forskellige udviklingstrin for at nå frem til det endelige resultat, hvilket fremgår af Figur \ref{fig:metode}. 
+Udviklingen af et system til risikovurdering af lægemiddelskift gennemgår forskellige udviklingstrin, herunder indsamling af data, udvælgelse af risikofaktorer og vægtning af disse, præprocessering af data, design, implementering og test samt evaluering af systemet. Udviklingsprocessen har foregået som en iterativproces, hvor der har været overlap mellem de enkelte trin. Udviklingstrinene fremgår af Figur \ref{fig:metode}. 
 
 \begin{figure}[H]\centering	\includegraphics[width=1\textwidth]{billeder/udviklingstrin.png} 
-	\caption{Udviklingstrin for et system til risikovurdering af lægemiddelskift}
+	\caption{Udviklingstrin for processen.}
 	\label{fig:metode}  
 \end{figure}
 \vspace{-0.5cm}
 
-Af Figur \ref{fig:metode} illustreres de forskellige processer som gennemgås ved udviklingen af et system til risikovurdering af lægemiddelskift. Indsamling af data danner grundlaget for den næste proces i forhold til udvælgelse af risikofaktorer. Risikofaktorer er udvalgt på baggrund af indsamlet data og litteratur. Disse vægtes efterfølgende af en ekspert inden for området. Dernæst foretages præprocessering af data for at gøre data homogent og sammenligneligt. Efterfølgende designes systemet som omhandler design af risikovurdering. Herefter implementeres designet af systemet. De enkelte dele af systemet er løbende testet og valideret i forhold til systemet performans. Til sidst evalueres systemet i forhold til brugervenlighed og fremtidige forbedringer. 
+Af Figur \ref{fig:metode} illustreres de forskellige udviklingstrin som gennemgås ved udviklingen af et system til risikovurdering af lægemiddelskift. Indsamling af data danner grundlaget for den næste proces i forhold til udvælgelse af risikofaktorer. Risikofaktorer er udvalgt på baggrund af indsamlet data og litteratur. Disse vægtes efterfølgende af en ekspert inden for området. Dernæst foretages præprocessering af data for at gøre data homogent og sammenligneligt. Efterfølgende designes systemet som omhandler design af risikovurdering. Herefter implementeres designet af systemet. De enkelte dele af systemet er løbende testet og valideret i forhold til systemet performans. Til sidst evalueres systemet i forhold til brugervenlighed og fremtidige forbedringer. 
 %Udvælgelsen af risikofaktorer danner grundlag for de inputs som vægtes i forhold til risikovurderingen. Da data ikke er homogen ønskes det at foretage præprocessering af data for at gøre data sammenligneligt. Designfasen bygger på design af algoritmen som danner grundlag for risikovurderingen. Designet verificeres i løbet af processen for at opnå det bedst mulige design. Herefter implementeres systemet, hvilket omfatter implementering af designet herunder kodning af regel-baseret ekspert system. Til sidst foretages en test af systemet i forhold til evaluere hvorvidt systemet performer efter formålet, hvis dette ikke er tilfældet vendes der tilbage til de fortgående udviklingstrin i forhold til at omformulere i  præprocessingsfasen, redesigne i systemet i designfasen eller tilpasse kodningen i implementeringensfasen. 
 
 
@@ -54,7 +54,7 @@ Skifteskemaerne kombineres med udtræk fra sygehusapoteksportalen om, hvorvidt l
 
 
 \section{Risikofaktorer og vægtning}
-Risikofaktorer er udvalgt ud fra den nuværende vurdering af ATC-ansvarlige medarbejdere, som fremgår af Appendiks~\ref{cha:AppD}, punktnummer \ref{item:ATC-ansvarlig}. Litteratur som beskriver ændringer i forskellige faktorer som har ledt til medicineringsfejl i klinikken som følge af lægemiddelskift, hvilket fremgår af Afsnit \ref{sec:ProblemLaeg}. Dokumenterede ATC-koder af SRN, som har ledt til problemstillinger vedrørende lægemiddelskift og derfor anses som kritiske~\citep{SRN}. Lægemidler, der overvåges særligt af Amgros, som er risikofyldte, hvis de ender i restordre på grund af f.eks. leveringesvigt. Liste over risikolægemidler fremgår af Appendiks~\ref{cha:AppD}, punktnummer \ref{item:Risikolaegemidler}. Risikofaktorerne er efter udvælgelsen vægtet af en ekspert inden for området, hvoraf en vægtning på 1 anses som værende af mindre betydning for implementering af lægemiddelskift og 5 anses som værende af stor betydning. Risikofaktorer, vægtning og begrundelse for valg fremgår af Tabel \ref{table:features}.
+Risikofaktorer er udvalgt ud fra den nuværende vurdering af ATC-ansvarlige medarbejdere, som fremgår af Appendiks~\ref{cha:AppD}, punktnummer \ref{item:ATC-ansvarlig}. Litteratur som beskriver risikofaktorer som har ledt til medicineringsfejl i klinikken som følge af lægemiddelskift, hvilket fremgår af Afsnit \ref{sec:ProblemLaeg}. Dokumenterede ATC-koder af SRN, som har ledt til problemstillinger vedrørende lægemiddelskift og derfor anses som kritiske~\citep{SRN}. Lægemidler, der overvåges særligt af Amgros, som er risikofyldte, hvis de ender i restordre på grund af f.eks. leveringesvigt. Liste over risikolægemidler fremgår af Appendiks~\ref{cha:AppD}, punktnummer \ref{item:Risikolaegemidler}. Risikofaktorerne er efter udvælgelsen vægtet af en ekspert inden for området, hvoraf en vægtning på 1 anses som værende af mindre betydning for implementering af lægemiddelskift og 5 anses som værende af stor betydning. Risikofaktorer og deres vægt samt begrundelse for valg fremgår af Tabel \ref{table:features}.
 
 \begin{longtable}{p{3.5cm}| p{1.0cm} | p{9.2cm}}
 	\caption{Risikofaktorer} \vspace{0.2cm}
@@ -64,7 +64,7 @@ Risikofaktorer er udvalgt ud fra den nuværende vurdering af ATC-ansvarlige meda
 \textbf{Look-a-like} & 2 & Look-a-like har påvist at kunne prædisponeres til medicineringsfejl~\citep{Wittich2014}. Dette kan have patientsikkerhedsmæssige konsekvenser, hvis f.eks. smertestillende panodil forveksles med plendil til behandling af forhøjet blodtryk ~\citep{DanskSelskabforPatientsikkerhed2009}.\\  \hline 
 \textbf{Dispenseringsform} & 2 & Dispenseringsform giver anledning til medicineringsfejl i forbindelse med ordination~\citep{Agrawal2009}. Ved ordination af det forkerte lægemiddel, grundet navneforveksling, kan dette give anledning til fejl i dispenseringsform~\citep{DanskSelskabforPatientsikkerhed2009}, hvilket har betydning for virkningen af lægemidlet.
 \\ \hline 
-\textbf{Styrke} & 2 & Styrke kan medføre medicineringsfejl ved ordination ved f.eks. forkert styrkeberegning~\citep{Agrawal2009}, hvorfor det er vigtigt at være opmærksom på  ændring i styrke for at undgå beregningsfejl og patienten får en højere eller lavere styrke end ordineret.\\ \hline
+\textbf{Styrke} & 2 & Styrke kan medføre medicineringsfejl ved ordination ved f.eks. forkert styrkeberegning~\citep{Agrawal2009}, hvorfor det er vigtigt at være opmærksom på  ændring i styrke for at undgå beregningsfejl, hvormed patienten kan risikere at få en højere eller lavere styrke end ordineret.\\ \hline
 \textbf{Risikolægemidler} & 3 & Disse overvåges særligt af Amgros, da de er kritiske hvis de ender i restordre, hvorfor det anbefales at have et lager af disse lægemidler i op til 8 uger~\citep{Amgros}. Yderligere kræver nogle af lægemidlerne et ekstra personalemæssigt ressourcetræk i forbindelse med skift og er i øget risiko for utilsigtede hændelser, som beskrevet i Appendiks ~\ref{cha:AppD}, nummer \ref{item:Risikolaegemidler}  \\ \hline 
 \textbf{ATC-grupper} & 5 & ATC-grupper såsom, A10, B05, J01, J06, L01 og N01 har givet anledning til problemstillinger vedrørende lægemiddelskift og er derfor defineret af SRN som kritiske \citep{SRN}.
 %står for en stor andel af udgifterne til sygehusmedicin. Over halvdelen af den samlede omsætning er f.eks. til gruppe L som blandt andet inkluderer behandlingen af kræftmedicin, gigtbehandling og sklerose. Andre eksempler er HIV-behandling, øjenbehandlingen og infektioner som er omkostningsfulde.~\citep{Rapport2009}. Da der ofte er store besparelser at opnå ved disse lægemidler skal implementering foregå hurtigt.
@@ -76,15 +76,17 @@ Risikofaktorer er udvalgt ud fra den nuværende vurdering af ATC-ansvarlige meda
 \section{Præprocessering}
 Præprocessering af data er nødvendigt, da data er tekstbaseret og indskrevet manuelt og derfor ikke sammenligneligt. Det er forskelligt om data er skrevet med majuskel eller minuskel, hvorfor det er valgt at ændre alt data til minuskel. Ligeledes er forkortelser udskrevet og tegnsætning fjernet for at gøre data generaliserbar. 
 
-Det antages at lægemiddelnavne er ens, hvis deres præfiks er uændret, hvorfor suffiks er fjernet. Lægemidler med ens præfiks, men forskellig suffiks, kan have anderledes dispenseringsform eller styrke. Dette forventes dog at opdages i forbindelse med sammenligning af dispenseringsform og styrke. Det er for dispenseringsformer antaget at filmovertrukne tabelletter er det samme som tabelletter samt, hvis ingen dispenseringsform er angivet er denne uændret.
+Det antages at lægemiddelnavne er ens, hvis deres præfiks er uændret, hvorfor suffiks er fjernet. Lægemidler med ens præfiks, men forskellig suffiks, kan have anderledes dispenseringsform eller styrke. Dette forventes dog at opdages i forbindelse med sammenligning af dispenseringsform og styrke. Det er for dispenseringsformer antaget at filmovertrukne tabelletter er det samme som tabelletter og hvis ingen dispenseringsform er angivet er denne uændret.
 
 \section{Design}
 \textcolor{red}{Tilføj: Hvilke overvejelser har jeg gjort i design i forhold til at gøre systemet generealiserbart?} \\
-Risikovurderingen er designet som if-then-else statements som danner grundlag for risikovurderingen. For hvert statement vurderes én eller flere risikofaktorer i forhold til om et statement er sandt eller falsk. Ud fra antallet af sande statements beregnes risikoscoren ud fra Ligning \ref{equ:risikoscore} på baggrund af den totale vægt af alle ikke matchende risikofaktorer og den totale vægt af alle risikofaktorer.
+Risikovurderingen er designet som if-then-else statements som danner grundlag for risikovurderingen. For hvert statement vurderes én eller flere risikofaktorer i forhold til om et statement er sandt eller falsk. Ud fra antallet af sande statements beregnes risikoscoren ud fra Ligning \ref{equ:risikoscore} på baggrund af den totale vægt af alle matchende risikofaktorer og den totale vægt af alle risikofaktorer.
 
 \begin{equation}  \label{equ:risikoscore}
-Riskoscore = \frac{\mbox{\textit{Totale vægt af alle ikke machtende risikofaktorer}}}{\mbox{\textit{Totale vægt af alle risikofaktorer}}} * 100
+Riskoscore = \frac{\mbox{\textit{Totale vægt af alle matchende risikofaktorer}}}{\mbox{\textit{Totale vægt af alle risikofaktorer}}} * 100
 \end{equation}
+
+Risikoscoren er angivet som en procentdel. En  høj risikoscore vil betyde at de risikofaktorer som gør sig gældende har en stor betydning for implementering af lægemiddelskift. Hvis risikoscoren modsat er lille vil dette have en mindre betydning for implementering af lægemiddelskift. Det skal på denne måde være muligt for de ATC-ansvarlige medarbejdere på SRN at skelne hvilke tilfælde de skal være ekstra opmærksomme på lægemiddelskift i forhold til udarbejdelsen af Lægemiddel Nyt.  
 
 Til design af look-a-like lægemidler, som sammenligner, hvorvidt et lægemiddelnavn fra år 2017 ligner et allerede eksisterende lægemiddelnavn fra år 2013 til 2016, beregnes Levenshtein distance. Levenshtein distance er et udtryk for det minimale antal af operationer, herunder slette, indføre eller erstatte, der kræves for at ændre et ord til et andet. Denne distance beregnes ud fra Ligning \ref{equ:LevDistance} på baggrund af det minimale antal af tilføjede, slettede og erstattede bogstaver der kræves for at ændre et ord til et andet samt den maksimale længde af de to ord som sammenlignes. 
 
@@ -92,7 +94,9 @@ Til design af look-a-like lægemidler, som sammenligner, hvorvidt et lægemiddel
 \mbox{\textit{Distance}} = 1 - \frac{\mbox{\textit{min(antal af tilføjede, slettede og erstattede bogstaver)}}}{\mbox{\textit{max(længde af ord der sammenlinges)}}}   
 \end{equation}
 
-Outputtet er designet ud fra det excelark som anvendes på nuværende tidspunkt af de ATC-ansvarlige. Udover de nuværende data tilføjes en ekstra kolonne til excelarket, som indeholder risikoscore og grundlag for denne score. Designet af outputtet fremgår af Figur \ref{fig:Output}.
+\fxnote{måske tilføje hvordan jeg vurdere hvornår antallet af operationer er højt eller lavt?}
+
+Outputtet er designet ud fra det excelark som anvendes på nuværende tidspunkt af de ATC-ansvarlige medarbejdere. Udover de nuværende data tilføjes en ekstra kolonne til excelarket, som indeholder risikoscore og grundlag for denne score. Designet af outputtet fremgår af Figur \ref{fig:Output}.
 
 \begin{figure}[H]\centering
 \includegraphics[width=1\textwidth]{billeder/Output.png} 
@@ -109,10 +113,10 @@ Outputtet er designet ud fra det excelark som anvendes på nuværende tidspunkt 
 %\end{equation}
 
 \section{Implementering og test}
-\textcolor{red}{Måske reference til kode i appendiks} \\
+\textcolor{red}{Måske reference til kode i appendiks, når koden er helt færdig} \\
 Systemet er implementeret i NetBeans, som er et Integrated Development Environment (IDE) til java. For at kunne håndtere Microsoft dokumenter blev Java Excel API (JExcelApi) og Apache POI tilføjet til biblioteket. Tegnsættet blev ændret til ISO-8859-15 i NetBeans IDE for at kunne håndtere æ, ø og å. 
 
-Enkelte dele af systemet blev efter implementeringen løbende testet og valideret i forhold til at undersøge om systemet performer efter formålet. Hvis dette ikke var tilfældet blev koden tilpasset.
+Enkelte dele af systemet blev efter implementeringen løbende testet og valideret i forhold til at undersøge om systemet performer efter formålet. Hvis dette ikke var tilfældet blev de enkelte dele af systemet tilpasset i koden, hvorefter disse blev testet igen indtil systemet performans var acceptabel.
 
 \section{Evaluering}
 \textcolor{red}{Skriv mere til når det er mere klart, hvordan dette kommer til at forløbe.} \\
