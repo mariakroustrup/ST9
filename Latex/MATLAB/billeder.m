@@ -33,10 +33,29 @@ cKK1K = reordercats(cKK1K,{'Lignende og/eller svært navn', 'Tung arbejdsbyrde', 
 bar(cKK1K,bKK1)
 title('Årsager til medicineringsfejl ved generisk substitution')
 ylabel('Antal årsager (%)')
-ylim([0 50])
+ylim([0 40])
 labels = arrayfun(@(value) num2str(value,'%2.1f'),bKK1,'UniformOutput',false);
     text(cKK1K,bKK1,labels,'HorizontalAlignment','center','VerticalAlignment','bottom') 
 set(gca,'fontsize',20)
+
+%%
+figure
+ny = [EnKK;ToKK;TreKK;FireKK;FemKK;SeksKK] 
+barh(sum(ny), 'y')
+hold on
+barh(ny(6), 'b')
+hold on
+barh(ny(5), 'r')
+hold on
+barh(ny(4), 'r')
+hold on
+barh(ny(3), 'r')
+hold on
+barh(ny(2), 'r')
+hold on
+barh(ny(1), 'r')
+hold off
+
 
 %% Kontraktskift
 % 

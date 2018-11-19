@@ -3,37 +3,30 @@
 \contentsline {chapter}{\chapternumberline {1}Indledning}{1}{chapter.1}
 \contentsline {chapter}{\chapternumberline {2}Problemanalyse}{3}{chapter.2}
 \contentsline {section}{\numberline {2.1}L\IeC {\ae }gemiddelskift}{3}{section.2.1}
-\contentsline {section}{\numberline {2.2}Problemer ved l\IeC {\ae }gemiddelskift}{3}{section.2.2}
+\contentsline {section}{\numberline {2.2}Konsekvenser ved l\IeC {\ae }gemiddelskift}{3}{section.2.2}
 \contentsline {section}{\numberline {2.3}Implementering af l\IeC {\ae }gemiddelskift}{6}{section.2.3}
 \contentsline {section}{\numberline {2.4}Forebyggelse af problemstillinger ved l\IeC {\ae }gemiddelskift}{6}{section.2.4}
-\contentsline {chapter}{\chapternumberline {3}Problemanalyse}{9}{chapter.3}
-\contentsline {section}{\numberline {3.1}L\IeC {\ae }gemiddelskift}{9}{section.3.1}
-\contentsline {section}{\numberline {3.2}Substitution of l\IeC {\ae }gemidler}{9}{section.3.2}
-\contentsline {section}{\numberline {3.3}Ulemper ved substitution af l\IeC {\ae }gemidler}{10}{section.3.3}
-\contentsline {section}{\numberline {3.4}Implementering af substituerede l\IeC {\ae }gemidler}{10}{section.3.4}
-\contentsline {section}{\numberline {3.5}Patientsikkerhedsm\IeC {\ae }ssige konsekvenser ved substituion}{11}{section.3.5}
-\contentsline {section}{\numberline {3.6}Teknologi til forebyggelse af patientsikkerhedsm\IeC {\ae }ssige konsekvenser}{13}{section.3.6}
-\contentsline {section}{\numberline {3.7}Problemafgr\IeC {\ae }nsning}{14}{section.3.7}
-\contentsline {section}{\numberline {3.8}Problemformulering}{14}{section.3.8}
-\contentsline {chapter}{\chapternumberline {4}Metode}{15}{chapter.4}
-\contentsline {section}{\numberline {4.1}Form\IeC {\r a}l}{15}{section.4.1}
-\contentsline {section}{\numberline {4.2}Udviklingsproces}{15}{section.4.2}
-\contentsline {section}{\numberline {4.3}Dataindsamling}{16}{section.4.3}
-\contentsline {section}{\numberline {4.4}Risikofaktorer og v\IeC {\ae }gtning}{16}{section.4.4}
-\contentsline {section}{\numberline {4.5}Pr\IeC {\ae }processering}{18}{section.4.5}
-\contentsline {section}{\numberline {4.6}Design}{18}{section.4.6}
-\contentsline {section}{\numberline {4.7}Implementering og test}{19}{section.4.7}
-\contentsline {section}{\numberline {4.8}Evaluering}{20}{section.4.8}
-\contentsline {chapter}{\chapternumberline {5}Resultat}{21}{chapter.5}
-\contentsline {chapter}{\chapternumberline {6}Syntese}{23}{chapter.6}
-\contentsline {section}{\numberline {6.1}Diskussion}{23}{section.6.1}
-\contentsline {section}{\numberline {6.2}Konklusion}{23}{section.6.2}
-\contentsline {chapter}{Litteratur}{25}{section*.7}
-\contentsline {appendix}{\chapternumberline {A}Appendiks}{29}{appendix.A}
-\contentsline {section}{\numberline {A.1}Vurdering af l\IeC {\ae }gemiddel}{29}{section.A.1}
-\contentsline {section}{\numberline {A.2}Vurdering af ligev\IeC {\ae }rdige l\IeC {\ae }gemidler}{30}{section.A.2}
-\contentsline {appendix}{\chapternumberline {B}Appendiks}{31}{appendix.B}
-\contentsline {section}{\numberline {B.1}Udbudstyper ved Amgrosudbud}{31}{section.B.1}
-\contentsline {appendix}{\chapternumberline {C}Appendiks}{33}{appendix.C}
-\contentsline {section}{\numberline {C.1}Indk\IeC {\o }b af l\IeC {\ae }gemidler}{33}{section.C.1}
-\contentsline {appendix}{\chapternumberline {D}Appendiks}{35}{appendix.D}
+\contentsline {section}{\numberline {2.5}Opsummering}{7}{section.2.5}
+\contentsline {section}{\numberline {2.6}Problemformulering}{8}{section.2.6}
+\contentsline {chapter}{\chapternumberline {3}Metode}{9}{chapter.3}
+\contentsline {section}{\numberline {3.1}Form\IeC {\r a}l}{9}{section.3.1}
+\contentsline {section}{\numberline {3.2}Udviklingsproces}{9}{section.3.2}
+\contentsline {section}{\numberline {3.3}Dataindsamling}{10}{section.3.3}
+\contentsline {section}{\numberline {3.4}Risikofaktorer og v\IeC {\ae }gtning}{10}{section.3.4}
+\contentsline {section}{\numberline {3.5}Pr\IeC {\ae }processering}{12}{section.3.5}
+\contentsline {section}{\numberline {3.6}Design}{12}{section.3.6}
+\contentsline {section}{\numberline {3.7}Implementering og test}{13}{section.3.7}
+\contentsline {section}{\numberline {3.8}Evaluering}{14}{section.3.8}
+\contentsline {chapter}{\chapternumberline {4}Resultat}{15}{chapter.4}
+\contentsline {chapter}{\chapternumberline {5}Syntese}{17}{chapter.5}
+\contentsline {section}{\numberline {5.1}Diskussion}{17}{section.5.1}
+\contentsline {section}{\numberline {5.2}Konklusion}{17}{section.5.2}
+\contentsline {chapter}{Litteratur}{19}{section*.7}
+\contentsline {appendix}{\chapternumberline {A}Appendiks}{23}{appendix.A}
+\contentsline {section}{\numberline {A.1}Vurdering af l\IeC {\ae }gemiddel}{23}{section.A.1}
+\contentsline {section}{\numberline {A.2}Vurdering af ligev\IeC {\ae }rdige l\IeC {\ae }gemidler}{24}{section.A.2}
+\contentsline {appendix}{\chapternumberline {B}Appendiks}{25}{appendix.B}
+\contentsline {section}{\numberline {B.1}Udbudstyper ved Amgrosudbud}{25}{section.B.1}
+\contentsline {appendix}{\chapternumberline {C}Appendiks}{27}{appendix.C}
+\contentsline {section}{\numberline {C.1}Indk\IeC {\o }b af l\IeC {\ae }gemidler}{27}{section.C.1}
+\contentsline {appendix}{\chapternumberline {D}Appendiks}{29}{appendix.D}
