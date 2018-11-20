@@ -7,9 +7,8 @@ A level-1 auxiliary file: formalia/titelblad.aux
 A level-1 auxiliary file: formalia/abstract.aux
 A level-1 auxiliary file: formalia/forord.aux
 A level-1 auxiliary file: formalia/laesevejledning.aux
-A level-1 auxiliary file: intro/indledning.aux
+A level-1 auxiliary file: intro/indledning1.aux
 A level-1 auxiliary file: intro/Problemanalyse1.aux
-A level-1 auxiliary file: intro/ProblemanalyseNEWNEW.aux
 A level-1 auxiliary file: kontekst/metode.aux
 A level-1 auxiliary file: kontekst/resultat.aux
 A level-1 auxiliary file: formalia/Diskussion.aux
@@ -18,53 +17,54 @@ A level-1 auxiliary file: appendiks/AppendiksB.aux
 A level-1 auxiliary file: appendiks/AppendiksC.aux
 A level-1 auxiliary file: appendiks/AppendiksD.aux
 Database file #1: bibtex/Maria.bib
-Warning--I didn't find a database entry for "DanskSelskabforPatientsikkerhed200"
 Warning--empty journal in DanskSelskabforPatientsikkerhed2009
 Warning--empty journal in EU2017
-Warning--empty journal in Fischer2008
-Warning--empty journal in Amgros2018a
 Warning--empty journal in Patientombuddet2013
 Warning--empty journal in Sundhedsstyrelsen2005
+Warning--empty journal in Fischer2008
+Warning--can't use both volume and number fields in Crina2008
+Warning--empty publisher in Crina2008
+Warning--empty journal in Amgros2018a
 Warning--empty journal in SygehusapoteketRegionNordjylland2013
 You've used 38 entries,
             1791 wiz_defined-function locations,
-            680 strings with 9286 characters,
-and the built_in function-call counts, 7231 in all, are:
-= -- 626
-> -- 290
-< -- 3
-+ -- 117
-- -- 79
-* -- 437
-:= -- 1165
-add.period$ -- 105
+            689 strings with 9943 characters,
+and the built_in function-call counts, 7937 in all, are:
+= -- 696
+> -- 339
+< -- 5
++ -- 132
+- -- 94
+* -- 526
+:= -- 1268
+add.period$ -- 108
 call.type$ -- 38
 change.case$ -- 38
 chr.to.int$ -- 0
-cite$ -- 45
-duplicate$ -- 312
-empty$ -- 759
-format.name$ -- 79
-if$ -- 1577
+cite$ -- 47
+duplicate$ -- 334
+empty$ -- 798
+format.name$ -- 94
+if$ -- 1727
 int.to.chr$ -- 0
 int.to.str$ -- 38
-missing$ -- 29
-newline$ -- 184
+missing$ -- 31
+newline$ -- 186
 num.names$ -- 38
-pop$ -- 127
+pop$ -- 117
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 149
+skip$ -- 161
 stack$ -- 0
-substring$ -- 447
-swap$ -- 46
-text.length$ -- 3
+substring$ -- 542
+swap$ -- 57
+text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 7
-while$ -- 77
+warning$ -- 9
+while$ -- 85
 width$ -- 40
-write$ -- 375
-(There were 8 warnings)
+write$ -- 383
+(There were 9 warnings)

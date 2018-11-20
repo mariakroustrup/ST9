@@ -26,18 +26,11 @@ State of~Health in~the EU and Danmark.
   anbefalinger}.
 \newblock {\em 23. Maj 2016}, pages 0--8, 2016.
 
-\bibitem{Amgros2018b}
-Amgros.
-\newblock {Om Amgros}, 2018.
-
-\bibitem{Amgros2017b}
-Amgros.
-\newblock {L{\ae}gemiddel-udbud}, 2017.
-
-\bibitem{Amgros2015}
-Flemming Sonne.
-\newblock {Amgros status og perspektiver 2014-2015}.
-\newblock {\em Regionernes l{\ae}gemiddelorganisation, Amgros}, 2015.
+\bibitem{Johnston2011}
+Atholl Johnston, Roland Asmar, Bj{\"{o}}rn Dahl{\"{o}}f, and Kate Hill.
+\newblock {Generic and therapeutic substitution: a viewpoint on achieving best
+  practice in Europe}.
+\newblock {\em British Journal of Clinical Pharmacology}, 72(5):733--734, 2011.
 
 \bibitem{Kairi2017}
 Jayant~Kumar Kairi and Ashok~Kumar Sharma.
@@ -46,90 +39,17 @@ Jayant~Kumar Kairi and Ashok~Kumar Sharma.
 \newblock {\em Journal of Clinical and Diagnostic Research}, 11(8):FE01--FE05,
   2017.
 
+\bibitem{Amgros2015}
+Flemming Sonne.
+\newblock {Amgros status og perspektiver 2014-2015}.
+\newblock {\em Regionernes l{\ae}gemiddelorganisation, Amgros}, 2015.
+
 \bibitem{Hakonsen2010}
 Helle H{\aa}konsen, Heidi~Skj{\o}nhaug Hopen, Linda Abelsen, Bj{\o}rg Ek, and
   Else~Lydia Toverud.
 \newblock {Generic substitution: A potential risk factor for medication errors
   in hospitals}.
 \newblock {\em Advances in Therapy}, 27(2):118--126, 2010.
-
-\bibitem{Agrawal2009}
-Abha Agrawal.
-\newblock {Medication errors: Prevention using information technology systems}.
-\newblock {\em British Journal of Clinical Pharmacology}, 67(6):681--686, 2009.
-
-\bibitem{Anderson2002}
-James~G. Anderson, Stephen~J. Jay, Marilyn Anderson, and Thaddeus~J. Hunt.
-\newblock {Evaluating the capability of information technology to prevent
-  adverse drug events: A computer simulation approach}.
-\newblock {\em Journal of the American Medical Informatics Association},
-  9(5):479--490, 2002.
-
-\bibitem{Kaushal2002}
-R~Kaushal.
-\newblock {Information technology and medication safety: what is the benefit?}
-\newblock {\em Quality and Safety in Health Care}, 11(3):261--265, 2002.
-
-\bibitem{Stenner2010}
-Shane~P. Stenner, Qingxia Chen, and Kevin~B. Johnson.
-\newblock {Impact of generic substitution decision support on electronic
-  prescribing behavior}.
-\newblock {\em Journal of the American Medical Informatics Association},
-  17(6):681--688, 2010.
-
-\bibitem{Fischer2008}
-Michael~A Fischer, Christine Vogeli, and Margaret Stedman.
-\newblock {Effect of Electronic Prescribing With Formulary Decision Support on
-  Medication Use and Cost}.
-\newblock 168(22):2433--2439, 2008.
-
-\bibitem{Simpson2008}
-Kathleen~Rice Simpson.
-\newblock {Medication safety with heparin}.
-\newblock {\em MCN The American Journal of Maternal/Child Nursing}, 33(2):135,
-  2008.
-
-\bibitem{Masys2006}
-Daniel Masys.
-\newblock {Clinical Decision-Support Systems}.
-\newblock {\em Jama}, 296(21):2620, 2006.
-
-\bibitem{Geissert2018}
-Peter Geissert, Sara Hallvik, Joshua {Van Otterloo}, Nicole O'Kane, Lindsey
-  Alley, Jody Carson, Gillian Leichtling, Christi Hildebran, Wayne Wakeland,
-  and Richard~A. Deyo.
-\newblock {High-risk prescribing and opioid overdose: Prospects for
-  prescription drug monitoring program-based proactive alerts}.
-\newblock {\em Pain}, 159(1):150--156, 2018.
-
-\bibitem{Johnston2011}
-Atholl Johnston, Roland Asmar, Bj{\"{o}}rn Dahl{\"{o}}f, and Kate Hill.
-\newblock {Generic and therapeutic substitution: a viewpoint on achieving best
-  practice in Europe}.
-\newblock {\em British Journal of Clinical Pharmacology}, 72(5):733--734, 2011.
-
-\bibitem{DanskeRegioner2016}
-Thomas~Birk Andersen and Ann VIlhelmsen.
-\newblock {Model for vurdering af l{\ae}gemidler}.
-\newblock {\em Danske Regioner}, 2016.
-
-\bibitem{Sygehusapoteket2017}
-Sygehusapoteket.
-\newblock {Amgros Estimering}, 2017.
-
-\bibitem{Amgros2018a}
-Amgros.
-\newblock {Udbudstyper og deres betydning}.
-\newblock pages 1--5, 2018.
-
-\bibitem{Laegemiddelinformaion2017}
-Lecia~M. Nielsen.
-\newblock {Et l{\ae}gemiddel g{\aa}r i restordre}.
-\newblock {\em L{\ae}gemiddelinformation}, 2017.
-
-\bibitem{Sygehusapoteket2017a}
-Sygehusapoteket.
-\newblock {L{\ae}gemiddelskift Instruktion}, 2016.
 
 \bibitem{Wittich2014}
 Christopher~M. Wittich, Christopher~M. Burkle, and William~L. Lanier.
@@ -170,11 +90,82 @@ Mary~P. Tully and Iain~E. Buchan.
   influencing identification by pharmacists}.
 \newblock {\em Pharmacy World and Science}, 31(6):682--688, 2009.
 
+\bibitem{Agrawal2009}
+Abha Agrawal.
+\newblock {Medication errors: Prevention using information technology systems}.
+\newblock {\em British Journal of Clinical Pharmacology}, 67(6):681--686, 2009.
+
+\bibitem{Anderson2002}
+James~G. Anderson, Stephen~J. Jay, Marilyn Anderson, and Thaddeus~J. Hunt.
+\newblock {Evaluating the capability of information technology to prevent
+  adverse drug events: A computer simulation approach}.
+\newblock {\em Journal of the American Medical Informatics Association},
+  9(5):479--490, 2002.
+
+\bibitem{Kaushal2002}
+R~Kaushal.
+\newblock {Information technology and medication safety: what is the benefit?}
+\newblock {\em Quality and Safety in Health Care}, 11(3):261--265, 2002.
+
+\bibitem{Stenner2010}
+Shane~P. Stenner, Qingxia Chen, and Kevin~B. Johnson.
+\newblock {Impact of generic substitution decision support on electronic
+  prescribing behavior}.
+\newblock {\em Journal of the American Medical Informatics Association},
+  17(6):681--688, 2010.
+
+\bibitem{Fischer2008}
+Michael~A Fischer, Christine Vogeli, and Margaret Stedman.
+\newblock {Effect of Electronic Prescribing With Formulary Decision Support on
+  Medication Use and Cost}.
+\newblock 168(22):2433--2439, 2008.
+
+\bibitem{Simpson2008}
+Kathleen~Rice Simpson.
+\newblock {Medication safety with heparin}.
+\newblock {\em MCN The American Journal of Maternal/Child Nursing}, 33(2):135,
+  2008.
+
 \bibitem{Bates2000a}
 David~W Bates, Source Bmj, British Medical, No~Mar, and David~W Bates.
 \newblock {Using Information Technology to Reduce Rates of Medication Errors in
   Hospitals}.
 \newblock {\em British Medical Journal}, 320(7237):788--791, 2000.
+
+\bibitem{Geissert2018}
+Peter Geissert, Sara Hallvik, Joshua {Van Otterloo}, Nicole O'Kane, Lindsey
+  Alley, Jody Carson, Gillian Leichtling, Christi Hildebran, Wayne Wakeland,
+  and Richard~A. Deyo.
+\newblock {High-risk prescribing and opioid overdose: Prospects for
+  prescription drug monitoring program-based proactive alerts}.
+\newblock {\em Pain}, 159(1):150--156, 2018.
+
+\bibitem{Boyko1990}
+Edward~J. Boyko and Beth~W. Alderman.
+\newblock {The use of risk factors in medical diagnosis: Opportunities and
+  cautions}.
+\newblock {\em Journal of Clinical Epidemiology}, 43(9):851--858, 1990.
+
+\bibitem{Rawshani2018}
+Aidin Rawshani, Araz Rawshani, Stefan Franz{\'{e}}n, Naveed Sattar, Bj{\"{o}}rn
+  Eliasson, Ann-Marie Svensson, Bj{\"{o}}rn Zethelius, Mervete Miftaraj,
+  Darren~K. McGuire, Annika Rosengren, and Soffia Gudbj{\"{o}}rnsdottir.
+\newblock {Risk Factors, Mortality, and Cardiovascular Outcomes in Patients
+  with Type 2 Diabetes}.
+\newblock {\em New England Journal of Medicine}, 379(7):633--644, 2018.
+
+\bibitem{Bruce2007}
+Erica~D. Bruce, Afraa~A. Abusalih, Thomas~J. McDonald, and Robin~L. Autenrieth.
+\newblock {Comparing deterministic and probabilistic risk assessments for sites
+  contaminated by polycyclic aromatic hydrocarbons (PAHs)}.
+\newblock {\em Journal of Environmental Science and Health - Part A
+  Toxic/Hazardous Substances and Environmental Engineering}, 42(6):697--706,
+  2007.
+
+\bibitem{Crina2008}
+Grosan Crina and Abraham Ajith.
+\newblock {Rule-Based Expert Systems}.
+\newblock In {\em Animal Genetics}, volume~39, pages 149--185. 2008.
 
 \bibitem{Amgros}
 Amgros.
@@ -188,16 +179,34 @@ Amgros.
 Medicinr{\aa}det.
 \newblock {Om Os}, 2018.
 
+\bibitem{DanskeRegioner2016}
+Thomas~Birk Andersen and Ann VIlhelmsen.
+\newblock {Model for vurdering af l{\ae}gemidler}.
+\newblock {\em Danske Regioner}, 2016.
+
 \bibitem{Amgros2017}
 Amgros.
 \newblock {Metodevejledning for omkostningsanalyser af nye l{\ae}gemidler og
   indikationer i hospitalssektoren}.
 \newblock {\em Amgros}, 2017.
 
+\bibitem{Amgros2018a}
+Amgros.
+\newblock {Udbudstyper og deres betydning}.
+\newblock pages 1--5, 2018.
+
 \bibitem{SygehusapoteketRegionNordjylland2013}
 {Sygehusapoteket Region Nordjylland}.
 \newblock {Statusnotat}.
 \newblock 2013.
+
+\bibitem{Sygehusapoteket2017}
+Sygehusapoteket.
+\newblock {Amgros Estimering}, 2017.
+
+\bibitem{Sygehusapoteket2017a}
+Sygehusapoteket.
+\newblock {L{\ae}gemiddelskift Instruktion}, 2016.
 
 \bibitem{Sygehusapoteket2017b}
 Sygehusapoteket.

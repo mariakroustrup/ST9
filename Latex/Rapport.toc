@@ -3,8 +3,8 @@
 \contentsline {chapter}{\chapternumberline {1}Indledning}{1}{chapter.1}
 \contentsline {chapter}{\chapternumberline {2}Problemanalyse}{3}{chapter.2}
 \contentsline {section}{\numberline {2.1}L\IeC {\ae }gemiddelskift}{3}{section.2.1}
-\contentsline {section}{\numberline {2.2}Konsekvenser ved l\IeC {\ae }gemiddelskift}{3}{section.2.2}
-\contentsline {section}{\numberline {2.3}Implementering af l\IeC {\ae }gemiddelskift}{6}{section.2.3}
+\contentsline {section}{\numberline {2.2}Patientsikkerhedsm\IeC {\ae }ssige konsekvenser}{3}{section.2.2}
+\contentsline {section}{\numberline {2.3}Vurderingen af l\IeC {\ae }gemiddelskift inden implementering}{6}{section.2.3}
 \contentsline {section}{\numberline {2.4}Forebyggelse af problemstillinger ved l\IeC {\ae }gemiddelskift}{6}{section.2.4}
 \contentsline {section}{\numberline {2.5}Opsummering}{7}{section.2.5}
 \contentsline {section}{\numberline {2.6}Problemformulering}{8}{section.2.6}
