@@ -43,18 +43,21 @@ figure
 ny = [EnKK;ToKK;TreKK;FireKK;FemKK;SeksKK] 
 barh(sum(ny), 'y')
 hold on
-barh(ny(6), 'b')
-hold on
-barh(ny(5), 'r')
-hold on
-barh(ny(4), 'r')
-hold on
-barh(ny(3), 'r')
+barh(ny(1), 'b')
 hold on
 barh(ny(2), 'r')
 hold on
-barh(ny(1), 'r')
-hold off
+barh(ny(3), 'r')
+hold on
+barh(ny(4), 'r')
+hold on
+barh(ny(5), 'r')
+hold on
+barh(ny(6), 'r')
+title('Årsager til medicineringsfejl ved generisk substitution')
+xlabel('Antal årsager (%)')
+set(gca,'fontsize',20)
+
 
 
 %% Kontraktskift

@@ -66,6 +66,18 @@ Jens~Winther Jensen.
 \newblock {{\AA}rsrapport 2014 patientsikkerhed}.
 \newblock {\em Region Nordjylland}, 2014.
 
+\bibitem{Agrawal2009}
+Abha Agrawal.
+\newblock {Medication errors: Prevention using information technology systems}.
+\newblock {\em British Journal of Clinical Pharmacology}, 67(6):681--686, 2009.
+
+\bibitem{Anderson2002}
+James~G. Anderson, Stephen~J. Jay, Marilyn Anderson, and Thaddeus~J. Hunt.
+\newblock {Evaluating the capability of information technology to prevent
+  adverse drug events: A computer simulation approach}.
+\newblock {\em Journal of the American Medical Informatics Association},
+  9(5):479--490, 2002.
+
 \bibitem{Barker2002}
 Kenneth N.Barker, Elizabeth~A Flynn, Ginette A.Pepper, David W.Bates, and
   Robert~L Mikeal.
@@ -89,18 +101,6 @@ Mary~P. Tully and Iain~E. Buchan.
 \newblock {Prescribing errors during hospital inpatient care: Factors
   influencing identification by pharmacists}.
 \newblock {\em Pharmacy World and Science}, 31(6):682--688, 2009.
-
-\bibitem{Agrawal2009}
-Abha Agrawal.
-\newblock {Medication errors: Prevention using information technology systems}.
-\newblock {\em British Journal of Clinical Pharmacology}, 67(6):681--686, 2009.
-
-\bibitem{Anderson2002}
-James~G. Anderson, Stephen~J. Jay, Marilyn Anderson, and Thaddeus~J. Hunt.
-\newblock {Evaluating the capability of information technology to prevent
-  adverse drug events: A computer simulation approach}.
-\newblock {\em Journal of the American Medical Informatics Association},
-  9(5):479--490, 2002.
 
 \bibitem{Kaushal2002}
 R~Kaushal.
@@ -153,6 +153,12 @@ Aidin Rawshani, Araz Rawshani, Stefan Franz{\'{e}}n, Naveed Sattar, Bj{\"{o}}rn
 \newblock {Risk Factors, Mortality, and Cardiovascular Outcomes in Patients
   with Type 2 Diabetes}.
 \newblock {\em New England Journal of Medicine}, 379(7):633--644, 2018.
+
+\bibitem{Campbell2008}
+Kevin~M. Campbell, Dennis Deck, and Antoinette Krupski.
+\newblock {Record linkage software in the public domain: A comparison of Link
+  Plus, The Link King, and a 'basic' deterministic algorithm}.
+\newblock {\em Health Informatics Journal}, 14(1):5--15, 2008.
 
 \bibitem{Bruce2007}
 Erica~D. Bruce, Afraa~A. Abusalih, Thomas~J. McDonald, and Robin~L. Autenrieth.
