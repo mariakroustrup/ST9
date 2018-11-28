@@ -1,11 +1,11 @@
 \chapter{Metode}
-\textit{I dette kapitel beskrives formålet og hvordan udviklingen af et system risikovurdering er foregået, herunder dataindsamling, identificering af risikofaktorer og vægtning af disse, præprocssering, design, implementering og test samt evaluering af systemet.}
+\textit{I dette kapitel beskrives metoden for at besvare problemformuleringen, herunder udviklingen af et regelbaseret system til risikovurdering og evaluering af systemets anvendelighed.}
 
 \section{Formål}
-Formålet er at undersøge, hvilken anvendelighed et regelbaseret system har til risikovurdering af lægemiddelskift, med henblik på at gøre den nuværende proces mindre personafhængig og sårbar. Systemet skal på baggrund af risikofaktorer, der anvendes i den nuværende vurdering, foretaget af ATC-ansvarlige medarbejder, og problemstillinger relateret til lægemiddelskift, vurderer risikoen ved lægemiddelskift. Denne viden kan anvendes til udarbejdelse af Lægemiddel Nyt, hvis formål er, at informere den enkelte hospitalsafdeling om, hvornår et lægemiddelskift er kompleks at implementere.
+Formålet er at undersøge, hvilken anvendelighed et regelbaseret system har til risikovurdering af lægemiddelskift, med henblik på at gøre den nuværende proces mindre personafhængig og sårbar. Systemet skal på baggrund af risikofaktorer, der anvendes i den nuværende vurdering, foretaget af ATC-ansvarlige medarbejder, og problemstillinger relateret til lægemiddelskift, vurderer risikoen ved lægemiddelskift. Ved vurdering af risiko er det muligt for ATC-ansvarlige medarbejdere at vurdere i hvilke tilfælde de skal være særligt opmærksomme på lægemiddelskiftet. Denne viden kan anvendes til udarbejdelse af Lægemiddel Nyt, hvis formål er, at informere den enkelte hospitalsafdeling om, hvornår de skal være særligt opmærksomme på et lægemiddelskift, da dette kan være kompleks at implementere.
 
-\section{Udviklingsproces}
-
+%\section{Metodebeskrivelse}
+%For at udvikle et system til risikovurdering af lægemiddelskift skal den nødvendige data indsamles 
 
 
 %Udviklingen af et system til risikovurdering af lægemiddelskift gennemgår forskellige udviklingstrin, herunder indsamling af data, udvælgelse af risikofaktorer og vægtning af disse, præprocessering af data, design, implementering og test samt evaluering af systemet. Udviklingsprocessen har foregået som en iterativproces, hvor der har været overlap mellem de enkelte trin. Udviklingstrinene fremgår af Figur \ref{fig:metode}. 
@@ -19,15 +19,21 @@ Formålet er at undersøge, hvilken anvendelighed et regelbaseret system har til
 %Af Figur \ref{fig:metode} illustreres de forskellige udviklingstrin som gennemgås ved udviklingen af et system til risikovurdering af lægemiddelskift. Indsamling af data danner grundlaget for den næste proces i forhold til udvælgelse af risikofaktorer. Risikofaktorer er udvalgt på baggrund af indsamlet data og litteratur. Disse vægtes efterfølgende af en ekspert inden for området. Dernæst foretages præprocessering af data for at gøre data homogent og sammenligneligt. Efterfølgende designes systemet som omhandler design af risikovurdering. Herefter implementeres designet af systemet. Systemet er efterfølge unit-testet. Til sidst evalueres systemets anvendelighed.
 
 \section{Dataindsamling}
-Data vedrørende lægemiddelskift for SRN er udtrukket fra sygehusapoteksportalen og sorteret af en medarbejder på SRN i forhold til relevans for udarbejdelsen af skiftelister, beskrivelsen af dette fremgår af Appendiks \ref{cha:AppD}, nummer \ref{item:Skiftelister}. Skiftelisterne er gældende for skift i år 2014 (n=231), 2015 (n=160), 2016 (n=318), 2017 (n=229) og 2018 (n=244). Hvert skifteskema indeholder oplysninger om lægemidlets ATC-kode, navn, dispenseringsform og styrke for forgående år og året for skiftet, hvilket fremgår af Figur \ref{fig:Input}.
+Data vedrørende lægemiddelskift for SRN er udtrukket fra sygehusapoteksportalen og sorteret af en medarbejder på SRN i forhold til relevans for udarbejdelsen af skiftelister, beskrivelsen af dette fremgår af Appendiks \ref{App:Skiftelister}. Skiftelisterne er gældende for skift i år 2014 (n=231), 2015 (n=160), 2016 (n=318), 2017 (n=229) og 2018 (n=244). Hver skifteliste indeholder oplysninger om lægemidlets ATC-kode, navn, dispenseringsform og styrke for forgående år og året for skiftet, hvilket fremgår af Figur \ref{fig:Input}.
 
 \begin{figure}[H]\centering
-\includegraphics[width=1\textwidth]{billeder/Input.png} 
-	\caption{Data anvendt som input til risikovurdering. De lyseblå kasser er skiftelister for forskellige år og de mørkeblå kasser er data udtræk som kombineres med skiftelisterne.}
+\includegraphics[width=1\textwidth]{billeder/Input1.png} 
+	\caption{Skiftelister for år 2014, 2015, 2016, 2017 og 2018, indeholdende oplysninger om ATC-kode, lægemidlets navn, dispenseringsform og styrke.}
 	\label{fig:Input}  
 \end{figure}
 
-Skiftelisterne kombineres med udbudsmateriale for lægemiddelskift, som er udtrukket fra sygehusapoteksportalen, og indeholder oplysninger om blandt andet ATC-kode, lægemidlets navn, styrke og dispenseringsform samt priser og hvorvidt lægemidlet indgår i Medicinrådets behandlingsvejledning for de udbud som er gældende for for det kommende år. Hvis lægemidlet indgår i Medicinrådets behandlingsvejledning er det lovmæssigt bestemt at disse skal anvendes som standardbehandling~\citep{Medicinradet2018}. Ligeledes kombineres skiftelisterne med viden omkring kritiske ATC-koder, der er indsamlet af SRN i forbindelse med problemstillinger vedrørende lægemiddelskift, som omfatter ATC-koderne, som fremgår af Figur \ref{fig:Input}, og risikolægemidler som er indsamlet af Amgros. Risikolægemidler er lægemidler som f.eks. kræver et ekstra personalemæssigt ressourcetræk i forbindelse med lægemiddelskift samt lægemidler, hvor der er øget risiko for utilsigtede hændelser~\citep{Amgros}. 
+Skiftelisterne kombineres med udbudsmateriale, som fremgår af \ref{fig:Input2}, for lægemiddelskift, der er udtrukket fra sygehusapoteksportalen, og indeholder oplysninger om blandt andet ATC-kode, lægemidlets navn, styrke og dispenseringsform samt priser og hvorvidt lægemidlet indgår i Medicinrådets behandlingsvejledning for de udbud som er gældende for for det kommende år. Hvis lægemidlet indgår i Medicinrådets behandlingsvejledning er det lovmæssigt bestemt at disse skal anvendes som standardbehandling~\citep{Medicinradet2018}. Ligeledes kombineres skiftelisterne med viden omkring kritiske ATC-koder, der er indsamlet af SRN i forbindelse med problemstillinger vedrørende lægemiddelskift, som omfatter ATC-koderne, som fremgår af Figur \ref{fig:Input2}, og risikolægemidler som er indsamlet af Amgros, som indeholder ATC-kode og lægemidlets navn. Risikolægemidler er lægemidler som f.eks. kræver et ekstra personalemæssigt ressourcetræk i forbindelse med lægemiddelskift samt lægemidler, hvor der er øget risiko for utilsigtede hændelser~\citep{Amgros}. 
+
+\begin{figure}[H]\centering
+\includegraphics[width=0.6\textwidth]{billeder/Input2.png} 
+	\caption{Kritiske ATC-koder, udbudsmateriale og risikolægemidler, der kombineres med skiftelister på baggrund af ATC-kode eller lægemidlets navn.}
+	\label{fig:Input2}  
+\end{figure}
 
 \section{Risikofaktorer og vægtning}
 Risikofaktorer er udvalgt ud fra den nuværende vurdering af ATC-ansvarlige medarbejdere, som fremgår af Appendiks~\ref{App:Skabelon}. Litteratur som beskriver risikofaktorer som har ledt til medicineringsfejl i klinikken som følge af lægemiddelskift, hvilket fremgår af Afsnit \ref{sec:ProblemLaeg}. Dokumenterede ATC-koder af SRN, som har ledt til problemstillinger vedrørende lægemiddelskift og derfor anses som kritiske~\citep{SRN}. Risikolægemidler, der overvåges særligt af Amgros, som er kritisk, hvis de ender i restordre på grund af f.eks. leveringesvigt \citep{Amgros}. Risikofaktorerne er efterfølgende vægtet af en ekspert inden for området, hvoraf en vægtning på 1 anses som værende af mindre betydning for implementering af lægemiddelskift og 5 anses som værende af stor betydning. Risikofaktorer og deres vægt samt begrundelse for valg fremgår af Tabel \ref{table:features}.
@@ -75,8 +81,9 @@ Outputtet er designet ud fra, hvordan den nuværende vurdering af lægemiddelski
 	\label{fig:Output}  
 \end{figure}
 
+\newpage
 \section{Implementering og test}
-Systemet er implementeret i NetBeans, som er et Integrated Development Environment (IDE) til java. For at kunne håndtere Microsoft dokumenter blev Java Excel API (JExcelApi) og Apache POI tilføjet til biblioteket. Tegnsættet blev ændret til ISO-8859-15 i NetBeans IDE for at kunne håndtere æ, ø og å. 
+Systemet er implementeret i NetBeans, som er et Integrated Development Environment (IDE) til java.  Java Excel API (JExcelApi) og Apache POI er tilføjet til biblioteket for at kunne indlæse Microsoft dokumenter. For at kunne håndtere æ, ø og å er tegnsættet ændret i NetBeans IDE til ISO-8859-15.
 
 \section{Evaluering}
 Systemets anvendelighed er evalueret af ATC-ansvarlige medarbejdere, som står for vurderingen af lægemiddelskift. For at give de ATC-ansvarlige et grundlag for evalueringen af systemet afprøves systemet inden det evalueres.

@@ -5,18 +5,17 @@
 \contentsline {section}{\numberline {2.1}L\IeC {\ae }gemiddelskift}{3}{section.2.1}
 \contentsline {section}{\numberline {2.2}Patientsikkerhedsm\IeC {\ae }ssige konsekvenser}{3}{section.2.2}
 \contentsline {section}{\numberline {2.3}Risikovurderingen af l\IeC {\ae }gemiddelskift}{6}{section.2.3}
-\contentsline {section}{\numberline {2.4}Informationssystemer til forebyggelse og risikovurdering}{6}{section.2.4}
-\contentsline {section}{\numberline {2.5}Opsummering}{7}{section.2.5}
-\contentsline {section}{\numberline {2.6}Problemformulering}{7}{section.2.6}
+\contentsline {section}{\numberline {2.4}Informationssystemer til forebyggelse og risikovurdering}{7}{section.2.4}
+\contentsline {section}{\numberline {2.5}Opsummering}{8}{section.2.5}
+\contentsline {section}{\numberline {2.6}Problemformulering}{8}{section.2.6}
 \contentsline {chapter}{\chapternumberline {3}Metode}{9}{chapter.3}
 \contentsline {section}{\numberline {3.1}Form\IeC {\r a}l}{9}{section.3.1}
-\contentsline {section}{\numberline {3.2}Udviklingsproces}{9}{section.3.2}
-\contentsline {section}{\numberline {3.3}Dataindsamling}{9}{section.3.3}
-\contentsline {section}{\numberline {3.4}Risikofaktorer og v\IeC {\ae }gtning}{10}{section.3.4}
-\contentsline {section}{\numberline {3.5}Pr\IeC {\ae }processering}{11}{section.3.5}
-\contentsline {section}{\numberline {3.6}Design}{12}{section.3.6}
-\contentsline {section}{\numberline {3.7}Implementering og test}{13}{section.3.7}
-\contentsline {section}{\numberline {3.8}Evaluering}{13}{section.3.8}
+\contentsline {section}{\numberline {3.2}Dataindsamling}{9}{section.3.2}
+\contentsline {section}{\numberline {3.3}Risikofaktorer og v\IeC {\ae }gtning}{10}{section.3.3}
+\contentsline {section}{\numberline {3.4}Pr\IeC {\ae }processering}{11}{section.3.4}
+\contentsline {section}{\numberline {3.5}Design}{12}{section.3.5}
+\contentsline {section}{\numberline {3.6}Implementering og test}{13}{section.3.6}
+\contentsline {section}{\numberline {3.7}Evaluering}{13}{section.3.7}
 \contentsline {chapter}{\chapternumberline {4}Resultat}{15}{chapter.4}
 \contentsline {chapter}{\chapternumberline {5}Syntese}{17}{chapter.5}
 \contentsline {section}{\numberline {5.1}Diskussion}{17}{section.5.1}
