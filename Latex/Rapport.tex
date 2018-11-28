@@ -51,7 +51,8 @@
 %\include{intro/problemanalyse}
 %
 %%% Kontekst %%
-\include{kontekst/metode}
+\include{kontekst/metode1}
+%\include{kontekst/metode}
 \include{kontekst/resultat}
 
 %\include{kontekst/resultat}
@@ -76,10 +77,31 @@
 %%%% Appendiks %%%%
 
 \appendix
-\include{appendiks/AppendiksA}
-\include{appendiks/AppendiksB}
-\include{appendiks/AppendiksC}
-\include{appendiks/AppendiksD}
+%\include{appendiks/AppendiksA} %\include{appendiks/AppendiksB} %\include{appendiks/AppendiksC} %\include{appendiks/AppendiksD} %\include{appendiks/AppendiksE}
+
+
+%\includepdf[pages=1,scale=.6,pagecommand={\chapter{Appendiks} \section{Skabelon til vurdering}\label{App:Skabelon}},linktodoc=true]{appendiks/Skabelon.pdf} 
+
+\chapter{Appendiks} \vspace{-1cm} \section{Skabelon til vurdering}\label{App:Skabelon} 
+\vspace{-1.2cm}
+\includegraphics[scale=0.7]{appendiks/skabelon.pdf}
+
+%\includepdf[pages=1,scale=0.6, nup=1x1, pagecommand={\chapter{Appendiks} \section{Skabelon til vurdering}\label{App:Skabelon}}, linktodoc = true]{appendiks/Skabelon.pdf} 
+
+
+\includepdf[pages=1,scale=.85,pagecommand={\section{Skiftelister}\label{App:Skiftelister}},linktodoc=true]{appendiks/skiftelister.pdf}
+\includepdf[pages=2,scale=.85,pagecommand={},linktodoc=true]{appendiks/skiftelister.pdf}
+\includepdf[pages=3,scale=.85,pagecommand={},linktodoc=true]{appendiks/skiftelister.pdf}
+
+
+\includepdf[pages=1,scale=0.85,pagecommand={\section{Lægemiddel Nyt}\label{App:LaegemiddelNyt}},linktodoc=true]{appendiks/Laegemiddelnyt.pdf}
+\includepdf[pages=2,scale=0.85,pagecommand={} ,linktodoc=true]{appendiks/Laegemiddelnyt.pdf}
+\includepdf[pages=3,scale=0.85,pagecommand={} ,linktodoc=true]{appendiks/Laegemiddelnyt.pdf}
+\includepdf[pages=4,scale=0.85,pagecommand={} ,linktodoc=true]{appendiks/Laegemiddelnyt.pdf}
+\includepdf[pages={5,6,7,8,9,10},nup=1x2]{appendiks/Laegemiddelnyt.pdf}      
+
+\includepdf[pages={1,2},scale=0.85, nup=1x2, pagecommand={\section{Evaluering}\label{App:Evaluering}}, linktodoc = true]{appendiks/Evaluering.pdf}    
+\includepdf[pages={3},scale=0.85, nup=1x2, pagecommand={}, linktodoc = true]{appendiks/Evaluering.pdf} 
 														% Appendiks/bilag start - giver chapter bogstaver i stedet for tal
 \clearforchapter												% Sikrer at pagestylen aktiveres paa den rigtige side
 \phantomsection													% Kunstigt afsnit, som hyperlinks kan 'holde fast i'

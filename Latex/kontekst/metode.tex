@@ -25,15 +25,17 @@ Af Figur \ref{fig:metode} illustreres de forskellige udviklingstrin som gennemg�
 %På nuværende tidspunkt vurderes kompleksiteten af implementering af lægemiddelskift af ATC-ansvarlige ud fra tidligere erfaringer og viden indsamlet via bl.a. pro.medicin. Flere faktorer vægtes ved vurderingen, hvilket gør denne proces meget personafhængig og stiller visse krav til den ATC-ansvarliges viden og erfaring inden for området. Vurderingen der foretages har betydning for implementeringen af lægemiddelskiftet i klinikken og det er derfor vigtigt at den rette vurdering foretages i forhold til at undgå medicineringsfejl som f.eks. forveksling af navnet på lægemidlet grundet ændringer ved lægemiddelskift. For at imødekomme disse problemstillinger ønskes det at udvikle et beslutningsstøttesystem til den ATC-ansvarlige som foretager risikovurderingen af lægemiddelskift med henblik på at synliggøre de ændringer som sker ved et eventuelt lægemiddelskift, hvormed den ATC-ansvarlige har et bedre beslutningsgrundlag.
 
 \section{Dataindsamling}
-Data vedrørende lægemiddelskift er udtrukket fra sygehusapoteksportalen og sorteret af en medarbejder på Sygehusapoteket Region Nordjylland (SRN) i forhold til relevans for udarbejdelsen af skifteskemaer, beskrivelsen af dette fremgår af Appendiks \ref{cha:AppD}, nummer \ref{item:Skiftelister}. Data omfatter skifteskema for skift i år 2015 (n=231), 2016 (n=160), 2017 (n=232) og 2018 (n=247). Hvert skifteskema indeholder data om ATC-koder og lægemiddelnavn, dispenseringsform samt styrke for det nuværende og kommende år.
-
-Skifteskemaerne kombineres med udtræk fra sygehusapoteksportalen om, hvorvidt lægemidlet indgår i medicinrådets behandlingsvejledning, viden omkring kritiske ATC-koder der er indsamlet af SRN i forbindelse med problemstillinger vedrørende lægemiddelskift og risikolægemidler som er indsamlet af Amgros. Risikolægemidler er lægemidler som f.eks. kræver et ekstra personalemæssigt ressourcetræk i forbindelse med lægemiddelskift samt lægemidler, hvor der er øget risiko for utilsigtede hændelser~\citep{Amgros}. Data som anvendes til input illustreres af Figur \ref{fig:Input}.
+Data vedrørende lægemiddelskift er udtrukket fra sygehusapoteksportalen og sorteret af en medarbejder på Sygehusapoteket Region Nordjylland (SRN) i forhold til relevans for udarbejdelsen af skifteskemaer, beskrivelsen af dette fremgår af Appendiks \ref{cha:AppD}, nummer \ref{item:Skiftelister}. Data omfatter skifteskema for skift i år 2015 (n=231), 2016 (n=160), 2017 (n=232) og 2018 (n=247). Hvert skifteskema indeholder data om ATC-koder og lægemiddelnavn, dispenseringsform samt styrke for det nuværende og kommende år, hvilket fremgår af Figur \ref{fig:Input}.
 
 \begin{figure}[H]\centering
 \includegraphics[width=1\textwidth]{billeder/Input.png} 
-	\caption{Data anvendt som input til risikovurdering. De lyseblå kasser er data fra forskellige  excel-filer og den mørkeblå kasse data fra en pdf-fil. Teksten angivet med fed refererer til titlen på de enkelte filer.}
+	\caption{Data anvendt som input til risikovurdering. De lyseblå kasser er skiftelister for forskellige år og de mørkeblå kasser er data udtræk som kombineres med skiftelisterne.}
 	\label{fig:Input}  
 \end{figure}
+
+Skiftelisterne kombineres med udbudsmateriale for lægemiddelskift for det kommende år, som er udtrukket fra sygehusapoteksportalen, og indeholder oplysninger om, hvorvidt lægemidlet indgår i Medicinrådets behandlingsvejledning. Indgår lægemidlet i Medicinrådets behandlingsvejledning er det lovmæssigt bestemt at disse skal anvendes til den pågældende behandling. Ligeledes kombineres skiftelisterne med viden omkring kritiske ATC-koder der er indsamlet af SRN i forbindelse med problemstillinger vedrørende lægemiddelskift og risikolægemidler som er indsamlet af Amgros. Risikolægemidler er lægemidler som f.eks. kræver et ekstra personalemæssigt ressourcetræk i forbindelse med lægemiddelskift samt lægemidler, hvor der er øget risiko for utilsigtede hændelser~\citep{Amgros}. Data som anvendes til input illustreres af Figur \ref{fig:Input}.
+
+
 
 
 
