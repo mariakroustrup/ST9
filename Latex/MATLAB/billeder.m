@@ -11,11 +11,11 @@ bK1 = [EnK;ToR;TreR;FireR;FemR]
 cK1K = categorical({'Forkert lægemiddel', 'Forkert formulering', 'Forkert dosis', 'Forkert administrationsvej', 'Udeladelsese af dosis'});
 cK1K = reordercats(cK1K,{'Forkert lægemiddel', 'Forkert formulering', 'Forkert dosis', 'Forkert administrationsvej', 'Udeladelsese af dosis'});
 bar(cK1K,bK1)
-title('Medicineringsfejl ved generisk substitution')
+%title('Medicineringsfejl ved generisk substitution')
 ylabel('Antal medicineringsfejl (%)')
 ylim([0 100])
-labels = arrayfun(@(value) num2str(value,'%2.1f'),bK1,'UniformOutput',false);
-    text(cK1K,bK1,labels,'HorizontalAlignment','center','VerticalAlignment','bottom') 
+%labels = arrayfun(@(value) num2str(value,'%2.1f'),bK1,'UniformOutput',false);
+   % text(cK1K,bK1,labels,'HorizontalAlignment','center','VerticalAlignment','bottom') 
 set(gca,'fontsize',20)
 
 
@@ -31,11 +31,11 @@ bKK1 = [EnKK;ToKK;TreKK;FireKK;FemKK;SeksKK]
 cKK1K = categorical({'Lignende og/eller svært navn', 'Tung arbejdsbyrde', 'Sjusk/fravær af dobbelttjek', 'Utilstrækkelig journalførring/ordination', 'Usikkerhed', 'Andet'});
 cKK1K = reordercats(cKK1K,{'Lignende og/eller svært navn', 'Tung arbejdsbyrde', 'Sjusk/fravær af dobbelttjek', 'Utilstrækkelig journalførring/ordination', 'Usikkerhed', 'Andet'});
 bar(cKK1K,bKK1)
-title('Årsager til medicineringsfejl ved generisk substitution')
+%title('Årsager til medicineringsfejl ved generisk substitution')
 ylabel('Antal årsager (%)')
-ylim([0 40])
-labels = arrayfun(@(value) num2str(value,'%2.1f'),bKK1,'UniformOutput',false);
-    text(cKK1K,bKK1,labels,'HorizontalAlignment','center','VerticalAlignment','bottom') 
+ylim([0 35])
+%labels = arrayfun(@(value) num2str(value,'%2.1f'),bKK1,'UniformOutput',false);
+    %text(cKK1K,bKK1,labels,'HorizontalAlignment','center','VerticalAlignment','bottom') 
 set(gca,'fontsize',20)
 
 %%
