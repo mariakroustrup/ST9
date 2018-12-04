@@ -83,19 +83,24 @@ Outputtet er designet ud fra, hvordan den nuværende vurdering af lægemiddelski
 
 \newpage
 \section{Implementering og test}
-Systemet er implementeret i NetBeans, som er et Integrated Development Environment (IDE) til java.  Java Excel API (JExcelApi) og Apache POI er tilføjet til biblioteket for at kunne indlæse Microsoft dokumenter. For at kunne håndtere æ, ø og å er tegnsættet ændret i NetBeans IDE til ISO-8859-15.
+*** Levenshtein distance  ***
+Systemet er implementeret i NetBeans, som er et Integrated Development Environment (IDE) til java.  Java Excel API (JExcelApi) og Apache POI er tilføjet til biblioteket for at kunne indlæse Microsoft dokumenter. For at kunne håndtere æ, ø og å er tegnsættet ændret i NetBeans IDE til ISO-8859-15. 
 
 \section{Evaluering}
-Systemets anvendelighed er evalueret af 12 ATC-ansvarlige medarbejdere, som står for vurderingen af lægemiddelskift. For at give de ATC-ansvarlige medarbejdere et grundlag for at evaluere systemet afprøves systemet.
+Systemet blevet evalueret af ATC-ansvarlige medarbejder af i forhold til at teste selve systemets anvendelighed samt hvor anvendeligt systemet er for de ATC-ansvarlige medarbejdere. En introduktion til systemet, hvilket fremgår af Appendiks \ref{App}, blev givet inden det blev evalueret for at sikre at systemets formål var forstået.
 
-Systemet afprøves ved at vurdere 30 repræsentative lægemiddelskift for skift i år 2016, 2017 og 2018, som fremgår af Appendiks~\ref{App:Evaluering}, på en skala fra 0 til 5, i forhold til, hvornår de ATC-ansvarlige medarbejdere vurderer at der skal være særlig opmærksomhed rettet mod lægemiddelskiftet. Vurderes et lægemiddelskift til 0 vil dette betyde at lægemiddelskiftet kræver mindre opmærksomhed, hvorimod 5 kræver større opmærksomhed ved implementering. Denne vurderingen sammenlignes med Lægemiddel Nyt fra år 2016, 2017 og 2018 i forhold til at se om de lægemiddelskift,som vurderes til at kræve større opmærksomhed, er beskrevet yderligere i Lægemiddel Nyt. Vurderingen af lægemiddelskift foregår individuelt og tager udgangspunkt i outputtet fra systemet, såsom risikoscore, ændringer i lægemidlets navn, dispenseringsform, styrke, look-a-like, kritisk ATC-kode, risikolægemiddel og Medicinrådet. 
+Systemets anvendelighed blev testet ved at vurdere 33 lægemiddelskift udvalgt fra skift i år 2016, 2017 og 2018, hvilket fremgår af Appendiks~\ref{App:Evaluering}. Udvælgelsen er vurderet af en ekspert på området og udvalgt i forhold til at repræsentere forskellige risikoscores og begrundelser for disse.
+De enkelte lægemiddelskift er vurderet i forhold til, hvornår der kræves uddybende information til klinikken via Lægemiddel Nyt.
+Efterfølgende blev sammenhængen mellem vurderingen af lægemiddelskiftene og hvilke lægemidler, der var uddybende information i Lægemiddel Nyt fra år 2016, 2017 og 2018 test i en XXX.
 
-Efter de ATC-ansvarlige har fået kendskab til systemet gives der feedback på systemets anvendelighed. Dette gøres i grupper af to, hvor der tages stillingen til systemets anvendelighed og videreudvikling af systemet. Efterfølgende vil anvendeligheden og videreudvikling diskuteres af samlet. 
+Dernæst blev anvendeligheden af systemet vurderes i forhold til 
+
+%Systemets anvendelighed er evalueret af 12 ATC-ansvarlige medarbejdere, som står for vurderingen af lægemiddelskift. For at give de ATC-ansvarlige medarbejdere et grundlag for at evaluere systemet afprøves systemet.
+
+%Systemet afprøves ved at vurdere 30 repræsentative lægemiddelskift for skift i år 2016, 2017 og 2018, som fremgår af Appendiks~\ref{App:Evaluering}, på en skala fra 0 til 5, i forhold til, hvornår de ATC-ansvarlige medarbejdere vurderer at der skal være særlig opmærksomhed rettet mod lægemiddelskiftet. Vurderes et lægemiddelskift til 0 vil dette betyde at lægemiddelskiftet kræver mindre opmærksomhed, hvorimod 5 kræver større opmærksomhed ved implementering. Denne vurderingen sammenlignes med Lægemiddel Nyt fra år 2016, 2017 og 2018 i forhold til at se om de lægemiddelskift,som vurderes til at kræve større opmærksomhed, er beskrevet yderligere i Lægemiddel Nyt. Vurderingen af lægemiddelskift foregår individuelt og tager udgangspunkt i outputtet fra systemet, såsom risikoscore, ændringer i lægemidlets navn, dispenseringsform, styrke, look-a-like, kritisk ATC-kode, risikolægemiddel og Medicinrådet. 
+
+%Efter de ATC-ansvarlige har fået kendskab til systemet gives der feedback på systemets anvendelighed. Dette gøres i grupper af to, hvor der tages stillingen til systemets anvendelighed og videreudvikling af systemet. Efterfølgende vil anvendeligheden og videreudvikling diskuteres af samlet. 
 
 
-%Systemets anvendelighed er evalueret af ATC-ansvarlige medarbejdere, som står for vurdering af lægemiddelskift. For at give de ATC-ansvarlige et grundlag for evalueringen af systemet sammenlignes den nuværende proces og systemet. 
 
-%Sammenligning af den nuværende proces og systemet er delt op i to dele, test af nuværende proces og test af systemet. De ATC-ansvarlige medarbejdere er randomiseret i forhold til at teste den nuværende proces først eller teste systemet først. For hver del er der udvalgt 10~\fxnote{dette er ikke helt fastlagt endnu} lægemiddelskift. Disse er udvalgt i samarbejde med en ekspert på området ud fra den risikoscore som systemet har udregnet. På denne måde sikres det at lægemidlerne, som indgår i de to dele er sammenlignelige. For at den nuværende proces afspejler processen mest muligt kan computer anvendes, hvis dette bliver nødvendigt. For at sammenligne den nuværende proces og systemet skal de ATC-ansvarlige angive på en skala fra 0 til 5 i forhold til hvor kritisk lægemiddelskiftet er, hvor 0 er ikke kritisk og 5 er meget kritisk. 
-
-%Efter at de ATC-ansvarlige har fået kendskab til systemet evalueres systemets anvendelighed ved at diskutere fordele og ulemper ved systemet.
 

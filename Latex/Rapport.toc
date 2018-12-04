@@ -5,9 +5,9 @@
 \contentsline {section}{\numberline {2.1}L\IeC {\ae }gemiddelskift}{3}{section.2.1}
 \contentsline {section}{\numberline {2.2}Patientsikkerhedsm\IeC {\ae }ssige konsekvenser}{3}{section.2.2}
 \contentsline {section}{\numberline {2.3}Risikovurderingen af l\IeC {\ae }gemiddelskift}{5}{section.2.3}
-\contentsline {section}{\numberline {2.4}Informationssystemer til forebyggelse og risikovurdering}{6}{section.2.4}
-\contentsline {section}{\numberline {2.5}Opsummering}{7}{section.2.5}
-\contentsline {section}{\numberline {2.6}Problemformulering}{7}{section.2.6}
+\contentsline {section}{\numberline {2.4}Informationssystemer til forebyggelse og risikovurdering}{7}{section.2.4}
+\contentsline {section}{\numberline {2.5}Opsummering}{8}{section.2.5}
+\contentsline {section}{\numberline {2.6}Problemformulering}{8}{section.2.6}
 \contentsline {chapter}{\chapternumberline {3}Metode}{9}{chapter.3}
 \contentsline {section}{\numberline {3.1}Form\IeC {\r a}l}{9}{section.3.1}
 \contentsline {section}{\numberline {3.2}Dataindsamling}{9}{section.3.2}
@@ -21,8 +21,10 @@
 \contentsline {section}{\numberline {5.1}Diskussion}{17}{section.5.1}
 \contentsline {section}{\numberline {5.2}Konklusion}{17}{section.5.2}
 \contentsline {chapter}{Litteratur}{19}{section*.7}
-\contentsline {appendix}{\chapternumberline {A}Appendiks}{23}{appendix.A}
+\contentsline {appendix}{\chapternumberline {A}Materiale fra SRN}{23}{appendix.A}
 \contentsline {section}{\numberline {A.1}Skabelon til vurdering}{23}{section.A.1}
 \contentsline {section}{\numberline {A.2}Skiftelister}{24}{section.A.2}
 \contentsline {section}{\numberline {A.3}L\IeC {\ae }gemiddel Nyt}{27}{section.A.3}
-\contentsline {section}{\numberline {A.4}Evaluering}{34}{section.A.4}
+\contentsline {appendix}{\chapternumberline {B}Evaluering af system}{35}{appendix.B}
+\contentsline {section}{\numberline {B.1}Introduktion til evaluering}{35}{section.B.1}
+\contentsline {section}{\numberline {B.2}Opgave til evaluering}{36}{section.B.2}

@@ -82,7 +82,7 @@
 
 %\includepdf[pages=1,scale=.6,pagecommand={\chapter{Appendiks} \section{Skabelon til vurdering}\label{App:Skabelon}},linktodoc=true]{appendiks/Skabelon.pdf} 
 
-\chapter{Appendiks} \vspace{-1cm} \section{Skabelon til vurdering}\label{App:Skabelon} 
+\chapter{Materiale fra SRN} \vspace{-1cm} \section{Skabelon til vurdering}\label{App:Skabelon} 
 \vspace{-1.2cm}
 \includegraphics[scale=0.7]{appendiks/skabelon.pdf}
 
@@ -100,7 +100,8 @@
 \includepdf[pages=4,scale=0.85,pagecommand={} ,linktodoc=true]{appendiks/Laegemiddelnyt.pdf}
 \includepdf[pages={5,6,7,8,9,10},nup=1x2]{appendiks/Laegemiddelnyt.pdf}      
 
-\includepdf[pages={1,2},scale=0.85, nup=1x2, pagecommand={\section{Evaluering}\label{App:Evaluering}}, linktodoc = true]{appendiks/Evaluering.pdf}    
+\include{kontekst/introduktion}
+\includepdf[pages={1,2},scale=0.85, nup=1x2, pagecommand={\section{Opgave til evaluering} \label{App:Evaluering}}, linktodoc = true]{appendiks/Evaluering.pdf}    
 \includepdf[pages={3},scale=0.85, nup=1x2, pagecommand={}, linktodoc = true]{appendiks/Evaluering.pdf} 
 														% Appendiks/bilag start - giver chapter bogstaver i stedet for tal
 \clearforchapter												% Sikrer at pagestylen aktiveres paa den rigtige side
