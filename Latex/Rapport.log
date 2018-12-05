@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.9)  4 DEC 2018 11:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.9)  5 DEC 2018 13:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1617,14 +1617,14 @@ LaTeX Font Info:    Try loading font information for U+stmry on input line 6.
 
 
 (./formalia/forside.tex
-<billeder/aau_logo_da.pdf, id=124, 121.45375pt x 77.28876pt>
+<billeder/aau_logo_da.pdf, id=156, 121.45375pt x 77.28876pt>
 File: billeder/aau_logo_da.pdf Graphic file (type pdf)
 
 <use billeder/aau_logo_da.pdf>
 Package pdftex.def Info: billeder/aau_logo_da.pdf used on input line 6.
 (pdftex.def)             Requested size: 85.1987pt x 54.21732pt.
 
-<billeder/forside.png, id=125, 607.26875pt x 129.48375pt>
+<billeder/forside.png, id=157, 607.26875pt x 129.48375pt>
 File: billeder/forside.png Graphic file (type png)
 
 <use billeder/forside.png>
@@ -1667,7 +1667,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 2.
 
-<billeder/AAU-logo-stud-DK-RGB.pdf, id=143, 136.51pt x 97.09073pt>
+<billeder/AAU-logo-stud-DK-RGB.pdf, id=175, 136.51pt x 97.09073pt>
 File: billeder/AAU-logo-stud-DK-RGB.pdf Graphic file (type pdf)
 
 <use billeder/AAU-logo-stud-DK-RGB.pdf>
@@ -1789,9 +1789,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 29.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 29.
- [10
-
-]
+ [10]
 \openout2 = `intro/indledning1.aux'.
 
  (./intro/indledning1.tex
@@ -1821,6 +1819,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 34.
  [1
+
 
 
 ]
@@ -1853,7 +1852,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 9.
 
-<billeder/GenSubb.png, id=305, 1197.47375pt x 798.985pt>
+<billeder/GenSubb.png, id=345, 1197.47375pt x 798.985pt>
 File: billeder/GenSubb.png Graphic file (type png)
 
 <use billeder/GenSubb.png>
@@ -1868,7 +1867,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 23.
  [3]
-<billeder/GenSubbb.png, id=317, 1260.71pt x 794.97pt>
+<billeder/GenSubbb.png, id=358, 1260.71pt x 794.97pt>
 File: billeder/GenSubbb.png Graphic file (type png)
 
 <use billeder/GenSubbb.png>
@@ -1887,7 +1886,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 38.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 38.
- <billeder/proces.png, id=348, 603.25375pt x 79.29625pt>
+ <billeder/proces.png, id=388, 603.25375pt x 79.29625pt>
 File: billeder/proces.png Graphic file (type png)
 
 <use billeder/proces.png>
@@ -1977,6 +1976,12 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 100.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 100.
+
+Underfull \hbox (badness 1152) in paragraph at lines 104--105
+\T1/cmr/m/n/10.95 menneskelige evne, i stand til at organisere og identificere 
+sammenhænge mellem
+ []
+
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 122.
 Package babel Info: Redefining danish shorthand "~
@@ -1989,11 +1994,11 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 124.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 124.
- [7]
+[7]
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 131.
+(babel)             in language  on input line 130.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 131.
+(babel)             in language  on input line 130.
 )
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 39.
@@ -2020,7 +2025,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 21.
 
-<billeder/Input1.png, id=424, 774.895pt x 132.495pt>
+<billeder/Input1.png, id=465, 774.895pt x 132.495pt>
 File: billeder/Input1.png Graphic file (type png)
  <use billeder/Input1.png>
 Package pdftex.def Info: billeder/Input1.png used on input line 25.
@@ -2039,7 +2044,7 @@ Package babel Info: Redefining danish shorthand "~
 
 
  <./billeder/Input1.png>]
-<billeder/Input2.png, id=437, 460.72125pt x 116.435pt>
+<billeder/Input2.png, id=478, 460.72125pt x 116.435pt>
 File: billeder/Input2.png Graphic file (type png)
 
 <use billeder/Input2.png>
@@ -2050,77 +2055,74 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 38.
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--44
-[]|
- []
-
-
-Overfull \hbox (1.39407pt too wide) in paragraph at lines 47--47
+Overfull \hbox (1.39407pt too wide) in paragraph at lines 49--49
 []|\T1/cmr/bx/n/10.95 Dispenseringsform| 
  []
 
 
-Underfull \hbox (badness 1377) in paragraph at lines 50--50
+Underfull \hbox (badness 1377) in paragraph at lines 52--52
 \T1/cmr/m/n/10.95 Yderligere kræver nogle af lægemidlerne et ekstra
  []
 
 
-Overfull \hbox (0.60263pt too wide) in alignment at lines 41--53
+Overfull \hbox (3.44809pt too wide) in alignment at lines 43--55
  [] [] [] 
  []
 
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 53.
+(babel)             in language  on input line 55.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 53.
+(babel)             in language  on input line 55.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 53.
+(babel)             in language  on input line 55.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 53.
+(babel)             in language  on input line 55.
 [10 <./billeder/Input2.png>]
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 55.
+(babel)             in language  on input line 57.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 55.
+(babel)             in language  on input line 57.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 60.
+(babel)             in language  on input line 62.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 60.
+(babel)             in language  on input line 62.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 63.
+(babel)             in language  on input line 65.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 63.
+(babel)             in language  on input line 65.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 63.
+(babel)             in language  on input line 65.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 63.
+(babel)             in language  on input line 65.
  [11]
-<billeder/Output.png, id=471, 916.42375pt x 98.3675pt>
+<billeder/Output.png, id=511, 916.42375pt x 98.3675pt>
 File: billeder/Output.png Graphic file (type png)
 
 <use billeder/Output.png>
-Package pdftex.def Info: billeder/Output.png used on input line 79.
+Package pdftex.def Info: billeder/Output.png used on input line 81.
 (pdftex.def)             Requested size: 426.0pt x 45.72688pt.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 86.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 86.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 86.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 86.
  [12 <./billeder/Output.png>]
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 85.
+(babel)             in language  on input line 87.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 85.
+(babel)             in language  on input line 87.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 89.
+(babel)             in language  on input line 91.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 89.
+(babel)             in language  on input line 91.
 
-
-LaTeX Warning: Reference `App' on page 13 undefined on input line 90.
+Underfull \hbox (badness 1997) in paragraph at lines 92--93
+\T1/cmr/m/n/10.95 Systemets anvendelighed er evalueret i forhold til performans
+ og brugbarhed af
+ []
 
 )
 Package babel Info: Redefining danish shorthand "|
@@ -2152,6 +2154,43 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 4.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 4.
+
+Overfull \hbox (78.44887pt too wide) in paragraph at lines 13--28
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+[]|\T1/cmr/bx/n/10.95 Asymptotisk Sig-ni-fi-
+ []
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 42.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 42.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 42.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 42.
+[15]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 46.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 46.
+
+Underfull \hbox (badness 1248) in paragraph at lines 49--50
+\T1/cmr/m/n/10.95 skulle vægtes højt, da det afhænger af den enkelte situation.
+ Look-a-like vægtes
+ []
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 56.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 56.
 )
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 56.
@@ -2161,7 +2200,16 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 56.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 56.
- [15]
+ [16]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 56.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 56.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 56.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 56.
+ [17]
 \openout2 = `formalia/Diskussion.aux'.
 
  (./formalia/Diskussion.tex
@@ -2173,7 +2221,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
- [16
+ [18
 
 
 
@@ -2199,8 +2247,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 61.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 61.
-
-[17] (./Rapport.bbl
+ [19] (./Rapport.bbl
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
@@ -2209,7 +2256,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
- [18
+ [20
 
 
 ]
@@ -2225,7 +2272,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 86.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 86.
- [19]
+ [21]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 169.
 Package babel Info: Redefining danish shorthand "~
@@ -2234,7 +2281,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 169.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 169.
- [20])
+
+[22])
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 73.
 Package babel Info: Redefining danish shorthand "~
@@ -2243,7 +2291,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 73.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 73.
- [21] (./Rapport.lox)
+ [23] (./Rapport.lox)
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 85.
 Package babel Info: Redefining danish shorthand "~
@@ -2252,7 +2300,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 85.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 85.
- [22]
+ [24]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 85.
 Package babel Info: Redefining danish shorthand "~
@@ -2262,14 +2310,14 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 85.
 
-<appendiks/skabelon.pdf, id=531, 597.51233pt x 845.0471pt>
+<appendiks/skabelon.pdf, id=586, 597.51233pt x 845.0471pt>
 File: appendiks/skabelon.pdf Graphic file (type pdf)
 
 <use appendiks/skabelon.pdf>
 Package pdftex.def Info: appendiks/skabelon.pdf used on input line 87.
 (pdftex.def)             Requested size: 418.25577pt x 591.52895pt.
 
-<appendiks/skiftelister.pdf, id=532, 597.51233pt x 845.0471pt>
+<appendiks/skiftelister.pdf, id=587, 597.51233pt x 845.0471pt>
 File: appendiks/skiftelister.pdf Graphic file (type pdf)
 
 <use appendiks/skiftelister.pdf>
@@ -2280,7 +2328,7 @@ File: appendiks/skiftelister.pdf Graphic file (type pdf)
 Package pdftex.def Info: appendiks/skiftelister.pdf used on input line 92.
 (pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
 
-<appendiks/skiftelister.pdf, id=535, page=1, 597.51233pt x 845.0471pt>
+<appendiks/skiftelister.pdf, id=590, page=1, 597.51233pt x 845.0471pt>
 File: appendiks/skiftelister.pdf Graphic file (type pdf)
 
 <use appendiks/skiftelister.pdf, page 1>
@@ -2313,7 +2361,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 92.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 92.
- [23
+ [25
 
  <./appendiks/skabelon.pdf>]
 Package babel Info: Redefining danish shorthand "|
@@ -2334,108 +2382,108 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 92.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 92.
- [24 <./appendiks/skiftelister.pdf>]
-File: appendiks/skiftelister.pdf Graphic file (type pdf)
-
-<use appendiks/skiftelister.pdf>
-Package pdftex.def Info: appendiks/skiftelister.pdf used on input line 93.
-(pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
-File: appendiks/skiftelister.pdf Graphic file (type pdf)
- <use appendiks/skiftelister.pdf>
-Package pdftex.def Info: appendiks/skiftelister.pdf used on input line 93.
-(pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
-
-<appendiks/skiftelister.pdf, id=647, page=2, 597.51233pt x 845.0471pt>
-File: appendiks/skiftelister.pdf Graphic file (type pdf)
-
-<use appendiks/skiftelister.pdf, page 2>
-Package pdftex.def Info: appendiks/skiftelister.pdf, page2 used on input line 9
-3.
-(pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
-File: appendiks/skiftelister.pdf Graphic file (type pdf)
-
-<use appendiks/skiftelister.pdf, page 2>
-Package pdftex.def Info: appendiks/skiftelister.pdf, page2 used on input line 9
-3.
-(pdftex.def)             Requested size: 507.88788pt x 718.29344pt.
-File: appendiks/skiftelister.pdf Graphic file (type pdf)
-
-<use appendiks/skiftelister.pdf, page 2>
-Package pdftex.def Info: appendiks/skiftelister.pdf, page2 used on input line 9
-3.
-(pdftex.def)             Requested size: 507.88788pt x 718.29344pt.
-File: appendiks/skiftelister.pdf Graphic file (type pdf)
-
-<use appendiks/skiftelister.pdf, page 2>
-Package pdftex.def Info: appendiks/skiftelister.pdf, page2 used on input line 9
-3.
-(pdftex.def)             Requested size: 507.88788pt x 718.29344pt.
-File: appendiks/skiftelister.pdf Graphic file (type pdf)
-
-<use appendiks/skiftelister.pdf, page 2>
-Package pdftex.def Info: appendiks/skiftelister.pdf, page2 used on input line 9
-3.
-(pdftex.def)             Requested size: 507.88788pt x 718.29344pt.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 93.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 93.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 93.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 93.
- [25 <./appendiks/skiftelister.pdf>]
-File: appendiks/skiftelister.pdf Graphic file (type pdf)
-
-<use appendiks/skiftelister.pdf>
-Package pdftex.def Info: appendiks/skiftelister.pdf used on input line 94.
-(pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
-File: appendiks/skiftelister.pdf Graphic file (type pdf)
- <use appendiks/skiftelister.pdf>
-Package pdftex.def Info: appendiks/skiftelister.pdf used on input line 94.
-(pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
-
-<appendiks/skiftelister.pdf, id=667, page=3, 597.51233pt x 845.0471pt>
-File: appendiks/skiftelister.pdf Graphic file (type pdf)
-
-<use appendiks/skiftelister.pdf, page 3>
-Package pdftex.def Info: appendiks/skiftelister.pdf, page3 used on input line 9
-4.
-(pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
-File: appendiks/skiftelister.pdf Graphic file (type pdf)
-
-<use appendiks/skiftelister.pdf, page 3>
-Package pdftex.def Info: appendiks/skiftelister.pdf, page3 used on input line 9
-4.
-(pdftex.def)             Requested size: 507.88788pt x 718.29344pt.
-File: appendiks/skiftelister.pdf Graphic file (type pdf)
-
-<use appendiks/skiftelister.pdf, page 3>
-Package pdftex.def Info: appendiks/skiftelister.pdf, page3 used on input line 9
-4.
-(pdftex.def)             Requested size: 507.88788pt x 718.29344pt.
-File: appendiks/skiftelister.pdf Graphic file (type pdf)
-
-<use appendiks/skiftelister.pdf, page 3>
-Package pdftex.def Info: appendiks/skiftelister.pdf, page3 used on input line 9
-4.
-(pdftex.def)             Requested size: 507.88788pt x 718.29344pt.
-File: appendiks/skiftelister.pdf Graphic file (type pdf)
-
-<use appendiks/skiftelister.pdf, page 3>
-Package pdftex.def Info: appendiks/skiftelister.pdf, page3 used on input line 9
-4.
-(pdftex.def)             Requested size: 507.88788pt x 718.29344pt.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 94.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 94.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 94.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 94.
  [26 <./appendiks/skiftelister.pdf>]
-<appendiks/Laegemiddelnyt.pdf, id=686, 597.55246pt x 845.07718pt>
+File: appendiks/skiftelister.pdf Graphic file (type pdf)
+
+<use appendiks/skiftelister.pdf>
+Package pdftex.def Info: appendiks/skiftelister.pdf used on input line 93.
+(pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
+File: appendiks/skiftelister.pdf Graphic file (type pdf)
+ <use appendiks/skiftelister.pdf>
+Package pdftex.def Info: appendiks/skiftelister.pdf used on input line 93.
+(pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
+
+<appendiks/skiftelister.pdf, id=703, page=2, 597.51233pt x 845.0471pt>
+File: appendiks/skiftelister.pdf Graphic file (type pdf)
+
+<use appendiks/skiftelister.pdf, page 2>
+Package pdftex.def Info: appendiks/skiftelister.pdf, page2 used on input line 9
+3.
+(pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
+File: appendiks/skiftelister.pdf Graphic file (type pdf)
+
+<use appendiks/skiftelister.pdf, page 2>
+Package pdftex.def Info: appendiks/skiftelister.pdf, page2 used on input line 9
+3.
+(pdftex.def)             Requested size: 507.88788pt x 718.29344pt.
+File: appendiks/skiftelister.pdf Graphic file (type pdf)
+
+<use appendiks/skiftelister.pdf, page 2>
+Package pdftex.def Info: appendiks/skiftelister.pdf, page2 used on input line 9
+3.
+(pdftex.def)             Requested size: 507.88788pt x 718.29344pt.
+File: appendiks/skiftelister.pdf Graphic file (type pdf)
+
+<use appendiks/skiftelister.pdf, page 2>
+Package pdftex.def Info: appendiks/skiftelister.pdf, page2 used on input line 9
+3.
+(pdftex.def)             Requested size: 507.88788pt x 718.29344pt.
+File: appendiks/skiftelister.pdf Graphic file (type pdf)
+
+<use appendiks/skiftelister.pdf, page 2>
+Package pdftex.def Info: appendiks/skiftelister.pdf, page2 used on input line 9
+3.
+(pdftex.def)             Requested size: 507.88788pt x 718.29344pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 93.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 93.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 93.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 93.
+ [27 <./appendiks/skiftelister.pdf>]
+File: appendiks/skiftelister.pdf Graphic file (type pdf)
+
+<use appendiks/skiftelister.pdf>
+Package pdftex.def Info: appendiks/skiftelister.pdf used on input line 94.
+(pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
+File: appendiks/skiftelister.pdf Graphic file (type pdf)
+ <use appendiks/skiftelister.pdf>
+Package pdftex.def Info: appendiks/skiftelister.pdf used on input line 94.
+(pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
+
+<appendiks/skiftelister.pdf, id=724, page=3, 597.51233pt x 845.0471pt>
+File: appendiks/skiftelister.pdf Graphic file (type pdf)
+
+<use appendiks/skiftelister.pdf, page 3>
+Package pdftex.def Info: appendiks/skiftelister.pdf, page3 used on input line 9
+4.
+(pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
+File: appendiks/skiftelister.pdf Graphic file (type pdf)
+
+<use appendiks/skiftelister.pdf, page 3>
+Package pdftex.def Info: appendiks/skiftelister.pdf, page3 used on input line 9
+4.
+(pdftex.def)             Requested size: 507.88788pt x 718.29344pt.
+File: appendiks/skiftelister.pdf Graphic file (type pdf)
+
+<use appendiks/skiftelister.pdf, page 3>
+Package pdftex.def Info: appendiks/skiftelister.pdf, page3 used on input line 9
+4.
+(pdftex.def)             Requested size: 507.88788pt x 718.29344pt.
+File: appendiks/skiftelister.pdf Graphic file (type pdf)
+
+<use appendiks/skiftelister.pdf, page 3>
+Package pdftex.def Info: appendiks/skiftelister.pdf, page3 used on input line 9
+4.
+(pdftex.def)             Requested size: 507.88788pt x 718.29344pt.
+File: appendiks/skiftelister.pdf Graphic file (type pdf)
+
+<use appendiks/skiftelister.pdf, page 3>
+Package pdftex.def Info: appendiks/skiftelister.pdf, page3 used on input line 9
+4.
+(pdftex.def)             Requested size: 507.88788pt x 718.29344pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 94.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 94.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 94.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 94.
+ [28 <./appendiks/skiftelister.pdf>]
+<appendiks/Laegemiddelnyt.pdf, id=742, 597.55246pt x 845.07718pt>
 File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt.pdf>
@@ -2446,7 +2494,7 @@ File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
 Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf used on input line 97.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
-<appendiks/Laegemiddelnyt.pdf, id=689, page=1, 597.55246pt x 845.07718pt>
+<appendiks/Laegemiddelnyt.pdf, id=745, page=1, 597.55246pt x 845.07718pt>
 File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt.pdf, page 1>
@@ -2489,156 +2537,156 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 97.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 97.
- [27 <./appendiks/Laegemiddelnyt.pdf>]
-File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
- <use appendiks/Laegemiddelnyt.pdf>
-Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf used on input line 98.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
- <use appendiks/Laegemiddelnyt.pdf>
-Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf used on input line 98.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-
-<appendiks/Laegemiddelnyt.pdf, id=740, page=2, 597.55246pt x 845.07718pt>
-File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
-
-<use appendiks/Laegemiddelnyt.pdf, page 2>
-Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf, page2 used on input line
- 98.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
-
-<use appendiks/Laegemiddelnyt.pdf, page 2>
-Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf, page2 used on input line
- 98.
-(pdftex.def)             Requested size: 507.92198pt x 718.319pt.
-File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
-
-<use appendiks/Laegemiddelnyt.pdf, page 2>
-Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf, page2 used on input line
- 98.
-(pdftex.def)             Requested size: 507.92198pt x 718.319pt.
-File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
-
-<use appendiks/Laegemiddelnyt.pdf, page 2>
-Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf, page2 used on input line
- 98.
-(pdftex.def)             Requested size: 507.92198pt x 718.319pt.
-File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
-
-<use appendiks/Laegemiddelnyt.pdf, page 2>
-Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf, page2 used on input line
- 98.
-(pdftex.def)             Requested size: 507.92198pt x 718.319pt.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 98.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 98.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 98.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 98.
- [28 <./appendiks/Laegemiddelnyt.pdf>]
-File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
- <use appendiks/Laegemiddelnyt.pdf>
-Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf used on input line 99.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
- <use appendiks/Laegemiddelnyt.pdf>
-Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf used on input line 99.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-
-<appendiks/Laegemiddelnyt.pdf, id=759, page=3, 597.55246pt x 845.07718pt>
-File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
-
-<use appendiks/Laegemiddelnyt.pdf, page 3>
-Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf, page3 used on input line
- 99.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
-
-<use appendiks/Laegemiddelnyt.pdf, page 3>
-Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf, page3 used on input line
- 99.
-(pdftex.def)             Requested size: 507.92198pt x 718.319pt.
-File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
-
-<use appendiks/Laegemiddelnyt.pdf, page 3>
-Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf, page3 used on input line
- 99.
-(pdftex.def)             Requested size: 507.92198pt x 718.319pt.
-File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
-
-<use appendiks/Laegemiddelnyt.pdf, page 3>
-Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf, page3 used on input line
- 99.
-(pdftex.def)             Requested size: 507.92198pt x 718.319pt.
-File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
-
-<use appendiks/Laegemiddelnyt.pdf, page 3>
-Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf, page3 used on input line
- 99.
-(pdftex.def)             Requested size: 507.92198pt x 718.319pt.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 99.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 99.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 99.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 99.
  [29 <./appendiks/Laegemiddelnyt.pdf>]
 File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
  <use appendiks/Laegemiddelnyt.pdf>
-Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf used on input line 100.
+Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf used on input line 98.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
  <use appendiks/Laegemiddelnyt.pdf>
-Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf used on input line 100.
+Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf used on input line 98.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
-<appendiks/Laegemiddelnyt.pdf, id=776, page=4, 597.55246pt x 845.07718pt>
+<appendiks/Laegemiddelnyt.pdf, id=795, page=2, 597.55246pt x 845.07718pt>
 File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
 
-<use appendiks/Laegemiddelnyt.pdf, page 4>
-Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf, page4 used on input line
- 100.
+<use appendiks/Laegemiddelnyt.pdf, page 2>
+Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf, page2 used on input line
+ 98.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
 
-<use appendiks/Laegemiddelnyt.pdf, page 4>
-Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf, page4 used on input line
- 100.
+<use appendiks/Laegemiddelnyt.pdf, page 2>
+Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf, page2 used on input line
+ 98.
 (pdftex.def)             Requested size: 507.92198pt x 718.319pt.
 File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
 
-<use appendiks/Laegemiddelnyt.pdf, page 4>
-Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf, page4 used on input line
- 100.
+<use appendiks/Laegemiddelnyt.pdf, page 2>
+Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf, page2 used on input line
+ 98.
 (pdftex.def)             Requested size: 507.92198pt x 718.319pt.
 File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
 
-<use appendiks/Laegemiddelnyt.pdf, page 4>
-Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf, page4 used on input line
- 100.
+<use appendiks/Laegemiddelnyt.pdf, page 2>
+Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf, page2 used on input line
+ 98.
 (pdftex.def)             Requested size: 507.92198pt x 718.319pt.
 File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
 
-<use appendiks/Laegemiddelnyt.pdf, page 4>
-Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf, page4 used on input line
- 100.
+<use appendiks/Laegemiddelnyt.pdf, page 2>
+Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf, page2 used on input line
+ 98.
 (pdftex.def)             Requested size: 507.92198pt x 718.319pt.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 100.
+(babel)             in language  on input line 98.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 100.
+(babel)             in language  on input line 98.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 100.
+(babel)             in language  on input line 98.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 100.
+(babel)             in language  on input line 98.
  [30 <./appendiks/Laegemiddelnyt.pdf>]
 File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
  <use appendiks/Laegemiddelnyt.pdf>
+Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf used on input line 99.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
+ <use appendiks/Laegemiddelnyt.pdf>
+Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf used on input line 99.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+
+<appendiks/Laegemiddelnyt.pdf, id=814, page=3, 597.55246pt x 845.07718pt>
+File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
+
+<use appendiks/Laegemiddelnyt.pdf, page 3>
+Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf, page3 used on input line
+ 99.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
+
+<use appendiks/Laegemiddelnyt.pdf, page 3>
+Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf, page3 used on input line
+ 99.
+(pdftex.def)             Requested size: 507.92198pt x 718.319pt.
+File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
+
+<use appendiks/Laegemiddelnyt.pdf, page 3>
+Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf, page3 used on input line
+ 99.
+(pdftex.def)             Requested size: 507.92198pt x 718.319pt.
+File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
+
+<use appendiks/Laegemiddelnyt.pdf, page 3>
+Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf, page3 used on input line
+ 99.
+(pdftex.def)             Requested size: 507.92198pt x 718.319pt.
+File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
+
+<use appendiks/Laegemiddelnyt.pdf, page 3>
+Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf, page3 used on input line
+ 99.
+(pdftex.def)             Requested size: 507.92198pt x 718.319pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 99.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 99.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 99.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 99.
+ [31 <./appendiks/Laegemiddelnyt.pdf>]
+File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
+ <use appendiks/Laegemiddelnyt.pdf>
+Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf used on input line 100.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
+ <use appendiks/Laegemiddelnyt.pdf>
+Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf used on input line 100.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+
+<appendiks/Laegemiddelnyt.pdf, id=831, page=4, 597.55246pt x 845.07718pt>
+File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
+
+<use appendiks/Laegemiddelnyt.pdf, page 4>
+Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf, page4 used on input line
+ 100.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
+
+<use appendiks/Laegemiddelnyt.pdf, page 4>
+Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf, page4 used on input line
+ 100.
+(pdftex.def)             Requested size: 507.92198pt x 718.319pt.
+File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
+
+<use appendiks/Laegemiddelnyt.pdf, page 4>
+Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf, page4 used on input line
+ 100.
+(pdftex.def)             Requested size: 507.92198pt x 718.319pt.
+File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
+
+<use appendiks/Laegemiddelnyt.pdf, page 4>
+Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf, page4 used on input line
+ 100.
+(pdftex.def)             Requested size: 507.92198pt x 718.319pt.
+File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
+
+<use appendiks/Laegemiddelnyt.pdf, page 4>
+Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf, page4 used on input line
+ 100.
+(pdftex.def)             Requested size: 507.92198pt x 718.319pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 100.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 100.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 100.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 100.
+ [32 <./appendiks/Laegemiddelnyt.pdf>]
+File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
+ <use appendiks/Laegemiddelnyt.pdf>
 Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf used on input line 101.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
@@ -2669,7 +2717,7 @@ File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
 Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf used on input line 101.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
-<appendiks/Laegemiddelnyt.pdf, id=791, page=5, 845.07718pt x 597.55246pt>
+<appendiks/Laegemiddelnyt.pdf, id=847, page=5, 845.07718pt x 597.55246pt>
 File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt.pdf, page 5>
@@ -2695,7 +2743,7 @@ Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf, page5 used on input line
  101.
 (pdftex.def)             Requested size: 597.55899pt x 422.5328pt.
 
-<appendiks/Laegemiddelnyt.pdf, id=792, page=6, 845.07718pt x 597.55246pt>
+<appendiks/Laegemiddelnyt.pdf, id=848, page=6, 845.07718pt x 597.55246pt>
 File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt.pdf, page 6>
@@ -2709,7 +2757,7 @@ Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf, page6 used on input line
  101.
 (pdftex.def)             Requested size: 597.55899pt x 422.5328pt.
 
-<appendiks/Laegemiddelnyt.pdf, id=793, page=7, 845.07718pt x 597.55246pt>
+<appendiks/Laegemiddelnyt.pdf, id=849, page=7, 845.07718pt x 597.55246pt>
 File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt.pdf, page 7>
@@ -2742,11 +2790,11 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 101.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 101.
- [31 <./appendiks/Laegemiddelnyt.pdf> <./appendiks/Laegemiddelnyt.pdf
+ [33 <./appendiks/Laegemiddelnyt.pdf> <./appendiks/Laegemiddelnyt.pdf
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Laegemiddelnyt.p
 df): PDF inclusion: multiple pdfs with page group included in a single page
->] <appendiks/Laegemiddelnyt.pdf, id=801, page=8, 845.07718pt x 597.55246pt>
+>] <appendiks/Laegemiddelnyt.pdf, id=858, page=8, 845.07718pt x 597.55246pt>
 File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt.pdf, page 8>
@@ -2760,7 +2808,7 @@ Package pdftex.def Info: appendiks/Laegemiddelnyt.pdf, page8 used on input line
  101.
 (pdftex.def)             Requested size: 597.55899pt x 422.5328pt.
 
-<appendiks/Laegemiddelnyt.pdf, id=802, page=9, 845.07718pt x 597.55246pt>
+<appendiks/Laegemiddelnyt.pdf, id=859, page=9, 845.07718pt x 597.55246pt>
 File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt.pdf, page 9>
@@ -2793,11 +2841,11 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 101.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 101.
- [32 <./appendiks/Laegemiddelnyt.pdf> <./appendiks/Laegemiddelnyt.pdf
+ [34 <./appendiks/Laegemiddelnyt.pdf> <./appendiks/Laegemiddelnyt.pdf
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Laegemiddelnyt.p
 df): PDF inclusion: multiple pdfs with page group included in a single page
->] <appendiks/Laegemiddelnyt.pdf, id=809, page=10, 845.07718pt x 597.55246pt>
+>] <appendiks/Laegemiddelnyt.pdf, id=866, page=10, 845.07718pt x 597.55246pt>
 File: appendiks/Laegemiddelnyt.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt.pdf, page 10>
@@ -2830,7 +2878,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 101.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 101.
- [33 <./appendiks/Laegemiddelnyt.pdf> <./appendiks/Laegemiddelnyt.pdf
+ [35 <./appendiks/Laegemiddelnyt.pdf> <./appendiks/Laegemiddelnyt.pdf
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Laegemiddelnyt.p
 df): PDF inclusion: multiple pdfs with page group included in a single page
@@ -2846,7 +2894,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
- [34
+ [36
 
 
 ]
@@ -2858,6 +2906,35 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 2.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 4.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 4.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 7.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 7.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 15.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 15.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 21.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 21.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 21.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 21.
+ [37]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 22.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 22.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 27.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 27.
 )
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 103.
@@ -2867,11 +2944,11 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 103.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 103.
- [35]
+ [38]
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Evaluering.pdf):
  PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
-<appendiks/Evaluering.pdf, id=825, 844.15375pt x 597.23125pt>
+<appendiks/Evaluering.pdf, id=885, 844.15375pt x 597.23125pt>
 File: appendiks/Evaluering.pdf Graphic file (type pdf)
 
 <use appendiks/Evaluering.pdf>
@@ -2901,7 +2978,7 @@ pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Evaluering.pdf):
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Evaluering.pdf):
  PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
-<appendiks/Evaluering.pdf, id=829, page=1, 844.15375pt x 597.23125pt>
+<appendiks/Evaluering.pdf, id=889, page=1, 844.15375pt x 597.23125pt>
 File: appendiks/Evaluering.pdf Graphic file (type pdf)
 
 <use appendiks/Evaluering.pdf, page 1>
@@ -2928,7 +3005,7 @@ Package pdftex.def Info: appendiks/Evaluering.pdf, page1 used on input line 104
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Evaluering.pdf):
  PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
-<appendiks/Evaluering.pdf, id=830, page=2, 844.15375pt x 597.23125pt>
+<appendiks/Evaluering.pdf, id=890, page=2, 844.15375pt x 597.23125pt>
 File: appendiks/Evaluering.pdf Graphic file (type pdf)
 
 <use appendiks/Evaluering.pdf, page 2>
@@ -2964,7 +3041,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 104.
 
-[36
+[39
 
  <./appendiks/Evaluering.pdf> <./appendiks/Evaluering.pdf
 
@@ -2991,7 +3068,7 @@ pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Evaluering.pdf):
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Evaluering.pdf):
  PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
-<appendiks/Evaluering.pdf, id=858, page=3, 844.15375pt x 597.23125pt>
+<appendiks/Evaluering.pdf, id=918, page=3, 844.15375pt x 597.23125pt>
 File: appendiks/Evaluering.pdf Graphic file (type pdf)
 
 <use appendiks/Evaluering.pdf, page 3>
@@ -3039,19 +3116,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 105.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 105.
- [37 <./appendiks/Evaluering.pdf>]
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 107.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 107.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 107.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 107.
-
-[38
-
-]
+ [40 <./appendiks/Evaluering.pdf>]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 109.
 Package babel Info: Redefining danish shorthand "~
@@ -3064,7 +3129,8 @@ Package babel Info: Redefining danish shorthand "~
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 130.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 130.
- (./Rapport.aux (./formalia/forside.aux) (./formalia/titelblad.aux)
+
+(./Rapport.aux (./formalia/forside.aux) (./formalia/titelblad.aux)
 (./formalia/abstract.aux) (./formalia/forord.aux)
 (./formalia/laesevejledning.aux) (./intro/indledning1.aux)
 (./intro/Problemanalyse1.aux) (./kontekst/metode1.aux) (./kontekst/resultat.aux
@@ -3072,23 +3138,19 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 130.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 130.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 130.
 Package rerunfilecheck Info: File `Rapport.out' has not changed.
-(rerunfilecheck)             Checksum: 79F36C0CC4529DB9DDE8DB02440C77C1;1830.
-
-
-LaTeX Warning: There were undefined references.
-
+(rerunfilecheck)             Checksum: 0C52C8BD0603E1F775F672402E9F8DCB;2407.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 130.
  ) 
 Here is how much of TeX's memory you used:
- 24576 strings out of 493089
- 433221 string characters out of 6134843
- 653344 words of memory out of 5000000
- 27513 multiletter control sequences out of 15000+600000
- 23627 words of font info for 60 fonts, out of 8000000 for 9000
+ 24600 strings out of 493089
+ 433563 string characters out of 6134843
+ 657344 words of memory out of 5000000
+ 27524 multiletter control sequences out of 15000+600000
+ 24403 words of font info for 61 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  44i,19n,78p,10499b,1002s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
-}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{
 /usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texl
 ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texli
 ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive
@@ -3096,21 +3158,22 @@ ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive
 2015/texmf-dist/fonts/type1/public/cm-super/sfbi1000.pfb></usr/local/texlive/20
 15/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2015
 /texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2015/t
-exmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2015/tex
-mf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2015/texmf
--dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2015/texmf-d
-ist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2015/texmf-dis
-t/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2015/texmf-dist/
-fonts/type1/public/cm-super/sfrm2488.pfb></usr/local/texlive/2015/texmf-dist/fo
-nts/type1/public/cm-super/sfti0900.pfb></usr/local/texlive/2015/texmf-dist/font
-s/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2015/texmf-dist/fonts/
-type1/public/cm-super/sfti1440.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
-pe1/urw/bookman/ubkd8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/
-bookman/ubkl8a.pfb>
-Output written on Rapport.pdf (48 pages, 1915311 bytes).
+exmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2015/tex
+mf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2015/texmf
+-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2015/texmf-d
+ist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2015/texmf-dis
+t/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2015/texmf-dist/
+fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2015/texmf-dist/fo
+nts/type1/public/cm-super/sfrm2488.pfb></usr/local/texlive/2015/texmf-dist/font
+s/type1/public/cm-super/sfti0900.pfb></usr/local/texlive/2015/texmf-dist/fonts/
+type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
+pe1/public/cm-super/sfti1440.pfb></usr/local/texlive/2015/texmf-dist/fonts/type
+1/urw/bookman/ubkd8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/bo
+okman/ubkl8a.pfb>
+Output written on Rapport.pdf (50 pages, 1943397 bytes).
 PDF statistics:
- 959 PDF objects out of 1000 (max. 8388607)
- 741 compressed objects within 8 object streams
- 128 named destinations out of 1000 (max. 500000)
- 516 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1020 PDF objects out of 1200 (max. 8388607)
+ 799 compressed objects within 8 object streams
+ 140 named destinations out of 1000 (max. 500000)
+ 580 words of extra memory for PDF output out of 10000 (max. 10000000)
 
