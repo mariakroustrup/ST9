@@ -1,9 +1,9 @@
 \chapter{Resultat}
-\textit{I dette kapitel beskrives resultatet for evaluering af systemets anvendelighed i forhold til at besvare problemformuleringen. I denne forbindelse er systemets performans og brugbarhed evalueret.}
+\textit{I dette kapitel beskrives resultatet for evaluering af systemets anvendelighed i forhold til at besvare problemformuleringen. I denne forbindelse er systemets performance og brugbarhed vurderet og testet.}
 
-\section{Systemets performans}
-*** TILFØJ DET MED RANGORDRE *** \\
-Ud af 33 lægemidler var der 13 lægemidler, hvor der var enighed  mellem forsøgspersonerne. Der var enighed om at 11 lægemidler ikke krævede uddybende samt at 2 lægemidler krævede uddybende information ved implementering af disse i klinikken. Af 11 testpersoner vurderede 9 at størstedelen af lægemidlerne ikke krævede uddybende information, mens 2 testpersoner vurderede at størstedelen af lægemidlerne krævede uddybende information, hvilket er markeret med blåt i Tabel \ref{table:test1}. Gennemsnittet blev vurderet til at 12,27 lægemidler, svarende til 37,19~\%, krævede uddybende information, mens 20,63 lægemidler, svarende til 62,5~\%, ikke krævede uddybende information, hvilket ligeledes fremgår af Tabel \ref{table:test1}. 
+
+\section{Systemets performance}
+Ud af lægemiddelskiftene var der for 13 lægemidler enighed mellem medarbejderne fra SRN. Ud af 33 blev 11 lægemidler vurderet til ikke at krævede uddybende samt at 2 lægemidler krævede uddybende information ved implementering af disse i klinikken. Størstedelen af lægemiddelskift blev vurderet af 9 ud af 11 til ikke at kræve uddybende information, mens 2 medarbejdere vurderede at størstedelen af lægemidlerne krævede uddybende information, hvilket er markeret med blåt i Tabel \ref{table:test1}. Gennemsnittet blev vurderet til at 12,27 lægemidler, svarende til 37,19~\%, krævede uddybende information, mens 20,63 lægemidler, svarende til 62,5~\%, ikke krævede uddybende information, hvilket ligeledes fremgår af Tabel \ref{table:test1}. 
 
 \begin{table}[H]
 \caption{Krydstabel for vurderingen ja eller nej i forhold til uddybende information om lægemiddelskiftet og testpersoner samt lægemiddel Nyt, som er indikeret som nummer 12. \textcolor{red}{Er i tvivl, hvorvidt det giver mening at have lægemiddel Nyt med i denne test}}
@@ -27,46 +27,82 @@ Ud af 33 lægemidler var der 13 lægemidler, hvor der var enighed  mellem forsø
 \end{tabular}
 \end{table}
 
-Test for sammenhængen mellem svarene ja eller nej i forhold til om der kræves uddybende information i forhold til lægemiddelskiftet fremgår af Tabel \ref{table:test2}.
+For alle lægemiddelskift med en risikoscore på enten 0 eller 5~\% blev det vurderet at uddybende information var unødvendigt, hvilket vil sige at ændring i navn alene kræver mindre opmærksomhed, hvilket er illustreret af Tabel \ref{table:risikofaktorer}. Derudover var 10 ud af 11 medarbejdere enige i at lægemidler, hvor styrken alene eller i kombination med ændring i navn krævede uddybende information til klinikken. De medarbejdere som var uenige kommenterede at styrkeangivelsen var ændret, men at selve styrken ikke var ændret. Derimod blev ændring i dispenseringsform alene ikke vurderet lige så nødvendig at give uddybende information som ved styrke. Vurderingen i forhold til hvorvidt der kræves uddybende information ved ændringer i navn, styrke og dispenseringsform eller en kombination af disse fremgår af Tabel \ref{table:risikofaktorer}.
 
 \begin{table}[H]
-\caption{Person chi-square test.}
+\caption{Oversigt over risikofaktorer og kombination mellem disse i forhold til uddybende information omkring lægemiddelskift (Ja = uddybende information, nej = ikke uddybende information).}
+\vspace{2mm}
+\label{table:risikofaktorer}
+\centering
+\begin{tabular}{l c|c|c|c}
+\rowcolor[HTML]{C0C0C0} & & \multicolumn{3}{c}{\textbf{I kombination med}} \\
+\rowcolor[HTML]{C0C0C0} & & \textbf{Navn}& \textbf{Styrke} & \textbf{Dispenseringsform} \\
+\cellcolor[HTML]{C0C0C0} & \cellcolor[HTML]{C0C0C0}Ja & 0 & 9.5 & 7 \\ \cline{2-5}	   
+\multirow{-2}{*}{\cellcolor[HTML]{C0C0C0}\textbf{Navn}} & \cellcolor[HTML]{C0C0C0}Nej & 11 & 1.5 & 4\\ \hline 
+\cellcolor[HTML]{C0C0C0} &  \cellcolor[HTML]{C0C0C0}Ja & 9.5 & 10 & 9.5 \\ \cline{2-5}	   
+\multirow{-2}{*}{\cellcolor[HTML]{C0C0C0}\textbf{Styrke}} & \cellcolor[HTML]{C0C0C0}Nej & 1.5 & 1 & 1.5\\ \hline 
+\cellcolor[HTML]{C0C0C0} & \cellcolor[HTML]{C0C0C0}Ja & 7 & 9.5 & 3.5 \\ \cline{2-5}	   
+\multirow{-2}{*}{\cellcolor[HTML]{C0C0C0}\textbf{Dispenseringsform}} & \cellcolor[HTML]{C0C0C0}Nej & 4 & 1.5 & 7.5 \\ \hline 
+\end{tabular}
+\end{table}
+
+Af Tabel \ref{table:risikofaktorer} fremgår det at, hvis styrken er ændret vil dette som udgangspunkt være den risikofaktorer, der oftest kræver uddybende information, både alene eller i kombination med enten navn eller dispenseringsform. Ændring i dispenseringsform blev i sjældnere tilfælde end styrke, vurderet til at kræve uddybende information og denne vurdering steg hvis ændring i dispenseringsform blev kombineret med navn eller styrke. Ændring i navn kræver kun uddybende information i kombination med styrke eller dispenseringsform. 
+
+Ud af 11 medarbejdere var 10 enige i at lægemiddelskift, hvor ATC-koden var angivet som kritisk eller at lægemidlet indgår i Medicinrådets behandlingsvejledning alene ikke krævede uddybende information til klinikken. Kommentarer fra de som var uenige med størstedelen var at et lægemiddelskift, som indgår i Medicinrådets behandlingsvejledning ikke nødvendigvis er kritisk, men at ændringer i behandlingsvejledning kan gøre lægemiddelskiftet kritisk. Derudover blev det vurderet at look-a-like alene og i kombination med navn ikke have indflydelse på om lægemiddelskiftet krævede uddybende information. I forhold til dette blev der kommenteret at look-a-like som udgangspunkt ikke er et problem, men kan opstå ved variationer af lægemidlets navn, hvor dette får betydning for ændringer ved dispenseringsformer.
+
+Rækkefølgen på lægemiddelskiftene som er vurderet på baggrund af risikoscoren blev vurderet af 6 ud af de 11 medarbejdere. Ud af 33 lægemiddelskift blev 18 lægemidler vurderet af én eller flere til at skulle rangeres lavere end systemet. Ud af de 6 medarbejdere var 4 eller 3 enige i at henholdsvis 2 eller 3 lægemidler skulle rangeres lavere end systemet.
+
+
+\subsection*{Person chi-square test}
+Test for sammenhængen mellem svarene ja eller nej i forhold til om der kræves uddybende information om lægemiddelskiftet via Lægemiddel Nyt fremgår af Tabel \ref{table:test2}.
+
+\begin{table}[H]
+\caption{Pearson's chi-squared test.}
 \vspace{2mm}
 \label{table:test2}
 \centering
-\begin{tabular}{l|p{2cm}|p{2cm}|p{4.5cm}}
+\begin{tabular}{l|p{2cm}|p{2cm}|p{4.6cm}}
 \cellcolor[HTML]{C0C0C0}\textbf{} & \cellcolor[HTML]{C0C0C0}\textbf{Værdi} & \cellcolor[HTML]{C0C0C0}\textbf{df} & \cellcolor[HTML]{C0C0C0}\textbf{Asymptotisk Signifikant (2-siddet)} \\ \hline
 \cellcolor[HTML]{C0C0C0}\textbf{Pearson Chi-Square} & 37,21 & 11 & 0,000 \\
 \end{tabular}
 \end{table}
 
-Da P<0,001  vil dette sige at der er statistisk signifikant sammenhæng mellem om der er svaret ja eller nej og testpersonerne. Dette vil sige at der er forskel på hvordan testpersonerne har vurderet hvert enkelt lægemiddelskift.
+Af tabel \ref{table:test2} fremgår det at P<0,001, hvilket vil sige at der er statistisk signifikant sammenhæng mellem svarene ja eller nej og medarbejderene fra SRN. Dette vil sige at medarbejderne afhænger af om der svaret ja eller nej i forhold til, at vurdere om lægemiddelskiftet krævede uddybende information via Lægemiddel Nyt. Effekten af denne test fremgår af Tabel \ref{table:test3}.
 
+\begin{table}[H]
+\caption{Symmetrisk måling}
+\vspace{2mm}
+\label{table:test3}
+\centering
+\begin{tabular}{p{2cm}|p{2cm}|p{4.5cm}}
+\cellcolor[HTML]{C0C0C0}\textbf{} & \cellcolor[HTML]{C0C0C0}\textbf{Værdi} & \cellcolor[HTML]{C0C0C0}\textbf{Tilnærmet Signifikant} \\ \hline
+\cellcolor[HTML]{C0C0C0}\textbf{Phi} & 0.307 & 0.000 \\
+\end{tabular}
+\end{table}
+
+Ud fra Tabel \ref{table:test3} fremgår det at effekten af testen er lille, hvilket vi sige at medarbejderne ikke har en særlig stor effekt på, hvordan de svarer på, hvorvidt lægemiddelskiftet kræver uddybende information via Lægemiddel Nyt.
 
 \section{Systemets brugbarhed}
-Systemet blev vurderet som et brugbart hjælpeværktøj i forhold til at oplysninger om lægemiddelskiftet kan genereres automatisk, hvormed der kan bruges mindre tid på helt simple skift. Dog skal systemet ikke overtage, da erfaringen inden for området stadig har stor betydning for vurderingen. 
+Systemet blev vurderet som et brugbart hjælpeværktøj i forhold til at oplysninger om lægemiddelskiftet kan genereres automatisk, hvormed der kan bruges mindre tid på helt simple skift. Dog skal systemet ikke overtage, da erfaringen inden for området stadig har stor betydning for risikovurderingen af lægemiddelskift. 
 
-Det blev vurderet at funktioner, såsom Look-a-like og Medicinrådet, ikke nødvendigvis skulle vægtes lige højt mellem funktioner, da det afhænger af den enkelte situation. Look-a-like vægtes generelt ikke særligt højt, hvoraf antallet af egenskaber der skifter er mere afgørende for kompleksiteten såsom f.eks. holdbarhed, emballage og konserveringsmidler. I forhold til Medicinrådet blev det vurderet at det ikke var vigtigt, hvorvidt lægemidlet indgik i Medicinrådets behandlingsvejledning, men om der var foretaget ændringer i denne var mere interessant og kunne have en betydning. 
+Det blev vurderet at funktioner, såsom Look-a-like og Medicinrådet, ikke nødvendigvis skulle vægtes så højt, da det afhænger af den enkelte situation. Look-a-like vægtes generelt ikke særligt højt i den nuværende vurdering af lægemiddelskift varetaget af medarbejdere fra SRN, hvoraf antallet af egenskaber der skifter er mere afgørende for kompleksiteten såsom holdbarhed, emballage og konserveringsmidler. I forhold til Medicinrådet blev det vurderet at det ikke var vigtigt, hvorvidt lægemidlet indgik i Medicinrådets behandlingsvejledning, men hvorvidt der var foretaget ændringer i denne havde større betydning. 
 
-I forhold til videreudvikling blev det vurderet at systemet skal have flere problemstillinger som input, såsom pris i forhold til hvor meget det koster og hvor meget der forbruges samt hvor mange patienter og afdelinger som anvender lægemidlet. Derudover bør granuleringen af look-a-like, navneændring og dispenseringsform i forhold til vægtningen af risikoscoren, da nogle ændringer vil kunne ligestilles og derfor ikke have betydning for klinikken. Der skal ligeledes skelnes mellem styrke og styrkeangivelse, da ændringerne ved styrkeangivelse ikke vil have en betydning, hvis pakningsstørrelsen ikke er ændret. Systemets anvendelighed blev derudover perspektiveret i forhold til at kunne anvendes til andre processer i forbindelse med lægemiddelskift såsom at anvende et lignende systemet inden udbuddet på lægemidler er fastlagt.
-
-
+I forhold til videreudvikling blev det vurderet at systemet skal have flere problemstillinger som input, såsom pris i forhold til hvor meget det koster og hvor meget der forbruges samt hvor mange patienter og afdelinger som anvender lægemidlet. Derudover bør granuleringen af look-a-like, navneændring og dispenseringsform i forhold til vægtningen af risikoscoren overvejes. Nogle ændringer i navn og dispenseringsform vil kunne ligestilles og derfor ikke have betydning for klinikken, hvis der skiftes mellem disse. Der skal ligeledes skelnes mellem styrke og styrkeangivelse, da ændringerne ved styrkeangivelse ikke vil have en betydning, hvis pakningsstørrelsen ikke er ændret. Systemets anvendelighed blev derudover perspektiveret i forhold til at kunne anvendes til andre processer i forbindelse med lægemiddelskift såsom at anvende et lignende systemet ved udbud på lægemidler inden de endelige lægemiddelskift er vedtaget. 
 
 
-\subsection{Noter fra diskussion}
-
-1: Look-a-like vægter de ikke højt – har de også fået at vide fra Amgros – klinikken er efterhånden vant til at LM skifter navne. Det afhænger af om der også er andre faktorer, som har en betydning.
-Medicinrådet i sig selv er ikke nødvendigvis årsag til at det bliver kompliceret – eksempel Mabthera-skift – antallet af egenskaber der skifter er mest afgørende
-Holdbarhed, emballage, konserveringsmiddel har også betydning for kompleksiteten. \\
-2:Look-a-like – måske skal der flere bogstaver med – den kobler pt for nemt. 
-Charlotte synes, at det kunne være rart, hvis disse oplysninger kunne komme af sig selv. Hun er begejstret for værktøjet.
-Medicinservice vil altid have forbrugende afdelinger i tankerne, når de skal vurdere kompleksiteten i skiftet. Det kunne måske være en god ide at koble data på forbrug på.
-Det kommer også an på prisen (Hvad koster det at skifte? Hvor meget forbruges? Hvor mange patienter?)
-\\3:Janne synes, at det kunne være et fint hjælpeværktøj – kunne bruge mindre tid på helt simple skift – men man skal selvfølgelig ikke slå hjernen fra. Hvis der ikke er sket en ændring i Medicinrådets vejledninger, har det måske ikke den store betydning.  \\
-4:Look-a-like giver ikke den store værdi.
-Navneændring – det kan være svært fra skift til skift – kunne man gå mere i dybden med at graduere scoren afhængig af ex. skift fra original til generisk.
-Dispenseringsform – her kunne man også differentiere/graduere scoren, fx er dispergible tabletter til frysetørrede tabletter betyder ikke noget for klinikken. \\
-5:Det er et godt udgangspunkt. Kunne også godt anvendes inden udbuddet – gøre opmærksom på, hvor der er kritiske områder.
-Hvis vi kan føde værktøjet med flere problemstillinger, vil det være rigtig godt.
-Hvis de skifter styrkeangivelse, men ikke pakningsstørrelse, så har det ikke den store betydning.
-Klinisk Farmakologisk Enhed (KFE) styrer skift i prioritering fra Medicinrådet (behandlingslinjeændring).
+%\subsection*{\textcolor{red}{Noter fra diskussion - dette er blot til mig selv}}
+%1: Look-a-like vægter de ikke højt – har de også fået at vide fra Amgros – klinikken er efterhånden vant til at LM skifter navne. Det afhænger af om der også er andre faktorer, som har en betydning.
+%Medicinrådet i sig selv er ikke nødvendigvis årsag til at det bliver kompliceret – eksempel Mabthera-skift – antallet af egenskaber der skifter er mest afgørende
+%Holdbarhed, emballage, konserveringsmiddel har også betydning for kompleksiteten. \\
+%2:Look-a-like – måske skal der flere bogstaver med – den kobler pt for nemt. 
+%Charlotte synes, at det kunne være rart, hvis disse oplysninger kunne komme af sig selv. Hun er begejstret for værktøjet.
+%Medicinservice vil altid have forbrugende afdelinger i tankerne, når de skal vurdere kompleksiteten i skiftet. Det kunne måske være en god ide at koble data på forbrug på.
+%Det kommer også an på prisen (Hvad koster det at skifte? Hvor meget forbruges? Hvor mange patienter?)
+%\\3:Janne synes, at det kunne være et fint hjælpeværktøj – kunne bruge mindre tid på helt simple skift – men man skal selvfølgelig ikke slå hjernen fra. Hvis der ikke er sket en ændring i Medicinrådets vejledninger, har det måske ikke den store betydning.  \\
+%4:Look-a-like giver ikke den store værdi.
+%Navneændring – det kan være svært fra skift til skift – kunne man gå mere i dybden med at graduere scoren afhængig af ex. skift fra original til generisk.
+%Dispenseringsform – her kunne man også differentiere/graduere scoren, fx er dispergible tabletter til frysetørrede tabletter betyder ikke noget for klinikken. \\
+%5:Det er et godt udgangspunkt. Kunne også godt anvendes inden udbuddet – gøre opmærksom på, hvor der er kritiske områder.
+%Hvis vi kan føde værktøjet med flere problemstillinger, vil det være rigtig godt.
+%Hvis de skifter styrkeangivelse, men ikke pakningsstørrelse, så har det ikke den store betydning.
+%Klinisk Farmakologisk Enhed (KFE) styrer skift i prioritering fra Medicinrådet (behandlingslinjeændring).

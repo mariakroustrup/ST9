@@ -5,7 +5,7 @@
 \contentsline {section}{\numberline {2.1}L\IeC {\ae }gemiddelskift}{3}{section.2.1}
 \contentsline {section}{\numberline {2.2}Patientsikkerhedsm\IeC {\ae }ssige konsekvenser}{3}{section.2.2}
 \contentsline {section}{\numberline {2.3}Risikovurderingen af l\IeC {\ae }gemiddelskift}{5}{section.2.3}
-\contentsline {section}{\numberline {2.4}Informationssystemer til forebyggelse og risikovurdering}{7}{section.2.4}
+\contentsline {section}{\numberline {2.4}Informationssystemer til risikovurdering}{7}{section.2.4}
 \contentsline {section}{\numberline {2.5}Opsummering}{8}{section.2.5}
 \contentsline {section}{\numberline {2.6}Problemformulering}{8}{section.2.6}
 \contentsline {chapter}{\chapternumberline {3}Metode}{9}{chapter.3}
@@ -17,22 +17,19 @@
 \contentsline {section}{\numberline {3.6}Implementering og test}{13}{section.3.6}
 \contentsline {section}{\numberline {3.7}Evaluering}{13}{section.3.7}
 \contentsline {chapter}{\chapternumberline {4}Resultat}{15}{chapter.4}
-\contentsline {section}{\numberline {4.1}Systemets performans}{15}{section.4.1}
-\contentsline {section}{\numberline {4.2}Systemets brugbarhed}{16}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Noter fra diskussion}{16}{subsection.4.2.1}
+\contentsline {section}{\numberline {4.1}Systemets performance}{15}{section.4.1}
+\contentsline {section}{\numberline {4.2}Systemets brugbarhed}{17}{section.4.2}
 \contentsline {chapter}{\chapternumberline {5}Syntese}{19}{chapter.5}
 \contentsline {section}{\numberline {5.1}Diskussion}{19}{section.5.1}
 \contentsline {section}{\numberline {5.2}Konklusion}{19}{section.5.2}
-\contentsline {chapter}{Litteratur}{21}{section*.7}
+\contentsline {chapter}{Litteratur}{21}{section*.8}
 \contentsline {appendix}{\chapternumberline {A}Materiale fra SRN}{25}{appendix.A}
 \contentsline {section}{\numberline {A.1}Skabelon til vurdering}{25}{section.A.1}
 \contentsline {section}{\numberline {A.2}Skiftelister}{26}{section.A.2}
 \contentsline {section}{\numberline {A.3}L\IeC {\ae }gemiddel Nyt}{29}{section.A.3}
-\contentsline {appendix}{\chapternumberline {B}Evaluering af system}{37}{appendix.B}
-\contentsline {section}{\numberline {B.1}Introduktion til evaluering}{37}{section.B.1}
-\contentsline {subsection}{\numberline {B.1.1}Form\IeC {\r a}l med evaluering}{37}{subsection.B.1.1}
-\contentsline {subsection}{\numberline {B.1.2}Introduktion til systemet}{37}{subsection.B.1.2}
-\contentsline {subsection}{\numberline {B.1.3}Introduktion til opgave}{37}{subsection.B.1.3}
-\contentsline {subsection}{\numberline {B.1.4}Opgavebeskrivelse}{38}{subsection.B.1.4}
-\contentsline {subsection}{\numberline {B.1.5}Diskussion}{38}{subsection.B.1.5}
-\contentsline {section}{\numberline {B.2}Opgave til evaluering}{39}{section.B.2}
+\contentsline {appendix}{\chapternumberline {B}Kode}{37}{appendix.B}
+\contentsline {section}{\numberline {B.1}System til Risikovurdering}{37}{section.B.1}
+\contentsline {section}{\numberline {B.2}Levenshtein Distance}{49}{section.B.2}
+\contentsline {appendix}{\chapternumberline {C}Evaluering af system}{51}{appendix.C}
+\contentsline {section}{\numberline {C.1}Introduktion til evaluering}{51}{section.C.1}
+\contentsline {section}{\numberline {C.2}Opgave til evaluering}{53}{section.C.2}

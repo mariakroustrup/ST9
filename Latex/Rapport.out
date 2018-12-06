@@ -5,7 +5,7 @@
 \BOOKMARK [1][-]{section.2.1}{L\346gemiddelskift}{chapter.2}% 5
 \BOOKMARK [1][-]{section.2.2}{Patientsikkerhedsm\346ssige konsekvenser}{chapter.2}% 6
 \BOOKMARK [1][-]{section.2.3}{Risikovurderingen af l\346gemiddelskift}{chapter.2}% 7
-\BOOKMARK [1][-]{section.2.4}{Informationssystemer til forebyggelse og risikovurdering}{chapter.2}% 8
+\BOOKMARK [1][-]{section.2.4}{Informationssystemer til risikovurdering}{chapter.2}% 8
 \BOOKMARK [1][-]{section.2.5}{Opsummering}{chapter.2}% 9
 \BOOKMARK [1][-]{section.2.6}{Problemformulering}{chapter.2}% 10
 \BOOKMARK [0][-]{chapter.3}{Metode}{}% 11
@@ -17,22 +17,19 @@
 \BOOKMARK [1][-]{section.3.6}{Implementering og test}{chapter.3}% 17
 \BOOKMARK [1][-]{section.3.7}{Evaluering}{chapter.3}% 18
 \BOOKMARK [0][-]{chapter.4}{Resultat}{}% 19
-\BOOKMARK [1][-]{section.4.1}{Systemets performans}{chapter.4}% 20
+\BOOKMARK [1][-]{section.4.1}{Systemets performance}{chapter.4}% 20
 \BOOKMARK [1][-]{section.4.2}{Systemets brugbarhed}{chapter.4}% 21
-\BOOKMARK [2][-]{subsection.4.2.1}{Noter fra diskussion}{section.4.2}% 22
-\BOOKMARK [0][-]{chapter.5}{Syntese}{}% 23
-\BOOKMARK [1][-]{section.5.1}{Diskussion}{chapter.5}% 24
-\BOOKMARK [1][-]{section.5.2}{Konklusion}{chapter.5}% 25
-\BOOKMARK [0][-]{section*.7}{Litteratur}{}% 26
-\BOOKMARK [0][-]{appendix.A}{Materiale fra SRN}{}% 27
-\BOOKMARK [1][-]{section.A.1}{Skabelon til vurdering}{appendix.A}% 28
-\BOOKMARK [1][-]{section.A.2}{Skiftelister}{appendix.A}% 29
-\BOOKMARK [1][-]{section.A.3}{L\346gemiddel Nyt}{appendix.A}% 30
-\BOOKMARK [0][-]{appendix.B}{Evaluering af system}{}% 31
-\BOOKMARK [1][-]{section.B.1}{Introduktion til evaluering}{appendix.B}% 32
-\BOOKMARK [2][-]{subsection.B.1.1}{Form\345l med evaluering}{section.B.1}% 33
-\BOOKMARK [2][-]{subsection.B.1.2}{Introduktion til systemet}{section.B.1}% 34
-\BOOKMARK [2][-]{subsection.B.1.3}{Introduktion til opgave}{section.B.1}% 35
-\BOOKMARK [2][-]{subsection.B.1.4}{Opgavebeskrivelse}{section.B.1}% 36
-\BOOKMARK [2][-]{subsection.B.1.5}{Diskussion}{section.B.1}% 37
-\BOOKMARK [1][-]{section.B.2}{Opgave til evaluering}{appendix.B}% 38
+\BOOKMARK [0][-]{chapter.5}{Syntese}{}% 22
+\BOOKMARK [1][-]{section.5.1}{Diskussion}{chapter.5}% 23
+\BOOKMARK [1][-]{section.5.2}{Konklusion}{chapter.5}% 24
+\BOOKMARK [0][-]{section*.8}{Litteratur}{}% 25
+\BOOKMARK [0][-]{appendix.A}{Materiale fra SRN}{}% 26
+\BOOKMARK [1][-]{section.A.1}{Skabelon til vurdering}{appendix.A}% 27
+\BOOKMARK [1][-]{section.A.2}{Skiftelister}{appendix.A}% 28
+\BOOKMARK [1][-]{section.A.3}{L\346gemiddel Nyt}{appendix.A}% 29
+\BOOKMARK [0][-]{appendix.B}{Kode}{}% 30
+\BOOKMARK [1][-]{section.B.1}{System til Risikovurdering}{appendix.B}% 31
+\BOOKMARK [1][-]{section.B.2}{Levenshtein Distance}{appendix.B}% 32
+\BOOKMARK [0][-]{appendix.C}{Evaluering af system}{}% 33
+\BOOKMARK [1][-]{section.C.1}{Introduktion til evaluering}{appendix.C}% 34
+\BOOKMARK [1][-]{section.C.2}{Opgave til evaluering}{appendix.C}% 35
