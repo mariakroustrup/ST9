@@ -1,29 +1,38 @@
-\chapter{Evaluering af system} 
+\chapter{Evaluering af system} \vspace{-1cm}
 \section{Introduktion til evaluering} \label{App:Intro}
+Introduktionen blev præsenteret i diasshow i powerpoint, hvilket fremgår som billeder og efterfølgende tekst.
 
-\subsection*{Formål med evaluering}
+\subsection{Introduktion til evaluering af algoritme}  \vspace{-0.3cm}
+ \includegraphics[page=5, width=1\textwidth]{appendiks/powerpoint.pdf} \\ \vspace{-3cm} 
+  
 Formålet er at teste og evaluere anvendeligheden af et nyudviklet system til at risikovurdere lægemiddelskift. Dette gøres ved at teste systemets anvendelighed og derefter give feedback og diskutere forbedringer til anvendeligheden af systemet.
 
-\subsection*{Introduktion til systemet}
+\subsection{Introduktion til test af systemet} \vspace{-0.3cm}
+\includegraphics[page=6, width=1\textwidth]{appendiks/powerpoint.pdf} 
+
 Systemet har til formål at risikovurdere lægemiddelskift ved at beregne en risikoscore, der angiver, hvor kompleks lægemiddelskift er at implementere. Systemet skal ses som et hjælpeværktøj til ATC-ansvarlige medarbejdere, når de enkelte lægemiddelskift er vedtaget efter udbud.  Dette skal støtte vurderingen af hvilke lægemidler der kræver særlig opmærksomhed i forbindelse med implementering af lægemiddelskift i forhold til at videregive uddybende information til klinikken via Lægemiddel Nyt. 
 
 Ved at beregne en risikoscore, er det muligt at skelne de enkelte lægemiddelskift fra hinanden i forhold til, hvornår der kræves opmærksomhed, altså hvornår klinikken skal have uddybende informationer om lægemiddelskiftet via Lægemiddel Nyt.
 
 Er scoren høj vil dette sige at flere faktorer har betydning ved det enkelte lægemiddelskift, hvilket vil sige at der skal være større opmærksomhed rettet mod lægemiddelskift. Hvis denne modsat er lav vil dette betyde at få faktorer har betydning ved det enkelte lægemiddelskift, hvormed der skal være mindre opmærksomhed rettet mod dette.
 
-
-\subsection*{Introduktion til opgave}
+\subsection{Introduktion til og beskrivelse af opgave}
+\vspace{-0.3cm}
+\includegraphics[page=7, width=1\textwidth]{appendiks/powerpoint.pdf} \\
 For at teste systemet skal I vurdere 33 lægemiddelskift. Layoutet for testen tager udgangspunkt i de skiftelister, som anvendes til at vurdere lægemiddelskift på nuværende tidspunkt, hvor der er angivet ATC-kode, lægemidlets navn, dispenseringsform og styrke for forgående år og året for skiftet.
 
+
+\includegraphics[page=8, width=1\textwidth]{appendiks/powerpoint.pdf} \\
 Resultatet af det nye system fremgår af kolonnen bemærkningen. Dette vil indeholde en risikoscore samt begrundelsen for denne. Risikoscoren er angivet i procent og angiver, hvor mange faktorer som har betydning ved lægemiddelskiftet. Hvis f.eks. Navn er ændret ved lægemidlet vil dette angive en score svarende til 5 \%. Jo højere procentdelen er, jo flere faktorer har betydning for lægemiddelskiftet. I opgaven vil lægemiddelskiftene være rangordret efter scoren.  
 
-Derudover vil kolonnen bemærkning yderligere indeholde en begrundelse for beregning af risikoscoren. Der vil være angivet hvis navn, dispenseringsform eller styrke har ændret sig og hvad dette er ændret fra og til. Yderligere vil der være angivet, hvis der er look-a-like, hvilket vil sige, at lægemiddels navn ligner et andet lægemiddels navn fra tidligere skiftelister i forhold til stavemåde. Der vil være angivet, hvis lægemidlet er ATC-kritisk, altså at ATC-koden for lægemidlet har ledt til problemstillinger. Derudover vil der være angivet, hvis lægemidlet er et risikolægemiddel, hvilket vil sige at det er kritisk, hvis lægemidlet ender i restordre, da der er øget risiko for UTH’er og der kræves et ekstra ressourcetræk for personalet. Yderligere er det angivet, hvis lægemidlet indgår i Medicinrådets behandlingsvejledning. 
+Derudover vil kolonnen bemærkning yderligere indeholde en begrundelse for beregning af risikoscoren. Der vil være angivet hvis navn, dispenseringsform eller styrke har ændret sig og hvad dette er ændret fra og til. Yderligere vil der være angivet, hvis der er look-a-like, hvilket vil sige, at lægemiddels navn ligner et andet lægemiddels navn fra tidligere skiftelister i forhold til stavemåde. Der vil være angivet, hvis lægemidlet er ATC-kritisk, altså at ATC-koden for lægemidlet har ledt til problemstillinger. Derudover vil der være angivet, hvis lægemidlet er et risikolægemiddel, hvilket vil sige at det er kritisk, hvis lægemidlet ender i restordre, da der er øget risiko for utilsigtede hændelser og der kræves et ekstra ressourcetræk for personalet. Yderligere er det angivet, hvis lægemidlet indgår i Medicinrådets behandlingsvejledning. 
 
-\subsection*{Opgavebeskrivelse}
-Opgaven er følgende, at I skal vurdere lægemiddelskift ud fra, hvornår I mener der skal være særlig opmærksomhed rettet mod skiftet i forhold til at sende uddybende information udover skiftelister ud til klinikken omkring lægemiddelskiftet. Til dette skal I bruge oplysningerne i kolonnen bemærkning som hjælp ved jeres vurdering. Det er bekendt at lægemiddelskift er mere kompleks og flere faktorer spiller ind, men i denne vurdering skal I forsøge at lave vurderingen ud fra de oplysninger som er tilgængelige. Prøv at se bort fra f.eks. hvor mange afdelinger der bruger lægemidlet og tag kun udgangspunkt i de oplysninger der fremgår af opgavearket. Udover dette skal I tage stilling til og indikere, hvis systemet har rangordret lægemiddelskiftet anderledes end hvad I vil have gjort samt en begrundelse for dette. Jeg vil gerne at I skriver hvor I ellers vil rangordre lægemiddelskiftet f.eks. at lægemiddelskift på plads nummer 11 skal randordres efter lægemiddelskift på plads nummer 5 Vurderingen skal så vidt muligt indikeres i kolonnen Vurdering.
+Opgaven er følgende, at I skal vurdere lægemiddelskift ud fra, hvornår I mener der skal være særlig opmærksomhed rettet mod skiftet i forhold til at sende uddybende information udover skiftelister ud til klinikken omkring lægemiddelskiftet. Til dette skal I bruge oplysningerne i kolonnen bemærkning som hjælp ved jeres vurdering. Det er bekendt at lægemiddelskift er mere kompleks og flere faktorer spiller ind, men i denne vurdering skal I forsøge at lave vurderingen ud fra de oplysninger som er tilgængelige. Prøv at se bort fra f.eks. hvor mange afdelinger der bruger lægemidlet og tag kun udgangspunkt i de oplysninger der fremgår af opgavearket. Udover dette skal I tage stilling til og indikere, hvis systemet har rangeret lægemiddelskiftet anderledes end hvad I vil have gjort samt en begrundelse for dette. Jeg vil gerne at I skriver hvor I ellers vil rangordre lægemiddelskiftet f.eks. at lægemiddelskift på plads nummer 11 skal randordres efter lægemiddelskift på plads nummer 5. Vurderingen skal så vidt muligt indikeres i kolonnen vurdering.
 
-Besvarelsen er individuel, hvorfor der ikke må spares med hinanden under besvarelsen. Når I er færdige med at vurdere lægemidlerne bedes i skrive navn, hvor der er markeret en linje til dette. Selve behandlingen af data vil foregå anonymt. Der er sat 20 minutter af til opgaven, men det er ikke en konkurrence om at blive først færdig. Men jeg vil gerne have at I indiker når I er færdige med opgaven, for at vi kan udnytte den resterende tid.
+Besvarelsen er individuel, hvorfor der ikke må spares med hinanden under besvarelsen. Når I er færdige med at vurdere lægemidlerne bedes i skrive navn, hvor der er markeret en linje til dette. Selve behandlingen af data vil foregå anonymt. Der er sat 20 minutter af til opgaven, men det er ikke en konkurrence om at blive først færdig. Jeg vil gerne have at I indiker hvis i er færdige med opgaven før tid, så vi kan udnytte den resterende tid.
 
-\subsection*{Diskussion}
-Jeg vil gerne have at i tager stilling til anvendelighed i forhold til den nuværende proces med implementering af lægemiddelskift og forbedringer i forhold til videreudvikling af systemet. I får lige 3 minutter til at snakke sammen 2 og 2, og så samler vi op fælles bagefter.  I skal overveje om hvordan I vil vurdere anvendeligheden af systemet og hvad jeres tænker er i forhold til funktioner såsom  look-a-like, Medicinrådet og ATC-kritisk. Derudover vil jeg gerne have I giver feedback i forhold til videreudvikling af systemet.
+\subsection{Feedback og forbedringer til systemet}
+\includegraphics[page=11, width=1\textwidth]{appendiks/powerpoint.pdf} \\ 
+
+Jeg vil gerne have at i tager stilling til anvendelighed i forhold til den nuværende proces med implementering af lægemiddelskift og forbedringer i forhold til videreudvikling af systemet. I får lige 3 minutter til at snakke sammen 2 og 2, og så samler vi op fælles bagefter. I skal  vurdere anvendeligheden af systemet og hvad jeres tænker er i forhold til funktioner såsom  look-a-like, Medicinrådet og ATC-kritisk. Derudover vil jeg gerne have I giver feedback i forhold til videreudvikling af systemet.
 
