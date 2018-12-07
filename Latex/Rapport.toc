@@ -21,6 +21,11 @@
 \contentsline {section}{\numberline {4.2}Systemets brugbarhed}{17}{section.4.2}
 \contentsline {chapter}{\chapternumberline {5}Syntese}{19}{chapter.5}
 \contentsline {section}{\numberline {5.1}Diskussion}{19}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Resultat}{19}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Metode}{19}{subsection.5.1.2}
+\contentsline {subsubsection}{\numberline {5.1.2.1}Pr\IeC {\ae }processering}{19}{subsubsection.5.1.2.1}
+\contentsline {subsection}{\numberline {5.1.3}Vedligeholdelse}{19}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}Videreudvikling}{19}{subsection.5.1.4}
 \contentsline {section}{\numberline {5.2}Konklusion}{19}{section.5.2}
 \contentsline {chapter}{Litteratur}{21}{section*.8}
 \contentsline {appendix}{\chapternumberline {A}Materiale fra SRN}{25}{appendix.A}

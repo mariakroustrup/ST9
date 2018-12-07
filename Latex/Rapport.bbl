@@ -5,6 +5,22 @@
 \newblock {Studieordning for Civilingeni{\o}r, cand.polyt. i
   sundhedsteknologi}, 2011.
 
+\bibitem{Amgros2018b}
+Amgros.
+\newblock {Om Amgros}, 2018.
+
+\bibitem{RegionNordjylland2018}
+{Region Nordjylland}.
+\newblock {L{\ae}gemiddelkomit{\'{e}}en}, 2018.
+
+\bibitem{Medicinradet2018}
+Medicinr{\aa}det.
+\newblock {Om Os}, 2018.
+
+\bibitem{RegionMidtjylland2016}
+{Region Midtjylland}.
+\newblock {Defintion og rapporteringspligtige UTH}, 2016.
+
 \bibitem{Ess2003}
 Silvia~M Ess, Sebastian Schneeweiss, and Thomas~D Szucs.
 \newblock {European Health Care Policies for Controlling Drug Expenditures}.
@@ -78,12 +94,6 @@ Peter Geissert, Sara Hallvik, Joshua {Van Otterloo}, Nicole O'Kane, Lindsey
   prescription drug monitoring program-based proactive alerts}.
 \newblock {\em Pain}, 159(1):150--156, 2018.
 
-\bibitem{Boyko1990}
-Edward~J. Boyko and Beth~W. Alderman.
-\newblock {The use of risk factors in medical diagnosis: Opportunities and
-  cautions}.
-\newblock {\em Journal of Clinical Epidemiology}, 43(9):851--858, 1990.
-
 \bibitem{Rawshani2018}
 Aidin Rawshani, Araz Rawshani, Stefan Franz{\'{e}}n, Naveed Sattar, Bj{\"{o}}rn
   Eliasson, Ann-Marie Svensson, Bj{\"{o}}rn Zethelius, Mervete Miftaraj,
@@ -138,10 +148,6 @@ Mary~P. Tully and Iain~E. Buchan.
   influencing identification by pharmacists}.
 \newblock {\em Pharmacy World and Science}, 31(6):682--688, 2009.
 
-\bibitem{RegionNordjylland2018}
-{Region Nordjylland}.
-\newblock {L{\ae}gemiddelkomit{\'{e}}en}, 2018.
-
 \bibitem{Kaushal2002}
 R~Kaushal.
 \newblock {Information technology and medication safety: what is the benefit?}
@@ -153,28 +159,16 @@ David~W Bates, Source Bmj, British Medical, No~Mar, and David~W Bates.
   Hospitals}.
 \newblock {\em British Medical Journal}, 320(7237):788--791, 2000.
 
-\bibitem{Campbell2008}
-Kevin~M. Campbell, Dennis Deck, and Antoinette Krupski.
-\newblock {Record linkage software in the public domain: A comparison of Link
-  Plus, The Link King, and a 'basic' deterministic algorithm}.
-\newblock {\em Health Informatics Journal}, 14(1):5--15, 2008.
-
-\bibitem{Bruce2007}
-Erica~D. Bruce, Afraa~A. Abusalih, Thomas~J. McDonald, and Robin~L. Autenrieth.
-\newblock {Comparing deterministic and probabilistic risk assessments for sites
-  contaminated by polycyclic aromatic hydrocarbons (PAHs)}.
-\newblock {\em Journal of Environmental Science and Health - Part A
-  Toxic/Hazardous Substances and Environmental Engineering}, 42(6):697--706,
-  2007.
+\bibitem{Boyko1990}
+Edward~J. Boyko and Beth~W. Alderman.
+\newblock {The use of risk factors in medical diagnosis: Opportunities and
+  cautions}.
+\newblock {\em Journal of Clinical Epidemiology}, 43(9):851--858, 1990.
 
 \bibitem{Crina2008}
 Grosan Crina and Abraham Ajith.
 \newblock {Rule-Based Expert Systems}.
 \newblock In {\em Animal Genetics}, volume~39, pages 149--185. 2008.
-
-\bibitem{Medicinradet2018}
-Medicinr{\aa}det.
-\newblock {Om Os}, 2018.
 
 \bibitem{Amgros}
 Amgros.
