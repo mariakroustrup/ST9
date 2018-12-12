@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.9)  5 DEC 2018 09:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.9)  11 DEC 2018 17:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1471,6 +1471,7 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
+Missing character: There is no , in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no p in font nullfont!
@@ -1497,9 +1498,6 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no v in font nullfont!
@@ -1507,6 +1505,7 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
 Missing character: There is no f in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
@@ -1839,215 +1838,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 ! Undefined control sequence.
 l.11 ...nd af mistanke om fejl i ordination~\citep
-                                                  {Kairi2017}. Analog substi...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no K in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 7 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-! Undefined control sequence.
-l.11 ...dning for den terapeutiske virkning~\citep
-                                                  {Kairi2017}.
+                                                  {Kairi2017}. %Analog subst...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2282,7 +2073,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 ! Undefined control sequence.
-l.14 ...kvenserne ved generisk substitution~\citep
+l.13 ...kvenserne ved generisk substitution~\citep
                                                   {Hakonsen2010}, hvilket fo...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2431,7 +2222,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
 ! Undefined control sequence.
-l.14 ...ng opstod ved generiske lægemidler~\citep
+l.13 ...ng opstod ved generiske lægemidler~\citep
                                                   {Hakonsen2010}. Ud af diss...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2578,7 +2369,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 ! Undefined control sequence.
-l.15 ...som følge af generisk substitution~\citep
+l.14 ...som følge af generisk substitution~\citep
                                                   {Hakonsen2010}.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2657,8 +2448,8 @@ Missing character: There is no r in font nullfont!
 ! Undefined control sequence.
 <write> ...GeneriskSubstitution' on page \thepage 
                                                   \space undefined\on@line .
-l.16 ...�r af Figur \ref{fig:GeneriskSubstitution}
-                                                  .
+l.15 ...�r af Figur \ref{fig:GeneriskSubstitution}
+                                                  , hvor årsagerne til diss...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2667,16 +2458,128 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Warning: Reference `fig:GeneriskSubstitution' on page  undefined on input
- line 16.
+ line 15.
+
+Missing character: There is no , in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+! Undefined control sequence.
+l.15 ...er rapporteret af 42 sygeplejersker~\citep
+                                                  {Hakonsen2010} og fremgår...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no H in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+! Undefined control sequence.
+<write> ...eneriskSubstitution1' on page \thepage 
+                                                  \space undefined\on@line .
+l.15 ...r af Figur \ref{fig:GeneriskSubstitution1}
+                                                  .
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `fig:GeneriskSubstitution1' on page  undefined on inpu
+t line 15.
 
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 13--17
+Overfull \hbox (20.0pt too wide) in paragraph at lines 13--16
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 13--17
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 13--16
+[]
+ []
+
+
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 13--16
 [] 
  []
 
@@ -2687,7 +2590,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.18 \begin{figure}
+l.17 \begin{figure}
                    [H]\centering	\includegraphics[width=0.95\textwidth]{bill...
 
 Your command was ignored.
@@ -2701,7 +2604,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.18 \begin{figure}[
+l.17 \begin{figure}[
                     H]\centering	\includegraphics[width=0.95\textwidth]{bill...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -2711,7 +2614,7 @@ Missing character: There is no [ in font nullfont!
 Missing character: There is no H in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.18 \begin{figure}[H]\centering	\includegraphics
+l.17 \begin{figure}[H]\centering	\includegraphics
                                                  [width=0.95\textwidth]{bill...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2733,7 +2636,7 @@ Missing character: There is no 5 in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    ]
-l.18 ...ing	\includegraphics[width=0.95\textwidth]
+l.17 ...ing	\includegraphics[width=0.95\textwidth]
                                                   {billeder/GenSubb.png}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -2742,7 +2645,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.18 ...ing	\includegraphics[width=0.95\textwidth]
+l.17 ...ing	\includegraphics[width=0.95\textwidth]
                                                   {billeder/GenSubb.png}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -2779,7 +2682,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.19 	\caption
+l.18 	\caption
               {Medicineringsfejl ved generisk substitution angivet i procent...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -2848,7 +2751,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Undefined control sequence.
-l.19 ...stitution angivet i procent (n=100)~\citep
+l.18 ...stitution angivet i procent (n=100)~\citep
                                                   {Hakonsen2010}.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2876,14 +2779,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.21 \end{figure}
+l.20 \end{figure}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 18--23
+Overfull \hbox (20.0pt too wide) in paragraph at lines 17--22
 []
  []
 
@@ -2894,7 +2797,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.24 D
+l.23 D
       et fremgår af Figur \ref{fig:GeneriskSubstitution} at størstedelen a...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -2921,7 +2824,7 @@ Missing character: There is no r in font nullfont!
 ! Undefined control sequence.
 <write> ...GeneriskSubstitution' on page \thepage 
                                                   \space undefined\on@line .
-l.24 ...�r af Figur \ref{fig:GeneriskSubstitution}
+l.23 ...�r af Figur \ref{fig:GeneriskSubstitution}
                                                    at størstedelen af fejlm...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2931,7 +2834,7 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Warning: Reference `fig:GeneriskSubstitution' on page  undefined on input
- line 24.
+ line 23.
 
 Missing character: There is no a in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -3052,7 +2955,6 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no g in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no g in font nullfont!
-Missing character: There is no i in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no j in font nullfont!
 Missing character: There is no � in font nullfont!
@@ -3212,6 +3114,13 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no F in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no l in font nullfont!
@@ -3220,8 +3129,15 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no g in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no k in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no � in font nullfont!
 Missing character: There is no � in font nullfont!
@@ -3244,15 +3160,24 @@ Missing character: There is no f in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no m in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
 Missing character: There is no f in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no k in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no b in font nullfont!
@@ -3261,7 +3186,31 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no t in font nullfont!
-Missing character: There is no , in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no s in font nullfont!
@@ -3269,6 +3218,18 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no � in font nullfont!
 Missing character: There is no � in font nullfont!
@@ -3353,154 +3314,14 @@ Missing character: There is no g in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no j in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no 4 in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no j in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-! Undefined control sequence.
-l.24 ...ev rapporteret af 42 sygeplejersker~\citep
-                                                  {Hakonsen2010}, og resulta...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-Missing character: There is no H in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no F in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no r in font nullfont!
-! Undefined control sequence.
-<write> ...eneriskSubstitution1' on page \thepage 
-                                                  \space undefined\on@line .
-l.24 ...r af Figur \ref{fig:GeneriskSubstitution1}
-                                                  .
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-LaTeX Warning: Reference `fig:GeneriskSubstitution1' on page  undefined on inpu
-t line 24.
-
-Missing character: There is no . in font nullfont!
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 24--25
+Overfull \hbox (20.0pt too wide) in paragraph at lines 23--24
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 24--25
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 23--24
 []
- []
-
-
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 24--25
-[] 
  []
 
 
@@ -3510,7 +3331,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.26 \begin{figure}
+l.25 \begin{figure}
                    [H]\centering	\includegraphics[width=0.95\textwidth]{bill...
 
 Your command was ignored.
@@ -3524,7 +3345,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.26 \begin{figure}[
+l.25 \begin{figure}[
                     H]\centering	\includegraphics[width=0.95\textwidth]{bill...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -3534,7 +3355,7 @@ Missing character: There is no [ in font nullfont!
 Missing character: There is no H in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.26 \begin{figure}[H]\centering	\includegraphics
+l.25 \begin{figure}[H]\centering	\includegraphics
                                                  [width=0.95\textwidth]{bill...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3556,7 +3377,7 @@ Missing character: There is no 5 in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    ]
-l.26 ...ing	\includegraphics[width=0.95\textwidth]
+l.25 ...ing	\includegraphics[width=0.95\textwidth]
                                                   {billeder/GenSubbb.png}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -3565,7 +3386,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.26 ...ing	\includegraphics[width=0.95\textwidth]
+l.25 ...ing	\includegraphics[width=0.95\textwidth]
                                                   {billeder/GenSubbb.png}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -3603,7 +3424,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.27 	\caption
+l.26 	\caption
               {Årsager til medicieringsfejl ved generisk substitution angiv...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -3681,7 +3502,7 @@ Missing character: There is no 4 in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Undefined control sequence.
-l.27 ...ubstitution angivet i procent(n=42)~\citep
+l.26 ...ubstitution angivet i procent(n=42)~\citep
                                                   {Hakonsen2010}.}	\label{fi...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3709,14 +3530,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.28 \end{figure}
+l.27 \end{figure}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 26--29
+Overfull \hbox (20.0pt too wide) in paragraph at lines 25--28
 []
  []
 
@@ -3727,7 +3548,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.30 D
+l.29 D
       et fremgår af Figur \ref{fig:GeneriskSubstitution1} at størstedelen ...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -3754,7 +3575,7 @@ Missing character: There is no r in font nullfont!
 ! Undefined control sequence.
 <write> ...eneriskSubstitution1' on page \thepage 
                                                   \space undefined\on@line .
-l.30 ...r af Figur \ref{fig:GeneriskSubstitution1}
+l.29 ...r af Figur \ref{fig:GeneriskSubstitution1}
                                                    at størstedelen af årsa...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3764,7 +3585,7 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Warning: Reference `fig:GeneriskSubstitution1' on page  undefined on inpu
-t line 30.
+t line 29.
 
 Missing character: There is no a in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -4030,12 +3851,12 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 30--31
+Overfull \hbox (20.0pt too wide) in paragraph at lines 29--30
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 30--31
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 29--30
 []
  []
 
@@ -4046,7 +3867,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 I
+l.31 I
        flere lande opstår forkert lægemiddel ofte i forbindelse med forvir...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -4138,7 +3959,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no v in font nullfont!
 Missing character: There is no n in font nullfont!
 ! Undefined control sequence.
-l.32 ... forvirring ved forveksling af navn~\citep
+l.31 ... forvirring ved forveksling af navn~\citep
                                                   {DanskSelskabforPatientsik...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4351,7 +4172,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no d in font nullfont!
 ! Undefined control sequence.
-l.32 ..., forværret sygdom eller dødsfald~\citep
+l.31 ..., forværret sygdom eller dødsfald~\citep
                                                   {DanskSelskabforPatientsik...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4534,7 +4355,7 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no y in font nullfont!
 Missing character: There is no k in font nullfont!
 ! Undefined control sequence.
-l.32 ...il behandling af forhøjet blodtryk~\citep
+l.31 ...il behandling af forhøjet blodtryk~\citep
                                                   {DanskSelskabforPatientsik...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4702,7 +4523,7 @@ Missing character: There is no p in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no t in font nullfont!
 ! Undefined control sequence.
-l.32 ..., såsom Efexor kontra Efexor Depot~\citep
+l.31 ..., såsom Efexor kontra Efexor Depot~\citep
                                                   {DanskSelskabforPatientsik...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4899,7 +4720,7 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
 ! Undefined control sequence.
-l.32 ...ientsikkerhedsmæssige konsekvenser~\citep
+l.31 ...ientsikkerhedsmæssige konsekvenser~\citep
                                                   {Wittich2014}. Samtidig ka...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5008,7 +4829,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no g in font nullfont!
 ! Undefined control sequence.
-l.32 ...l øget risiko for fejlmedicinering~\citep
+l.31 ...l øget risiko for fejlmedicinering~\citep
                                                   {Wittich2014}.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5029,7 +4850,7 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no 4 in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 32--33
+Overfull \hbox (20.0pt too wide) in paragraph at lines 31--32
 []
  []
 
@@ -5040,7 +4861,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.34 N
+l.33 N
       ogle af sygeplejerskerne i det norske studie mente at forvirringen ove...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -5204,7 +5025,7 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no j in font nullfont!
 Missing character: There is no l in font nullfont!
 ! Undefined control sequence.
-l.34 ...ionen var skyld i medicineringsfejl~\citep
+l.33 ...ionen var skyld i medicineringsfejl~\citep
                                                   {Hakonsen2010}, hvilket ka...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5348,7 +5169,7 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no t in font nullfont!
 ! Undefined control sequence.
-l.34 ...r ved lægemidlet kan være ændret~\citep
+l.33 ...r ved lægemidlet kan være ændret~\citep
                                                   {Wittich2014}.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5369,7 +5190,7 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no 4 in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 34--35
+Overfull \hbox (20.0pt too wide) in paragraph at lines 33--34
 []
  []
 
@@ -5380,7 +5201,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.36 M
+l.35 M
       edicinering var den hyppigste årsag til rapportering af utilsigtede h...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -5474,7 +5295,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 3 in font nullfont!
 ! Undefined control sequence.
-l.36 ...ede hændelser i Danmark i år 2013~\citep
+l.35 ...ede hændelser i Danmark i år 2013~\citep
                                                   {Patientombuddet2013}. Ant...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5580,7 +5401,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 4 in font nullfont!
 ! Undefined control sequence.
-l.36 ...ed over 36~\% fra år 2012 til 2014~\citep
+l.35 ...ed over 36~\% fra år 2012 til 2014~\citep
                                                   {Jensen2014}. Ud af 824 ra...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5713,7 +5534,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no g in font nullfont!
 ! Undefined control sequence.
-l.36 ...tion af medicin og 41\% disponering~\citep
+l.35 ...tion af medicin og 41\% disponering~\citep
                                                   {Jensen2014}, hvor mere en...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5932,7 +5753,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no g in font nullfont!
 ! Undefined control sequence.
-l.36 ...ved transskribering og dispensering~\citep
+l.35 ...ved transskribering og dispensering~\citep
                                                   {Agrawal2009, Anderson2002...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -6078,7 +5899,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 ! Undefined control sequence.
-l.36 ...ion, dispensering og administration~\citep
+l.35 ...ion, dispensering og administration~\citep
                                                   {Barker2002,Sundhedsstyrel...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -6140,12 +5961,12 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 9 in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 36--37
+Overfull \hbox (20.0pt too wide) in paragraph at lines 35--36
 []
  []
 
 ! Undefined control sequence.
-l.38 \section
+l.37 \section
              {Risikovurderingen af lægemiddelskift} \label{sec:ImpLaeg}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -6160,7 +5981,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.38 \section{R
+l.37 \section{R
                isikovurderingen af lægemiddelskift} \label{sec:ImpLaeg}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -6458,20 +6279,6 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no e in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no e in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no d in font nullfont!
@@ -6483,6 +6290,7 @@ Missing character: There is no j in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no v in font nullfont!
 Missing character: There is no i in font nullfont!
@@ -6565,20 +6373,19 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no v in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no r in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no g in font nullfont!
+Missing character: There is no b in font nullfont!
 Missing character: There is no e in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no v in font nullfont!
 Missing character: There is no i in font nullfont!
@@ -6669,7 +6476,7 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 38--41
+Overfull \hbox (20.0pt too wide) in paragraph at lines 37--40
 []
  []
 
@@ -6680,49 +6487,15 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.42 S
-      ygehusapoteket Region Nordjylland (SRN) formidler information om læge...
+l.41 S
+      RN formidler information om lægemiddelskift til hospitalsafdelinger i...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no S in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no R in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no N in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no j in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no ( in font nullfont!
-Missing character: There is no S in font nullfont!
 Missing character: There is no R in font nullfont!
 Missing character: There is no N in font nullfont!
-Missing character: There is no ) in font nullfont!
 Missing character: There is no f in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
@@ -7007,7 +6780,7 @@ Missing character: There is no r in font nullfont!
 ! Undefined control sequence.
 <write> ...eference `fig:Proces' on page \thepage 
                                                   \space undefined\on@line .
-l.42 ...er, som fremgår af Figur \ref{fig:Proces}
+l.41 ...er, som fremgår af Figur \ref{fig:Proces}
                                                   , i forhold til at vurdere...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7016,7 +6789,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig:Proces' on page  undefined on input line 42.
+LaTeX Warning: Reference `fig:Proces' on page  undefined on input line 41.
 
 Missing character: There is no , in font nullfont!
 Missing character: There is no i in font nullfont!
@@ -7123,12 +6896,12 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 42--43
+Overfull \hbox (20.0pt too wide) in paragraph at lines 41--42
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 42--43
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 41--42
 []
  []
 
@@ -7139,7 +6912,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.44 \begin{figure}
+l.43 \begin{figure}
                    [H]\centering	\includegraphics[width=1\textwidth]{billede...
 
 Your command was ignored.
@@ -7153,7 +6926,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.44 \begin{figure}[
+l.43 \begin{figure}[
                     H]\centering	\includegraphics[width=1\textwidth]{billede...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -7163,7 +6936,7 @@ Missing character: There is no [ in font nullfont!
 Missing character: There is no H in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.44 \begin{figure}[H]\centering	\includegraphics
+l.43 \begin{figure}[H]\centering	\includegraphics
                                                  [width=1\textwidth]{billede...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7182,7 +6955,7 @@ Missing character: There is no 1 in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    ]
-l.44 ...tering	\includegraphics[width=1\textwidth]
+l.43 ...tering	\includegraphics[width=1\textwidth]
                                                   {billeder/proces.png}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -7191,7 +6964,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.44 ...tering	\includegraphics[width=1\textwidth]
+l.43 ...tering	\includegraphics[width=1\textwidth]
                                                   {billeder/proces.png}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -7227,7 +7000,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.45 	\caption
+l.44 	\caption
               {Processer, som gennemgås før lægemiddelskift implementeres...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -7307,14 +7080,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.46 \end{figure}
+l.45 \end{figure}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 44--47
+Overfull \hbox (20.0pt too wide) in paragraph at lines 43--46
 []
  []
 
@@ -7325,7 +7098,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.48 A
+l.47 A
       f Figur \ref{fig:Proces} fremgår det, at det første trin i processen...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -7341,7 +7114,7 @@ Missing character: There is no r in font nullfont!
 ! Undefined control sequence.
 <write> ...eference `fig:Proces' on page \thepage 
                                                   \space undefined\on@line .
-l.48 Af Figur \ref{fig:Proces}
+l.47 Af Figur \ref{fig:Proces}
                                fremgår det, at det første trin i processen...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7350,7 +7123,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig:Proces' on page  undefined on input line 48.
+LaTeX Warning: Reference `fig:Proces' on page  undefined on input line 47.
 
 Missing character: There is no f in font nullfont!
 Missing character: There is no r in font nullfont!
@@ -7623,7 +7396,7 @@ Missing character: There is no l in font nullfont!
 ! Undefined control sequence.
 <write> ...erence `table:Proces' on page \thepage 
                                                   \space undefined\on@line .
-l.48 ...ceres fremgår af Tabel \ref{table:Proces}
+l.47 ...ceres fremgår af Tabel \ref{table:Proces}
                                                   . Udarbejdelsen og identif...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7632,7 +7405,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `table:Proces' on page  undefined on input line 48.
+LaTeX Warning: Reference `table:Proces' on page  undefined on input line 47.
 
 Missing character: There is no . in font nullfont!
 Missing character: There is no U in font nullfont!
@@ -7796,7 +7569,7 @@ Missing character: There is no s in font nullfont!
 ! Undefined control sequence.
 <write> ...ce `App:Skiftelister' on page \thepage 
                                                   \space undefined\on@line .
-l.48 ...krevet af Appendiks \ref{App:Skiftelister}
+l.47 ...krevet af Appendiks \ref{App:Skiftelister}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7805,27 +7578,27 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `App:Skiftelister' on page  undefined on input line 48
+LaTeX Warning: Reference `App:Skiftelister' on page  undefined on input line 47
 .
 
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 48--49
+Overfull \hbox (20.0pt too wide) in paragraph at lines 47--48
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 48--49
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 47--48
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 48--49
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 47--48
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 48--49
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 47--48
 [] 
  []
 
@@ -7836,7 +7609,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.50 \begin{table}
+l.49 \begin{table}
                   [H]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -7849,7 +7622,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.50 \begin{table}[
+l.49 \begin{table}[
                    H]
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -7864,7 +7637,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.51 \caption
+l.50 \caption
              {Procesbeskrivelse af skifteliste, vurdering af kompleksiteten ...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -7978,11 +7751,11 @@ Missing character: There is no y in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no . in font nullfont!
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 55.
+(Font)              <7> on input line 54.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 55.
+(Font)              <5> on input line 54.
 ! Undefined control sequence.
-l.56 \cellcolor
+l.55 \cellcolor
                [HTML]{C0C0C0}\textbf{} & \cellcolor[HTML]{C0C0C0}\textbf{Ski...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8003,7 +7776,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no C in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Undefined control sequence.
-l.56 ...lcolor[HTML]{C0C0C0}\textbf{} & \cellcolor
+l.55 ...lcolor[HTML]{C0C0C0}\textbf{} & \cellcolor
                                                   [HTML]{C0C0C0}\textbf{Skif...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8024,7 +7797,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no C in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Undefined control sequence.
-l.56 ...]{C0C0C0}\textbf{Skifteliste} & \cellcolor
+l.55 ...]{C0C0C0}\textbf{Skifteliste} & \cellcolor
                                                   [HTML]{C0C0C0}\textbf{Vurd...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8045,7 +7818,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no C in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Undefined control sequence.
-l.56 ...ML]{C0C0C0}\textbf{Vurdering} & \cellcolor
+l.55 ...ML]{C0C0C0}\textbf{Vurdering} & \cellcolor
                                                   [HTML]{C0C0C0}\textbf{Læg...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8070,7 +7843,7 @@ Missing character: There is no � in font cmbx10!
 ! Undefined control sequence.
 <recently read> \cellcolor 
                            
-l.57 \cellcolor
+l.56 \cellcolor
                [HTML]{C0C0C0}\textbf{Formål} & Identificering af ændrede e...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8345,7 +8118,7 @@ Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
 <recently read> \cellcolor 
                            
-l.58 \cellcolor
+l.57 \cellcolor
                [HTML]{C0C0C0}\textbf{Materiale} & Fremgangsmåde for udarbej...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8563,7 +8336,7 @@ Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
 <recently read> \cellcolor 
                            
-l.59 \cellcolor
+l.58 \cellcolor
                [HTML]{C0C0C0}\textbf{Faktorer} & \vspace{-0.2cm}\begin{itemi...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8622,7 +8395,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...e}[topsep=-0.5cm,leftmargin=0.3cm] \item N
+l.58 ...e}[topsep=-0.5cm,leftmargin=0.3cm] \item N
                                                   avn \item Styrke\item Disp...
 
 Try typing  <return>  to proceed.
@@ -8635,7 +8408,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...e}[topsep=-0.5cm,leftmargin=0.3cm] \item N
+l.58 ...e}[topsep=-0.5cm,leftmargin=0.3cm] \item N
                                                   avn \item Styrke\item Disp...
 
 Try typing  <return>  to proceed.
@@ -8648,7 +8421,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...e}[topsep=-0.5cm,leftmargin=0.3cm] \item N
+l.58 ...e}[topsep=-0.5cm,leftmargin=0.3cm] \item N
                                                   avn \item Styrke\item Disp...
 
 Try typing  <return>  to proceed.
@@ -8665,7 +8438,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...0.5cm,leftmargin=0.3cm] \item Navn \item S
+l.58 ...0.5cm,leftmargin=0.3cm] \item Navn \item S
                                                   tyrke\item Dispenseringsfo...
 
 Try typing  <return>  to proceed.
@@ -8678,7 +8451,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...0.5cm,leftmargin=0.3cm] \item Navn \item S
+l.58 ...0.5cm,leftmargin=0.3cm] \item Navn \item S
                                                   tyrke\item Dispenseringsfo...
 
 Try typing  <return>  to proceed.
@@ -8691,7 +8464,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...0.5cm,leftmargin=0.3cm] \item Navn \item S
+l.58 ...0.5cm,leftmargin=0.3cm] \item Navn \item S
                                                   tyrke\item Dispenseringsfo...
 
 Try typing  <return>  to proceed.
@@ -8710,7 +8483,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...rgin=0.3cm] \item Navn \item Styrke\item D
+l.58 ...rgin=0.3cm] \item Navn \item Styrke\item D
                                                   ispenseringsform \item Pak...
 
 Try typing  <return>  to proceed.
@@ -8723,7 +8496,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...rgin=0.3cm] \item Navn \item Styrke\item D
+l.58 ...rgin=0.3cm] \item Navn \item Styrke\item D
                                                   ispenseringsform \item Pak...
 
 Try typing  <return>  to proceed.
@@ -8736,7 +8509,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...rgin=0.3cm] \item Navn \item Styrke\item D
+l.58 ...rgin=0.3cm] \item Navn \item Styrke\item D
                                                   ispenseringsform \item Pak...
 
 Try typing  <return>  to proceed.
@@ -8766,7 +8539,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...item Styrke\item Dispenseringsform \item P
+l.58 ...item Styrke\item Dispenseringsform \item P
                                                   akningsstørrelse \end{ite...
 
 Try typing  <return>  to proceed.
@@ -8779,7 +8552,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...item Styrke\item Dispenseringsform \item P
+l.58 ...item Styrke\item Dispenseringsform \item P
                                                   akningsstørrelse \end{ite...
 
 Try typing  <return>  to proceed.
@@ -8792,7 +8565,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...item Styrke\item Dispenseringsform \item P
+l.58 ...item Styrke\item Dispenseringsform \item P
                                                   akningsstørrelse \end{ite...
 
 Try typing  <return>  to proceed.
@@ -8823,7 +8596,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...orm \item Pakningsstørrelse \end{itemize}
+l.58 ...orm \item Pakningsstørrelse \end{itemize}
                                                    & \vspace{-0.2cm}\begin{i...
 
 Try typing  <return>  to proceed.
@@ -8868,7 +8641,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...e}[topsep=-0.5cm,leftmargin=0.3cm] \item T
+l.58 ...e}[topsep=-0.5cm,leftmargin=0.3cm] \item T
                                                   idspunkt for skift\item Sk...
 
 Try typing  <return>  to proceed.
@@ -8881,7 +8654,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...e}[topsep=-0.5cm,leftmargin=0.3cm] \item T
+l.58 ...e}[topsep=-0.5cm,leftmargin=0.3cm] \item T
                                                   idspunkt for skift\item Sk...
 
 Try typing  <return>  to proceed.
@@ -8894,7 +8667,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...e}[topsep=-0.5cm,leftmargin=0.3cm] \item T
+l.58 ...e}[topsep=-0.5cm,leftmargin=0.3cm] \item T
                                                   idspunkt for skift\item Sk...
 
 Try typing  <return>  to proceed.
@@ -8924,7 +8697,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...in=0.3cm] \item Tidspunkt for skift\item S
+l.58 ...in=0.3cm] \item Tidspunkt for skift\item S
                                                   kiftets betydning for f.ek...
 
 Try typing  <return>  to proceed.
@@ -8937,7 +8710,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...in=0.3cm] \item Tidspunkt for skift\item S
+l.58 ...in=0.3cm] \item Tidspunkt for skift\item S
                                                   kiftets betydning for f.ek...
 
 Try typing  <return>  to proceed.
@@ -8950,7 +8723,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...in=0.3cm] \item Tidspunkt for skift\item S
+l.58 ...in=0.3cm] \item Tidspunkt for skift\item S
                                                   kiftets betydning for f.ek...
 
 Try typing  <return>  to proceed.
@@ -8998,7 +8771,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...ets betydning for f.eks. klinikken \item T
+l.58 ...ets betydning for f.eks. klinikken \item T
                                                   ype af skift f.eks. forår...
 
 Try typing  <return>  to proceed.
@@ -9011,7 +8784,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...ets betydning for f.eks. klinikken \item T
+l.58 ...ets betydning for f.eks. klinikken \item T
                                                   ype af skift f.eks. forår...
 
 Try typing  <return>  to proceed.
@@ -9024,7 +8797,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...ets betydning for f.eks. klinikken \item T
+l.58 ...ets betydning for f.eks. klinikken \item T
                                                   ype af skift f.eks. forår...
 
 Try typing  <return>  to proceed.
@@ -9087,7 +8860,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...er ændringer skift i device \end{itemize}
+l.58 ...er ændringer skift i device \end{itemize}
                                                     & \vspace{-0.2cm}\begin{...
 
 Try typing  <return>  to proceed.
@@ -9132,7 +8905,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...e}[topsep=-0.5cm,leftmargin=0.3cm] \item N
+l.58 ...e}[topsep=-0.5cm,leftmargin=0.3cm] \item N
                                                   avn \item Styrke \item Dis...
 
 Try typing  <return>  to proceed.
@@ -9145,7 +8918,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...e}[topsep=-0.5cm,leftmargin=0.3cm] \item N
+l.58 ...e}[topsep=-0.5cm,leftmargin=0.3cm] \item N
                                                   avn \item Styrke \item Dis...
 
 Try typing  <return>  to proceed.
@@ -9158,7 +8931,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...e}[topsep=-0.5cm,leftmargin=0.3cm] \item N
+l.58 ...e}[topsep=-0.5cm,leftmargin=0.3cm] \item N
                                                   avn \item Styrke \item Dis...
 
 Try typing  <return>  to proceed.
@@ -9175,7 +8948,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...0.5cm,leftmargin=0.3cm] \item Navn \item S
+l.58 ...0.5cm,leftmargin=0.3cm] \item Navn \item S
                                                   tyrke \item Dispenseringsf...
 
 Try typing  <return>  to proceed.
@@ -9188,7 +8961,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...0.5cm,leftmargin=0.3cm] \item Navn \item S
+l.58 ...0.5cm,leftmargin=0.3cm] \item Navn \item S
                                                   tyrke \item Dispenseringsf...
 
 Try typing  <return>  to proceed.
@@ -9201,7 +8974,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...0.5cm,leftmargin=0.3cm] \item Navn \item S
+l.58 ...0.5cm,leftmargin=0.3cm] \item Navn \item S
                                                   tyrke \item Dispenseringsf...
 
 Try typing  <return>  to proceed.
@@ -9220,7 +8993,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...gin=0.3cm] \item Navn \item Styrke \item D
+l.58 ...gin=0.3cm] \item Navn \item Styrke \item D
                                                   ispenseringsform \item Pak...
 
 Try typing  <return>  to proceed.
@@ -9233,7 +9006,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...gin=0.3cm] \item Navn \item Styrke \item D
+l.58 ...gin=0.3cm] \item Navn \item Styrke \item D
                                                   ispenseringsform \item Pak...
 
 Try typing  <return>  to proceed.
@@ -9246,7 +9019,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...gin=0.3cm] \item Navn \item Styrke \item D
+l.58 ...gin=0.3cm] \item Navn \item Styrke \item D
                                                   ispenseringsform \item Pak...
 
 Try typing  <return>  to proceed.
@@ -9276,7 +9049,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...tem Styrke \item Dispenseringsform \item P
+l.58 ...tem Styrke \item Dispenseringsform \item P
                                                   akningsstørrelse \item Op...
 
 Try typing  <return>  to proceed.
@@ -9289,7 +9062,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...tem Styrke \item Dispenseringsform \item P
+l.58 ...tem Styrke \item Dispenseringsform \item P
                                                   akningsstørrelse \item Op...
 
 Try typing  <return>  to proceed.
@@ -9302,7 +9075,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...tem Styrke \item Dispenseringsform \item P
+l.58 ...tem Styrke \item Dispenseringsform \item P
                                                   akningsstørrelse \item Op...
 
 Try typing  <return>  to proceed.
@@ -9333,7 +9106,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...ringsform \item Pakningsstørrelse \item O
+l.58 ...ringsform \item Pakningsstørrelse \item O
                                                   pbevaringsbetingelse \item...
 
 Try typing  <return>  to proceed.
@@ -9346,7 +9119,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...ringsform \item Pakningsstørrelse \item O
+l.58 ...ringsform \item Pakningsstørrelse \item O
                                                   pbevaringsbetingelse \item...
 
 Try typing  <return>  to proceed.
@@ -9359,7 +9132,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...ringsform \item Pakningsstørrelse \item O
+l.58 ...ringsform \item Pakningsstørrelse \item O
                                                   pbevaringsbetingelse \item...
 
 Try typing  <return>  to proceed.
@@ -9393,7 +9166,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...rrelse \item Opbevaringsbetingelse \item A
+l.58 ...rrelse \item Opbevaringsbetingelse \item A
                                                   nalog substitution  \end{i...
 
 Try typing  <return>  to proceed.
@@ -9406,7 +9179,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...rrelse \item Opbevaringsbetingelse \item A
+l.58 ...rrelse \item Opbevaringsbetingelse \item A
                                                   nalog substitution  \end{i...
 
 Try typing  <return>  to proceed.
@@ -9419,7 +9192,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...rrelse \item Opbevaringsbetingelse \item A
+l.58 ...rrelse \item Opbevaringsbetingelse \item A
                                                   nalog substitution  \end{i...
 
 Try typing  <return>  to proceed.
@@ -9450,7 +9223,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...e \item Analog substitution  \end{itemize}
+l.58 ...e \item Analog substitution  \end{itemize}
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -9462,19 +9235,19 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.61 \end{table}
+l.60 \end{table}
                 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 50--62
+Overfull \hbox (20.0pt too wide) in paragraph at lines 49--61
 []
  []
 
 
-Overfull \hbox (369.8858pt too wide) in paragraph at lines 50--62
+Overfull \hbox (369.8858pt too wide) in paragraph at lines 49--61
 []
  []
 
@@ -9485,7 +9258,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.63 N
+l.62 N
       år skiftelisterne er udarbejdet anvendes disse til at vurdere komplek...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -9636,7 +9409,7 @@ Missing character: There is no r in font nullfont!
 ! Undefined control sequence.
 <write> ...eference `fig:Proces' on page \thepage 
                                                   \space undefined\on@line .
-l.63 ...oces illustreret af Figur \ref{fig:Proces}
+l.62 ...oces illustreret af Figur \ref{fig:Proces}
                                                   . Lægemiddelskift vurdere...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9645,7 +9418,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig:Proces' on page  undefined on input line 63.
+LaTeX Warning: Reference `fig:Proces' on page  undefined on input line 62.
 
 Missing character: There is no . in font nullfont!
 Missing character: There is no L in font nullfont!
@@ -9674,20 +9447,6 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no f in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no e in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no d in font nullfont!
@@ -9699,21 +9458,28 @@ Missing character: There is no j in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
 Missing character: There is no f in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no S in font nullfont!
 Missing character: There is no R in font nullfont!
 Missing character: There is no N in font nullfont!
-Missing character: There is no , in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no m in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
+Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
 Missing character: There is no f in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
@@ -9721,15 +9487,43 @@ Missing character: There is no h in font nullfont!
 Missing character: There is no v in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no A in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no A in font nullfont!
 Missing character: There is no T in font nullfont!
 Missing character: There is no C in font nullfont!
-Missing character: There is no - in font nullfont!
+Missing character: There is no ) in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no r in font nullfont!
@@ -9902,7 +9696,7 @@ Missing character: There is no l in font nullfont!
 ! Undefined control sequence.
 <write> ...erence `table:Proces' on page \thepage 
                                                   \space undefined\on@line .
-l.63 ...s er beskrevet af Tabel \ref{table:Proces}
+l.62 ...s er beskrevet af Tabel \ref{table:Proces}
                                                    samt yderligere beskrevet...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9911,7 +9705,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `table:Proces' on page  undefined on input line 63.
+LaTeX Warning: Reference `table:Proces' on page  undefined on input line 62.
 
 Missing character: There is no s in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -9950,7 +9744,7 @@ Missing character: There is no s in font nullfont!
 ! Undefined control sequence.
 <write> ...erence `App:Skabelon' on page \thepage 
                                                   \space undefined\on@line .
-l.63 ... beskrevet af Appendiks \ref{App:Skabelon}
+l.62 ... beskrevet af Appendiks \ref{App:Skabelon}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9959,26 +9753,26 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `App:Skabelon' on page  undefined on input line 63.
+LaTeX Warning: Reference `App:Skabelon' on page  undefined on input line 62.
 
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 63--64
+Overfull \hbox (20.0pt too wide) in paragraph at lines 62--63
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 63--64
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 62--63
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 63--64
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 62--63
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 63--64
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 62--63
 [] 
  []
 
@@ -9989,7 +9783,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.65 U
+l.64 U
       d fra skiftelister og vurdering af implementering af lægemiddelskift ...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -10129,7 +9923,7 @@ Missing character: There is no r in font nullfont!
 ! Undefined control sequence.
 <write> ...eference `fig:Proces' on page \thepage 
                                                   \space undefined\on@line .
-l.65 ...hvilket fremgår af Figur \ref{fig:Proces}
+l.64 ...hvilket fremgår af Figur \ref{fig:Proces}
                                                    som den sidste proces ind...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10138,7 +9932,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig:Proces' on page  undefined on input line 65.
+LaTeX Warning: Reference `fig:Proces' on page  undefined on input line 64.
 
 Missing character: There is no s in font nullfont!
 Missing character: There is no o in font nullfont!
@@ -10335,7 +10129,7 @@ Missing character: There is no � in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
 ! Undefined control sequence.
-l.65 ... er bestemt af Lægemiddelkomitéen~\citep
+l.64 ... er bestemt af Lægemiddelkomitéen~\citep
                                                   {RegionNordjylland2018}, o...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10485,7 +10279,7 @@ Missing character: There is no l in font nullfont!
 ! Undefined control sequence.
 <write> ...erence `table:Proces' on page \thepage 
                                                   \space undefined\on@line .
-l.65 ...l Nyt fremgår af Tabel \ref{table:Proces}
+l.64 ...l Nyt fremgår af Tabel \ref{table:Proces}
                                                   . Udover at informere om �...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10494,7 +10288,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `table:Proces' on page  undefined on input line 65.
+LaTeX Warning: Reference `table:Proces' on page  undefined on input line 64.
 
 Missing character: There is no . in font nullfont!
 Missing character: There is no U in font nullfont!
@@ -10740,7 +10534,7 @@ Missing character: There is no s in font nullfont!
 ! Undefined control sequence.
 <write> ... `App:LaegemiddelNyt' on page \thepage 
                                                   \space undefined\on@line .
-l.65 ...r på i Appendiks \ref{App:LaegemiddelNyt}
+l.64 ...r på i Appendiks \ref{App:LaegemiddelNyt}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10750,32 +10544,32 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Warning: Reference `App:LaegemiddelNyt' on page  undefined on input line 
-65.
+64.
 
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 65--66
+Overfull \hbox (20.0pt too wide) in paragraph at lines 64--65
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 65--66
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 64--65
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 65--66
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 64--65
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 65--66
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 64--65
 [] 
  []
 
 ! Undefined control sequence.
-l.100 \section
-              {Informationssystemer til forebyggelse og risikovurdering} \la...
+l.99 \section
+             {Informationssystemer til risikovurdering} \label{sec:Inform_Risk}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -10789,8 +10583,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.100 \section{I
-                nformationssystemer til forebyggelse og risikovurdering} \la...
+l.99 \section{I
+               nformationssystemer til risikovurdering} \label{sec:Inform_Risk}
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -10818,20 +10612,6 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no l in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no g in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no s in font nullfont!
@@ -10848,7 +10628,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no g in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 100--103
+Overfull \hbox (20.0pt too wide) in paragraph at lines 99--102
 []
  []
 
@@ -10859,7 +10639,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.104 I
+l.103 I
        ngen videnskabelig litteratur har undersøgt, hvordan informationssys...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -11136,7 +10916,7 @@ Missing character: There is no t in font nullfont!
 ! Undefined control sequence.
 <write> ...ference `sec:ImpLaeg' on page \thepage 
                                                   \space undefined\on@line .
-l.104 ... som beskrevet i Afsnit \ref{sec:ImpLaeg}
+l.103 ... som beskrevet i Afsnit \ref{sec:ImpLaeg}
                                                   . Informationssystemer er,...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -11145,7 +10925,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `sec:ImpLaeg' on page  undefined on input line 104.
+LaTeX Warning: Reference `sec:ImpLaeg' on page  undefined on input line 103.
 
 Missing character: There is no . in font nullfont!
 Missing character: There is no I in font nullfont!
@@ -11289,7 +11069,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no a in font nullfont!
 ! Undefined control sequence.
-l.104 ...ner fra en større mængde af data~\citep
+l.103 ...ner fra en større mængde af data~\citep
                                                   {Agrawal2009}, hvormed den...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -11676,12 +11456,12 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 104--105
+Overfull \hbox (20.0pt too wide) in paragraph at lines 103--104
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 104--105
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 103--104
 []
  []
 
@@ -11692,7 +11472,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.106 F
+l.105 F
        lere studier har påvist at informationssystemer er anvendelige i kli...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -11799,7 +11579,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no g in font nullfont!
 ! Undefined control sequence.
-l.106 ...l forebyggelse af fejlmedicinering~\citep
+l.105 ...l forebyggelse af fejlmedicinering~\citep
                                                   {Agrawal2009, Kaushal2002,...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -12034,7 +11814,7 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
 ! Undefined control sequence.
-l.106 ...inger tilgængelige for klinikeren~\citep
+l.105 ...inger tilgængelige for klinikeren~\citep
                                                   {Agrawal2009,Bates2000a}. ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -12191,7 +11971,7 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
-l.106 ...ing af styrke ved ændring i denne~\citep
+l.105 ...ing af styrke ved ændring i denne~\citep
                                                   {Agrawal2009}, har compute...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -12302,7 +12082,7 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
 ! Undefined control sequence.
-l.106 ...i forbedring af patientsikkerheden~\citep
+l.105 ...i forbedring af patientsikkerheden~\citep
                                                   {Agrawal2009, Bates2000a}....
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -12408,7 +12188,7 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
-l.106 ...edsdomænet som beslutningsstøtte~\citep
+l.105 ...edsdomænet som beslutningsstøtte~\citep
                                                   {Geissert2018, Rawshani201...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -12613,7 +12393,7 @@ Missing character: There is no � in font nullfont!
 Missing character: There is no � in font nullfont!
 Missing character: There is no d in font nullfont!
 ! Undefined control sequence.
-l.106 ...sis relateret indlæggelse og død~\citep
+l.105 ...sis relateret indlæggelse og død~\citep
                                                   {Geissert2018} eller at pa...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -12717,7 +12497,7 @@ Missing character: There is no m in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
-l.106 ...adiovaskulære relaterede sygdomme~\citep
+l.105 ...adiovaskulære relaterede sygdomme~\citep
                                                   {Rawshani2018}. Dette gør...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -12874,7 +12654,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
-l.106 ...titisk eller deterministisk metode~\citep
+l.105 ...titisk eller deterministisk metode~\citep
                                                   {Boyko1990}.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -12893,7 +12673,7 @@ Missing character: There is no 9 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 106--107
+Overfull \hbox (20.0pt too wide) in paragraph at lines 105--106
 []
  []
 
@@ -12904,7 +12684,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.109 A
+l.108 A
        nvendes en statistisk metode til risikovurdering af lægemiddelskift ...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -13018,6 +12798,12 @@ Missing character: There is no � in font nullfont!
 Missing character: There is no � in font nullfont!
 Missing character: There is no g in font nullfont!
 Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no k in font nullfont!
 Missing character: There is no i in font nullfont!
@@ -13042,14 +12828,31 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no g in font nullfont!
 Missing character: There is no r in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
 Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -13087,6 +12890,16 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no E in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -13602,7 +13415,7 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no t in font nullfont!
 ! Undefined control sequence.
-l.109 ...t af en ekspert inden for området~\citep
+l.108 ...t af en ekspert inden for området~\citep
                                                   {Crina2008}. Da baggrunden...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -13793,12 +13606,12 @@ Missing character: There is no f in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 109--110
+Overfull \hbox (20.0pt too wide) in paragraph at lines 108--109
 []
  []
 
 ! Undefined control sequence.
-l.122 \section
+l.121 \section
               {Opsummering}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -13813,7 +13626,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.122 \section{O
+l.121 \section{O
                 psummering}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -13933,7 +13746,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
 ! Undefined control sequence.
-l.123 ...ører substitution af lægemidler ~\citep
+l.122 ...ører substitution af lægemidler ~\citep
                                                   {Ess2003, Johnston2011}. S...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -14126,7 +13939,7 @@ Missing character: There is no t in font nullfont!
 ! Undefined control sequence.
 <write> ...nce `sec:ProblemLaeg' on page \thepage 
                                                   \space undefined\on@line .
-l.123 ...n, jævnfør Afsnit \ref{sec:ProblemLaeg}
+l.122 ...n, jævnfør Afsnit \ref{sec:ProblemLaeg}
                                                   . Den nuværende vurdering...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -14135,7 +13948,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `sec:ProblemLaeg' on page  undefined on input line 123
+LaTeX Warning: Reference `sec:ProblemLaeg' on page  undefined on input line 122
 .
 
 Missing character: There is no . in font nullfont!
@@ -14239,26 +14052,6 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no t in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
 Missing character: There is no , in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no v in font nullfont!
@@ -14319,8 +14112,8 @@ Missing character: There is no t in font nullfont!
 ! Undefined control sequence.
 <write> ...ference `sec:ImpLaeg' on page \thepage 
                                                   \space undefined\on@line .
-l.123 ... som beskrevet i Afsnit \ref{sec:ImpLaeg}
-                                                  . Derudover er den erfarin...
+l.122 ... som beskrevet i Afsnit \ref{sec:ImpLaeg}
+                                                  . Ligeledes er dele af vur...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -14328,21 +14121,35 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `sec:ImpLaeg' on page  undefined on input line 123.
+LaTeX Warning: Reference `sec:ImpLaeg' on page  undefined on input line 122.
 
 Missing character: There is no . in font nullfont!
-Missing character: There is no D in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
-Missing character: There is no u in font nullfont!
 Missing character: There is no d in font nullfont!
-Missing character: There is no o in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no f in font nullfont!
 Missing character: There is no v in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
+Missing character: There is no u in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -14361,17 +14168,6 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no t in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no j in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no v in font nullfont!
 Missing character: There is no , in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no v in font nullfont!
@@ -14384,13 +14180,7 @@ Missing character: There is no g in font nullfont!
 Missing character: There is no � in font nullfont!
 Missing character: There is no � in font nullfont!
 Missing character: There is no r in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no s in font nullfont!
+Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no p in font nullfont!
@@ -14410,17 +14200,17 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no g in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 122--124
+Overfull \hbox (20.0pt too wide) in paragraph at lines 121--123
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 122--124
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 121--123
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 122--124
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 121--123
 []
  []
 
@@ -14431,7 +14221,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.125 D
+l.124 D
        er er ingen videnskabelig litteratur, som har undersøgt brugen af in...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -14727,7 +14517,7 @@ Missing character: There is no k in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
 ! Undefined control sequence.
-l.125 ...t af medicineringsfejl i klinikken~\citep
+l.124 ...t af medicineringsfejl i klinikken~\citep
                                                   {Agrawal2009, Stenner2010,...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -14801,7 +14591,7 @@ Missing character: There is no t in font nullfont!
 ! Undefined control sequence.
 <write> ...nce `sec:Inform_Risk' on page \thepage 
                                                   \space undefined\on@line .
-l.125 ...}, jævnfør Afsnit \ref{sec:Inform_Risk}
+l.124 ...}, jævnfør Afsnit \ref{sec:Inform_Risk}
                                                   . Computerbaseret systemer...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -14810,7 +14600,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `sec:Inform_Risk' on page  undefined on input line 125
+LaTeX Warning: Reference `sec:Inform_Risk' on page  undefined on input line 124
 .
 
 Missing character: There is no . in font nullfont!
@@ -14920,7 +14710,7 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no t in font nullfont!
 ! Undefined control sequence.
-l.125 ...for samme domæne er bredt anvendt~\citep
+l.124 ...for samme domæne er bredt anvendt~\citep
                                                   {Geissert2018, Rawshani201...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -14973,53 +14763,80 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no g in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no f in font nullfont!
 Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
 Missing character: There is no g in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no p in font nullfont!
 Missing character: There is no � in font nullfont!
 Missing character: There is no � in font nullfont!
-Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
-Missing character: There is no f in font nullfont!
+Missing character: There is no m in font nullfont!
 Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no n in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no g in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no s in font nullfont!
+Missing character: There is no v in font nullfont!
 Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no , in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no k in font nullfont!
@@ -15028,6 +14845,27 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no e in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no � in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
 Missing character: There is no k in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no n in font nullfont!
@@ -15177,8 +15015,6 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
@@ -15211,17 +15047,17 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 125--126
+Overfull \hbox (20.0pt too wide) in paragraph at lines 124--125
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 125--126
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 124--125
 []
  []
 
 ! Undefined control sequence.
-l.131 \section
+l.129 \section
               {Problemformulering}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -15236,7 +15072,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.131 \section{P
+l.129 \section{P
                 roblemformulering}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -15268,182 +15104,182 @@ Missing character: There is no � in font cmti10!
 Missing character: There is no � in font cmti10!
 Missing character: There is no � in font cmti10!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 131--133
+Overfull \hbox (20.0pt too wide) in paragraph at lines 129--131
 []
  []
 
 
-Overfull \hbox (32.47755pt too wide) in paragraph at lines 131--133
+Overfull \hbox (32.47755pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 Hvilken
  []
 
 
-Overfull \hbox (14.31102pt too wide) in paragraph at lines 131--133
+Overfull \hbox (14.31102pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 an-
  []
 
 
-Overfull \hbox (18.39986pt too wide) in paragraph at lines 131--133
+Overfull \hbox (18.39986pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 ven-
  []
 
 
-Overfull \hbox (13.28879pt too wide) in paragraph at lines 131--133
+Overfull \hbox (13.28879pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 de-
  []
 
 
-Overfull \hbox (24.53316pt too wide) in paragraph at lines 131--133
+Overfull \hbox (24.53316pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 lighed
  []
 
 
-Overfull \hbox (14.4388pt too wide) in paragraph at lines 131--133
+Overfull \hbox (14.4388pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 har
  []
 
 
-Overfull \hbox (7.92215pt too wide) in paragraph at lines 131--133
+Overfull \hbox (7.92215pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 et
  []
 
 
-Overfull \hbox (23.12755pt too wide) in paragraph at lines 131--133
+Overfull \hbox (23.12755pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 regel-
  []
 
 
-Overfull \hbox (29.5164pt too wide) in paragraph at lines 131--133
+Overfull \hbox (29.5164pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 baseret
  []
 
 
-Overfull \hbox (16.611pt too wide) in paragraph at lines 131--133
+Overfull \hbox (16.611pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 sys-
  []
 
 
-Overfull \hbox (16.09988pt too wide) in paragraph at lines 131--133
+Overfull \hbox (16.09988pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 tem
  []
 
 
-Overfull \hbox (8.94438pt too wide) in paragraph at lines 131--133
+Overfull \hbox (8.94438pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 til
  []
 
 
-Overfull \hbox (41.91081pt too wide) in paragraph at lines 131--133
+Overfull \hbox (41.91081pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 risikovur-
  []
 
 
-Overfull \hbox (17.50542pt too wide) in paragraph at lines 131--133
+Overfull \hbox (17.50542pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 der-
  []
 
 
-Overfull \hbox (13.2888pt too wide) in paragraph at lines 131--133
+Overfull \hbox (13.2888pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 ing
  []
 
 
-Overfull \hbox (8.17773pt too wide) in paragraph at lines 131--133
+Overfull \hbox (8.17773pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 af
  []
 
 
-Overfull \hbox (31.68867pt too wide) in paragraph at lines 131--133
+Overfull \hbox (31.68867pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 lgemid-
  []
 
 
-Overfull \hbox (15.84433pt too wide) in paragraph at lines 131--133
+Overfull \hbox (15.84433pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 del-
  []
 
 
-Overfull \hbox (18.14432pt too wide) in paragraph at lines 131--133
+Overfull \hbox (18.14432pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 skift
  []
 
 
-Overfull \hbox (17.37766pt too wide) in paragraph at lines 131--133
+Overfull \hbox (17.37766pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 med
  []
 
 
-Overfull \hbox (18.91098pt too wide) in paragraph at lines 131--133
+Overfull \hbox (18.91098pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 hen-
  []
 
 
-Overfull \hbox (14.82211pt too wide) in paragraph at lines 131--133
+Overfull \hbox (14.82211pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 blik
  []
 
 
-Overfull \hbox (5.11108pt too wide) in paragraph at lines 131--133
+Overfull \hbox (5.11108pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 p
  []
 
 
-Overfull \hbox (8.43327pt too wide) in paragraph at lines 131--133
+Overfull \hbox (8.43327pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 at
  []
 
 
-Overfull \hbox (33.98859pt too wide) in paragraph at lines 131--133
+Overfull \hbox (33.98859pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 forbedre
  []
 
 
-Overfull \hbox (15.33324pt too wide) in paragraph at lines 131--133
+Overfull \hbox (15.33324pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 den
  []
 
 
-Overfull \hbox (14.56657pt too wide) in paragraph at lines 131--133
+Overfull \hbox (14.56657pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 nu-
  []
 
 
-Overfull \hbox (28.23866pt too wide) in paragraph at lines 131--133
+Overfull \hbox (28.23866pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 vrende
  []
 
 
-Overfull \hbox (17.76097pt too wide) in paragraph at lines 131--133
+Overfull \hbox (17.76097pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 vur-
  []
 
 
-Overfull \hbox (17.50542pt too wide) in paragraph at lines 131--133
+Overfull \hbox (17.50542pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 der-
  []
 
 
-Overfull \hbox (13.2888pt too wide) in paragraph at lines 131--133
+Overfull \hbox (13.2888pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 ing
  []
 
 
-Overfull \hbox (8.17773pt too wide) in paragraph at lines 131--133
+Overfull \hbox (8.17773pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 af
  []
 
 
-Overfull \hbox (31.68867pt too wide) in paragraph at lines 131--133
+Overfull \hbox (31.68867pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 lgemid-
  []
 
 
-Overfull \hbox (15.84433pt too wide) in paragraph at lines 131--133
+Overfull \hbox (15.84433pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 del-
  []
 
 
-Overfull \hbox (24.4804pt too wide) in paragraph at lines 131--133
+Overfull \hbox (24.4804pt too wide) in paragraph at lines 129--131
 \OT1/cmr/m/it/10 skift? 
  []
 

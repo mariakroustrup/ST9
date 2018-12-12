@@ -1,19 +1,34 @@
-\chapter{Syntese}
-\textit{I dette kapitel ....}
 
-\section{Diskussion}
-hej hej
-\subsection{Resultat}
-Hvorfor virker det anvendeligt for dem? Og hvorfor gør det ikke? Hvordan kan det videreudvikles i forhold til nu? Medarbejdernes erfaring er vigtigt
+\chapter{Diskussion}
+\textit{I dette kapitel diskuteres metode og resultater i forhold til at besvare problemformuleringen, om hvorvidt et regelbaseret system er anvendeligt til risikovurdering af lægemiddelskift med henblik på at forbedre den nuværende vurdering af lægemiddelskift.}
 
-\subsection{Metode}
+%Hvorfor virker det anvendeligt for dem? Og hvorfor gør det ikke? Hvordan kan det videreudvikles i forhold til nu? Medarbejdernes erfaring er vigtigt
 
-\subsubsection{Præprocessering}
+\section{Opsummering af resultater}
+Overensstemmelsen mellem systemet og medarbejdernes vurdering af lægemiddelskift er begrænset. Systemet har en højere specificitet end sensitivitet, hvilket betyder, at systemet er bedre til at identificere lægemiddelskift, som ikke kræver uddybende information sammenlignet med lægemiddelskift, som kræver uddybende information. Ligeledes har systemet en høj type 2 fejl, hvilket betyder, at systemet vurderer lægemiddelskift, hvor der kræves uddybende information til ikke at kræve uddybende information. 
 
-\subsection{Vedligeholdelse}
+I forhold til risikoscoren blev det påvist, at medarbejdernes vurdering var mere nøjagtig sammenlignet med systemet, hvilket vil sige at medarbejderne vurdering har en højere sensitivitet og lavere specificitet end systemet. \textcolor{red}{skriv til her i forhold til diskriminationsgrænse.}
 
-\subsection{Videreudvikling}
+Systemets er vurderet af medarbejdere fra SRN til at være et godt udgangspunkt for et hjælpeværktøj i forbindelse med risikovurdering af lægemiddelskift, men at risikofaktorerne og vægtningen af disse skal granuleres i forhold til at forbedre risikoscoren. Derudover blev funktioner såsom look-a-like og Medicinrådet vurderet til ikke at blive vægtet særligt højt ved lægemiddelskiftet, men at det i kombination med antallet af ændrede faktorer kunne have en betydning for lægemiddelskiftet.
+
+\section{Risikovurdering}
+Risikovurderingen afspejler ikke den nuværende vurdering af lægemiddelskift, hvilket kan skyldes, at der var variation mellem medarbejderne vurdering af lægemiddelskift. Dette kan være på grund af, at medarbejderne var repræsenteret fra forskellige afdelinger og derved havde forskellige vurderinger af lægemiddelskiftene set ud fra den afdeling de repræsenterede. Samtidig kan medarbejdernes vurdering være præget af erfaringer som systemet ikke tager højde for i vurderingen, hvilket kan medvirke til, at nogle lægemidler er vurderet til ikke at kræve uddybende information af medarbejderne men at systemet vurderer dette. Dette understøttes af en medarbejder, hvis generelle  kommentar var, at det var svært ikke at tage deres erfaring med i vurderingen, hvilket fremgår af Tabel \ref{table:resultat2} i Appendiks \ref{App:Resultat}, selvom der var forsøgt at undgå dette via den introduktion der blev givet inden risikovurderingen, som fremgår af Appendiks \ref{App:Intro}. Derudover kan der være andre ændrede faktorer som skyldes, at lægemiddelskiftet, er uddybet af Lægemiddel Nyt, såsom ændret form, størrelse og farve på lægemidlet, hvilket er beskrevet i Afsnit \ref{sec:ProblemLaeg}, eller f.eks. ændring af pakningsstørrelse, som der i nogle tilfælde er uddybende kommentarer om i Lægemiddel Nyt, hvilket fremgår af Tabel \ref{table:Proces} i Afsnit \ref{sec:ImpLaeg}. I kraft af, at systemet ikke tager højde for disse ændringer kan dette medvirke til at systemets risikovurderingen ikke afspejler medarbejdernes vurdering. 
+
+\section{Risikoscore}
+%0-5~\%
+Medarbejderne kommenterede, at systemet i flere tilfælde vurderede et lægemiddelskift risikoscore for højt og derved skulle rangeres lavere. Dette kan skyldes, at medarbejdernes erfaring er medtaget i vurderingen i forhold til at kende skiftet og derved vil rangere dette lavere, hvilket understøttes af en medarbejder i kommentaren som fremgår af Tabel \ref{table:resultat2} i Appendiks \ref{App:Resultat}. Derudover skelner systemet ikke i forhold til om der er ændring i styrken eller  styrkeangivelsen, hvormed et lægemiddelskift med samme risikoscore kan være vurderet forskelligt ud fra, hvorvidt lægemiddelskiftet kræver uddybende information. Dette understøttes af kommentarer om tvivl i forhold til styrke fra flere medarbejdere, jævnfør Tabel \ref{table:resultat2} i Appendiks \ref{App:Resultat}. Dette vil kræve, at systemet ved sammenligning af ændring i styrke kombineres med, hvorvidt der er sket ændringer i pakningsstørrelse.\textcolor{red}{Tilføj i forhold til diskriminationsgrænse.}
+
+\section{Risikofaktorer og deres vægtning}
+Risikofaktorer, som look-a-like, blev vurderet af medarbejderne til ikke at have den store betydning for lægemiddelskift, hvormed vægtning af denne er for høj. Dette kan skyldes, at look-a-like funktion, udelukkende kigger i forhold til sammenligning af lægemidlets navn og ikke tager højde for om andre faktorer som, f.eks. dispenseringsform eller tepariområde, er ens for de lægemidler som er hinandens look-a-like. Derudover kan det være at look-a-like skal vægtes lavere eller udelades fra risikovurderingen, men stadig være tilgængelige i klinikken i forhold til at mindske medicineringsfejl, ved forvirring over at lægemidlets navne ligner hinanden, jævnfør Afsnit \ref{sec:ProblemLaeg}.
+
+Ligeledes blev Medicinrådet vurderet til ikke at skulle vægtes høj, da det at et lægemiddel indgår i behandlingsvejledningen i sig selv ikke har betydning, men at ændringer af faktorer og hvor mange der ændres har betydning. Dette kan skyldes, at Medicinrådet har en stor betydning første gang det implementeres i klinikken eller hvis der sker ændringer, som ikke har en lige så stor betydning efterfølgende, hvormed det er nødvendigt at systemet differentiere mellem dette.
+
+Det blev for navn, dispenseringsform og styrke vurderet af medarbejderne, at der ligeledes krævede granulering af ændringer i disse i forhold til vægtningen, da der var variationer i sværhedsgraden inden for hvert type af skift. Dette skyldes, at nogle skift anses som værende ligeværdige som f.eks. dispenseringsformer, der anvendes på samme måde i klinikken er af mindre betydning, sammenlignet med dispenseringsformer, som anvendes forskelligt i klinikken og derved har større betydning, hvis denne er ændret ved lægemiddelskift. Dette kræver, at der foretages en mere detaljeret præprocessering af data for at identificere ligeværdige typer af skift og samtidig have en større granuleringsgrad inden for hvert skift i forhold til vægtning af risikofaktorerne.
 
 
-\section{Konklusion}
+\chapter{Konklusion}
+\textit{I dette kapitel konkluderes der på rapporten problemformulering i forhold til, hvorvidt et regelbaseret system er anvendeligt til risikovurdering af lægemiddelskift med henblik på at forbedre den nuværende vurdering af lægemiddelskift.}
 
+Risikovurderingen afspejler på nuværende tidspunkt ikke den nuværende vurdering af lægemiddelskift, hvormed systemet kræver yderligere tilpasning i forhold til beregning af risikoscoren. Det formodes, at ved tilpasning, at systemet kan risikovurdere lægemiddelskift på samme vilkår som medarbejderne. Trods alt, skal systemet stadig anses som et hjælpeværktøj til vurderingen af lægemiddelskift, hvormed medarbejdernes erfaring skal tages med i den endelige vurderingen. For at beregne risikoscoren skal der ligeledes tages højde for granuleringen af risikofaktorer for at ......skelne mellem...
+
+%Systemet skal være med til at skelne lægemiddelskift fra hinanden i forhold til at medarbejderne kan strukturere deres arbejde i forhold til at fokusere på lægemiddelskift som kræver særlig opmærksomhed.

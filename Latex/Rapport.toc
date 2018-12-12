@@ -17,34 +17,32 @@
 \contentsline {section}{\numberline {3.6}Implementering og test}{13}{section.3.6}
 \contentsline {section}{\numberline {3.7}Evaluering}{13}{section.3.7}
 \contentsline {chapter}{\chapternumberline {4}Resultat}{15}{chapter.4}
-\contentsline {section}{\numberline {4.1}Systemets anvendelighed}{15}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Sammenligning af risikovurderinger}{15}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}Vurdering af risikoscore}{16}{subsection.4.1.2}
-\contentsline {subsection}{\numberline {4.1.3}Vurdering af risikofaktorer og v\IeC {\ae }gtning}{18}{subsection.4.1.3}
-\contentsline {section}{\numberline {4.2}Systemets brugbarhed}{18}{section.4.2}
-\contentsline {chapter}{\chapternumberline {5}Syntese}{19}{chapter.5}
-\contentsline {section}{\numberline {5.1}Diskussion}{19}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Resultat}{19}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}Metode}{19}{subsection.5.1.2}
-\contentsline {subsubsection}{\numberline {5.1.2.1}Pr\IeC {\ae }processering}{19}{subsubsection.5.1.2.1}
-\contentsline {subsection}{\numberline {5.1.3}Vedligeholdelse}{19}{subsection.5.1.3}
-\contentsline {subsection}{\numberline {5.1.4}Videreudvikling}{19}{subsection.5.1.4}
-\contentsline {section}{\numberline {5.2}Konklusion}{19}{section.5.2}
-\contentsline {chapter}{Litteratur}{21}{section*.7}
-\contentsline {appendix}{\chapternumberline {A}Materiale fra SRN}{25}{appendix.A}
-\contentsline {section}{\numberline {A.1}Skabelon til vurdering}{25}{section.A.1}
-\contentsline {section}{\numberline {A.2}Skiftelister}{26}{section.A.2}
-\contentsline {section}{\numberline {A.3}L\IeC {\ae }gemiddel Nyt}{29}{section.A.3}
-\contentsline {appendix}{\chapternumberline {B}Kode}{37}{appendix.B}
-\contentsline {section}{\numberline {B.1}System til Risikovurdering}{37}{section.B.1}
-\contentsline {section}{\numberline {B.2}Levenshtein Distance}{49}{section.B.2}
-\contentsline {appendix}{\chapternumberline {C}Evaluering af system}{51}{appendix.C}
-\contentsline {section}{\numberline {C.1}Introduktion til evaluering}{51}{section.C.1}
-\contentsline {subsection}{\numberline {C.1.1}Introduktion til evaluering af algoritme}{51}{subsection.C.1.1}
-\contentsline {subsection}{\numberline {C.1.2}Introduktion til test af systemet}{51}{subsection.C.1.2}
-\contentsline {subsection}{\numberline {C.1.3}Introduktion til og beskrivelse af opgave}{52}{subsection.C.1.3}
-\contentsline {subsection}{\numberline {C.1.4}Feedback og forbedringer til systemet}{54}{subsection.C.1.4}
-\contentsline {section}{\numberline {C.2}Opgave til evaluering}{55}{section.C.2}
-\contentsline {appendix}{\chapternumberline {D}Resultat af evaluering}{57}{appendix.D}
-\contentsline {subsection}{\numberline {D.0.1}Test af system til risikovurdering}{57}{subsection.D.0.1}
-\contentsline {section}{\numberline {D.1}Referat af feedback og forbedringer til systemet}{60}{section.D.1}
+\contentsline {section}{\numberline {4.1}Risikovurdering}{15}{section.4.1}
+\contentsline {section}{\numberline {4.2}Risikoscore}{17}{section.4.2}
+\contentsline {section}{\numberline {4.3}Risikofaktorer og v\IeC {\ae }gtning}{19}{section.4.3}
+\contentsline {chapter}{\chapternumberline {5}Diskussion}{21}{chapter.5}
+\contentsline {section}{\numberline {5.1}Opsummering af resultater}{21}{section.5.1}
+\contentsline {section}{\numberline {5.2}Risikovurdering}{21}{section.5.2}
+\contentsline {section}{\numberline {5.3}Risikoscore}{22}{section.5.3}
+\contentsline {section}{\numberline {5.4}Risikofaktorer og deres v\IeC {\ae }gtning}{22}{section.5.4}
+\contentsline {chapter}{\chapternumberline {6}Konklusion}{25}{chapter.6}
+\contentsline {chapter}{Litteratur}{27}{section*.23}
+\contentsline {appendix}{\chapternumberline {A}Materiale fra SRN}{31}{appendix.A}
+\contentsline {section}{\numberline {A.1}Skabelon til vurdering}{31}{section.A.1}
+\contentsline {section}{\numberline {A.2}Skiftelister}{32}{section.A.2}
+\contentsline {section}{\numberline {A.3}L\IeC {\ae }gemiddel Nyt}{35}{section.A.3}
+\contentsline {appendix}{\chapternumberline {B}Kode}{45}{appendix.B}
+\contentsline {section}{\numberline {B.1}System til Risikovurdering}{45}{section.B.1}
+\contentsline {section}{\numberline {B.2}Levenshtein Distance}{57}{section.B.2}
+\contentsline {appendix}{\chapternumberline {C}Evaluering af system}{59}{appendix.C}
+\contentsline {section}{\numberline {C.1}Introduktion til evaluering}{59}{section.C.1}
+\contentsline {subsection}{\numberline {C.1.1}Introduktion til evaluering af algoritme}{59}{subsection.C.1.1}
+\contentsline {subsection}{\numberline {C.1.2}Introduktion til test af systemet}{59}{subsection.C.1.2}
+\contentsline {subsection}{\numberline {C.1.3}Introduktion og beskrivelse af opgave}{60}{subsection.C.1.3}
+\contentsline {subsection}{\numberline {C.1.4}Feedback og forbedringer til systemet}{62}{subsection.C.1.4}
+\contentsline {section}{\numberline {C.2}Opgave til evaluering}{63}{section.C.2}
+\contentsline {appendix}{\chapternumberline {D}Resultat af evaluering}{65}{appendix.D}
+\contentsline {section}{\numberline {D.1}Vurdering af l\IeC {\ae }gemiddelskift}{65}{section.D.1}
+\contentsline {section}{\numberline {D.2}Vurdering af risikoscore}{68}{section.D.2}
+\contentsline {section}{\numberline {D.3}Vurdering af rangeringen af l\IeC {\ae }gemiddelskift}{68}{section.D.3}
+\contentsline {section}{\numberline {D.4}Referat af feedback og forbedringer til systemet}{70}{section.D.4}

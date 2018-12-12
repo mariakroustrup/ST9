@@ -46,8 +46,8 @@ public class algoritme {
 
 
     public static void main(final String[] args) throws BiffException, IOException, RowsExceededException, WriteException {
-        // Indlaeser excel med data om skift fra 2016 til 2017
-        FileInputStream AMGROS = new FileInputStream("/Users/Maria/Desktop/Amgrosskift2016.xls");
+        // Indlaeser excel input data
+        FileInputStream AMGROS = new FileInputStream("/Users/Maria/Desktop/Amgrosskift.xls");
         Workbook wb = Workbook.getWorkbook(AMGROS);
         Sheet shAMGROS = wb.getSheet(0);
        
@@ -55,7 +55,7 @@ public class algoritme {
         Workbook wb18 = Workbook.getWorkbook(new FileInputStream("/Users/Maria/Desktop/Amgrosskift2018.xls"));
         Sheet shAMGROS18 = wb18.getSheet(0);
         
-        // Indlaeser excel med data om skift fra 2017 til 2016
+        // Indlaeser excel med data om skift fra 2016 til 2017
         Workbook wb17 = Workbook.getWorkbook(new FileInputStream("/Users/Maria/Desktop/Amgrosskift2017.xls"));
         Sheet shAMGROS17 = wb17.getSheet(0);
 
@@ -359,7 +359,7 @@ public class algoritme {
         int totalNoOfCols = shAMGROS.getColumns();
         for (int row = 0; row < totalNoOfRows; row++) {
             for (int col = 0; col < totalNoOfCols; col++) {
-                if (shAMGROS.getCell(col, row).getContents().startsWith("Laegemiddel 2015")) {
+                if (shAMGROS.getCell(col, row).getContents().startsWith("Laegemiddel 2017")) {
                         a = col;
                         col = col + 1;
                     if (shAMGROS.getCell(col, row).getContents().startsWith("Disp")) {
@@ -370,7 +370,7 @@ public class algoritme {
                         e = col;
                     }
                 }
-                if (shAMGROS.getCell(col, row).getContents().startsWith("Laegemiddel 2016")) {
+                if (shAMGROS.getCell(col, row).getContents().startsWith("Laegemiddel 2018")) {
                         b = col;
                         col = col + 1;
                     if (shAMGROS.getCell(col, row).getContents().startsWith("Disp")) {
@@ -416,15 +416,11 @@ public class algoritme {
             // PRAEPROCESSEIRNG AF LAEGEMIDDELNAVNE:
             elema = elema.substring(0).toLowerCase();
             elemb = elemb.substring(0).toLowerCase();
-            elema = elema.replace("aripiprazole", "aripiprazol");
-            elemb = elemb.replace("aripiprazole", "aripiprazol");
-            elema = elema.replace("clozapin", "clozapine");
-            elemb = elemb.replace("clozapin", "clozapine");
             elema = elema.replaceAll("/", "");
             elemb = elemb.replaceAll("/", "");
             elema = elema.replaceAll(",", " ");
             elemb = elemb.replaceAll(",", " ");
-             elema = elema.replaceAll("\\.", " ");
+            elema = elema.replaceAll("\\.", " ");
             elemb = elemb.replaceAll("\\.", " ");
             String arra[] = elema.split(" ", 2);
             elema = arra[0];
@@ -523,14 +519,8 @@ public class algoritme {
             elemd = elemd.replace(".", " ");
             elemd = elemd.replace(",", " ");
             elemd = elemd.replace("-", "og");
-
-            /*if (elemd.equals("")) {
-                elemd = elemd.replace(elemd, elemc);
-            }*/
             elemd = elemd.replaceAll("\\s+", " ");
-           // System.out.println(elemc);
-           // System.out.println(elemd);
-
+          
             // PRAEPROCESSEIRNG AF STYRKE:
             eleme = eleme.substring(0).toLowerCase();
             elemf = elemf.substring(0).toLowerCase();
@@ -552,7 +542,7 @@ public class algoritme {
             elemf = elemf.replace("dosis", "dos");
 
 
-	// FJERNER ALLE SOM ER ENS I LISTEN
+	// FJERNER GENTAGELSER I NAVNLIST
         for(int i = 2; i < NavnList.size(); i++) {
             for(int j = i + 1; j < NavnList.size(); j++) {
                 if(NavnList.get(i).equals(NavnList.get(j))){
@@ -561,14 +551,13 @@ public class algoritme {
                 }
             } 
         }
-   
-             
+        // FJERNER GENTAGELSER I MEDLIST    
         for (int v= 1; v < MEDList.size(); v++) {
             if(MEDList.get(v).equals("1")){
                  MRList.add(VarenavnList.get(v));
             }
         }
-        
+        // FJERNER GENTAGELSER I MRLIST
         for(int k = 0; k < MRList.size(); k++) {
             for(int j = k + 1; j < MRList.size(); j++) {
                 if(MRList.get(k).equals(MRList.get(j))){
@@ -586,15 +575,15 @@ public class algoritme {
             String StyrkeBefore = eleme;
             String ATC = elematc;
 
-            //RISIKOVURDERING
+            //RISIKOVURDERING OG VAEGTNING
             double intet = 0.0;
             double navn = 1.0;
             double disp = 2.0;
             double look = 2.0;
             double styrke = 2.0;
-            double atc = 3.0;
-            double risiko = 5.0;
-            double mr = 5.0;
+            double atc = 3.0; \\ ATC-kritisk
+            double risiko = 5.0; \\ Risikolaegemiddel Amgros
+            double mr = 5.0; \\ Medicinraadet
             double sum = intet+navn+disp+styrke+look+atc+risiko+mr;
             int max = 4; // Max antal af distance af laegemidler
 
@@ -866,7 +855,7 @@ public class algoritme {
     
         ww.write();
         ww.close();
-        wb17.close();
+        wb.close();
 
     }
     
