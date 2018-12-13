@@ -355,31 +355,40 @@ public class algoritme {
             }
         }
         
+    	ArrayList<Integer> NavnColList = new ArrayList<>();
+    	ArrayList<Integer> DispColList = new ArrayList<>();
+   	ArrayList<Integer> StyrkeColList = new ArrayList<>();
+        
         int totalNoOfRows = shAMGROS.getRows();
         int totalNoOfCols = shAMGROS.getColumns();
         for (int row = 0; row < totalNoOfRows; row++) {
             for (int col = 0; col < totalNoOfCols; col++) {
-                if (shAMGROS.getCell(col, row).getContents().startsWith("Laegemiddel 2017")) {
-                        a = col;
-                        col = col + 1;
-                    if (shAMGROS.getCell(col, row).getContents().startsWith("Disp")) {
-                        c = col;
-                        col = col + 1;
-                    }
-                    if (shAMGROS.getCell(col, row).getContents().startsWith("Styrke")) {
-                        e = col;
-                    }
+                if (shAMGROS.getCell(col, row).getContents().startsWith("Laegemiddel")) {
+                    NavnColList.add(col);
+                        for (int i=0; i < NavnColList.size(); i++) {
+                            for(int j = i + 1; j < NavnColList.size(); j++) {
+                                a = NavnColList.get(i);
+                                b = NavnColList.get(j);
+                               }
+                        }
+                } 
+                if (shAMGROS.getCell(col, row).getContents().startsWith("Disp")) {
+                    DispColList.add(col);
+                        for (int i=0; i < DispColList.size(); i++) {
+                            for(int j = i + 1; j < DispColList.size(); j++) {
+                                c = DispColList.get(i);
+                                d = DispColList.get(j);
+                               }
+                            }      
                 }
-                if (shAMGROS.getCell(col, row).getContents().startsWith("Laegemiddel 2018")) {
-                        b = col;
-                        col = col + 1;
-                    if (shAMGROS.getCell(col, row).getContents().startsWith("Disp")) {
-                        d = col;
-                        col = col + 1;
-                    }
-                    if (shAMGROS.getCell(col, row).getContents().startsWith("Styrke")) {
-                        f = col;
-                    }
+                if (shAMGROS.getCell(col, row).getContents().startsWith("Styrke")) {
+                    StyrkeColList.add(col);
+                        for (int i=0; i < StyrkeColList.size(); i++) {
+                            for(int j = i + 1; j < StyrkeColList.size(); j++) {
+                                e = StyrkeColList.get(i);
+                                f = StyrkeColList.get(j);
+                               }
+                            }      
                 }
                 if (shAMGROS.getCell(col, row).getContents().startsWith("ATC")) {
                     atc = col;
