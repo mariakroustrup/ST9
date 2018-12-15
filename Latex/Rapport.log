@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.9)  15 DEC 2018 21:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.9)  15 DEC 2018 21:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2427,7 +2427,18 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 74.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 74.
- [27] (./Rapport.lox)
+ [27]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 86.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 86.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 86.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 86.
+ [28
+
+]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 86.
 Package babel Info: Redefining danish shorthand "~
@@ -2437,23 +2448,14 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 86.
 
-[28]
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 86.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 86.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 86.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 86.
- <appendiks/skabelon.pdf, id=742, 597.51233pt x 845.0471pt>
+<appendiks/skabelon.pdf, id=741, 597.51233pt x 845.0471pt>
 File: appendiks/skabelon.pdf Graphic file (type pdf)
 
 <use appendiks/skabelon.pdf>
 Package pdftex.def Info: appendiks/skabelon.pdf used on input line 88.
 (pdftex.def)             Requested size: 418.25577pt x 591.52895pt.
 
-<appendiks/skiftelister.pdf, id=743, 597.51233pt x 845.0471pt>
+<appendiks/skiftelister.pdf, id=742, 597.51233pt x 845.0471pt>
 File: appendiks/skiftelister.pdf Graphic file (type pdf)
 
 <use appendiks/skiftelister.pdf>
@@ -2464,7 +2466,7 @@ File: appendiks/skiftelister.pdf Graphic file (type pdf)
 Package pdftex.def Info: appendiks/skiftelister.pdf used on input line 93.
 (pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
 
-<appendiks/skiftelister.pdf, id=746, page=1, 597.51233pt x 845.0471pt>
+<appendiks/skiftelister.pdf, id=745, page=1, 597.51233pt x 845.0471pt>
 File: appendiks/skiftelister.pdf Graphic file (type pdf)
 
 <use appendiks/skiftelister.pdf, page 1>
@@ -2497,9 +2499,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 93.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 93.
- [29
-
- <./appendiks/skabelon.pdf>]
+ [29 <./appendiks/skabelon.pdf>]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 93.
 Package babel Info: Redefining danish shorthand "~
@@ -2529,7 +2529,7 @@ File: appendiks/skiftelister.pdf Graphic file (type pdf)
 Package pdftex.def Info: appendiks/skiftelister.pdf used on input line 94.
 (pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
 
-<appendiks/skiftelister.pdf, id=859, page=2, 597.51233pt x 845.0471pt>
+<appendiks/skiftelister.pdf, id=858, page=2, 597.51233pt x 845.0471pt>
 File: appendiks/skiftelister.pdf Graphic file (type pdf)
 
 <use appendiks/skiftelister.pdf, page 2>
@@ -2579,7 +2579,7 @@ File: appendiks/skiftelister.pdf Graphic file (type pdf)
 Package pdftex.def Info: appendiks/skiftelister.pdf used on input line 95.
 (pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
 
-<appendiks/skiftelister.pdf, id=879, page=3, 597.51233pt x 845.0471pt>
+<appendiks/skiftelister.pdf, id=878, page=3, 597.51233pt x 845.0471pt>
 File: appendiks/skiftelister.pdf Graphic file (type pdf)
 
 <use appendiks/skiftelister.pdf, page 3>
@@ -2623,7 +2623,7 @@ Package babel Info: Redefining danish shorthand "~
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Laegemiddelnyt1.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 
-<appendiks/Laegemiddelnyt1.pdf, id=897, 597.4822pt x 845.1575pt>
+<appendiks/Laegemiddelnyt1.pdf, id=896, 597.4822pt x 845.1575pt>
 File: appendiks/Laegemiddelnyt1.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt1.pdf>
@@ -2648,7 +2648,7 @@ pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Laegemiddelnyt1.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 
-<appendiks/Laegemiddelnyt1.pdf, id=900, page=1, 597.4822pt x 845.1575pt>
+<appendiks/Laegemiddelnyt1.pdf, id=899, page=1, 597.4822pt x 845.1575pt>
 File: appendiks/Laegemiddelnyt1.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt1.pdf, page 1>
@@ -2715,7 +2715,7 @@ pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Laegemiddelnyt1.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 
-<appendiks/Laegemiddelnyt1.pdf, id=946, page=2, 597.4822pt x 845.1575pt>
+<appendiks/Laegemiddelnyt1.pdf, id=945, page=2, 597.4822pt x 845.1575pt>
 File: appendiks/Laegemiddelnyt1.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt1.pdf, page 2>
@@ -2778,7 +2778,7 @@ pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Laegemiddelnyt1.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 
-<appendiks/Laegemiddelnyt1.pdf, id=987, page=3, 597.4822pt x 845.1575pt>
+<appendiks/Laegemiddelnyt1.pdf, id=986, page=3, 597.4822pt x 845.1575pt>
 File: appendiks/Laegemiddelnyt1.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt1.pdf, page 3>
@@ -2841,7 +2841,7 @@ pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Laegemiddelnyt1.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 
-<appendiks/Laegemiddelnyt1.pdf, id=1002, page=4, 597.4822pt x 845.1575pt>
+<appendiks/Laegemiddelnyt1.pdf, id=1001, page=4, 597.4822pt x 845.1575pt>
 File: appendiks/Laegemiddelnyt1.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt1.pdf, page 4>
@@ -2904,7 +2904,7 @@ pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Laegemiddelnyt1.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 
-<appendiks/Laegemiddelnyt1.pdf, id=1022, page=5, 597.4822pt x 845.1575pt>
+<appendiks/Laegemiddelnyt1.pdf, id=1021, page=5, 597.4822pt x 845.1575pt>
 File: appendiks/Laegemiddelnyt1.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt1.pdf, page 5>
@@ -3039,7 +3039,7 @@ pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Laegemiddelnyt1.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 
-<appendiks/Laegemiddelnyt1.pdf, id=1046, page=6, 845.1575pt x 597.4822pt>
+<appendiks/Laegemiddelnyt1.pdf, id=1045, page=6, 845.1575pt x 597.4822pt>
 File: appendiks/Laegemiddelnyt1.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt1.pdf, page 6>
@@ -3069,7 +3069,7 @@ e 103.
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Laegemiddelnyt1.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 
-<appendiks/Laegemiddelnyt1.pdf, id=1047, page=7, 845.1575pt x 597.4822pt>
+<appendiks/Laegemiddelnyt1.pdf, id=1046, page=7, 845.1575pt x 597.4822pt>
 File: appendiks/Laegemiddelnyt1.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt1.pdf, page 7>
@@ -3087,7 +3087,7 @@ e 103.
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Laegemiddelnyt1.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 
-<appendiks/Laegemiddelnyt1.pdf, id=1048, page=8, 845.1575pt x 597.4822pt>
+<appendiks/Laegemiddelnyt1.pdf, id=1047, page=8, 845.1575pt x 597.4822pt>
 File: appendiks/Laegemiddelnyt1.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt1.pdf, page 8>
@@ -3129,7 +3129,7 @@ pdf): PDF inclusion: multiple pdfs with page group included in a single page
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Laegemiddelnyt1.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 
-<appendiks/Laegemiddelnyt1.pdf, id=1054, page=9, 845.1575pt x 597.4822pt>
+<appendiks/Laegemiddelnyt1.pdf, id=1053, page=9, 845.1575pt x 597.4822pt>
 File: appendiks/Laegemiddelnyt1.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt1.pdf, page 9>
@@ -3147,7 +3147,7 @@ e 103.
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Laegemiddelnyt1.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 
-<appendiks/Laegemiddelnyt1.pdf, id=1055, page=10, 845.1575pt x 597.4822pt>
+<appendiks/Laegemiddelnyt1.pdf, id=1054, page=10, 845.1575pt x 597.4822pt>
 File: appendiks/Laegemiddelnyt1.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt1.pdf, page 10>
@@ -3189,7 +3189,7 @@ pdf): PDF inclusion: multiple pdfs with page group included in a single page
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Laegemiddelnyt1.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 
-<appendiks/Laegemiddelnyt1.pdf, id=1062, page=11, 845.1575pt x 597.4822pt>
+<appendiks/Laegemiddelnyt1.pdf, id=1061, page=11, 845.1575pt x 597.4822pt>
 File: appendiks/Laegemiddelnyt1.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt1.pdf, page 11>
@@ -3207,7 +3207,7 @@ ne 103.
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Laegemiddelnyt1.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 
-<appendiks/Laegemiddelnyt1.pdf, id=1063, page=12, 845.1575pt x 597.4822pt>
+<appendiks/Laegemiddelnyt1.pdf, id=1062, page=12, 845.1575pt x 597.4822pt>
 File: appendiks/Laegemiddelnyt1.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt1.pdf, page 12>
@@ -3249,7 +3249,7 @@ pdf): PDF inclusion: multiple pdfs with page group included in a single page
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Laegemiddelnyt1.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 
-<appendiks/Laegemiddelnyt1.pdf, id=1069, page=13, 845.1575pt x 597.4822pt>
+<appendiks/Laegemiddelnyt1.pdf, id=1068, page=13, 845.1575pt x 597.4822pt>
 File: appendiks/Laegemiddelnyt1.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt1.pdf, page 13>
@@ -3267,7 +3267,7 @@ ne 103.
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Laegemiddelnyt1.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 
-<appendiks/Laegemiddelnyt1.pdf, id=1070, page=14, 845.1575pt x 597.4822pt>
+<appendiks/Laegemiddelnyt1.pdf, id=1069, page=14, 845.1575pt x 597.4822pt>
 File: appendiks/Laegemiddelnyt1.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt1.pdf, page 14>
@@ -3500,7 +3500,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 5.
 
-<appendiks/powerpoint.pdf, id=2106, page=5, 963.6pt x 542.025pt>
+<appendiks/powerpoint.pdf, id=2105, page=5, 963.6pt x 542.025pt>
 File: appendiks/powerpoint.pdf Graphic file (type pdf)
 
 <use appendiks/powerpoint.pdf, page 5>
@@ -3511,7 +3511,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 10.
 
-<appendiks/powerpoint.pdf, id=2107, page=6, 963.6pt x 542.025pt>
+<appendiks/powerpoint.pdf, id=2106, page=6, 963.6pt x 542.025pt>
 File: appendiks/powerpoint.pdf Graphic file (type pdf)
 
 <use appendiks/powerpoint.pdf, page 6>
@@ -3536,7 +3536,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 19.
 
-<appendiks/powerpoint.pdf, id=2143, page=7, 963.6pt x 542.025pt>
+<appendiks/powerpoint.pdf, id=2142, page=7, 963.6pt x 542.025pt>
 File: appendiks/powerpoint.pdf Graphic file (type pdf)
 
 <use appendiks/powerpoint.pdf, page 7>
@@ -3544,7 +3544,7 @@ Package pdftex.def Info: appendiks/powerpoint.pdf, page7 used on input line 21.
 
 (pdftex.def)             Requested size: 426.0pt x 239.6248pt.
 
-<appendiks/powerpoint.pdf, id=2144, page=8, 963.6pt x 542.025pt>
+<appendiks/powerpoint.pdf, id=2143, page=8, 963.6pt x 542.025pt>
 File: appendiks/powerpoint.pdf Graphic file (type pdf)
 
 <use appendiks/powerpoint.pdf, page 8>
@@ -3575,7 +3575,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 34.
 
-<appendiks/powerpoint.pdf, id=2206, page=11, 963.6pt x 542.025pt>
+<appendiks/powerpoint.pdf, id=2205, page=11, 963.6pt x 542.025pt>
 File: appendiks/powerpoint.pdf Graphic file (type pdf)
 
 <use appendiks/powerpoint.pdf, page 11>
@@ -3600,7 +3600,7 @@ Package babel Info: Redefining danish shorthand "~
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Evaluering.pdf):
  PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
-<appendiks/Evaluering.pdf, id=2241, 844.15375pt x 597.23125pt>
+<appendiks/Evaluering.pdf, id=2240, 844.15375pt x 597.23125pt>
 File: appendiks/Evaluering.pdf Graphic file (type pdf)
 
 <use appendiks/Evaluering.pdf>
@@ -3630,7 +3630,7 @@ pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Evaluering.pdf):
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Evaluering.pdf):
  PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
-<appendiks/Evaluering.pdf, id=2245, page=1, 844.15375pt x 597.23125pt>
+<appendiks/Evaluering.pdf, id=2244, page=1, 844.15375pt x 597.23125pt>
 File: appendiks/Evaluering.pdf Graphic file (type pdf)
 
 <use appendiks/Evaluering.pdf, page 1>
@@ -3657,7 +3657,7 @@ Package pdftex.def Info: appendiks/Evaluering.pdf, page1 used on input line 108
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Evaluering.pdf):
  PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
-<appendiks/Evaluering.pdf, id=2246, page=2, 844.15375pt x 597.23125pt>
+<appendiks/Evaluering.pdf, id=2245, page=2, 844.15375pt x 597.23125pt>
 File: appendiks/Evaluering.pdf Graphic file (type pdf)
 
 <use appendiks/Evaluering.pdf, page 2>
@@ -3720,7 +3720,7 @@ pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Evaluering.pdf):
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Evaluering.pdf):
  PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
-<appendiks/Evaluering.pdf, id=2273, page=3, 844.15375pt x 597.23125pt>
+<appendiks/Evaluering.pdf, id=2272, page=3, 844.15375pt x 597.23125pt>
 File: appendiks/Evaluering.pdf Graphic file (type pdf)
 
 <use appendiks/Evaluering.pdf, page 3>
@@ -3836,471 +3836,119 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 97.
 
-! Misplaced \noalign.
-\caption ->\noalign 
-                    \bgroup \@ifnextchar [{\egroup \LT@c@ption \@firstofone ...
-l.101 ...longtable}{l|c|c|c|c|c|c|p{2cm}}}\caption
-                                                  {Lægemiddelskift, hvor me...
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \noalign.
-\caption@LT@make #1->\noalign 
-                              {\caption@LT@config }\expandafter \LT@mcol \ex...
-l.101 ...ke blev rangeret, er udeladt af tabellen}
-                                                  
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \omit.
-\multispan ->\omit 
-                   \@multispan 
-l.101 ...ke blev rangeret, er udeladt af tabellen}
-                                                  
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.101 ...ke blev rangeret, er udeladt af tabellen}
-                                                  
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.101 ...ke blev rangeret, er udeladt af tabellen}
-                                                  
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.101 ...ke blev rangeret, er udeladt af tabellen}
-                                                  
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.101 ...ke blev rangeret, er udeladt af tabellen}
-                                                  
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.101 ...ke blev rangeret, er udeladt af tabellen}
-                                                  
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.101 ...ke blev rangeret, er udeladt af tabellen}
-                                                  
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.101 ...ke blev rangeret, er udeladt af tabellen}
-                                                  
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.101 ...ke blev rangeret, er udeladt af tabellen}
-                                                  
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.101 ...ke blev rangeret, er udeladt af tabellen}
-                                                  
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.101 ...ke blev rangeret, er udeladt af tabellen}
-                                                  
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.101 ...ke blev rangeret, er udeladt af tabellen}
-                                                  
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.101 ...ke blev rangeret, er udeladt af tabellen}
-                                                  
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.101 ...ke blev rangeret, er udeladt af tabellen}
-                                                  
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.101 ...ke blev rangeret, er udeladt af tabellen}
-                                                  
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-
 Underfull \hbox (badness 1533) in paragraph at lines 101--101
 []\T1/cmr/m/n/10.95 Tabel D.3: |L�gemiddelskift, hvor medarbejderne vurderede e
 n h�jere eller lavere
  []
 
-! Misplaced \cr.
-\reserved@c ->\ifnum 0=`{}\fi \cr 
-                                  
-l.104 \rowcolor
-               [HTML]{C0C0C0}{\textbf{Lægemiddel}}& \multicolumn{6}{c}{\tex...
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 126.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 126.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 126.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 126.
+[65]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 161.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 161.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 213.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 213.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 213.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 213.
+ [66]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 214.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 214.
+)
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 111.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 111.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 111.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 111.
+ [67]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 111.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 111.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 111.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 111.
+ [68]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 115.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 115.
+\tf@toc=\write5
+\openout5 = `Rapport.toc'.
 
-! Misplaced \noalign.
-\rowcolor ->\noalign 
-                     {\ifnum 0=`}\fi \global \let \CT@do@color \CT@@do@color...
-l.104 \rowcolor
-               [HTML]{C0C0C0}{\textbf{Lægemiddel}}& \multicolumn{6}{c}{\tex...
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 136.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 136.
+ (./Rapport.aux (./formalia/forside.aux)
+(./formalia/titelblad.aux) (./formalia/titelbladEng.aux) (./formalia/forord.aux
+) (./formalia/laesevejledning.aux) (./intro/indledning1.aux)
+(./intro/Problemanalyse1.aux) (./kontekst/metode1.aux) (./kontekst/resultat.aux
+) (./formalia/Diskussion.aux) (./appendiks/kode.aux)
+(./kontekst/introduktion.aux) (./appendiks/resultat.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 136.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 136.
+Package rerunfilecheck Info: File `Rapport.out' has not changed.
+(rerunfilecheck)             Checksum: 2E158D15E44C2A8BF79912030266D3D4;3355.
 
-! Misplaced alignment tab character &.
-l.104 ...olor[HTML]{C0C0C0}{\textbf{Lægemiddel}}&
-                                                   \multicolumn{6}{c}{\textb...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
 
-! Misplaced \omit.
-\multispan ->\omit 
-                   \@multispan 
-l.104 ...& \multicolumn{6}{c}{\textbf{Testperson}}
-                                                   &  \\
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.104 ...& \multicolumn{6}{c}{\textbf{Testperson}}
-                                                   &  \\
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 136.
+ ) 
+Here is how much of TeX's memory you used:
+ 27320 strings out of 493089
+ 476830 string characters out of 6134843
+ 804131 words of memory out of 5000000
+ 29200 multiletter control sequences out of 15000+600000
+ 27444 words of font info for 74 fonts, out of 8000000 for 9000
+ 1143 hyphenation exceptions out of 8191
+ 64i,19n,94p,10499b,2279s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{table.caption.23} has been referenced but does no
+t exist, replaced by a fixed one
 
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.104 ...& \multicolumn{6}{c}{\textbf{Testperson}}
-                                                   &  \\
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{
+/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/u
+sr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texliv
+e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive
+/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2
+015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/201
+5/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2015/t
+exmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2015/tex
+mf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2015/texmf
+-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2015/texmf-d
+ist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2015/texmf-dis
+t/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/texlive/2015/texmf-dist/
+fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2015/texmf-dist/fo
+nts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2015/texmf-dist/font
+s/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/
+type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
+pe1/public/cm-super/sfrm2488.pfb></usr/local/texlive/2015/texmf-dist/fonts/type
+1/public/cm-super/sfti0900.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/
+public/cm-super/sfti1095.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pu
+blic/cm-super/sfti1440.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/
+bookman/ubkd8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/bookman/
+ubkl8a.pfb>
+Output written on Rapport.pdf (78 pages, 2934951 bytes).
+PDF statistics:
+ 2622 PDF objects out of 2984 (max. 8388607)
+ 2283 compressed objects within 23 object streams
+ 1143 named destinations out of 1200 (max. 500000)
+ 756 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.104 ...& \multicolumn{6}{c}{\textbf{Testperson}}
-                                                   &  \\
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.104 ...& \multicolumn{6}{c}{\textbf{Testperson}}
-                                                   &  \\
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.104 ...& \multicolumn{6}{c}{\textbf{Testperson}}
-                                                   &  \\
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.104 ...& \multicolumn{6}{c}{\textbf{Testperson}}
-                                                   &  \\
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.104 ...& \multicolumn{6}{c}{\textbf{Testperson}}
-                                                   &  \\
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.104 ...& \multicolumn{6}{c}{\textbf{Testperson}}
-                                                   &  \\
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.104 ...& \multicolumn{6}{c}{\textbf{Testperson}}
-                                                   &  \\
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.104 ...& \multicolumn{6}{c}{\textbf{Testperson}}
-                                                   &  \\
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced alignment tab character &.
-l.104 ...\multicolumn{6}{c}{\textbf{Testperson}} &
-                                                    \\
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \cr.
-\reserved@c ->\ifnum 0=`{}\fi \cr 
-                                  
-l.105 \rowcolor
-               [HTML]{C0C0C0}\textbf{nummer}& \textbf{1} & \textbf{2} & \tex...
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \noalign.
-\rowcolor ->\noalign 
-                     {\ifnum 0=`}\fi \global \let \CT@do@color \CT@@do@color...
-l.105 \rowcolor
-               [HTML]{C0C0C0}\textbf{nummer}& \textbf{1} & \textbf{2} & \tex...
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced alignment tab character &.
-<recently read> &
-                 
-l.105 \rowcolor[HTML]{C0C0C0}\textbf{nummer}&
-                                              \textbf{1} & \textbf{2} & \tex...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.105 ...TML]{C0C0C0}\textbf{nummer}& \textbf{1} &
-                                                   \textbf{2} & \textbf{4} &...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.105 ...textbf{nummer}& \textbf{1} & \textbf{2} &
-                                                   \textbf{4} & \textbf{5} &...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.105 ...}& \textbf{1} & \textbf{2} & \textbf{4} &
-                                                   \textbf{5} & \textbf{8} &...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.105 ... & \textbf{2} & \textbf{4} & \textbf{5} &
-                                                   \textbf{8} & \textbf{10} ...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.105 ... & \textbf{4} & \textbf{5} & \textbf{8} &
-                                                   \textbf{10}  & \textbf{I ...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.105 ... \textbf{5} & \textbf{8} & \textbf{10}  &
-                                                   \textbf{I alt:}\\ \hline
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \cr.
-\reserved@c ->\ifnum 0=`{}\fi \cr 
-                                  
-l.105 ...& \textbf{10}  & \textbf{I alt:}\\ \hline
-                                                  
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \penalty \@M \futurelet \@let@token \LT@@h...
-l.105 ...& \textbf{10}  & \textbf{I alt:}\\ \hline
-                                                  
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \omit.
-\multispan ->\omit 
-                   \@multispan 
-l.127 \end
-          {longtable}
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.127 \end
-          {longtable}
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.127 \end
-          {longtable}
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.127 \end
-          {longtable}
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \omit.
-\sp@n ->\span \omit 
-                    \advance \@multicnt \m@ne 
-l.127 \end
-          {longtable}
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \span.
-\sp@n ->\span 
-              \omit \advance \@multicnt \m@ne 
-l.127 \end
-          {longtable}
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brac

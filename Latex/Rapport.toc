@@ -46,4 +46,4 @@
 \contentsline {section}{\numberline {D.1}Medarbejdernes vurdering af l\IeC {\ae }gemiddelskift}{63}{section.D.1}
 \contentsline {section}{\numberline {D.2}Risikoscore}{65}{section.D.2}
 \contentsline {subsection}{\numberline {D.2.1}Koordinater til ROC-kurve}{66}{subsection.D.2.1}
-\contentsline {section}{\numberline {D.3}Referat af feedback og forbedringer til systemet}{68}{section.D.3}
+\contentsline {section}{\numberline {D.3}Referat af feedback og forbedringer til systemet}{67}{section.D.3}
