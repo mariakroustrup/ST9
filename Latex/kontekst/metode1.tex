@@ -20,6 +20,7 @@ Formålet er at undersøge hvilken anvendelighed et regelbaseret system har til 
 \section{Dataindsamling}
 Data vedrørende lægemiddelskift er udtrukket fra sygehusapoteksportalen og sorteret af en medarbejder på SRN i forhold til relevans for udarbejdelsen af skiftelister, beskrivelsen af dette fremgår af Appendiks \ref{App:Skiftelister}. Skiftelister er gældende for skift i år 2014 (n=231), 2015 (n=160), 2016 (n=318), 2017 (n=229) og 2018 (n=244). Hver skifteliste indeholder oplysninger om lægemidlets ATC-kode, navn, dispenseringsform og styrke for forgående år og året for skiftet, hvilket fremgår af Figur \ref{fig:Input}.
 
+\vspace{0.2cm}
 \begin{figure}[H]\centering
 \includegraphics[width=1\textwidth]{billeder/Input1.png} 
 	\caption{Skiftelister for år 2014, 2015, 2016, 2017 og 2018, indeholdende oplysninger om ATC-kode, lægemidlets navn, dispenseringsform og styrke.}
@@ -29,6 +30,7 @@ Data vedrørende lægemiddelskift er udtrukket fra sygehusapoteksportalen og sor
 Skiftelisterne kombineres med udbudsmateriale, som fremgår af Figur \ref{fig:Input2}, for lægemiddelskift, der er udtrukket fra sygehusapoteksportalen, og indeholder oplysninger om blandt andet ATC-kode, lægemidlets navn, styrke og dispenseringsform samt priser og hvorvidt lægemidlet indgår i Medicinrådets behandlingsvejledning for de udbud som er gældende for for det kommende år. Hvis lægemidlet indgår i Medicinrådets behandlingsvejledning er det lovmæssigt bestemt, at disse skal anvendes som standardbehandling~\citep{Medicinradet2018}.
 Ligeledes kombineres skiftelisterne med viden omkring kritiske ATC-koder og risikolægemidler. ATC-koder er indsamlet af SRN i forbindelse med problemstillinger vedrørende læggemiddelskift og omfatter ATC-koderne, som fremgår af Figur \ref{fig:Input2}. Risikolægemidler er indsamlet af Amgros og indeholder oplysninger om ATC-koder og lægemidlets navn. Disse lægemidler kræver f.eks. et ekstra personalemæssigt ressourcetræk i forbindelse med lægemiddelskift eller er forbundet med øget risiko for utilsigtede hændelser~\citep{Amgros}. 
 
+\vspace{0.2cm}
 \begin{figure}[H]\centering
 \includegraphics[width=0.6\textwidth]{billeder/Input2.png} 
 	\caption{Udbudsmateriale fra SRN, kritiske ATC-koder og risikolægemidler, der kombineres med skiftelister på baggrund af ATC-kode eller lægemidlets navn.}
@@ -79,6 +81,7 @@ Til design af look-a-like lægemidler, der sammenligner hvorvidt et lægemiddels
 
 Outputtet er designet ud fra, hvordan den nuværende vurdering af lægemiddelskift foregår. Da skiftelisterne er udarbejdet i excel-filer og medarbejderne er velkendt med dette layout er det valgt, at outputtet visualiseres i allerede eksisterende excel-filer. Udover de nuværende data tilføjes en ekstra kolonne til excel-filen, som indeholder risikoscore og begrundelse for denne score. Designet af outputtet fremgår af Figur \ref{fig:Output}.
 
+\vspace{0.2cm}
 \begin{figure}[H]\centering
 \includegraphics[width=1\textwidth]{billeder/Output.png} 
 	\caption{Design af output. De lyseblå kasser symboliserer allerede eksisterende kolonner, hvor den mørkeblå kasse er tilføjet og indeholder output fra systemet, herunder risikoscore og begrundelse for denne.}

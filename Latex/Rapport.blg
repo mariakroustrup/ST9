@@ -4,7 +4,7 @@ The top-level auxiliary file: Rapport.aux
 The style file: unsrt.bst
 A level-1 auxiliary file: formalia/forside.aux
 A level-1 auxiliary file: formalia/titelblad.aux
-A level-1 auxiliary file: formalia/titelbladEng.aux
+A level-1 auxiliary file: formalia/abstract.aux
 A level-1 auxiliary file: formalia/forord.aux
 A level-1 auxiliary file: formalia/laesevejledning.aux
 A level-1 auxiliary file: intro/indledning1.aux
@@ -16,53 +16,52 @@ A level-1 auxiliary file: appendiks/kode.aux
 A level-1 auxiliary file: kontekst/introduktion.aux
 A level-1 auxiliary file: appendiks/resultat.aux
 Database file #1: bibtex/Maria.bib
-Warning--empty journal in EU2017
+Warning--empty publisher in EU2017
+Warning--empty institution in Sundhed2016
 Warning--empty journal in DanskSelskabforPatientsikkerhed2009
-Warning--empty journal in Fischer2008
 Warning--empty journal in Patientombuddet2013
 Warning--empty journal in Sundhedsstyrelsen2005
-Warning--can't use both volume and number fields in Crina2008
 Warning--empty publisher in Crina2008
 Warning--empty journal in Greiner2000
 You've used 35 entries,
             1791 wiz_defined-function locations,
-            678 strings with 9673 characters,
-and the built_in function-call counts, 7543 in all, are:
-= -- 660
-> -- 337
-< -- 4
-+ -- 129
-- -- 94
-* -- 525
-:= -- 1203
+            634 strings with 9656 characters,
+and the built_in function-call counts, 5449 in all, are:
+= -- 393
+> -- 333
+< -- 0
++ -- 128
+- -- 93
+* -- 242
+:= -- 981
 add.period$ -- 99
 call.type$ -- 35
 change.case$ -- 35
 chr.to.int$ -- 0
-cite$ -- 43
-duplicate$ -- 305
-empty$ -- 752
-format.name$ -- 94
-if$ -- 1635
+cite$ -- 42
+duplicate$ -- 265
+empty$ -- 543
+format.name$ -- 93
+if$ -- 1167
 int.to.chr$ -- 0
 int.to.str$ -- 35
 missing$ -- 28
 newline$ -- 171
 num.names$ -- 35
-pop$ -- 102
+pop$ -- 145
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 147
+skip$ -- 117
 stack$ -- 0
-substring$ -- 539
-swap$ -- 50
-text.length$ -- 4
+substring$ -- 25
+swap$ -- 30
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 8
-while$ -- 81
+warning$ -- 7
+while$ -- 37
 width$ -- 37
-write$ -- 355
-(There were 8 warnings)
+write$ -- 332
+(There were 7 warnings)
