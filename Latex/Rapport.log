@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.9)  18 DEC 2018 11:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.9)  18 DEC 2018 11:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2200,9 +2200,9 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 95.
 
-Underfull \hbox (badness 1789) in paragraph at lines 100--101
-\T1/cmr/m/n/10.95 lægemiddelskift ud fra risikoscoren for at identificere en gr
-ænse for, hvornår et
+Underfull \hbox (badness 1348) in paragraph at lines 100--101
+\T1/cmr/m/n/10.95 sensitivitet og specificitet af risikoscoren udregnet i SPSS 
+for at teste systemets
  []
 
 )
@@ -2272,7 +2272,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 48.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 48.
- <billeder/ROC11.png, id=645, 873.2625pt x 641.39626pt>
+ <billeder/ROC11.png, id=643, 873.2625pt x 641.39626pt>
 File: billeder/ROC11.png Graphic file (type png)
 
 <use billeder/ROC11.png>
@@ -2477,14 +2477,14 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 86.
 
-<appendiks/skabelon.pdf, id=732, 597.51233pt x 845.0471pt>
+<appendiks/skabelon.pdf, id=730, 597.51233pt x 845.0471pt>
 File: appendiks/skabelon.pdf Graphic file (type pdf)
 
 <use appendiks/skabelon.pdf>
 Package pdftex.def Info: appendiks/skabelon.pdf used on input line 88.
 (pdftex.def)             Requested size: 418.25577pt x 591.52895pt.
 
-<appendiks/skiftelister.pdf, id=733, 597.51233pt x 845.0471pt>
+<appendiks/skiftelister.pdf, id=731, 597.51233pt x 845.0471pt>
 File: appendiks/skiftelister.pdf Graphic file (type pdf)
 
 <use appendiks/skiftelister.pdf>
@@ -2495,7 +2495,7 @@ File: appendiks/skiftelister.pdf Graphic file (type pdf)
 Package pdftex.def Info: appendiks/skiftelister.pdf used on input line 93.
 (pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
 
-<appendiks/skiftelister.pdf, id=736, page=1, 597.51233pt x 845.0471pt>
+<appendiks/skiftelister.pdf, id=734, page=1, 597.51233pt x 845.0471pt>
 File: appendiks/skiftelister.pdf Graphic file (type pdf)
 
 <use appendiks/skiftelister.pdf, page 1>
@@ -2558,7 +2558,7 @@ File: appendiks/skiftelister.pdf Graphic file (type pdf)
 Package pdftex.def Info: appendiks/skiftelister.pdf used on input line 94.
 (pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
 
-<appendiks/skiftelister.pdf, id=850, page=2, 597.51233pt x 845.0471pt>
+<appendiks/skiftelister.pdf, id=848, page=2, 597.51233pt x 845.0471pt>
 File: appendiks/skiftelister.pdf Graphic file (type pdf)
 
 <use appendiks/skiftelister.pdf, page 2>
@@ -2608,7 +2608,7 @@ File: appendiks/skiftelister.pdf Graphic file (type pdf)
 Package pdftex.def Info: appendiks/skiftelister.pdf used on input line 95.
 (pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
 
-<appendiks/skiftelister.pdf, id=870, page=3, 597.51233pt x 845.0471pt>
+<appendiks/skiftelister.pdf, id=868, page=3, 597.51233pt x 845.0471pt>
 File: appendiks/skiftelister.pdf Graphic file (type pdf)
 
 <use appendiks/skiftelister.pdf, page 3>
@@ -2652,7 +2652,7 @@ Package babel Info: Redefining danish shorthand "~
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Laegemiddelnyt1.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 
-<appendiks/Laegemiddelnyt1.pdf, id=888, 597.4822pt x 845.1575pt>
+<appendiks/Laegemiddelnyt1.pdf, id=886, 597.4822pt x 845.1575pt>
 File: appendiks/Laegemiddelnyt1.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt1.pdf>
@@ -2677,7 +2677,7 @@ pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Laegemiddelnyt1.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 
-<appendiks/Laegemiddelnyt1.pdf, id=891, page=1, 597.4822pt x 845.1575pt>
+<appendiks/Laegemiddelnyt1.pdf, id=889, page=1, 597.4822pt x 845.1575pt>
 File: appendiks/Laegemiddelnyt1.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt1.pdf, page 1>
@@ -2744,7 +2744,7 @@ pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Laegemiddelnyt1.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 
-<appendiks/Laegemiddelnyt1.pdf, id=936, page=2, 597.4822pt x 845.1575pt>
+<appendiks/Laegemiddelnyt1.pdf, id=934, page=2, 597.4822pt x 845.1575pt>
 File: appendiks/Laegemiddelnyt1.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt1.pdf, page 2>
@@ -2807,7 +2807,7 @@ pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Laegemiddelnyt1.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 
-<appendiks/Laegemiddelnyt1.pdf, id=977, page=3, 597.4822pt x 845.1575pt>
+<appendiks/Laegemiddelnyt1.pdf, id=975, page=3, 597.4822pt x 845.1575pt>
 File: appendiks/Laegemiddelnyt1.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt1.pdf, page 3>
@@ -2870,7 +2870,7 @@ pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Laegemiddelnyt1.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 
-<appendiks/Laegemiddelnyt1.pdf, id=993, page=4, 597.4822pt x 845.1575pt>
+<appendiks/Laegemiddelnyt1.pdf, id=991, page=4, 597.4822pt x 845.1575pt>
 File: appendiks/Laegemiddelnyt1.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt1.pdf, page 4>
@@ -2933,7 +2933,7 @@ pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Laegemiddelnyt1.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 
-<appendiks/Laegemiddelnyt1.pdf, id=1013, page=5, 597.4822pt x 845.1575pt>
+<appendiks/Laegemiddelnyt1.pdf, id=1011, page=5, 597.4822pt x 845.1575pt>
 File: appendiks/Laegemiddelnyt1.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt1.pdf, page 5>
@@ -3068,7 +3068,7 @@ pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Laegemiddelnyt1.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 
-<appendiks/Laegemiddelnyt1.pdf, id=1037, page=6, 845.1575pt x 597.4822pt>
+<appendiks/Laegemiddelnyt1.pdf, id=1035, page=6, 845.1575pt x 597.4822pt>
 File: appendiks/Laegemiddelnyt1.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt1.pdf, page 6>
@@ -3098,7 +3098,7 @@ e 103.
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Laegemiddelnyt1.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 
-<appendiks/Laegemiddelnyt1.pdf, id=1038, page=7, 845.1575pt x 597.4822pt>
+<appendiks/Laegemiddelnyt1.pdf, id=1036, page=7, 845.1575pt x 597.4822pt>
 File: appendiks/Laegemiddelnyt1.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt1.pdf, page 7>
@@ -3116,7 +3116,7 @@ e 103.
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Laegemiddelnyt1.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 
-<appendiks/Laegemiddelnyt1.pdf, id=1039, page=8, 845.1575pt x 597.4822pt>
+<appendiks/Laegemiddelnyt1.pdf, id=1037, page=8, 845.1575pt x 597.4822pt>
 File: appendiks/Laegemiddelnyt1.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt1.pdf, page 8>
@@ -3158,7 +3158,7 @@ pdf): PDF inclusion: multiple pdfs with page group included in a single page
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Laegemiddelnyt1.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 
-<appendiks/Laegemiddelnyt1.pdf, id=1045, page=9, 845.1575pt x 597.4822pt>
+<appendiks/Laegemiddelnyt1.pdf, id=1043, page=9, 845.1575pt x 597.4822pt>
 File: appendiks/Laegemiddelnyt1.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt1.pdf, page 9>
@@ -3176,7 +3176,7 @@ e 103.
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Laegemiddelnyt1.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 
-<appendiks/Laegemiddelnyt1.pdf, id=1046, page=10, 845.1575pt x 597.4822pt>
+<appendiks/Laegemiddelnyt1.pdf, id=1044, page=10, 845.1575pt x 597.4822pt>
 File: appendiks/Laegemiddelnyt1.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt1.pdf, page 10>
@@ -3218,7 +3218,7 @@ pdf): PDF inclusion: multiple pdfs with page group included in a single page
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Laegemiddelnyt1.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 
-<appendiks/Laegemiddelnyt1.pdf, id=1052, page=11, 845.1575pt x 597.4822pt>
+<appendiks/Laegemiddelnyt1.pdf, id=1050, page=11, 845.1575pt x 597.4822pt>
 File: appendiks/Laegemiddelnyt1.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt1.pdf, page 11>
@@ -3236,7 +3236,7 @@ ne 103.
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Laegemiddelnyt1.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 
-<appendiks/Laegemiddelnyt1.pdf, id=1053, page=12, 845.1575pt x 597.4822pt>
+<appendiks/Laegemiddelnyt1.pdf, id=1051, page=12, 845.1575pt x 597.4822pt>
 File: appendiks/Laegemiddelnyt1.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt1.pdf, page 12>
@@ -3278,7 +3278,7 @@ pdf): PDF inclusion: multiple pdfs with page group included in a single page
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Laegemiddelnyt1.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 
-<appendiks/Laegemiddelnyt1.pdf, id=1059, page=13, 845.1575pt x 597.4822pt>
+<appendiks/Laegemiddelnyt1.pdf, id=1057, page=13, 845.1575pt x 597.4822pt>
 File: appendiks/Laegemiddelnyt1.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt1.pdf, page 13>
@@ -3296,7 +3296,7 @@ ne 103.
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Laegemiddelnyt1.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
 
-<appendiks/Laegemiddelnyt1.pdf, id=1060, page=14, 845.1575pt x 597.4822pt>
+<appendiks/Laegemiddelnyt1.pdf, id=1058, page=14, 845.1575pt x 597.4822pt>
 File: appendiks/Laegemiddelnyt1.pdf Graphic file (type pdf)
 
 <use appendiks/Laegemiddelnyt1.pdf, page 14>
@@ -3525,7 +3525,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 4.
 
-<appendiks/powerpoint.pdf, id=2099, page=5, 963.6pt x 542.025pt>
+<appendiks/powerpoint.pdf, id=2097, page=5, 963.6pt x 542.025pt>
 File: appendiks/powerpoint.pdf Graphic file (type pdf)
 
 <use appendiks/powerpoint.pdf, page 5>
@@ -3536,7 +3536,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 9.
 
-<appendiks/powerpoint.pdf, id=2100, page=6, 963.6pt x 542.025pt>
+<appendiks/powerpoint.pdf, id=2098, page=6, 963.6pt x 542.025pt>
 File: appendiks/powerpoint.pdf Graphic file (type pdf)
 
 <use appendiks/powerpoint.pdf, page 6>
@@ -3561,7 +3561,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 18.
 
-<appendiks/powerpoint.pdf, id=2135, page=7, 963.6pt x 542.025pt>
+<appendiks/powerpoint.pdf, id=2133, page=7, 963.6pt x 542.025pt>
 File: appendiks/powerpoint.pdf Graphic file (type pdf)
 
 <use appendiks/powerpoint.pdf, page 7>
@@ -3569,7 +3569,7 @@ Package pdftex.def Info: appendiks/powerpoint.pdf, page7 used on input line 20.
 
 (pdftex.def)             Requested size: 426.0pt x 239.6248pt.
 
-<appendiks/powerpoint.pdf, id=2136, page=8, 963.6pt x 542.025pt>
+<appendiks/powerpoint.pdf, id=2134, page=8, 963.6pt x 542.025pt>
 File: appendiks/powerpoint.pdf Graphic file (type pdf)
 
 <use appendiks/powerpoint.pdf, page 8>
@@ -3600,7 +3600,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 32.
 
-<appendiks/powerpoint.pdf, id=2193, page=10, 963.6pt x 542.025pt>
+<appendiks/powerpoint.pdf, id=2191, page=10, 963.6pt x 542.025pt>
 File: appendiks/powerpoint.pdf Graphic file (type pdf)
 
 <use appendiks/powerpoint.pdf, page 10>
@@ -3625,7 +3625,7 @@ Package babel Info: Redefining danish shorthand "~
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Evaluering.pdf):
  PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
-<appendiks/Evaluering.pdf, id=2228, 844.15375pt x 597.23125pt>
+<appendiks/Evaluering.pdf, id=2226, 844.15375pt x 597.23125pt>
 File: appendiks/Evaluering.pdf Graphic file (type pdf)
 
 <use appendiks/Evaluering.pdf>
@@ -3647,7 +3647,7 @@ pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Evaluering.pdf):
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Evaluering.pdf):
  PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
-<appendiks/Evaluering.pdf, id=2231, page=1, 844.15375pt x 597.23125pt>
+<appendiks/Evaluering.pdf, id=2229, page=1, 844.15375pt x 597.23125pt>
 File: appendiks/Evaluering.pdf Graphic file (type pdf)
 
 <use appendiks/Evaluering.pdf, page 1>
@@ -3712,7 +3712,7 @@ pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Evaluering.pdf):
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Evaluering.pdf):
  PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
-<appendiks/Evaluering.pdf, id=2253, page=2, 844.15375pt x 597.23125pt>
+<appendiks/Evaluering.pdf, id=2251, page=2, 844.15375pt x 597.23125pt>
 File: appendiks/Evaluering.pdf Graphic file (type pdf)
 
 <use appendiks/Evaluering.pdf, page 2>
@@ -3771,7 +3771,7 @@ pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Evaluering.pdf):
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./appendiks/Evaluering.pdf):
  PDF inclusion: found PDF version <1.7>, but at most version <1.6> allowed
-<appendiks/Evaluering.pdf, id=2265, page=3, 844.15375pt x 597.23125pt>
+<appendiks/Evaluering.pdf, id=2263, page=3, 844.15375pt x 597.23125pt>
 File: appendiks/Evaluering.pdf Graphic file (type pdf)
 
 <use appendiks/Evaluering.pdf, page 3>
@@ -3952,13 +3952,13 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 137.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 137.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 137.
 Package rerunfilecheck Info: File `Rapport.out' has not changed.
-(rerunfilecheck)             Checksum: 7DC80E4E1EA1163F68411E31892E3172;3220.
+(rerunfilecheck)             Checksum: 563AC643E5A84B1ECFD8F9E1673643A1;3220.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 137.
  ) 
 Here is how much of TeX's memory you used:
  27322 strings out of 493089
  476537 string characters out of 6134843
- 802636 words of memory out of 5000000
+ 802637 words of memory out of 5000000
  29198 multiletter control sequences out of 15000+600000
  29000 words of font info for 76 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
@@ -3985,10 +3985,10 @@ pe1/public/cm-super/sfti0900.pfb></usr/local/texlive/2015/texmf-dist/fonts/type
 1/public/cm-super/sfti1095.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/
 urw/bookman/ubkd8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/book
 man/ubkl8a.pfb>
-Output written on Rapport.pdf (84 pages, 2702051 bytes).
+Output written on Rapport.pdf (84 pages, 2701713 bytes).
 PDF statistics:
- 2618 PDF objects out of 2984 (max. 8388607)
- 2291 compressed objects within 23 object streams
+ 2616 PDF objects out of 2984 (max. 8388607)
+ 2289 compressed objects within 23 object streams
  1151 named destinations out of 1200 (max. 500000)
  735 words of extra memory for PDF output out of 10000 (max. 10000000)
 

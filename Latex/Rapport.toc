@@ -34,7 +34,7 @@
 \contentsline {section}{\numberline {A.3}L\IeC {\ae }gemiddel Nyt}{37}{section.A.3}
 \contentsline {appendix}{\chapternumberline {B}Kode til risikovurdering}{47}{appendix.B}
 \contentsline {section}{\numberline {B.1}System til risikovurdering}{47}{section.B.1}
-\contentsline {section}{\numberline {B.2}Levenshtein distance}{59}{section.B.2}
+\contentsline {section}{\numberline {B.2}Levenshtein Distance}{59}{section.B.2}
 \contentsline {appendix}{\chapternumberline {C}Evaluering af system}{61}{appendix.C}
 \contentsline {section}{\numberline {C.1}Introduktion til evaluering af algoritme}{61}{section.C.1}
 \contentsline {section}{\numberline {C.2}Introduktion til test af systemet}{61}{section.C.2}
