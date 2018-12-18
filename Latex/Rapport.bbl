@@ -43,6 +43,13 @@ Atholl Johnston, Roland Asmar, Bj{\"{o}}rn Dahl{\"{o}}f, and Kate Hill.
   practice in Europe}.
 \newblock {\em British Journal of Clinical Pharmacology}, 2011.
 
+\bibitem{Garcia2017}
+Beate~Hennie Garcia, Renate Elenjord, Camilla Bjornstad, Kjell~Hermann
+  Halvorsen, Sigurd Hortemo, and Steinar Madsen.
+\newblock {Safety and efficiency of a new generic package labelling: A before
+  and after study in a simulated setting}.
+\newblock {\em BMJ Quality and Safety}, 2017.
+
 \bibitem{DanskSelskabforPatientsikkerhed2009}
 {Dansk Selskab for Patientsikkerhed}.
 \newblock {Et patientsikkerhedsperspektiv p{\aa} medicinering i Danmark}.
@@ -53,6 +60,16 @@ Jayant~Kumar Kairi and Ashok~Kumar Sharma.
 \newblock {Substitutes of prescription medicines - A review of concerns
   relevant to doctors and patients}.
 \newblock {\em Journal of Clinical and Diagnostic Research}, 2017.
+
+\bibitem{Lopes2012}
+Diana Maria de~Almeida Lopes, Eugenie Desir{\`{e}}e~Rabelo N{\'{e}}ri,
+  Lucivaldo dos~Santos Madeira, Paulo Jos{\'{e}} de~Souza Neto, Ant{\^{o}}nia
+  Rociv{\^{a}}nia~Ara{\'{u}}jo L{\'{e}}lis, Thalita~Rodrigues de~Souza,
+  Alene~Barros de~Oliveira, Liana de~Oliveira Costa, and Marta Maria
+  de~Fran{\c{c}}a Fonteles.
+\newblock {Analysis of similar drug labeling: potential medication errors}.
+\newblock {\em Revista da Associa{\c{c}}{\~{a}}o M{\'{e}}dica Brasileira
+  (English Edition)}, 2012.
 
 \bibitem{Hakonsen2010}
 Helle H{\aa}konsen, Heidi~Skj{\o}nhaug Hopen, Linda Abelsen, Bj{\o}rg Ek, and
@@ -99,6 +116,19 @@ Aidin Rawshani, Araz Rawshani, Stefan Franz{\'{e}}n, Naveed Sattar, Bj{\"{o}}rn
   with Type 2 Diabetes}.
 \newblock {\em New England Journal of Medicine}, 2018.
 
+\bibitem{Basco2010}
+William~T. Basco, Myla Ebeling, Thomas~C. Hulsey, and Kit Simpson.
+\newblock {Using pharmacy data to screen for look-alike, sound-alike
+  substitution errors in pediatric prescriptions}.
+\newblock {\em Academic Pediatrics}, 2010.
+
+\bibitem{Basco2016}
+William~T. Basco, Sandra~S. Garner, Myla Ebeling, Katherine~D. Freeland,
+  Thomas~C. Hulsey, and Kit Simpson.
+\newblock {Evaluating the Potential Severity of Look-Alike, Sound-Alike Drug
+  Substitution Errors in Children}.
+\newblock {\em Academic Pediatrics}, 2016.
+
 \bibitem{Wittich2014}
 Christopher~M. Wittich, Christopher~M. Burkle, and William~L. Lanier.
 \newblock {Medication errors: An overview for clinicians}.
@@ -113,12 +143,6 @@ Patientombuddet.
 Jens~Winther Jensen.
 \newblock {{\AA}rsrapport 2014 patientsikkerhed}.
 \newblock {\em Region Nordjylland}, 2014.
-
-\bibitem{Anderson2002}
-James~G. Anderson, Stephen~J. Jay, Marilyn Anderson, and Thaddeus~J. Hunt.
-\newblock {Evaluating the capability of information technology to prevent
-  adverse drug events: A computer simulation approach}.
-\newblock {\em Journal of the American Medical Informatics Association}, 2002.
 
 \bibitem{Barker2002}
 Kenneth N.Barker, Elizabeth~A Flynn, Ginette A.Pepper, David W.Bates, and
@@ -154,11 +178,32 @@ David~W Bates, Source Bmj, British Medical, No~Mar, and David~W Bates.
   Hospitals}.
 \newblock {\em British Medical Journal}, 320(7237):788--791, 2000.
 
+\bibitem{Barbar2010}
+S.~Barbar, F.~Noventa, V.~Rossetto, A.~Ferrari, B.~Brandolin, M.~Perlati,
+  E.~{De Bon}, D.~Tormene, A.~Pagnan, and P.~Prandoni.
+\newblock {A risk assessment model for the identification of hospitalized
+  medical patients at risk for venous thromboembolism: The Padua Prediction
+  Score}.
+\newblock {\em Journal of Thrombosis and Haemostasis}, 2010.
+
 \bibitem{Boyko1990}
 Edward~J. Boyko and Beth~W. Alderman.
 \newblock {The use of risk factors in medical diagnosis: Opportunities and
   cautions}.
 \newblock {\em Journal of Clinical Epidemiology}, 1990.
+
+\bibitem{Kirchsteiger1999}
+Christian Kirchsteiger.
+\newblock {On the use of probabilistic and deterministic methods in risk
+  analysis}.
+\newblock {\em Journal of Loss Prevention in the Process Industries}, 1999.
+
+\bibitem{Koivu2018}
+Aki Koivu, Teemu Korpim{\"{a}}ki, Petri Kivel{\"{a}}, Tapio Pahikkala, and
+  Mikko Sairanen.
+\newblock {Evaluation of machine learning algorithms for improved risk
+  assessment for Down's syndrome}.
+\newblock {\em Computers in Biology and Medicine}, 2018.
 
 \bibitem{Crina2008}
 Grosan Crina and Abraham Ajith.
@@ -172,6 +217,12 @@ Amgros.
 \bibitem{SRN}
 {Sygehusapoteket Region Nordjylland}.
 \newblock {Problemstillinger vedr{\o}rende amgrosskift - Intern exceldokument}.
+
+\bibitem{Schepens2012}
+Job Schepens, Ton Dijkstra, and Franc Grootjen.
+\newblock {Distributions of cognates in Europe as based on Levenshtein
+  distance}.
+\newblock {\em Bilingualism}, 2012.
 
 \bibitem{Greiner2000}
 M~Greiner, D~Pfeiffer, and R~D Smith.
