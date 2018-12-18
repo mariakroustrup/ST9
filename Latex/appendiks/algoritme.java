@@ -30,23 +30,23 @@ public class algoritme {
     private static int atc; // kolonne nummer for ATCkoder
   
     private static String Status; // Begrundelse for risikoscore
-    private static String nyStatus; // Status som opdateres hver gang
+    private static String nyStatus; // Begrundelse som opdateres hver gang
     private static double score;   // Risikoscore
     private static double nyScore; // Risikoscore som opdateres hver gang
-    private static Label label = null; // Label som udskrives i excel
+    private static Label label = null; // Label som udskrives output der indeholder risikoscore og begrundelse
     
     static String[][] ElementAMGROS18; // Array til elementer i Amgrosskift fra 2017 til 2018 (skift sker i 2018)
     static String[][] ElementAMGROS17; // Array til elementer i Amgrosskift fra 2016 til 2017 (skift sker i 2017)
     static String[][] ElementAMGROS16; // Array til elementer i Amgrosskift fra 2015 til 2016 (skift sker i 2016)
     static String[][] ElementAMGROS15; // Array til elementer i Amgrosskift fra 2014 til 2015 (skift sker i 2015)
     static String[][] ElementAMGROS14; // Array til elementer i Amgrosskift fra 2013 til 2014 (skift sker i 2014)
-    static String[][] ElementAMGROS;
-    static String[][] ElementSRN; // Array til elementer i SRN excel
+    static String[][] ElementAMGROS; // Array til elementer i Amgrosskift som skal risikovurderes 
+    static String[][] ElementSRN; // // Array til elementer i udbudsmateriale
     static String[][] ElementRisiko; // Array til elementer i risikolaegemidler
 
 
     public static void main(final String[] args) throws BiffException, IOException, RowsExceededException, WriteException {
-        // Indlaeser excel input data
+        // Indlaeser excel input
         FileInputStream AMGROS = new FileInputStream("/Users/Maria/Desktop/Amgrosskift.xls");
         Workbook wb = Workbook.getWorkbook(AMGROS);
         Sheet shAMGROS = wb.getSheet(0);
@@ -79,26 +79,26 @@ public class algoritme {
         Workbook wbRisiko = Workbook.getWorkbook(new FileInputStream("/Users/Maria/Desktop/Risiko.xls"));
         Sheet shRisiko = wbRisiko.getSheet(0);
 
-        // Opretter excelark til det endelige output
-        WritableWorkbook ww = Workbook.createWorkbook(new File("/Users/Maria/Desktop/Amgrosskiftendelig.xls"),
+        // Opretter excelark til output ud fra det input excel der indlaeses
+			WritableWorkbook ww = Workbook.createWorkbook(new File("/Users/Maria/Desktop/Amgrosskiftendelig.xls"),
                 wb);
         WritableSheet ws = ww.getSheet(0);
     
         ElementAMGROS = new String[shAMGROS.getColumns()][shAMGROS.getRows()];
-        ElementAMGROS18 = new String[shAMGROS18.getColumns()][shAMGROS18.getRows()]; // Elementer for Amgrosskift 2016-2018 (skift sker i 2018)
-        ElementAMGROS17 = new String[shAMGROS17.getColumns()][shAMGROS17.getRows()]; // Elementer for Amgrosskift 2016-2017 (skift sker i 2017)
-        ElementAMGROS16 = new String[shAMGROS16.getColumns()][shAMGROS16.getRows()]; // Elementer for Amgrosskift 2015-2016 (skift sker i 2016)
-        ElementAMGROS15 = new String[shAMGROS15.getColumns()][shAMGROS15.getRows()]; // Elementer for Amgrosskift 2014-2015 (skift sker i 2015)
-        ElementAMGROS14 = new String[shAMGROS14.getColumns()][shAMGROS14.getRows()]; // Elementer for Amgrosskift 2013-2014 (skift sker i 2014)
-        ElementSRN      = new String[shSRN.getColumns()][shSRN.getRows()];
-        ElementRisiko   = new String[shRisiko.getColumns()][shRisiko.getRows()];
+        ElementAMGROS18 = new String[shAMGROS18.getColumns()][shAMGROS18.getRows()]; // Elementer for Amgrosskift i 2018
+        ElementAMGROS17 = new String[shAMGROS17.getColumns()][shAMGROS17.getRows()]; // Elementer for Amgrosskift i 2017
+        ElementAMGROS16 = new String[shAMGROS16.getColumns()][shAMGROS16.getRows()]; // Elementer for Amgrosskift i 2016
+        ElementAMGROS15 = new String[shAMGROS15.getColumns()][shAMGROS15.getRows()]; // Elementer for Amgrosskift i 2015
+        ElementAMGROS14 = new String[shAMGROS14.getColumns()][shAMGROS14.getRows()]; // Elementer for Amgrosskift i 2014
+        ElementSRN      = new String[shSRN.getColumns()][shSRN.getRows()]; // Elementer for udbudsmateriale
+        ElementRisiko   = new String[shRisiko.getColumns()][shRisiko.getRows()]; // Elementer for risikolaegemidler
 
-        ArrayList<String> NavnList = new ArrayList<>();
-        ArrayList<String> RisikoList = new ArrayList<>();
-        ArrayList<String> VarenavnList = new ArrayList<>();
-        ArrayList<String> MEDList = new ArrayList<>();
-        ArrayList<String> MRList = new ArrayList<>();
-        ArrayList<String> ATCkoderList = new ArrayList<>();
+        ArrayList<String> NavnList = new ArrayList<>(); // ArrayList til look-a-like
+        ArrayList<String> RisikoList = new ArrayList<>(); // ArrayList til risikolaegemidler 
+        ArrayList<String> VarenavnList = new ArrayList<>(); // ArrayList til navne fra udbudsmateriale
+        ArrayList<String> MEDList = new ArrayList<>(); // ArrayList til laegemidler ens med input
+        ArrayList<String> MRList = new ArrayList<>();  // ArrayList til laegemidler som indgaar i Medicinraadet
+        ArrayList<String> ATCkoderList = new ArrayList<>(); // ArrayList til ATC-koder
         ATCkoderList.add("A01");
         ATCkoderList.add("B05"); 
         ATCkoderList.add("J01");
@@ -106,6 +106,7 @@ public class algoritme {
         ATCkoderList.add("L01"); 
         ATCkoderList.add("N01"); 
        
+			// RISIKOLAEGEMIDLER
         int totalNoOfRowsRisiko = shRisiko.getRows();
         int totalNoOfColsRisiko = shRisiko.getColumns();
         for (int rowRisiko = 0; rowRisiko < totalNoOfRowsRisiko; rowRisiko++) {
@@ -122,6 +123,7 @@ public class algoritme {
             }
         }
         
+			// VARENAVNE I UDBUDSMATERIALE
         int totalNoOfRowsSRN = shSRN.getRows();
         int totalNoOfColsSRN = shSRN.getColumns();
         for (int rowSRN = 0; rowSRN < totalNoOfRowsSRN; rowSRN++) {
@@ -143,7 +145,7 @@ public class algoritme {
                       
                     }
                 }
-   
+   		// MEDICINRAADET I UDBUDSMATERIALE
                 if (shSRN.getCell(colSRN, rowSRN).getContents().endsWith("MR")) {
                     int cMR = colSRN;
                     for (int y = 1; y < shSRN.getRows(); y++) {
@@ -158,7 +160,23 @@ public class algoritme {
 
             }
         }
-
+	
+     	// FINDER LAEGEMIDLER SOM INDGAAR I MEDICINRAADET INDIKERET VED 1
+        for (int v= 1; v < MEDList.size(); v++) {
+            if(MEDList.get(v).equals("1")){
+                 MRList.add(VarenavnList.get(v));
+            }
+        }
+			// FJERNER GENTAGELSER I MRLIST
+        for(int k = 0; k < MRList.size(); k++) {
+            for(int j = k + 1; j < MRList.size(); j++) {
+                if(MRList.get(k).equals(MRList.get(j))){
+                    MRList.remove(j);
+                    j--;
+                }
+            }
+        }
+			// LAEGEMIDDELNAVNE FOR SKIFT FRA AAR 2013 TIL 2014 TIL LOOK-A-LIKE
         int totalNoOfRows14 = shAMGROS14.getRows();
         int totalNoOfCols14 = shAMGROS14.getColumns();
         for (int row14 = 0; row14 < totalNoOfRows14; row14++) {
@@ -176,8 +194,7 @@ public class algoritme {
                         elem13 = elem13.replace("-", "");
                         String arr[] = elem13.split(" ", 2);
                         elem13 = arr[0];
-                        NavnList.add(elem13);  
-                        //System.out.println(elem13);
+                        NavnList.add(elem13);
                     }
                }
                 if (shAMGROS14.getCell(col14, row14).getContents().startsWith("Laegemiddel 2014")) {
@@ -198,7 +215,7 @@ public class algoritme {
                 }
             }
         }
-
+			// LAEGEMIDDELNAVNE FOR SKIFT FRA AAR 2014 TIL 2015 TIL LOOK-A-LIKE
         int totalNoOfRows15 = shAMGROS15.getRows();
         int totalNoOfCols15 = shAMGROS15.getColumns();
         for (int row15 = 0; row15 < totalNoOfRows15; row15++) {
@@ -237,7 +254,7 @@ public class algoritme {
                 } 
             }
         }
-
+			// LAEGEMIDDELNAVNE FOR SKIFT FRA AAR 2015 TIL 2016 TIL LOOK-A-LIKE
         int totalNoOfRows16 = shAMGROS16.getRows();
         int totalNoOfCols16 = shAMGROS16.getColumns();
         for (int row16 = 0; row16 < totalNoOfRows16; row16++) {
@@ -276,7 +293,7 @@ public class algoritme {
                 }   
             }
         }
-        
+        // LAEGEMIDDELNAVNE FOR SKIFT FRA AAR 2016 TIL 2017 TIL LOOK-A-LIKE
         int totalNoOfRows17 = shAMGROS17.getRows();
         int totalNoOfCols17 = shAMGROS17.getColumns();
         for (int row17 = 0; row17 < totalNoOfRows17; row17++) {
@@ -315,10 +332,10 @@ public class algoritme {
                 }   
             }
         }
-        
+       // LAEGEMIDDELNAVNE FOR SKIFT FRA AAR 2017 TIL 2018 TIL LOOK-A-LIKE
        int totalNoOfRows18 = shAMGROS18.getRows();
-        int totalNoOfCols18 = shAMGROS18.getColumns();
-        for (int row18 = 0; row18 < totalNoOfRows18; row18++) {
+       int totalNoOfCols18 = shAMGROS18.getColumns();
+       for (int row18 = 0; row18 < totalNoOfRows18; row18++) {
             for (int col18 = 0; col18 < totalNoOfCols18; col18++) {
                  if (shAMGROS18.getCell(col18, row18).getContents().startsWith("Laegemiddel 2017")) {
                     int c17 = col18;
@@ -355,10 +372,11 @@ public class algoritme {
             }
         }
         
-    	ArrayList<Integer> NavnColList = new ArrayList<>();
-    	ArrayList<Integer> DispColList = new ArrayList<>();
-   	ArrayList<Integer> StyrkeColList = new ArrayList<>();
-        
+    	ArrayList<Integer> NavnColList = new ArrayList<>(); //ArrayList til laegemiddelnavne
+    	ArrayList<Integer> DispColList = new ArrayList<>(); // ArrayList til dispenseringsforme
+   	ArrayList<Integer> StyrkeColList = new ArrayList<>(); // ArrayList til styrke
+	
+	// FINDER KOLONNE HVOR LAEGEMIDDELNAVNE, DISPENSERINGSFORME, STYRKER OG ATC-KODE ER I INPUT EXCELARKET
         int totalNoOfRows = shAMGROS.getRows();
         int totalNoOfCols = shAMGROS.getColumns();
         for (int row = 0; row < totalNoOfRows; row++) {
@@ -396,7 +414,7 @@ public class algoritme {
 
             }
         }
-
+	
         for (int t = 1; t < shAMGROS.getRows(); t++) {
             Cell cella = shAMGROS.getCell(a, t); //NavnBefore
             Cell cellb = shAMGROS.getCell(b, t); //Navn
@@ -436,7 +454,7 @@ public class algoritme {
             String arrb[] = elemb.split(" ", 2);
             elemb = arrb[0];
             
-            NavnList.add(elema); //laegemidler fra aaret foer skiftet tilfoejet til NavnList
+            NavnList.add(elema); //laegemidler for aaret foer skiftet tilfoejet til NavnList
 
              
             // PRAEPROCESSEIRNG AF DISPENSERINGSFORME:
@@ -549,33 +567,7 @@ public class algoritme {
             elemf = elemf.replace("mikg", "mikrogram");
             eleme = eleme.replace("dosis", "dos");
             elemf = elemf.replace("dosis", "dos");
-
-
-	// FJERNER GENTAGELSER I NAVNLIST
-        for(int i = 2; i < NavnList.size(); i++) {
-            for(int j = i + 1; j < NavnList.size(); j++) {
-                if(NavnList.get(i).equals(NavnList.get(j))){
-                    NavnList.remove(j);
-                    j--; 
-                }
-            } 
-        }
-        // FJERNER GENTAGELSER I MEDLIST    
-        for (int v= 1; v < MEDList.size(); v++) {
-            if(MEDList.get(v).equals("1")){
-                 MRList.add(VarenavnList.get(v));
-            }
-        }
-        // FJERNER GENTAGELSER I MRLIST
-        for(int k = 0; k < MRList.size(); k++) {
-            for(int j = k + 1; j < MRList.size(); j++) {
-                if(MRList.get(k).equals(MRList.get(j))){
-                    MRList.remove(j);
-                    j--;
-                }
-            }
-        }
-            
+ 
             String Navn = elemb;
             String NavnBefore = elema;       
             String Disp = elemd;
@@ -584,16 +576,26 @@ public class algoritme {
             String StyrkeBefore = eleme;
             String ATC = elematc;
 
+			// FJERNER GENTAGELSER I NAVNLIST
+        for(int i = 2; i < NavnList.size(); i++) {
+            for(int j = i + 1; j < NavnList.size(); j++) {
+                if(NavnList.get(i).equals(NavnList.get(j))){
+                    NavnList.remove(j);
+                    j--; 
+                }
+            } 
+        }
+
             //RISIKOVURDERING OG VAEGTNING
             double intet = 0.0;
             double navn = 1.0;
             double disp = 2.0;
             double look = 2.0;
             double styrke = 2.0;
-            double atc = 3.0; \\ ATC-kritisk
-            double risiko = 5.0; \\ Risikolaegemiddel Amgros
-            double mr = 5.0; \\ Medicinraadet
-            double sum = intet+navn+disp+styrke+look+atc+risiko+mr;
+            double atc = 3.0; // ATC-kritisk
+            double risiko = 5.0; // Risikolaegemiddel 
+            double mr = 5.0; // Medicinraadet
+            double sum = intet+navn+disp+styrke+look+atc+risiko+mr; 
             int max = 4; // Max antal af distance af laegemidler
 
        Levenshtein classDistance = new Levenshtein();
@@ -810,7 +812,7 @@ public class algoritme {
                         if (ATC.equals(RisikoList.get(m))) {
                             nyScore = nyScore + risiko;
                             nyStatus = nyStatus + "Risikolaegemiddel:" + " " + RisikoList.get(m) + "\n";
-                        }
+                        }s
                     } 
 
                    for (int o=1; o < MRList.size(); o++) {

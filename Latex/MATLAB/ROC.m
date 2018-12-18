@@ -1,5 +1,40 @@
+%% Eksamen
+XU = [1.000, 0.762, 0.286, 0.048, 0.000, 0.000, 0.000];
+YU = [1.000, 1.000, 1.000, 0.909, 0.455, 0.182, 0.000];
 
 
+DiaXU = [0 1];
+DiaYU = [0 1];
+
+XU_pos = 0.048;
+YU_pos = 0.909;
+XU_posN = 0;
+YU_posN = 0.455;
+XU_posU = 0.286;
+YU_posU = 1;
+
+
+figure
+plot(XU,YU)
+line(DiaXU, DiaYU, 'Color','red')
+hold on
+plot(XU_pos,YU_pos,'g*')
+hold on
+plot(XU_posN, YU_posN,'r*')
+hold on
+plot(XU_posU, YU_posU, 'b*')
+xlim([0 1])
+ylim([0 1])
+set(gca, 'XTick', (0:0.1:1))
+set(gca, 'YTick', (0:0.1:1))
+grid on
+set(gca,'fontsize',20)
+ylabel('Sensitivitet')
+xlabel('1-Specificitet')
+
+
+
+%%
 %XL = [0, 0, 0.045, 0.045, 0.045, 0.182, 0.273, 0.364, 0.455, 0.591, 0.636, 0.909, 1];
 %YL = [0, 0.1, 0.2, 0.3, 0.5, 0.5, 0.6, 0.7, 0.8, 0.8 , 1, 1, 1];
 

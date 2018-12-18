@@ -35,7 +35,7 @@ class Levenshtein {
         int[] vtemp;
 
         // initialisere v0 (den tidligere raekkedistance) 
-        // Denne raekke er A[0][i]: Rediger distance for en tomt string 
+        // Denne raekke er A[0][i]: Rediger distance for tomt string 
         // Distancen er antallet af karakterer som slettes fra t
         for (int i = 0; i < v0.length; i++) {
             v0[i] = i;
@@ -68,7 +68,7 @@ class Levenshtein {
                 return limit;
             }
 
-            // Kopiere v1 (nuvaerende raekke) til v0 (tidligere raekke) for naeste 			iteration
+            // Kopierer v1 (nuvaerende raekke) til v0 (tidligere raekke) for naeste 			iteration
             // Flipper referencer til nuvaerende og forrige raekke
             vtemp = v0;
             v0 = v1;

@@ -32,9 +32,9 @@
 \BOOKMARK [1][-]{section.A.1}{Skabelon til vurdering}{appendix.A}% 32
 \BOOKMARK [1][-]{section.A.2}{Skiftelister}{appendix.A}% 33
 \BOOKMARK [1][-]{section.A.3}{L\346gemiddel Nyt}{appendix.A}% 34
-\BOOKMARK [0][-]{appendix.B}{Kode}{}% 35
-\BOOKMARK [1][-]{section.B.1}{System til Risikovurdering}{appendix.B}% 36
-\BOOKMARK [1][-]{section.B.2}{Levenshtein Distance}{appendix.B}% 37
+\BOOKMARK [0][-]{appendix.B}{Kode til risikovurdering}{}% 35
+\BOOKMARK [1][-]{section.B.1}{System til risikovurdering}{appendix.B}% 36
+\BOOKMARK [1][-]{section.B.2}{Levenshtein distance}{appendix.B}% 37
 \BOOKMARK [0][-]{appendix.C}{Evaluering af system}{}% 38
 \BOOKMARK [1][-]{section.C.1}{Introduktion til evaluering af algoritme}{appendix.C}% 39
 \BOOKMARK [1][-]{section.C.2}{Introduktion til test af systemet}{appendix.C}% 40
