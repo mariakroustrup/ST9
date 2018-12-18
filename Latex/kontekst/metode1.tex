@@ -42,9 +42,9 @@ Risikofaktorer er udvalgt ud fra den nuværende vurdering af medarbejdere, som e
 Risikofaktorer og deres vægt samt begrundelse for valg fremgår af Tabel \ref{table:features}.
 
 
-\begin{longtable}{p{3.5cm}|p{1.1cm}|p{9.2cm}}
-	\caption{Risikofaktorer som anvendes i den nuværende vurdering af lægemiddelskift og er beskrevet i videnskabelig litteratur. Vægtningen af risikofaktorerne er foretaget af en ekspert inden for området.} \vspace{0.2cm}
-	\label{table:features} \\
+\begin{longtable}{|p{3.5cm}|p{1.1cm}|p{9.2cm}|}
+	\caption{Risikofaktorer som anvendes i den nuværende vurdering af lægemiddelskift og er beskrevet i videnskabelig litteratur. Vægtningen af risikofaktorerne er foretaget af en ekspert inden for området.} 
+	\label{table:features} \\ \hline
 \cellcolor[HTML]{C0C0C0} {\textbf{Risikofaktor}} & \cellcolor[HTML]{C0C0C0} {\textbf{Vægt}} & \cellcolor[HTML]{C0C0C0} {\textbf{Begrundelse}} \vspace{0.2cm} \\ \hline
 \textbf{Navn} & 1 & Den hyppigste årsag til medicineringsfejl ved generisk substitution er dispensering af det forkerte lægemiddel, hvilket typisk skyldes at lægemidlets navn lignede og/eller havde et svært navn~\citep{Hakonsen2010}. \\  \hline 
 \textbf{Look-a-like} & 2 & Look-a-like har påvist at kunne prædisponeres til medicineringsfejl~\citep{Wittich2014}, hvilket kan have patientsikkerhedsmæssige konsekvenser, hvis f.eks. lægemidler forveksles~\citep{DanskSelskabforPatientsikkerhed2009}.\\  \hline 
@@ -73,7 +73,7 @@ Riskoscore = \frac{\mbox{\textit{Totale vægt af matchende risikofaktorer}}}{\mb
 
 Risikoscoren er angivet som en procentdel, hvorved der er et bedre beslutningsgrundlag for at vurdere risikoscoren. En høj risikoscore vil betyde at risikofaktorer, som gør sig gældende for lægemiddelskiftet gør implementeringen mere kompleks. Hvis risikoscoren modsat er lille vil lægemiddelskiftet være mindre kompleks at implementere. På denne måde er det muligt for medarbejderne fra SRN at skelne mellem, hvilke lægemiddelskift der kræver ekstra opmærksomme og derfor kræver uddybende information til klinikken ved udarbejdelsen af Lægemiddel Nyt.  
 
-Til design af look-a-like lægemidler, der sammenligner hvorvidt et lægemiddels navn for det kommende skifteår ligner et andet lægemiddel, registreret ved tidligere lægemiddelskift, beregnes Levenshtein Distance. Levenshtein Distance er et udtryk for det minimale antal af operationer, der kræves for at ændre et ord til et andet ved at slette, indføre eller erstatte bogstaver. For at sikre at lægemidler er forholdsvis sammenlignelige fastsættes en grænse på maksimal 4 antal operationer. Levenshtein Distancen beregnes ud fra Ligning \ref{equ:LevDistance} på baggrund af det minimale antal af tilføjede, slettede og erstattede bogstaver der kræves for at ændre et ord til et andet samt den maksimale længde af de to ord som sammenlignes. 
+Til design af look-a-like lægemidler, der sammenligner hvorvidt et lægemiddels navn for det kommende skifteår ligner et andet lægemiddel, registreret ved tidligere lægemiddelskift, beregnes Levenshtein Distance. Levenshtein Distance er et udtryk for det minimale antal af operationer, der kræves for at ændre et ord til et andet ved at slette, indføre eller erstatte bogstaver. For at sikre at lægemidler er forholdsvis sammenlignelige fastsættes en grænse på maksimal fire antal operationer. Levenshtein Distancen beregnes ud fra Ligning \ref{equ:LevDistance} på baggrund af det minimale antal af tilføjede, slettede og erstattede bogstaver der kræves for at ændre et ord til et andet samt den maksimale længde af de to ord som sammenlignes. 
 
 \begin{equation} \label{equ:LevDistance}
 \mbox{\textit{Levenshtein Distance}} = 1 - \frac{\mbox{\textit{min(antal af tilføjede, slettede og erstattede bogstaver)}}}{\mbox{\textit{max(længde af ord der sammenlignes)}}}   

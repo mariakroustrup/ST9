@@ -1,6 +1,7 @@
 \documentclass[a4paper,11pt,fleqn,twoside,openright]{memoir} 	% Openright aabner kapitler paa hoejresider (openany = vilkaarlig/begge)
 
 %%%% PAKKER %%%%
+\usepackage[labelfont=bf]{caption}
 \usepackage{listings}
 \usepackage{color} %red, green, blue, yellow, cyan, magenta, black, white
 \definecolor{mygreen}{RGB}{28,172,0} % color values Red, Green, Blue
@@ -95,7 +96,7 @@
 \captiontitlefont{\small}					% Opsaetning af nummerering
 \captiondelim{. }							% Seperator mellem nummerering og figurtekst
 \captionstyle{\centering}					% Justering/placering af figurteksten (centreret = \centering, venstrejusteret = \raggedright)
-\captionwidth{\linewidth}					% Bredden af figurteksten
+%\captionwidth{\linewidth}					% Bredden af figurteksten
 \usepackage{subcaption}
 \hangcaption								% Venstrejusterer fler-linjers figurtekst under hinanden
 \setlength{\belowcaptionskip}{0pt}			% Afstand under figurteksten

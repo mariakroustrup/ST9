@@ -17,6 +17,7 @@ ylim([0 100])
 %labels = arrayfun(@(value) num2str(value,'%2.1f'),bK1,'UniformOutput',false);
    % text(cK1K,bK1,labels,'HorizontalAlignment','center','VerticalAlignment','bottom') 
 set(gca,'fontsize',20)
+box off
 
 
 EnKK = 33.8
@@ -37,6 +38,7 @@ ylim([0 35])
 %labels = arrayfun(@(value) num2str(value,'%2.1f'),bKK1,'UniformOutput',false);
     %text(cKK1K,bKK1,labels,'HorizontalAlignment','center','VerticalAlignment','bottom') 
 set(gca,'fontsize',20)
+box off
 
 %%
 figure
