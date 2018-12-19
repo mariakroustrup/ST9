@@ -53,8 +53,8 @@ Risikofaktorer og deres vægt samt begrundelse for valg fremgår af Tabel \ref{t
 \textbf{Dispenseringsform} & \textbf{2} & Dispensering af det forkerte lægemiddel, grundet navneforveksling, kan give anledning til fejl i dispenseringsform~\citep{DanskSelskabforPatientsikkerhed2009, Agrawal2009}, hvilket har betydning for virkningen af lægemidlet samt arbejdsgangen for sygehuspersonalet i forhold til brug af ekstra ressourcer og information.
 \\ \hline 
 \textbf{Styrke} & \textbf{2} & Styrke kan medføre medicineringsfejl ved ordination ved forkert styrkeberegning~\citep{Agrawal2009}, hvorfor der skal være opmærksom på ændringen i styrke for at undgå beregningsfejl, som kan medføre overdosering eller underdosering og derved påvirke patienten.\\ \hline
-\textbf{Risikolægemidler} & \textbf{5} & Disse lægemidler overvåges særligt af Amgros, da de er kritiske ved restordre~\citep{Amgros}, kræver et ekstra personalemæssigt ressourcetræk i forbindelse med skift og er i øget risiko for utilsigtede hændelser~\citep{Amgros}. \\ \hline 
-\textbf{ATC-grupper} & \textbf{5} & ATC-grupper som, A01, B05, J01, J06, L01 og N01 har givet anledning til problemstillinger vedrørende lægemiddelskift og kan derfor anses som kritiske\citep{SRN}. \\ \hline 
+\textbf{Risikolægemidler} & \textbf{5} & Disse lægemidler overvåges særligt af Amgros, da de er kritiske ved restordre, kræver et ekstra personalemæssigt ressourcetræk i forbindelse med skift og er i øget risiko for utilsigtede hændelser.~\citep{Amgros} \\ \hline 
+\textbf{ATC-grupper} & \textbf{5} & ATC-grupper som, A01, B05, J01, J06, L01 og N01 har givet anledning til problemstillinger vedrørende lægemiddelskift og kan derfor anses som kritiske. \citep{SRN} \\ \hline 
 \textbf{Medicinråd} & \textbf{5} & Lægemidler, som indgår i Medicinrådets behandlingsvejledninger, er besluttet af Medicinrådet at skulle anvendes som standardbehandling~\citep{Medicinradet2018}. Disse vurderes i forhold til effekt, eksisterende behandling og pris~\citep{Medicinradet2018}. For disse lægemidler er der ofte mange besparelser at opnå ved hurtig og effektiv implementering.\\ \hline 
     \end{longtable}
 
@@ -70,7 +70,7 @@ Det er antaget for tomme tekstfelter at intet er ændret, hvormed data fra enten
 Risikovurderingen er designet som if-then-else statements, der danner grundlag for risikovurderingen. For hvert statement vurderes én eller flere risikofaktorer i forhold til om et statement er sandt eller falsk. Ud fra antallet af sande statements beregnes risikoscoren ud fra Ligning \ref{equ:risikoscore} på baggrund af den totale vægt af matchende risikofaktorer og den totale vægt af alle risikofaktorer.
 
 \begin{equation}  \label{equ:risikoscore}
-Riskoscore = \frac{\mbox{\textit{Totale vægt af matchende risikofaktorer}}}{\mbox{\textit{Totale vægt af alle risikofaktorer}}} \cdot 100
+Risikoscore = \frac{\mbox{\textit{Totale vægt af matchende risikofaktorer}}}{\mbox{\textit{Totale vægt af alle risikofaktorer}}} \cdot 100
 \end{equation}
 
 Risikoscoren er angivet som en procentdel, hvorved der er et bedre beslutningsgrundlag for at vurdere betydningen af risikoscoren. En høj risikoscore vil betyde at risikofaktorer, som gør sig gældende for lægemiddelskiftet gør implementeringen mere kompleks. Hvis risikoscoren modsat er lille vil lægemiddelskiftet være mindre kompleks at implementere. På denne måde kan medarbejderne fra SRN skelne mellem, hvilke lægemiddelskift der kræver ekstra opmærksomme og derfor kræver uddybende information til klinikken ved udarbejdelsen af Lægemiddel Nyt.  

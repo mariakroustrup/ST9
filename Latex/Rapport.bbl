@@ -1,247 +1,329 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{43}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem{Studieordning2011}
+\bibitem[{Aalborg Universitet}(2011)]{Studieordning2011}
 {Aalborg Universitet}.
 \newblock {Studieordning for Civilingeni{\o}r, cand.polyt. i
   sundhedsteknologi}, 2011.
 
-\bibitem{Amgros2018b}
+\bibitem[Amgros(2018)]{Amgros2018b}
 Amgros.
 \newblock {Om Amgros}, 2018.
 
-\bibitem{RegionNordjylland2018}
+\bibitem[{Region Nordjylland}(2018)]{RegionNordjylland2018}
 {Region Nordjylland}.
 \newblock {L{\ae}gemiddelkomit{\'{e}}en}, 2018.
 
-\bibitem{Medicinradet2018}
+\bibitem[Medicinr{\aa}det(2018)]{Medicinradet2018}
 Medicinr{\aa}det.
 \newblock {Om Os}, 2018.
 
-\bibitem{AalborgKommune2017}
+\bibitem[{Aalborg Kommune}(2017)]{AalborgKommune2017}
 {Aalborg Kommune}.
 \newblock {Utilsigtede h{\ae}ndelser - UTH}, 2017.
 
-\bibitem{Ess2003}
+\bibitem[Ess et~al.(2003)Ess, Schneeweiss, and Szucs]{Ess2003}
 Silvia~M Ess, Sebastian Schneeweiss, and Thomas~D Szucs.
 \newblock {European Health Care Policies for Controlling Drug Expenditures}.
-\newblock {\em Pharmacoeconomics}, 2003.
+\newblock \emph{Pharmacoeconomics}, 2003.
+\newblock \doi{10.2165/00019053-200321020-00002}.
 
-\bibitem{EU2017}
+\bibitem[{OECD/European Observatory on Health Systems and
+  Policies}(2017)]{EU2017}
 {OECD/European Observatory on Health Systems and Policies}.
-\newblock {\em {Danmark: National sundhedsprofil 2017}}.
+\newblock \emph{{Danmark: National sundhedsprofil 2017}}.
 \newblock 2017.
+\newblock ISBN 9789264285132.
+\newblock \doi{10.1787/888933623552}.
 
-\bibitem{Sundhed2016}
+\bibitem[{Sundheds- og {\AE}ldreministeriet}(2016)]{Sundhed2016}
 {Sundheds- og {\AE}ldreministeriet}.
 \newblock {Sammenfattende rapport over sygehusmedicin og styregruppens
   anbefalinger}.
 \newblock Technical report, 2016.
 
-\bibitem{Johnston2011}
+\bibitem[Johnston et~al.(2011)Johnston, Asmar, Dahl{\"{o}}f, and
+  Hill]{Johnston2011}
 Atholl Johnston, Roland Asmar, Bj{\"{o}}rn Dahl{\"{o}}f, and Kate Hill.
 \newblock {Generic and therapeutic substitution: a viewpoint on achieving best
   practice in Europe}.
-\newblock {\em British Journal of Clinical Pharmacology}, 2011.
+\newblock \emph{British Journal of Clinical Pharmacology}, 2011.
+\newblock ISSN 03065251.
+\newblock \doi{10.1111/j.1365-2125.2011.03939.x}.
 
-\bibitem{Garcia2017}
+\bibitem[Garcia et~al.(2017)Garcia, Elenjord, Bjornstad, Halvorsen, Hortemo,
+  and Madsen]{Garcia2017}
 Beate~Hennie Garcia, Renate Elenjord, Camilla Bjornstad, Kjell~Hermann
   Halvorsen, Sigurd Hortemo, and Steinar Madsen.
-\newblock {Safety and efficiency of a new generic package labelling: A before
+\newblock {Safety and efficiency of a new generic package labelling: a before
   and after study in a simulated setting}.
-\newblock {\em BMJ Quality and Safety}, 2017.
+\newblock \emph{BMJ Quality {\&} Safety}, 2017.
+\newblock ISSN 2044-5415.
+\newblock \doi{10.1136/bmjqs-2016-006422}.
 
-\bibitem{DanskSelskabforPatientsikkerhed2009}
+\bibitem[{Dansk Selskab for
+  Patientsikkerhed}(2009)]{DanskSelskabforPatientsikkerhed2009}
 {Dansk Selskab for Patientsikkerhed}.
 \newblock {Et patientsikkerhedsperspektiv p{\aa} medicinering i Danmark}.
 \newblock 2009.
 
-\bibitem{Kairi2017}
+\bibitem[Kairi and Sharma(2017)]{Kairi2017}
 Jayant~Kumar Kairi and Ashok~Kumar Sharma.
 \newblock {Substitutes of prescription medicines - A review of concerns
   relevant to doctors and patients}.
-\newblock {\em Journal of Clinical and Diagnostic Research}, 2017.
+\newblock \emph{Journal of Clinical and Diagnostic Research}, 2017.
+\newblock ISSN 0973709X.
+\newblock \doi{10.7860/JCDR/2017/28552.10439}.
 
-\bibitem{Lopes2012}
+\bibitem[Lopes et~al.(2012)Lopes, N{\'{e}}ri, Madeira, Neto, L{\'{e}}lis,
+  de~Souza, de~Oliveira, Costa, and Fonteles]{Lopes2012}
 Diana Maria de~Almeida Lopes, Eugenie Desir{\`{e}}e~Rabelo N{\'{e}}ri,
   Lucivaldo dos~Santos Madeira, Paulo Jos{\'{e}} de~Souza Neto, Ant{\^{o}}nia
   Rociv{\^{a}}nia~Ara{\'{u}}jo L{\'{e}}lis, Thalita~Rodrigues de~Souza,
   Alene~Barros de~Oliveira, Liana de~Oliveira Costa, and Marta Maria
   de~Fran{\c{c}}a Fonteles.
 \newblock {Analysis of similar drug labeling: potential medication errors}.
-\newblock {\em Revista da Associa{\c{c}}{\~{a}}o M{\'{e}}dica Brasileira
+\newblock \emph{Revista da Associa{\c{c}}{\~{a}}o M{\'{e}}dica Brasileira
   (English Edition)}, 2012.
+\newblock ISSN 22554823.
+\newblock \doi{10.1016/S2255-4823(12)70161-3}.
 
-\bibitem{Hakonsen2010}
+\bibitem[H{\aa}konsen et~al.(2010)H{\aa}konsen, Hopen, Abelsen, Ek, and
+  Toverud]{Hakonsen2010}
 Helle H{\aa}konsen, Heidi~Skj{\o}nhaug Hopen, Linda Abelsen, Bj{\o}rg Ek, and
   Else~Lydia Toverud.
 \newblock {Generic substitution: A potential risk factor for medication errors
   in hospitals}.
-\newblock {\em Advances in Therapy}, 2010.
+\newblock \emph{Advances in Therapy}, 2010.
+\newblock ISSN 0741238X.
+\newblock \doi{10.1007/s12325-010-0007-8}.
 
-\bibitem{Agrawal2009}
+\bibitem[Basco et~al.(2010)Basco, Ebeling, Hulsey, and Simpson]{Basco2010}
+William~T. Basco, Myla Ebeling, Thomas~C. Hulsey, and Kit Simpson.
+\newblock {Using pharmacy data to screen for look-alike, sound-alike
+  substitution errors in pediatric prescriptions}.
+\newblock \emph{Academic Pediatrics}, 2010.
+\newblock ISSN 18762859.
+\newblock \doi{10.1016/j.acap.2010.04.024}.
+
+\bibitem[Agrawal(2009)]{Agrawal2009}
 Abha Agrawal.
 \newblock {Medication errors: Prevention using information technology systems}.
-\newblock {\em British Journal of Clinical Pharmacology}, 2009.
+\newblock \emph{British Journal of Clinical Pharmacology}, 2009.
+\newblock ISSN 03065251.
+\newblock \doi{10.1111/j.1365-2125.2009.03427.x}.
 
-\bibitem{Stenner2010}
+\bibitem[Stenner et~al.(2010)Stenner, Chen, and Johnson]{Stenner2010}
 Shane~P. Stenner, Qingxia Chen, and Kevin~B. Johnson.
 \newblock {Impact of generic substitution decision support on electronic
   prescribing behavior}.
-\newblock {\em Journal of the American Medical Informatics Association}, 2010.
+\newblock \emph{Journal of the American Medical Informatics Association}, 2010.
+\newblock ISSN 10675027.
+\newblock \doi{10.1136/jamia.2009.002568}.
 
-\bibitem{Fischer2008}
+\bibitem[Fischer et~al.(2008)Fischer, Vogeli, and Stedman]{Fischer2008}
 Michael~A Fischer, Christine Vogeli, and Margaret Stedman.
 \newblock {Effect of Electronic Prescribing With Formulary Decision Support on
   Medication Use and Cost}.
-\newblock {\em American Medical Association}, 2008.
+\newblock \emph{American Medical Association}, 2008.
+\newblock \doi{10.1001/archinte.168.22.2433}.
 
-\bibitem{Simpson2008}
+\bibitem[Simpson(2008)]{Simpson2008}
 Kathleen~Rice Simpson.
 \newblock {Medication safety with heparin}.
-\newblock {\em MCN The American Journal of Maternal/Child Nursing}, 2008.
+\newblock \emph{MCN The American Journal of Maternal/Child Nursing}, 2008.
+\newblock ISSN 0361929X.
+\newblock \doi{10.1097/01.NMC.0000313426.04861.12}.
 
-\bibitem{Geissert2018}
+\bibitem[Geissert et~al.(2018)Geissert, Hallvik, {Van Otterloo}, O'Kane, Alley,
+  Carson, Leichtling, Hildebran, Wakeland, and Deyo]{Geissert2018}
 Peter Geissert, Sara Hallvik, Joshua {Van Otterloo}, Nicole O'Kane, Lindsey
   Alley, Jody Carson, Gillian Leichtling, Christi Hildebran, Wayne Wakeland,
   and Richard~A. Deyo.
 \newblock {High-risk prescribing and opioid overdose: Prospects for
   prescription drug monitoring program-based proactive alerts}.
-\newblock {\em Pain}, 2018.
+\newblock \emph{Pain}, 2018.
+\newblock ISSN 18726623.
+\newblock \doi{10.1097/j.pain.0000000000001078}.
 
-\bibitem{Rawshani2018}
+\bibitem[Rawshani et~al.(2018)Rawshani, Rawshani, Franz{\'{e}}n, Sattar,
+  Eliasson, Svensson, Zethelius, Miftaraj, McGuire, Rosengren, and
+  Gudbj{\"{o}}rnsdottir]{Rawshani2018}
 Aidin Rawshani, Araz Rawshani, Stefan Franz{\'{e}}n, Naveed Sattar, Bj{\"{o}}rn
   Eliasson, Ann-Marie Svensson, Bj{\"{o}}rn Zethelius, Mervete Miftaraj,
   Darren~K. McGuire, Annika Rosengren, and Soffia Gudbj{\"{o}}rnsdottir.
 \newblock {Risk Factors, Mortality, and Cardiovascular Outcomes in Patients
   with Type 2 Diabetes}.
-\newblock {\em New England Journal of Medicine}, 2018.
+\newblock \emph{New England Journal of Medicine}, 2018.
+\newblock ISSN 0028-4793.
+\newblock \doi{10.1056/NEJMoa1800256}.
 
-\bibitem{Basco2010}
-William~T. Basco, Myla Ebeling, Thomas~C. Hulsey, and Kit Simpson.
-\newblock {Using pharmacy data to screen for look-alike, sound-alike
-  substitution errors in pediatric prescriptions}.
-\newblock {\em Academic Pediatrics}, 2010.
-
-\bibitem{Basco2016}
-William~T. Basco, Sandra~S. Garner, Myla Ebeling, Katherine~D. Freeland,
-  Thomas~C. Hulsey, and Kit Simpson.
-\newblock {Evaluating the Potential Severity of Look-Alike, Sound-Alike Drug
-  Substitution Errors in Children}.
-\newblock {\em Academic Pediatrics}, 2016.
-
-\bibitem{Wittich2014}
-Christopher~M. Wittich, Christopher~M. Burkle, and William~L. Lanier.
-\newblock {Medication errors: An overview for clinicians}.
-\newblock {\em Mayo Clinic Proceedings}, 2014.
-
-\bibitem{Patientombuddet2013}
-Patientombuddet.
-\newblock {{\AA}rsberetning 2013, Dansk Patientsikkerheds Database Del 1}.
-\newblock 2014.
-
-\bibitem{Jensen2014}
-Jens~Winther Jensen.
-\newblock {{\AA}rsrapport 2014 patientsikkerhed}.
-\newblock {\em Region Nordjylland}, 2014.
-
-\bibitem{Barker2002}
-Kenneth N.Barker, Elizabeth~A Flynn, Ginette A.Pepper, David W.Bates, and
-  Robert~L Mikeal.
-\newblock {Medication Errors Observed in 36 Healthcare Facilities}.
-\newblock {\em American Medical Association}, 2002.
-
-\bibitem{Sundhedsstyrelsen2005}
-Sundhedsstyrelsen.
-\newblock {Temarapport 2005: Medicinering}.
-\newblock 2005.
-
-\bibitem{Lisby2005}
-Marianne Lisby, Lars~Peter Nielsen, and Jan Mainz.
-\newblock {Errors in the medication process: Frequency, type, and potential
-  clinical consequences}.
-\newblock {\em International Journal for Quality in Health Care}, 2005.
-
-\bibitem{Tully2009}
-Mary~P. Tully and Iain~E. Buchan.
-\newblock {Prescribing errors during hospital inpatient care: Factors
-  influencing identification by pharmacists}.
-\newblock {\em Pharmacy World and Science}, 2009.
-
-\bibitem{Kaushal2002}
-R~Kaushal.
-\newblock {Information technology and medication safety: what is the benefit?}
-\newblock {\em Quality and Safety in Health Care}, 2002.
-
-\bibitem{Bates2000a}
-David~W Bates, Source Bmj, British Medical, No~Mar, and David~W Bates.
-\newblock {Using Information Technology to Reduce Rates of Medication Errors in
-  Hospitals}.
-\newblock {\em British Medical Journal}, 320(7237):788--791, 2000.
-
-\bibitem{Barbar2010}
+\bibitem[Barbar et~al.(2010)Barbar, Noventa, Rossetto, Ferrari, Brandolin,
+  Perlati, {De Bon}, Tormene, Pagnan, and Prandoni]{Barbar2010}
 S.~Barbar, F.~Noventa, V.~Rossetto, A.~Ferrari, B.~Brandolin, M.~Perlati,
   E.~{De Bon}, D.~Tormene, A.~Pagnan, and P.~Prandoni.
 \newblock {A risk assessment model for the identification of hospitalized
   medical patients at risk for venous thromboembolism: The Padua Prediction
   Score}.
-\newblock {\em Journal of Thrombosis and Haemostasis}, 2010.
+\newblock \emph{Journal of Thrombosis and Haemostasis}, 2010.
+\newblock ISSN 15387933.
+\newblock \doi{10.1111/j.1538-7836.2010.04044.x}.
 
-\bibitem{Boyko1990}
+\bibitem[Basco et~al.(2016)Basco, Garner, Ebeling, Freeland, Hulsey, and
+  Simpson]{Basco2016}
+William~T. Basco, Sandra~S. Garner, Myla Ebeling, Katherine~D. Freeland,
+  Thomas~C. Hulsey, and Kit Simpson.
+\newblock {Evaluating the Potential Severity of Look-Alike, Sound-Alike Drug
+  Substitution Errors in Children}.
+\newblock \emph{Academic Pediatrics}, 2016.
+\newblock ISSN 18762867.
+\newblock \doi{10.1016/j.acap.2015.06.014}.
+
+\bibitem[Wittich et~al.(2014)Wittich, Burkle, and Lanier]{Wittich2014}
+Christopher~M. Wittich, Christopher~M. Burkle, and William~L. Lanier.
+\newblock {Medication errors: An overview for clinicians}.
+\newblock \emph{Mayo Clinic Proceedings}, 2014.
+\newblock ISSN 19425546.
+\newblock \doi{10.1016/j.mayocp.2014.05.007}.
+
+\bibitem[Patientombuddet(2014)]{Patientombuddet2013}
+Patientombuddet.
+\newblock {{\AA}rsberetning 2013, Dansk Patientsikkerheds Database Del 1}.
+\newblock 2014.
+
+\bibitem[Jensen(2014)]{Jensen2014}
+Jens~Winther Jensen.
+\newblock {{\AA}rsrapport 2014 patientsikkerhed}.
+\newblock \emph{Region Nordjylland}, 2014.
+
+\bibitem[N.Barker et~al.(2002)N.Barker, Flynn, A.Pepper, W.Bates, and
+  Mikeal]{Barker2002}
+Kenneth N.Barker, Elizabeth~A Flynn, Ginette A.Pepper, David W.Bates, and
+  Robert~L Mikeal.
+\newblock {Medication Errors Observed in 36 Healthcare Facilities}.
+\newblock \emph{American Medical Association}, 2002.
+\newblock \doi{10.1001/archinte.162.16.1897}.
+
+\bibitem[Sundhedsstyrelsen(2005)]{Sundhedsstyrelsen2005}
+Sundhedsstyrelsen.
+\newblock {Temarapport 2005: Medicinering}.
+\newblock 2005.
+
+\bibitem[Lisby et~al.(2005)Lisby, Nielsen, and Mainz]{Lisby2005}
+Marianne Lisby, Lars~Peter Nielsen, and Jan Mainz.
+\newblock {Errors in the medication process: Frequency, type, and potential
+  clinical consequences}.
+\newblock \emph{International Journal for Quality in Health Care}, 2005.
+\newblock ISSN 13534505.
+\newblock \doi{10.1093/intqhc/mzi015}.
+
+\bibitem[Tully and Buchan(2009)]{Tully2009}
+Mary~P. Tully and Iain~E. Buchan.
+\newblock {Prescribing errors during hospital inpatient care: Factors
+  influencing identification by pharmacists}.
+\newblock \emph{Pharmacy World and Science}, 2009.
+\newblock ISSN 09281231.
+\newblock \doi{10.1007/s11096-009-9332-x}.
+
+\bibitem[Kaushal and Bates(2002)]{Kaushal2002}
+R.~Kaushal and D.~W. Bates.
+\newblock {Information technology and medication safety: what is the benefit?}
+\newblock \emph{Quality and Safety in Health Care}, 2002.
+\newblock ISSN 14753898.
+\newblock \doi{10.1136/qhc.11.3.261}.
+
+\bibitem[Bates(2000)]{Bates2000a}
+David~W. Bates.
+\newblock {Using Information Technology to Reduce Rates of Medication Errors in
+  Hospitals}.
+\newblock \emph{British Medical Journal}, 2000.
+\newblock \doi{10.1136/bmj.320.7237.788}.
+
+\bibitem[Boyko and Alderman(1990)]{Boyko1990}
 Edward~J. Boyko and Beth~W. Alderman.
 \newblock {The use of risk factors in medical diagnosis: Opportunities and
   cautions}.
-\newblock {\em Journal of Clinical Epidemiology}, 1990.
+\newblock \emph{Journal of Clinical Epidemiology}, 1990.
+\newblock ISSN 08954356.
+\newblock \doi{10.1016/0895-4356(90)90068-Z}.
 
-\bibitem{Kirchsteiger1999}
+\bibitem[Kirchsteiger(1999)]{Kirchsteiger1999}
 Christian Kirchsteiger.
 \newblock {On the use of probabilistic and deterministic methods in risk
   analysis}.
-\newblock {\em Journal of Loss Prevention in the Process Industries}, 1999.
+\newblock \emph{Journal of Loss Prevention in the Process Industries}, 1999.
+\newblock ISSN 09504230.
+\newblock \doi{10.1016/S0950-4230(99)00012-1}.
 
-\bibitem{Koivu2018}
+\bibitem[Koivu et~al.(2018)Koivu, Korpim{\"{a}}ki, Kivel{\"{a}}, Pahikkala, and
+  Sairanen]{Koivu2018}
 Aki Koivu, Teemu Korpim{\"{a}}ki, Petri Kivel{\"{a}}, Tapio Pahikkala, and
   Mikko Sairanen.
 \newblock {Evaluation of machine learning algorithms for improved risk
   assessment for Down's syndrome}.
-\newblock {\em Computers in Biology and Medicine}, 2018.
+\newblock \emph{Computers in Biology and Medicine}, 2018.
+\newblock ISSN 18790534.
+\newblock \doi{10.1016/j.compbiomed.2018.05.004}.
 
-\bibitem{Crina2008}
+\bibitem[Crina and Ajith(2008)]{Crina2008}
 Grosan Crina and Abraham Ajith.
 \newblock {Rule-Based Expert Systems}.
-\newblock In {\em Animal Genetics}. 2008.
+\newblock In \emph{Animal Genetics}. 2008.
+\newblock ISBN 9783642017988.
 
-\bibitem{Amgros}
+\bibitem[Amgros()]{Amgros}
 Amgros.
-\newblock {Intern dokument med Amgros}.
+\newblock {Risikol{\ae}gemidler - Interne dokumenter}.
 
-\bibitem{SRN}
+\bibitem[{Sygehusapoteket Region Nordjylland}()]{SRN}
 {Sygehusapoteket Region Nordjylland}.
 \newblock {Problemstillinger vedr{\o}rende amgrosskift - Intern exceldokument}.
 
-\bibitem{Schepens2012}
+\bibitem[Schepens et~al.(2012)Schepens, Dijkstra, and Grootjen]{Schepens2012}
 Job Schepens, Ton Dijkstra, and Franc Grootjen.
 \newblock {Distributions of cognates in Europe as based on Levenshtein
   distance}.
-\newblock {\em Bilingualism}, 2012.
+\newblock \emph{Bilingualism}, 2012.
+\newblock ISSN 13667289.
+\newblock \doi{10.1017/S1366728910000623}.
 
-\bibitem{Greiner2000}
-M~Greiner, D~Pfeiffer, and R~D Smith.
+\bibitem[Greiner et~al.(2000)Greiner, Pfeiffer, and Smith]{Greiner2000}
+M.~Greiner, D.~Pfeiffer, and R.~D. Smith.
 \newblock {Principles and practical application of the receiver-operating
   characteristic analysis for diagnostic tests}.
 \newblock 2000.
+\newblock ISSN 00092797.
+\newblock \doi{10.1016/0009-2797(70)90001-3}.
 
-\bibitem{Chan2009}
-L.W.C. Chan and Y.~Sun.
+\bibitem[Chan and Sun(2009)]{Chan2009}
+L~W~C Chan and Y.~Sun.
 \newblock {Evaluation of cardiovascular risk assessment models with respect to
   the clinical interpretation of atherosclerosis in a different type II
-  diabetes cohort}.
-\newblock {\em American Medical Informatics Association}, 2009.
+  diabetes cohort.}
+\newblock \emph{Summit on translational bioinformatics}, 2009:\penalty0 1--6,
+  2009.
+\newblock ISSN 2153-6430.
 
-\bibitem{VanStraten2010}
+\bibitem[Soong et~al.(2015)Soong, Poots, Scott, Donald, and Bell]{Soong2015}
+J.~Soong, A.~J. Poots, S.~Scott, K.~Donald, and D.~Bell.
+\newblock {Developing and validating a risk prediction model for acute care
+  based on frailty syndromes}.
+\newblock \emph{BMJ Open}, 2015.
+\newblock ISSN 20446055.
+\newblock \doi{10.1136/bmjopen-2015-008457}.
+
+\bibitem[van Straten et~al.(2010)van Straten, Tan, Hamad, Martens, and van
+  Zundert]{VanStraten2010}
 A.~H.M. van Straten, E.~M.E.S.H. Tan, M.~A.S. Hamad, E.~J. Martens, and A.~A.J.
   van Zundert.
 \newblock {Evaluation of the EuroSCORE risk scoring model for patients
   undergoing coronary artery bypass graft surgery: A word of caution}.
-\newblock {\em Netherlands Heart Journal}, 2010.
+\newblock \emph{Netherlands Heart Journal}, 2010.
+\newblock ISSN 15685888.
+\newblock \doi{10.1007/BF03091791}.
 
 \end{thebibliography}
