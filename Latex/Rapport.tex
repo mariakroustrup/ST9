@@ -83,14 +83,14 @@
 
 %\includepdf[pages=1,scale=.6,pagecommand={\chapter{Appendiks} \section{Skabelon til vurdering}\label{App:Skabelon}},linktodoc=true]{appendiks/Skabelon.pdf} 
 
-\chapter{Materiale fra SRN} \vspace{-1cm} \section{Skabelon til vurdering}\label{App:Skabelon} 
+\chapter{Materiale fra SRN} \vspace{-1cm} \section{Skabelon til vurdering af lægemiddelskift}\label{App:Skabelon} 
 \vspace{-1.2cm}
 \includegraphics[scale=0.7]{appendiks/skabelon.pdf}
 
 %\includepdf[pages=1,scale=0.6, nup=1x1, pagecommand={\chapter{Appendiks} \section{Skabelon til vurdering}\label{App:Skabelon}}, linktodoc = true]{appendiks/Skabelon.pdf} 
 
 
-\includepdf[pages=1,scale=.85,pagecommand={\section{Skiftelister}\label{App:Skiftelister}},linktodoc=true]{appendiks/skiftelister.pdf}
+\includepdf[pages=1,scale=.85,pagecommand={\section{Arbejdsgang for udarbejdelse af skifteliste}\label{App:Skiftelister}},linktodoc=true]{appendiks/skiftelister.pdf}
 \includepdf[pages=2,scale=.85,pagecommand={},linktodoc=true]{appendiks/skiftelister.pdf}
 \includepdf[pages=3,scale=.85,pagecommand={},linktodoc=true]{appendiks/skiftelister.pdf}
 
@@ -115,23 +115,6 @@
 \phantomsection													% Kunstigt afsnit, som hyperlinks kan 'holde fast i'
 \pdfbookmark[0]{Appendiks}{appendiks}							% Tildeler en klikbar bookmark til den endelige PDF
 
-%% Indstillinger for appendiks (deaktiveret med "%") %%
-
-%\pagestyle{empty}												% Sidehoved/-fod for standardsider aendres til tom for appendiks
-%\aliaspagestyle{chapter}{empty}								% Sidehoved/-fod for kapitelsider aendres til tom for appendiks
-%\settocdepth{chapter}											% Kun kapitel-niveau vises i ToC
-%\addtocontents{toc}{\protect\cftpagenumbersoff{chapter}}		% Sidetal for kapitler fjernes i ToC
-
-%% Filer til appendiks %%
-%\include{appendiks/appendiks1}
-
-
-%%%% Bilag %%%%
-
-%\phantomsection												% Kunstigt afsnit, som hyperlinks kan 'holde fast i'
-%\addcontentsline{toc}{chapter}{Bilag A \ Navn} 				% Manuelle indgange i indholdsfortegnelsen (naar \includepdf bruges)
-
-%\includepdf[pages={x-y}]{filnavn}								% Inkluder eksterne bilag med \includepdf[pages={x-y}]{filnavn}
 
 
 \end{document}													% Slutter dokumentet - obligatorisk

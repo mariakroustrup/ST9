@@ -29,20 +29,21 @@
 \contentsline {chapter}{\chapternumberline {6}Konklusion}{25}{chapter.6}
 \contentsline {chapter}{Litteratur}{27}{section*.19}
 \contentsline {appendix}{\chapternumberline {A}Materiale fra SRN}{31}{appendix.A}
-\contentsline {section}{\numberline {A.1}Skabelon til vurdering}{31}{section.A.1}
-\contentsline {section}{\numberline {A.2}Skiftelister}{32}{section.A.2}
+\contentsline {section}{\numberline {A.1}Skabelon til vurdering af l\IeC {\ae }gemiddelskift}{31}{section.A.1}
+\contentsline {section}{\numberline {A.2}Arbejdsgang for udarbejdelse af skifteliste}{32}{section.A.2}
 \contentsline {section}{\numberline {A.3}L\IeC {\ae }gemiddel Nyt}{35}{section.A.3}
 \contentsline {appendix}{\chapternumberline {B}Kode til risikovurdering}{45}{appendix.B}
-\contentsline {section}{\numberline {B.1}System til risikovurdering}{45}{section.B.1}
-\contentsline {section}{\numberline {B.2}Levenshtein Distance}{57}{section.B.2}
+\contentsline {section}{\numberline {B.1}Kode for system til risikovurdering}{45}{section.B.1}
+\contentsline {section}{\numberline {B.2}Kode for Levenshtein Distance}{57}{section.B.2}
 \contentsline {appendix}{\chapternumberline {C}Evaluering af system}{59}{appendix.C}
 \contentsline {section}{\numberline {C.1}Introduktion til evaluering af algoritme}{59}{section.C.1}
 \contentsline {section}{\numberline {C.2}Introduktion til test af systemet}{59}{section.C.2}
 \contentsline {section}{\numberline {C.3}Introduktion til opgave og opgavebeskrivelse}{60}{section.C.3}
-\contentsline {section}{\numberline {C.4}Feedback og forbedringer til systemet}{62}{section.C.4}
+\contentsline {section}{\numberline {C.4}Introduktion til feedback og forbedringer af systemet}{62}{section.C.4}
 \contentsline {section}{\numberline {C.5}Opgave til evaluering}{63}{section.C.5}
 \contentsline {appendix}{\chapternumberline {D}Resultat af evaluering}{67}{appendix.D}
 \contentsline {section}{\numberline {D.1}Medarbejdernes vurdering af l\IeC {\ae }gemiddelskift}{67}{section.D.1}
-\contentsline {section}{\numberline {D.2}Risikoscore}{70}{section.D.2}
-\contentsline {subsection}{\numberline {D.2.1}Sensitivitet og specificitet}{70}{subsection.D.2.1}
-\contentsline {section}{\numberline {D.3}Referat af feedback og forbedringer til systemet}{72}{section.D.3}
+\contentsline {section}{\numberline {D.2}Medarbejdernes kommentarer til l\IeC {\ae }gemiddelskift}{68}{section.D.2}
+\contentsline {section}{\numberline {D.3}Medarbejdernes vurdering af rangeringen af l\IeC {\ae }gemiddelskift}{70}{section.D.3}
+\contentsline {section}{\numberline {D.4}Sensitivitet og specificitet af risikovurdering}{71}{section.D.4}
+\contentsline {section}{\numberline {D.5}Referat af feedback og forbedringer til systemet}{72}{section.D.5}

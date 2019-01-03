@@ -29,20 +29,21 @@
 \BOOKMARK [0][-]{chapter.6}{Konklusion}{}% 29
 \BOOKMARK [0][-]{section*.19}{Litteratur}{}% 30
 \BOOKMARK [0][-]{appendix.A}{Materiale fra SRN}{}% 31
-\BOOKMARK [1][-]{section.A.1}{Skabelon til vurdering}{appendix.A}% 32
-\BOOKMARK [1][-]{section.A.2}{Skiftelister}{appendix.A}% 33
+\BOOKMARK [1][-]{section.A.1}{Skabelon til vurdering af l\346gemiddelskift}{appendix.A}% 32
+\BOOKMARK [1][-]{section.A.2}{Arbejdsgang for udarbejdelse af skifteliste}{appendix.A}% 33
 \BOOKMARK [1][-]{section.A.3}{L\346gemiddel Nyt}{appendix.A}% 34
 \BOOKMARK [0][-]{appendix.B}{Kode til risikovurdering}{}% 35
-\BOOKMARK [1][-]{section.B.1}{System til risikovurdering}{appendix.B}% 36
-\BOOKMARK [1][-]{section.B.2}{Levenshtein Distance}{appendix.B}% 37
+\BOOKMARK [1][-]{section.B.1}{Kode for system til risikovurdering}{appendix.B}% 36
+\BOOKMARK [1][-]{section.B.2}{Kode for Levenshtein Distance}{appendix.B}% 37
 \BOOKMARK [0][-]{appendix.C}{Evaluering af system}{}% 38
 \BOOKMARK [1][-]{section.C.1}{Introduktion til evaluering af algoritme}{appendix.C}% 39
 \BOOKMARK [1][-]{section.C.2}{Introduktion til test af systemet}{appendix.C}% 40
 \BOOKMARK [1][-]{section.C.3}{Introduktion til opgave og opgavebeskrivelse}{appendix.C}% 41
-\BOOKMARK [1][-]{section.C.4}{Feedback og forbedringer til systemet}{appendix.C}% 42
+\BOOKMARK [1][-]{section.C.4}{Introduktion til feedback og forbedringer af systemet}{appendix.C}% 42
 \BOOKMARK [1][-]{section.C.5}{Opgave til evaluering}{appendix.C}% 43
 \BOOKMARK [0][-]{appendix.D}{Resultat af evaluering}{}% 44
 \BOOKMARK [1][-]{section.D.1}{Medarbejdernes vurdering af l\346gemiddelskift}{appendix.D}% 45
-\BOOKMARK [1][-]{section.D.2}{Risikoscore}{appendix.D}% 46
-\BOOKMARK [2][-]{subsection.D.2.1}{Sensitivitet og specificitet}{section.D.2}% 47
-\BOOKMARK [1][-]{section.D.3}{Referat af feedback og forbedringer til systemet}{appendix.D}% 48
+\BOOKMARK [1][-]{section.D.2}{Medarbejdernes kommentarer til l\346gemiddelskift}{appendix.D}% 46
+\BOOKMARK [1][-]{section.D.3}{Medarbejdernes vurdering af rangeringen af l\346gemiddelskift}{appendix.D}% 47
+\BOOKMARK [1][-]{section.D.4}{Sensitivitet og specificitet af risikovurdering}{appendix.D}% 48
+\BOOKMARK [1][-]{section.D.5}{Referat af feedback og forbedringer til systemet}{appendix.D}% 49
